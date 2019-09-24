@@ -1,0 +1,7 @@
+.component {
+    position: relative;
+}
+.popup-button {
+    z-index: 99;
+    position: absolute;
+}
