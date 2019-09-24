@@ -1,0 +1,252 @@
+<div class="form-mobile" id="form1-popup" facebook="facebook1">
+	<div class="popup popup_register active">
+		<div class="popup_main">
+			<div class="register_ct">
+				<div class="register_slide">
+					<ul class="lst js_register_slide">
+						<li>
+							<div class="item">
+								<div class="item_overlay">
+									<img src="/form/img/form1/grid.svg" alt="">
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="register_choose">
+				<strong class="name" id="register_choose_name">Option</strong>
+				<ul class="lst">
+					<li><button class="btn btn_register_more js_info_open"><span class="sr_only">Looking for
+								more infomation</span></button></li>
+					<li><button class="btn btn_register_now js_info_open"><span class="sr_only">Register
+								now</span></button></li>
+				</ul>
+				<span style="display: none" id="choose_type"></span>
+				<div class="register_svg">
+					<svg width="100%" height="auto" viewBox="0 0 320 255" version="1.1" xmlns="http://www.w3.org/2000/svg"
+						xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="register.popup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="re_1-copy" transform="translate(0.000000, -312.000000)">
+								<g id="svgcode" transform="translate(0.000000, 312.000000)">
+									<rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" opacity="0.2" x="0" y="0"
+										width="320" height="255"></rect>
+									<text id="Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display"
+										font-size="24" font-weight="500" letter-spacing="-1.676471" fill="#343D51">
+										<tspan x="40" y="60">Đăng ký</tspan>
+									</text>
+									<text id="Cho-Chanchan-biết-lự"
+										font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5"
+										font-weight="normal" line-spacing="19" letter-spacing="-0.140000001" fill="#5D6A80">
+										<tspan x="40" y="91">Cho Chanchan biết lựa chọn nào dưới đây </tspan>
+										<tspan x="40" y="110">phù hợp với bạn</tspan>
+									</text>
+									<text id="Cần-tư-vấn-thêm-về-c"
+										font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="15"
+										font-weight="500" letter-spacing="-0.678" fill="#343D51">
+										<tspan x="63" y="154">Cần tư vấn thêm về chương trình</tspan>
+									</text>
+									<text id="Đăng-ký-ngay" font-family="SFCompactDisplay-Semibold, SF Compact Display"
+										font-size="15" font-weight="500" letter-spacing="-0.678" fill="#343D51">
+										<tspan x="63" y="220">Đăng ký ngay</tspan>
+									</text>
+								</g>
+							</g>
+						</g>
+					</svg>
+				</div>
+				<div class="register_bg">
+					<img src="/form/img/form1/overlay_register_popup.svg" alt="">
+				</div>
+			</div>
+		</div>
+		<a href="#none" class="btn link_close">
+			<span class="sr_only">Close popup</span>
+		</a>
+	</div>
+	<!-- //Register popup -->
+	
+	<!-- Info popup -->
+	<div class="popup popup_info">
+		<div class="popup_main">
+			<div class="info_ct">
+				<div class="info_ct01">
+					<form action="">
+						<label for="info_name"><span class="sr_only">Name</span></label>
+						<input type="text" id="info_name" placeholder="Họ tên">
+						<label for="info_phone"><span class="sr_only">Phone number</span></label>
+						<input type="text" id="info_phone" placeholder="Số điện thoại">
+						<label for="info_codegift"><span class="sr_only">Code of gift</span></label>
+						<input type="text" id="info_codegift" placeholder="Mã quà tặng nếu có">
+						<div class="btn_wrap">
+							<button class="btn btn_info js_btn_continue" type="submit"><span class="sr_only">Continue</span></button>
+							<button type="button" class="btn btn_back"><span class="sr_only">Trở lại</span></button>
+							<img src="/form/img/form1/bg_info_btn.svg" alt="">
+		
+							<!-- Notifi -->
+							<div class="popup_notifi register_error">
+								<p class="txt">Chưa đủ thông tin</p>
+							</div>
+							<!-- //Notifi -->
+						</div>
+					</form>
+				</div>
+				<div class="info_ct02 display_none">
+					<form action="">
+						<label for="info_province"><span class="sr_only">Province</span></label>
+						<input type="text" id="info_province" placeholder="Tỉnh / Thành phố">
+						<label for="info_district"><span class="sr_only">District</span></label>
+						<input type="text" id="info_district" placeholder="Quận huyện">
+						<label for="info_village"><span class="sr_only">Village</span></label>
+						<input type="text" id="info_village" placeholder="Phường xã">
+						<label for="info_numhouse"><span class="sr_only">Number house</span></label>
+						<textarea id="info_numhouse"
+							placeholder="Địa chỉ chi tiết. Ví dụ số nhà 12 ngõ 23 phố abc"></textarea>
+						<div class="btn_wrap">
+							<button class="btn btn_info js_btn_completed" type="submit"><span class="sr_only">Completed</span></button>
+							<button class="btn btn_info btn_back js_btn_back"><span class="sr_only">Back</span></button>
+							<img src="/form/img/form1/bg_info_btn02.svg" alt="">
+		
+							<!-- Notifi error -->
+							<div class="popup_notifi register_error">
+								<p class="txt">Chưa đủ thông tin</p>
+							</div>
+							<!-- //Notifi error-->
+						</div>
+					</form>
+				</div>
+				<div class="info_ct03 display_none">
+					<div class="btn_wrap">
+						<button class="btn btn_info btn_close js_close_popup"><span class="sr_only">Close</span></button>
+						<img src="/form/img/form1/bg_info_btn03.svg" alt="">
+					</div>
+				</div>
+			</div>
+			<div class="info_svg">
+				<div class="info_svg01">
+					<svg width="100%" height="auto" viewBox="0 0 320 452" version="1.1" xmlns="http://www.w3.org/2000/svg"
+						xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="mobi.236" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="Re.2">
+								<g id="Txt">
+									<text id="Họ-tên" font-family="SFCompactDisplay-Semibold, SF Compact Display"
+										font-size="16" font-weight="500" letter-spacing="-0.7232" fill="#8C96A8">
+										<tspan x="40" y="291">Họ tên</tspan>
+									</text>
+									<text id="Số-điện-thoại" font-family="SFCompactDisplay-Semibold, SF Compact Display"
+										font-size="16" font-weight="500" letter-spacing="-0.7232" fill="#8C96A8">
+										<tspan x="40" y="358">Số điện thoại</tspan>
+									</text>
+									<text id="Mã-quà-tặng-nếu-có"
+										font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16"
+										font-weight="500" letter-spacing="-0.7232" fill="#BDC4D0">
+										<tspan x="40" y="425">Mã quà tặng nếu có</tspan>
+									</text>
+									<text id="Vui-lòng-cung-cấp-ch"
+										font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5"
+										font-weight="normal" line-spacing="19" letter-spacing="-0.135" fill="#343D51">
+										<tspan x="40" y="227">Vui lòng cung cấp cho Chanchan những </tspan>
+										<tspan x="40" y="246">thông tin cơ bản</tspan>
+									</text>
+									<text id="Thông-tin" font-family="SFCompactDisplay-Semibold, SF Compact Display"
+										font-size="28" font-weight="500" letter-spacing="-1.955883" fill="#343D51">
+										<tspan x="40" y="195">Thông tin</tspan>
+									</text>
+									<rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="310" y="442" width="10"
+										height="10"></rect>
+									<rect id="Rectangle" fill-opacity="0.01" fill="#06B2C0" x="0" y="0" width="10"
+										height="10"></rect>
+								</g>
+							</g>
+						</g>
+					</svg>
+				</div>
+				<div class="info_svg02 display_none">
+					<svg width="100%" height="auto" viewBox="0 0 320 458" version="1.1" xmlns="http://www.w3.org/2000/svg"
+						xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="mobi.236" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="Re.3">
+								<g id="Txt">
+									<text id="Tỉnh-/-Thành-phố" font-family="SFCompactDisplay-Regular, SF Compact Display"
+										font-size="13.5" font-weight="normal" line-spacing="19"
+										letter-spacing="-0.140000001" fill="#5D6A80">
+										<tspan x="40" y="198">Tỉnh / Thành ph</tspan>
+										<tspan x="127.396826" y="198">ố</tspan>
+									</text>
+									<text id="Quận-huyện" font-family="SFCompactDisplay-Regular, SF Compact Display"
+										font-size="13.5" font-weight="normal" line-spacing="19"
+										letter-spacing="-0.140000001" fill="#5D6A80">
+										<tspan x="40" y="269">Quận huyệ</tspan>
+										<tspan x="101.012705" y="269">n</tspan>
+									</text>
+									<text id="Phường-xã" font-family="SFCompactDisplay-Regular, SF Compact Display"
+										font-size="13.5" font-weight="normal" line-spacing="19"
+										letter-spacing="-0.140000001" fill="#5D6A80">
+										<tspan x="40" y="340">Phường x</tspan>
+										<tspan x="94.468623" y="340">ã</tspan>
+									</text>
+									<text id="Địa-chỉ-chi-tiết.-Ví"
+										font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5"
+										font-weight="normal" line-spacing="19" letter-spacing="-0.140000001" fill="#5D6A80">
+										<tspan x="40" y="411">Địa chỉ chi tiết. Ví dụ số nhà 12 ngõ 23 phố
+										</tspan>
+										<tspan x="40" y="430">ab</tspan>
+										<tspan x="54.3801562" y="430">c</tspan>
+									</text>
+									<rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="310" y="448" width="10"
+										height="10"></rect>
+									<rect id="Rectangle" fill-opacity="0.01" fill="#06B2C0" x="0" y="0" width="10"
+										height="10"></rect>
+								</g>
+							</g>
+						</g>
+					</svg>
+				</div>
+				<div class="info_svg03 display_none">
+					<svg width="100%" height="auto" viewBox="0 0 320 400" version="1.1" xmlns="http://www.w3.org/2000/svg"
+						xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="Web.mobi.236" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="Re.4">
+								<g id="txt">
+									<text id="Cảm-ơn-bạn.-Chanchan"
+										font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5"
+										font-weight="normal" line-spacing="19" letter-spacing="-0.140000001" fill="#5D6A80">
+										<tspan x="40" y="320">Cảm ơn bạn. Chanchan sẽ thực hiện các </tspan>
+										<tspan x="40" y="339">bước tiếp theo dựa trên thông tin mà bạn </tspan>
+										<tspan x="40" y="358">đã đăng ký. Chúc bạn luôn thành công &amp;
+										</tspan>
+										<tspan x="40" y="377">gặp nhiều may mắn trong tình yêu cũng </tspan>
+										<tspan x="40" y="396">như trong cuộc sống.</tspan>
+									</text>
+									<text id="Hoàn-thành" font-family="SFCompactDisplay-Semibold, SF Compact Display"
+										font-size="28" font-weight="500" letter-spacing="-1.955883" fill="#343D51">
+										<tspan x="40" y="288">Hoàn thành</tspan>
+									</text>
+									<rect id="Rectangle" fill="#FFFFFF" x="310" y="0" width="10" height="10">
+									</rect>
+									<rect id="Rectangle" fill-opacity="0.01" fill="#06B2C0" x="0" y="0" width="10"
+										height="10"></rect>
+								</g>
+							</g>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="info_bg">
+				<div class="info_bike js_info_bike">
+					<img src="/form/img/form1/img_bike.png" alt="">
+				</div>
+				<img src="/form/img/form1/bg_info_popup.svg" alt="">
+				<div class="info_bg01">
+					<img src="/form/img/form1/bg_info_popup01.svg" alt="">
+				</div>
+				<div class="info_bg02 display_none">
+					<img src="/form/img/form1/bg_info_popup02.svg" alt="">
+				</div>
+			</div>
+		</div>
+		<button class="btn btn_close js_close_popup"><span class="sr_only">Close popup</span></button>
+	</div>	
+</div>
+
+<script src="/form/js/form1/apps/form1.js"></script>

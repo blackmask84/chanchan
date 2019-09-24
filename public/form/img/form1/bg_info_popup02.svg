@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="457px" viewBox="0 0 320 457" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Re3.vec</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="4.79999971" height="4.79999971" x="35.2000003" y="358.2" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.149999991,0.149999991)"></use>
+        </pattern>
+        <image id="image-2" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+        <pattern id="pattern-3" width="4.79999971" height="4.79999971" x="35.2000003" y="287.2" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4" transform="scale(0.149999991,0.149999991)"></use>
+        </pattern>
+        <image id="image-4" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+        <pattern id="pattern-5" width="4.79999971" height="4.79999971" x="35.2000003" y="211.2" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-6" transform="scale(0.149999991,0.149999991)"></use>
+        </pattern>
+        <image id="image-6" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+        <pattern id="pattern-7" width="4.79999971" height="4.79999971" x="35.2000003" y="447.2" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-8" transform="scale(0.149999991,0.149999991)"></use>
+        </pattern>
+        <image id="image-8" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+    </defs>
+    <g id="Mobi.236" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Re.3">
+            <g id="Re3.vec">
+                <rect id="Rectangle" fill="url(#pattern-1)" opacity="0.4" x="40" y="363" width="240" height="5"></rect>
+                <rect id="Rectangle" fill="url(#pattern-3)" opacity="0.4" x="40" y="292" width="240" height="5"></rect>
+                <rect id="Rectangle" fill="url(#pattern-5)" opacity="0.4" x="40" y="216" width="240" height="5"></rect>
+                <rect id="Rectangle" fill="url(#pattern-7)" opacity="0.4" x="40" y="452" width="240" height="5"></rect>
+                <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="310" y="0" width="10" height="10"></rect>
+                <rect id="Rectangle" fill-opacity="0.01" fill="#06B2C0" x="0" y="0" width="10" height="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

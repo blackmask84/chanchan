@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="305px" viewBox="0 0 320 305" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>bg_register_popup</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="13.729807%" y1="100%" x2="116.141476%" y2="-195.319758%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="44.5" cy="195.5" r="4.5"></circle>
+        <filter x="-16.7%" y="-16.7%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <pattern id="pattern-4" width="4.79999971" height="4.79999971" x="58.2000003" y="221.2" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-5" transform="scale(0.149999991,0.149999991)"></use>
+        </pattern>
+        <image id="image-5" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+        <circle id="path-6" cx="44.5" cy="261.5" r="4.5"></circle>
+        <filter x="-16.7%" y="-16.7%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="99.2896262%" x2="50%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#000000" stop-opacity="0.19760708" offset="0.0791807432%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="41.0794745%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="bg_register_popup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="47" width="320" height="258"></rect>
+        <g id="Oval">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+        <rect id="Rectangle" fill="url(#pattern-4)" opacity="0.4" x="63" y="226" width="220" height="5"></rect>
+        <g id="Oval">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-6"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+        </g>
+        <rect id="Rectangle" fill="url(#linearGradient-8)" x="0" y="0" width="320" height="47"></rect>
+    </g>
+</svg>
