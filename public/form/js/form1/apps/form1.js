@@ -37,7 +37,6 @@ $(document).ready(function() {
                 $(formId + '#choose_type').text('Đăng kí ngay');
             }
             $(formId).find('.active').removeClass('active');
-            $('body').addClass('overflow_hidden');
             $(formId + '.popup.popup_info').addClass('active');
         });
 
