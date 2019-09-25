@@ -95,6 +95,7 @@ if (referalLink && referalLink.indexOf('/?') > -1) {
 } else {
     setCookie('referalLink', url, 7);
 }
+
   // $('.animation').each(function() {
   //   const currentEl = $(this);
   //   if (currentEl.isInViewport()) {
@@ -109,3 +110,8 @@ if (referalLink && referalLink.indexOf('/?') > -1) {
 
 })(window, window.jQuery);
 
+$(document).ready(function(){
+  if($(window).width() <= 768) {
+    window.location = "http://localhost:8888/urlname";
+  }
+});
