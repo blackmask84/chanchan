@@ -24,39 +24,7 @@
 				</ul>
 				<span style="display: none" id="choose_type"></span>
 				<div class="register_svg">
-					<svg width="100%" height="auto" viewBox="0 0 320 255" version="1.1" xmlns="http://www.w3.org/2000/svg"
-						xmlns:xlink="http://www.w3.org/1999/xlink">
-						<g id="register.popup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-							<g id="re_1-copy" transform="translate(0.000000, -312.000000)">
-								<g id="svgcode" transform="translate(0.000000, 312.000000)">
-									<rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" opacity="0.2" x="0" y="0"
-										width="320" height="255"></rect>
-									<text id="Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display"
-										font-size="24" font-weight="500" letter-spacing="-1.676471" fill="#343D51">
-										<tspan x="40" y="60">Đăng ký</tspan>
-									</text>
-									<text id="Cho-Chanchan-biết-lự"
-										font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5"
-										font-weight="normal" line-spacing="19" letter-spacing="-0.140000001" fill="#5D6A80">
-										<tspan x="40" y="91">Cho Chanchan biết lựa chọn nào dưới đây </tspan>
-										<tspan x="40" y="110">phù hợp với bạn</tspan>
-									</text>
-									<text id="Cần-tư-vấn-thêm-về-c"
-										font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="15"
-										font-weight="500" letter-spacing="-0.678" fill="#343D51">
-										<tspan x="63" y="154">Cần tư vấn thêm về chương trình</tspan>
-									</text>
-									<text id="Đăng-ký-ngay" font-family="SFCompactDisplay-Semibold, SF Compact Display"
-										font-size="15" font-weight="500" letter-spacing="-0.678" fill="#343D51">
-										<tspan x="63" y="220">Đăng ký ngay</tspan>
-									</text>
-								</g>
-							</g>
-						</g>
-					</svg>
-				</div>
-				<div class="register_bg">
-					<img src="/form/img/form1/overlay_register_popup.svg" alt="">
+					<img src="/form/img/form1/overlay_register_popup.svg" onload="SVGInject(this)" class="fullWidth fullHeight" />
 				</div>
 			</div>
 		</div>
@@ -250,3 +218,4 @@
 </div>
 
 <script src="/form/js/form1/apps/form1.js"></script>
+<script src="/js/pagetemp/svgInject.js"></script>

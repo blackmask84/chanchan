@@ -16,7 +16,7 @@
 @font-face{font-family:'Georgia';src:url(webfont/Georgia.woff2) format("woff2"),url(webfont/Georgia.woff) format("woff");font-weight:400;font-style:normal}
 @font-face{font-family:'Georgia';src:url(webfont/Georgia-Bold.woff2) format("woff2"),url(webfont/Georgia-Bold.woff) format("woff");font-weight:700;font-style:normal}
 
-body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:0;padding:0}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:0;padding:0;font-size:0;}
 article,aside,dialog,footer,header,section,footer,nav,figure,main{display:block}
 html,body{height:100%}
 body,input,select,textarea,button{font-family:'SF Compact Display', serif}
