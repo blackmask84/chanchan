@@ -17,6 +17,9 @@ app.use(express.static(__dirname + '/public')); //Serves resources from public f
 app.get('/', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
+app.get('/urlname', function (req, res) {
+    res.sendFile(__dirname + '/public/index2.html');
+});
 
 // Tra ve form 1
 app.get('/form1-popup', function (req, res) {
