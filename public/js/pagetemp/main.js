@@ -109,9 +109,3 @@ if (referalLink && referalLink.indexOf('/?') > -1) {
   // });
 
 })(window, window.jQuery);
-
-$(document).ready(function(){
-  if($(window).width() <= 768) {
-    window.location = "http://localhost:8888/urlname";
-  }
-});
