@@ -64,7 +64,7 @@ table{border-collapse:collapse;border-spacing:0}
 }
 .video-sound {
     position: absolute;
-    top: 0;
+    bottom: 0;
     right: 0;
 }
 .video-wrap #on {
@@ -90,7 +90,7 @@ table{border-collapse:collapse;border-spacing:0}
 .box_video {
     height: 100%;
     overflow: hidden;
-    border-radius: 3.9vw;
+    /*border-radius: 3.9vw;*/
 }
 .box_video #preview {
     z-index: 0;
@@ -100,8 +100,8 @@ table{border-collapse:collapse;border-spacing:0}
     z-index: -1;
 }
 .box_video #video-injector {
-    height: 100%;
-    border-radius: 3.9vw;
+    width: 100%;
+    /*border-radius: 3.9vw;*/
     position: absolute;
     top: 0;
     left: 0;
@@ -117,10 +117,11 @@ table{border-collapse:collapse;border-spacing:0}
     width: 100%;
 }
 .single-img-with-cover .single-image {
-    z-index: -1;
     position: absolute;
     top: 0;
     left: 0;
+    z-index: -1;
+    width: 100%;
 }
 .single-img-with-cover .bg {
     position: absolute;
@@ -136,6 +137,7 @@ table{border-collapse:collapse;border-spacing:0}
 }
 .single-video-with-cover {
     position: relative;
+    font-size: 0;
 }
 .single-video-with-cover .bg {
     position: absolute;
