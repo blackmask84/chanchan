@@ -9,7 +9,7 @@
     <title>pagetemp</title>
     <link rel="shortcut icon" type="image/x-icon" href="media/other/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/pagetemp.css">
-    <link rel="stylesheet" type="text/css" href="css/menu.css">
+    <link rel="stylesheet" type="text/css" href="css/menu2.css">
     <link rel="stylesheet" type="text/css" href="css/libs/slideswiper.min.css">
     <link rel="stylesheet" type="text/css" href="css/slide.css">
     <link rel="stylesheet" href="/form/css/form.css">
@@ -380,31 +380,72 @@
         </main>
         <!-- //Container -->
         <!-- Menu -->
-        <header id="header" role="banner">
-            <button class="btn btn_menu js_btn_menu"><span class="sr_only">Menu</span></button>
-            <img src="media/menu/menu_bg.svg" alt="">
-        </header>
-
-        <nav id="nav" role="navigation">
-            <div class="nav_ct">
+        <div class="menu">
+            <div class="ct">
+                <h1 class="logo"><a href="#none"><span class="sr_only">Chanchan</span></a></h1>
                 <ul class="lst">
-                    <li><a href="#none" class="btn link_home js_link_home"><span class="sr_only">Go to
-                                Homepage</span></a></li>
-                    <li><a href="#none" class="btn link_action js_link_action"><span class="sr_only">Go to
-                                Action</span></a></li>
-                    <li><a href="#none" class="btn link_aboutus js_link_aboutus"><span class="sr_only">Go to
-                                Aboutus</span></a></li>
-                    <li><a href="#none" class="btn link_faq js_link_faq"><span class="sr_only">Go to FAQ</span></a></li>
-                    <li><a href="#none" class="btn link_account"><span class="sr_only">Go to Account</span></a></li>
-                    <li><a href="#none" class="btn link_register"><span class="sr_only">Open Register popup</span></a>
+                    <li>
+                        <a class="item item_overview" href="#none">
+                            <span class="sr_only">Tổng quan</span>
+                            <div class="filter">
+                                <img src="media/menu2/filter.svg" alt="">
+                            </div>
+                        </a>
                     </li>
-                    <li><a href="#none" class="btn link_blog"><span class="sr_only">Go to Blog</span></a></li>
+                    <li>
+                        <a class="item item_action" href="#none">
+                            <span class="sr_only">Hoạt động</span>
+                            <div class="filter">
+                                <img src="media/menu2/filter.svg" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="item item_faq" href="#none">
+                            <span class="sr_only">Faq</span>
+                            <div class="filter">
+                                <img src="media/menu2/filter.svg" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="item item_about" href="#none">
+                            <span class="sr_only">Chúng tôi</span>
+                            <div class="filter">
+                                <img src="media/menu2/filter.svg" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="item item_blog" href="#none">
+                            <span class="sr_only">Blog</span>
+                            <div class="filter">
+                                <img src="media/menu2/filter.svg" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="item item_event" href="#none">
+                            <span class="sr_only">Chương trình</span>
+                            <div class="filter">
+                                <img src="media/menu2/filter.svg" alt="">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="item item_register" href="#none">
+                            <span class="sr_only">Đăng kí</span>
+                            <div class="filter">
+                                <img src="media/menu2/filter.svg" alt="">
+                            </div>
+                        </a>
+                    </li>
                 </ul>
             </div>
-            <div class="nav_bg">
-                <img src="media/menu/menu_nav.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+            <div class="svg">
+                <img src="/media/menu2/menu_des.svg" onload="SVGInject(this)" class="fullWidth fullHeight" />
             </div>
-        </nav>
+        </div>
         <!-- //Menu -->
     </div>
 
@@ -413,7 +454,6 @@
     <script src="js/libs/slideswiper.min.js"></script>
     <script src="/form/js/form1/libs/slick.min.js"></script>
     <script src="/form/js/main.js"></script>
-    <script src="js/apps/menu.nav.js"></script>
     <script src="js/pagetemp/main.js"></script>
     <script src="js/pagetemp/slideVideo.js"></script>
     <script src="js/pagetemp/slideImage.js"></script>
