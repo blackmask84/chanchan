@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 /* Slick lib */
 .slick-slider{position:relative;display:block;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}
 .slick-list{position:relative;display:block;overflow:hidden;margin:0;padding:0}
@@ -18,15 +20,7 @@
 .slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}
 .slick-arrow.slick-hidden{display:none}
 
-/* SF Webfont */
-@font-face{font-family:'SF Compact Display';src:url(webfont/SFCompactDisplay-Semibold.woff2) format("woff2"),url(webfont/SFCompactDisplay-Semibold.woff) format("woff");font-weight:600;font-style:normal}
-@font-face{font-family:'SF Compact Display';src:url(webfont/SFCompactDisplay-Medium.woff2) format("woff2"),url(webfont/SFCompactDisplay-Medium.woff) format("woff");font-weight:500;font-style:normal}
-@font-face{font-family:'SF Compact Display';src:url(webfont/SFCompactDisplay-Regular.woff2) format("woff2"),url(webfont/SFCompactDisplay-Regular.woff) format("woff");font-weight:400;font-style:normal}
-/* Georgia Webfont */
-@font-face{font-family:'Georgia';src:url(webfont/Georgia-Italic.woff2) format("woff2"),url(webfont/Georgia-Italic.woff) format("woff");font-weight:400;font-style:italic}
-
 /* Reset common */
-@charset "utf-8";
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:0;padding:0}
 article,aside,dialog,footer,header,section,footer,nav,figure,main{display:block}
 html,body{height:100%}
@@ -123,7 +117,7 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup_register .register_choose .name {
     display: block;
     position: absolute;
-    top: -22.2%;
+    top: -3.2%;
     left: 12.5%;
     z-index: 1;
     text-shadow: 0 0 8vw rgba(0, 0, 0, 0.5);
@@ -141,10 +135,10 @@ table{border-collapse:collapse;border-spacing:0}
     height: 15%;
   }
   .form-mobile .popup_register .register_choose .btn_register_more {
-    bottom: 35.5%;
+    bottom: 28.5%;
   }
   .form-mobile .popup_register .register_choose .btn_register_now {
-    bottom: 10.5%;
+    bottom: 6.5%;
   }
   .form-mobile .popup_info .btn_back {
     right: auto;

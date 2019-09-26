@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="860px" viewBox="0 0 1400 860" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>bg_info_popup01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bg_info_popup01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Thông-tin" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="68" font-weight="500" letter-spacing="-3.45000005" fill="#343D51">
+            <tspan x="680" y="183">Thông tin</tspan>
+        </text>
+        <text id="Vui-lòng-cung-cấp-ch" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="29" font-weight="normal" line-spacing="37" letter-spacing="-0.29" fill="#5D6A80">
+            <tspan x="680" y="260">Vui lòng cung cấp cho Chanchan những thông tin </tspan>
+            <tspan x="680" y="297">cơ bản</tspan>
+        </text>
+        <text id="Tiếp-tục" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="32" font-weight="500" letter-spacing="-1.4464" fill="#FFFFFF">
+            <tspan x="1157" y="746">Tiếp tục</tspan>
+        </text>
+        <rect id="line" fill="#DADFE7" opacity="0.624302455" x="680" y="466" width="640" height="2"></rect>
+        <rect id="line" fill="#DADFE7" opacity="0.624302455" x="680" y="628" width="640" height="2"></rect>
+    </g>
+</svg>

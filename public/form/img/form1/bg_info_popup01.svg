@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="320px" height="452px" viewBox="0 0 320 452" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
-    <title>Re.2.vec</title>
+    <title>bg_info_popup01</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <pattern id="pattern-1" width="4.79999971" height="4.79999971" x="35.2000003" y="442.2" patternUnits="userSpaceOnUse">
@@ -17,15 +17,16 @@
         </pattern>
         <image id="image-6" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
     </defs>
-    <g id="Mobi.236" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Re.2">
-            <g id="Re.2.vec">
-                <rect id="Rectangle" fill="url(#pattern-1)" opacity="0.4" x="40" y="447" width="240" height="5"></rect>
-                <rect id="Rectangle" fill="url(#pattern-3)" opacity="0.4" x="40" y="380" width="240" height="5"></rect>
-                <rect id="Rectangle" fill="url(#pattern-5)" opacity="0.4" x="40" y="313" width="240" height="5"></rect>
-                <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="310" y="0" width="10" height="10"></rect>
-                <rect id="Rectangle" fill-opacity="0.01" fill="#06B2C0" x="0" y="0" width="10" height="10"></rect>
-            </g>
-        </g>
+    <g id="bg_info_popup01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#pattern-1)" opacity="0.4" x="40" y="447" width="240" height="5"></rect>
+        <rect id="Rectangle" fill="url(#pattern-3)" opacity="0.4" x="40" y="380" width="240" height="5"></rect>
+        <rect id="Rectangle" fill="url(#pattern-5)" opacity="0.4" x="40" y="313" width="240" height="5"></rect>
+        <text id="Vui-lòng-cung-cấp-ch" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5" font-weight="normal" line-spacing="19" letter-spacing="-0.135" fill="#556279">
+            <tspan x="40" y="227">Vui lòng cung cấp cho Chanchan những </tspan>
+            <tspan x="40" y="246">thông tin cơ bản</tspan>
+        </text>
+        <text id="Thông-tin" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="28" font-weight="500" letter-spacing="-1.955883" fill="#343D51">
+            <tspan x="40" y="195">Thông tin</tspan>
+        </text>
     </g>
 </svg>

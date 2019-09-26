@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="860px" viewBox="0 0 1400 860" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>re1_des</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="31.0071339%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#201E1E" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="560" height="860"></rect>
+        <pattern id="pattern-3" width="6.25784276" height="6.25784276" x="-6.25784276" y="-6.25784276" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4" transform="scale(0.195557586,0.195557586)"></use>
+        </pattern>
+        <image id="image-4" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+        <linearGradient x1="13.729807%" y1="100%" x2="116.141476%" y2="-195.319758%" id="linearGradient-5">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="691" cy="624" r="11"></circle>
+        <filter x="-13.6%" y="-13.6%" width="127.3%" height="127.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-2" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-8" cx="691" cy="490" r="11"></circle>
+        <filter x="-13.6%" y="-13.6%" width="127.3%" height="127.3%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-2" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="14.8273789%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="84.89403%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-11" x="740" y="556" width="540" height="10"></rect>
+        <pattern id="pattern-12" width="10.24" height="10.24" x="729.76" y="545.76" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-13" transform="scale(0.32,0.32)"></use>
+        </pattern>
+        <image id="image-13" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+        <text id="text-14" font-family="Georgia-Italic, Georgia" font-size="24" font-style="italic" font-weight="normal" letter-spacing="-0.24" fill="#FFFFFF">
+            <tspan x="46" y="779">“ Tôi chọn chương trình này</tspan>
+        </text>
+        <filter x="-3.0%" y="-33.3%" width="106.0%" height="170.4%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="re1_des" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="overlay">
+            <rect id="bg" fill="#FFFFFF" x="560" y="0" width="840" height="860"></rect>
+            <g id="grid">
+                <use fill-opacity="0.4" fill="url(#pattern-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+            <g id="Oval">
+                <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+            </g>
+            <g id="Oval">
+                <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+            </g>
+            <path d="M1343,57 L1357.81338,71.8133838 L1343,57 L1357.81338,42.1866162 L1343,57 Z M1343,57 L1328.18662,42.1866162 L1343,57 L1328.18662,71.8133838 L1343,57 Z" id="Line-6" stroke="#343D51" stroke-linecap="square"></path>
+            <g id="line" opacity="0.624302455" fill-opacity="0.8">
+                <use fill="url(#pattern-12)" xlink:href="#path-11"></use>
+                <use fill="url(#linearGradient-10)" xlink:href="#path-11"></use>
+            </g>
+        </g>
+        <g id="“-Tôi-chọn-chương-tr" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-15)" xlink:href="#text-14"></use>
+            <use xlink:href="#text-14"></use>
+        </g>
+        <text id="Cho-Chanchan-biết-lự" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="29" font-weight="normal" line-spacing="37" letter-spacing="-0.29" fill="#5D6A80">
+            <tspan x="680" y="341">Cho Chanchan biết lựa chọn nào dưới đây phù hợp </tspan>
+            <tspan x="680" y="378">với bạn</tspan>
+        </text>
+        <text id="Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="68" font-weight="500" letter-spacing="-3.45000005" fill="#343D51">
+            <tspan x="680" y="265">Đăng ký</tspan>
+        </text>
+        <text id="Cần-tư-vấn-thêm-về-c" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="32" font-weight="500" letter-spacing="-1.4464" fill="#343D51">
+            <tspan x="740" y="500">Cần tư vấn thêm  về chương trình</tspan>
+        </text>
+        <text id="Đăng-ký-ngay" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="32" font-weight="500" letter-spacing="-1.4464" fill="#343D51">
+            <tspan x="740" y="634">Đăng ký ngay</tspan>
+        </text>
+    </g>
+</svg>

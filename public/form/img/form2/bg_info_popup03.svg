@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="860px" viewBox="0 0 1400 860" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>bg_info_popup03</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bg_info_popup03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Hoàn-thành" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="68" font-weight="500" letter-spacing="-3.45000005" fill="#343D51">
+            <tspan x="680" y="319">Hoàn thành</tspan>
+        </text>
+        <text id="Cảm-ơn-bạn.-Chanchan" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="29" font-weight="normal" line-spacing="39" letter-spacing="-0.29" fill="#5D6A80">
+            <tspan x="680" y="387">Cảm ơn bạn. Chanchan sẽ thực hiện các bước tiếp </tspan>
+            <tspan x="680" y="426">theo dựa trên lựa chọn mà bạn đã đăng ký. Chúc bạn </tspan>
+            <tspan x="680" y="465">luôn thành công &amp; gặp nhiều may mắn trong tình </tspan>
+            <tspan x="680" y="504">yêu cũng như trong cuộc sống.</tspan>
+        </text>
+        <text id="Đóng-lại" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="32" font-weight="500" letter-spacing="-1.4464" fill="#FFFFFF">
+            <tspan x="1155" y="746">Đóng lại</tspan>
+        </text>
+    </g>
+</svg>
