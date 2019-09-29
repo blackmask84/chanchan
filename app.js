@@ -20,6 +20,9 @@ app.get('/', function (req, res) {
 app.get('/desk', function (req, res) {
     res.sendFile(__dirname + '/public/index2.html');
 });
+app.get('/mobitemp', function (req, res) {
+    res.sendFile(__dirname + '/public/mobitemp.html');
+});
 
 // Tra ve form 1
 app.get('/form1-popup', function (req, res) {
