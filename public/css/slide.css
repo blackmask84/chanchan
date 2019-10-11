@@ -141,15 +141,18 @@ table{border-collapse:collapse;border-spacing:0}
 }
 .slideImage_bg .bg_avatar {
     position: relative;
-    top: 32.258vh;
-    left: 0vw;
+    top: 58.258vh;
+    left: 6.12vw;
     z-index: -1;
-    width: 93.75vw;
-    -webkit-filter: blur(5.68vw);
-    -moz-filter: blur(2.68vw);
-    -o-filter: blur(5.68vw);
-    -ms-filter: blur(5.68vw);
-    filter: blur(5.68vw);
+    width: 81.75vw;
+    -webkit-filter: blur(12.68vw);
+    -moz-filter: blur(12.68vw);
+    -o-filter: blur(12.68vw);
+    -ms-filter: blur(12.68vw);
+    filter: blur(12.68vw);
+}
+.slideImage_bg .bg_avatar:last-child {
+    left: 12.24vw;
 }
 .slideImage_bg .bg_avatar img,
 .slideImage_overlaybg .bg_overlay img {
