@@ -18,10 +18,9 @@ table{border-collapse:collapse;border-spacing:0}
 .box {
     overflow: hidden;
     position: relative;
-    margin: 2.15vh 0 3.336vh;
-    border-radius: 0.86vw;
-    /*(box-shadow: -1.05vw 1vw 3.16vw rgba(52, 61, 81, 0.2);*/
-    font-size: 0;
+    margin: 3.52vh 0 16vh;
+    border-radius: 1.64vw;
+    box-shadow: -1.05vw 1vw 3.16vw rgba(52, 61, 81, 0.2);
 }
 .box_overlay,
 .box_avatar {
@@ -97,9 +96,6 @@ table{border-collapse:collapse;border-spacing:0}
     -o-filter: blur(5.68vw);
     -ms-filter: blur(5.68vw);
     filter: blur(5.68vw);
-    /*-webkit-transform: scale(1.10526);
-    -ms-transform: scale(1.10526);
-    transform: scale(1.10526);*/
 }
 .slidertemp_bg .bg_avatar img,
 .slidertemp_overlaybg .bg_overlay img {
@@ -109,8 +105,6 @@ table{border-collapse:collapse;border-spacing:0}
     z-index: -1;
 }
 
-
-
 .slideImage_wrap {
     position: absolute;
     top: 0;
@@ -118,14 +112,18 @@ table{border-collapse:collapse;border-spacing:0}
     left: 0;
 }
 .slideImage .lst {
-    padding-left: 13.541667vw;
+    padding-left: 6.25vw;
 }
 .slideImage .item {
-    width: 72.916667vw;
-    margin-right: 5.208333vw;
+    width: 81.25vw;
+    margin-right: 6.25vw;
 }
 .slideImage .item:last-child {
-    margin-right: 27.083334vw;
+    margin-right: 12.5vw;
+}
+.slideImage_bgfix {
+    position: absolute;
+    z-index: -1;
 }
 .slideImage_bg_wrap {
     position: absolute;
@@ -143,18 +141,15 @@ table{border-collapse:collapse;border-spacing:0}
 }
 .slideImage_bg .bg_avatar {
     position: relative;
-    top: 3.94vh;
-    left: 13.541667vw;
+    top: 32.258vh;
+    left: 0vw;
     z-index: -1;
-    width: 72.916vw;
+    width: 93.75vw;
     -webkit-filter: blur(5.68vw);
-    -moz-filter: blur(5.68vw);
+    -moz-filter: blur(2.68vw);
     -o-filter: blur(5.68vw);
     -ms-filter: blur(5.68vw);
     filter: blur(5.68vw);
-    /*-webkit-transform: scale(1.10526);
-    -ms-transform: scale(1.10526);
-    transform: scale(1.10526);*/
 }
 .slideImage_bg .bg_avatar img,
 .slideImage_overlaybg .bg_overlay img {

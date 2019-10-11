@@ -73,6 +73,7 @@ table{border-collapse:collapse;border-spacing:0}
   .form-desktop .popup .bg img {
     width: 100%;
   }
+  .form-desktop .bg_img,
   .form-desktop .popup .bg_video {
     overflow: hidden;
     position: absolute;
@@ -89,7 +90,10 @@ table{border-collapse:collapse;border-spacing:0}
      -ms-transform: scale(1.1);
      transform: scale(1.1); */
   }
-  .form-desktop .popup .bg_video .video {
+  .form-desktop .popup .bg_img img {
+    height: 100%;
+  }
+  .form-desktop .popup .bg_video video {
     position: absolute;
     top: 0;
     left: 50%;

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="568px" viewBox="0 0 320 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>slide_finish9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="58.6284786%" x2="139.523584%" y2="35.8305829%" id="linearGradient-1">
+            <stop stop-color="#D500F9" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.6%" y="-24.0%" width="109.2%" height="148.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="slide_finish9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Lời-tạm-biệt" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-1.20000005" fill="#343D51">
+            <tspan x="30" y="269">Lời tạm biệt</tspan>
+        </text>
+        <text id="Chanchan-chúc-hai-bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="301">Chanchan chúc hai bạn luôn bên nhau. </tspan>
+            <tspan x="30" y="323">Chúc cho tình cảm này còn mãi bên bạn </tspan>
+            <tspan x="30" y="345">theo năm tháng. Chanchan sẽ nhớ đến </tspan>
+            <tspan x="30" y="367">hai bạn.</tspan>
+        </text>
+        <text id="Nói-lời-tạm-biệt-chư" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="30" y="398">Nói lời tạm biệt chương trình</tspan>
+            <tspan x="30" y="420">……………………………………………………………</tspan>
+            <tspan x="30" y="442">……………………………………………………………</tspan>
+        </text>
+        <rect id="Rectangle" fill-opacity="0.3" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="26" y="488" width="260" height="50" rx="5"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="30" y="484" width="260" height="50" rx="5"></rect>
+        <text id="Cảm-ơn-Chanchan" opacity="0.92" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#FFFFFF">
+            <tspan x="98" y="513">Cảm ơn Chanchan</tspan>
+        </text>
+    </g>
+</svg>

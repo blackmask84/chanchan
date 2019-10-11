@@ -21,7 +21,7 @@ app.get('/desk', function (req, res) {
     res.sendFile(__dirname + '/public/index2.html');
 });
 
-// Tra ve form 1
+// get form 1
 app.get('/form1-popup', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
@@ -38,6 +38,13 @@ app.get('/form4-popup', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
 
+app.get('/03month-popup', function (req, res) {
+    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
+});
+
+app.get('/06month-popup', function (req, res) {
+    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
+});
 
 // load facebook
 app.get('/facebook1', function (req, res) {

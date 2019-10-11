@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="500px" viewBox="0 0 320 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="260px" height="460px" viewBox="0 0 260 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
-    <title>1.vec</title>
+    <title>grid</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <pattern id="pattern-1" width="4.8" height="4.8" x="-4.8" y="-4.8" patternUnits="userSpaceOnUse">
             <use xlink:href="#image-2" transform="scale(0.15,0.15)"></use>
         </pattern>
         <image id="image-2" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+        <path d="M245,15 L249.937795,10.0622054 L245,15 L249.937795,19.9377946 L245,15 Z M245,15 L240.062205,19.9377946 L245,15 L240.062205,10.0622054 L245,15 Z" id="path-3"></path>
+        <filter x="-62.9%" y="-42.9%" width="205.8%" height="205.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-1" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="-1" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
-    <g id="Mobi.236" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.4">
-        <g id="Re.1" fill="url(#pattern-1)">
-            <rect id="1.vec" x="0" y="0" width="320" height="500"></rect>
+    <g id="grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="1.vec" fill-opacity="0.4" fill="url(#pattern-1)" x="0" y="0" width="260" height="460"></rect>
+        <g id="Line-6" stroke-linecap="square">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use stroke="#FFFFFF" stroke-width="1" xlink:href="#path-3"></use>
         </g>
     </g>
 </svg>

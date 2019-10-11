@@ -105,7 +105,17 @@ table{border-collapse:collapse;border-spacing:0}
     overflow: hidden;
     position: relative;
   }
-  .form-mobile .popup_register .register_slide .item_overlay img {
+  .popup_register .register_slide .item_img,
+  .popup_register .register_slide .item_video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+  }
+  .popup_register .register_slide .item_overlay img,
+  .popup_register .register_slide .item_img img,
+  .popup_register .register_slide .item_video video {
     width: 100%;
   }
   .form-mobile .popup_register .register_choose {

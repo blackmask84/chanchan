@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="334px" viewBox="0 0 320 334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>dubancolaai</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-39.8704324%" y1="60.2362451%" x2="268.816186%" y2="27.8440145%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-6.9%" y="-34.6%" width="113.8%" height="169.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="dubancolaai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Dù-bạn-có-là-ai.-Dù" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="22" letter-spacing="-0.9999999" fill="#8C96A8">
+            <tspan x="30" y="51">Dù bạn có là ai. Dù bạn có thế </tspan>
+            <tspan x="30" y="73">nào… Sẽ luôn có ai đó yêu bạn </tspan>
+            <tspan x="30" y="95">thật lòng. Sẽ luôn có ai đó muốn </tspan>
+            <tspan x="30" y="117">bên bạn đi cùng năm tháng.</tspan>
+        </text>
+        <text id="&lt;-Chanchan-giúp-bạn" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="30" y="149">&lt; Chanchan giúp bạn gặp được người </tspan>
+            <tspan x="30" y="171">ấy trong thời gian ngắn nhất. /&gt;</tspan>
+        </text>
+        <path d="M288,209 L288,251 C288,253.761424 285.761424,256 283,256 L33,256 C30.2385763,256 28,253.761424 28,251 L28,209 C28,206.238576 30.2385763,204 33,204 L283,204 C285.761424,204 288,206.238576 288,209 Z" id="Triangle" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)"></path>
+        <path d="M290,207 L290,249 C290,251.761424 287.761424,254 285,254 L35,254 C32.2385763,254 30,251.761424 30,249 L30,207 C30,204.238576 32.2385763,202 35,202 L285,202 C287.761424,202 290,204.238576 290,207 Z" id="Triangle" fill="url(#linearGradient-1)"></path>
+        <text id="Tìm-người-ấy" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="113" y="233">Tìm người ấy</tspan>
+        </text>
+        <text id="Tìm-hiểu-thêm" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.54" fill="#556279">
+            <tspan x="106" y="289">Tìm hiểu thêm</tspan>
+        </text>
+        <polygon id="Triangle" fill="#8C96A8" points="215 294 215 295 107 295 107 294"></polygon>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
+            <tspan x="0" y="325">…………………………………………………………………………</tspan>
+        </text>
+    </g>
+</svg>
