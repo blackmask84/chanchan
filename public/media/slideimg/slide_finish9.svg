@@ -29,6 +29,7 @@
         </text>
         <rect id="Rectangle" fill-opacity="0.3" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="26" y="488" width="260" height="50" rx="5"></rect>
         <rect id="Rectangle" fill="url(#linearGradient-1)" x="30" y="484" width="260" height="50" rx="5"></rect>
+        <path d="M260.15,508.5 L260.25,508.65 L264.15,512.85 C264.25,512.95 264.35,513 264.5,513 C264.65,513 264.75,512.95 264.85,512.85 L272.85,504.55 C273.05,504.35 273.05,504.05 272.85,503.85 L272.15,503.15 C271.95,502.95 271.65,502.95 271.45,503.15 L271.4,503.15 L264.7,510.1 C264.6,510.2 264.45,510.2 264.35,510.1 L261.6,507.15 L261.55,507.1 C261.35,506.9 261.05,506.9 260.85,507.1 L260.15,507.8 C260.05,507.9 260,508.05 260,508.15 C260,508.25 260.05,508.4 260.15,508.5 Z" id="check" fill="#FFFFFF" opacity="0.6"></path>
         <text id="Cảm-ơn-Chanchan" opacity="0.92" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#FFFFFF">
             <tspan x="98" y="513">Cảm ơn Chanchan</tspan>
         </text>

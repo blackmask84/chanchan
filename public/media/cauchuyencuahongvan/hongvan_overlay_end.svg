@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="532px" viewBox="0 0 320 532" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>hongvan_overlay_end</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#8C96A8" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#8C96A8" offset="17.791913%"></stop>
+            <stop stop-color="#8C96A8" offset="82.728658%"></stop>
+            <stop stop-color="#8C96A8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="hongvan_overlay_end" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,0 L320,0 L320,520 L0,520 L0,0 Z M25,32 C22.2385763,32 20,34.2385763 20,37 L20,495 C20,497.761424 22.2385763,500 25,500 L295,500 C297.761424,500 300,497.761424 300,495 L300,37 C300,34.2385763 297.761424,32 295,32 L25,32 Z" id="Rectangle-2" fill="#F0F6FA"></path>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.4" x="20" y="518" width="280" height="1"></rect>
+        <path d="M0,0 L320,0 L320,532 L0,532 L0,0 Z M25,32 C22.2385763,32 20,34.2385763 20,37 L20,495 C20,497.761424 22.2385763,500 25,500 L295,500 C297.761424,500 300,497.761424 300,495 L300,37 C300,34.2385763 297.761424,32 295,32 L25,32 Z" id="Rectangle-2" fill="#F0F6FA"></path>
+    </g>
+</svg>

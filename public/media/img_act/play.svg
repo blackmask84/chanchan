@@ -3,7 +3,18 @@
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>play</title>
     <desc>Created with Sketch.</desc>
-    <g id="play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
-        <path d="M22.8436615,10.3257538 L35.0219883,29.4631245 C35.3184965,29.9290659 35.1811437,30.5471533 34.7152023,30.8436615 C34.5547514,30.9457666 34.3685109,31 34.1783268,31 L9.82167316,31 C9.26938841,31 8.82167316,30.5522847 8.82167316,30 C8.82167316,29.809816 8.87590654,29.6235754 8.97801168,29.4631245 L21.1563385,10.3257538 C21.4528467,9.85981239 22.0709341,9.72245962 22.5368755,10.0189678 C22.6603563,10.0975465 22.7650828,10.202273 22.8436615,10.3257538 Z" id="Triangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(22.000000, 20.000000) rotate(90.000000) translate(-22.000000, -20.000000) "></path>
+    <defs>
+        <path d="M22.8436615,10.3257538 L35.0219883,29.4631245 C35.3184965,29.9290659 35.1811437,30.5471533 34.7152023,30.8436615 C34.5547514,30.9457666 34.3685109,31 34.1783268,31 L9.82167316,31 C9.26938841,31 8.82167316,30.5522847 8.82167316,30 C8.82167316,29.809816 8.87590654,29.6235754 8.97801168,29.4631245 L21.1563385,10.3257538 C21.4528467,9.85981239 22.0709341,9.72245962 22.5368755,10.0189678 C22.6603563,10.0975465 22.7650828,10.202273 22.8436615,10.3257538 Z" id="path-1"></path>
+        <filter x="-16.7%" y="-21.1%" width="140.6%" height="155.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.902794829">
+        <g id="Triangle" fill-rule="nonzero" transform="translate(22.000000, 20.000000) rotate(90.000000) translate(-22.000000, -20.000000) ">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
     </g>
 </svg>

@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
 /* SF Webfont */
-@font-face{font-family:'SF Compact Display';src:url(webfont/SFCompactDisplay-Semibold.woff2) format("woff2"),url(webfont/SFCompactDisplay-Semibold.woff) format("woff");font-weight:500;font-style:normal}
-@font-face{font-family:'SF Compact Display';src:url(webfont/SFCompactDisplay-Regular.woff2) format("woff2"),url(webfont/SFCompactDisplay-Regular.woff) format("woff");font-weight:normal;font-style:normal}
+@font-face{font-family:'SF Compact Display';src:url(webfont/SFCompactDisplay-Semibold.woff2) format("woff2");font-weight:500;font-style:normal}
+@font-face{font-family:'SF Compact Display';src:url(webfont/SFCompactDisplay-Regular.woff2) format("woff2");font-weight:normal;font-style:normal}
 /* Georgia Webfont */
-@font-face{font-family:'Georgia-Italic';src:url(webfont/Georgia-Italic.woff2) format("woff2"),url(webfont/Georgia-Italic.woff) format("woff");font-weight:normal;font-style:italic}
+@font-face{font-family:'Georgia-Italic';src:url(webfont/Georgia-Italic.woff2) format("woff2");font-weight:normal;font-style:italic}
 
 /* Reset Common */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:0;padding:0}
@@ -164,6 +164,22 @@ table{border-collapse:collapse;border-spacing:0}
     width: 100%;
     height: 100%;
 }
+.component {
+    position: relative;
+}
+.btn {
+position: absolute;
+z-index: 1;
+opacity:0;
+background:white;
+border-radius:1.5vw;
+}
+.bg_fix {
+    position: absolute;
+    z-index:-2;
+    width: 100%;
+}
+
 /* .fadeIn, .animation {
     opacity: 0;
     transition: all 1s ease-in-out;

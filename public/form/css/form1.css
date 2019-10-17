@@ -62,8 +62,8 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup .btn_close, .form-mobile .popup .link_close {
     top: 0;
     right: 0;
-    width: 15%;
-    height: 8.5%;
+    width: 12%;
+    height: 7%;
     z-index: 9999;
   }
   .form-mobile .popup .btn_close img, .form-mobile .popup .link_close img {

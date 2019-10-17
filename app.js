@@ -18,45 +18,41 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/desk', function (req, res) {
-    res.sendFile(__dirname + '/public/index2.html');
+    res.sendFile(__dirname + '/public/seeu-pc.html');
+});
+app.get('/tieuchuanvanhanh', function (req, res) {
+    res.sendFile(__dirname + '/public/2_tieuchuan.html');
+});
+app.get('/cauhoithuonggap', function (req, res) {
+    res.sendFile(__dirname + '/public/3_faq.html');
+});
+app.get('/cauchuyencuahongvan', function (req, res) {
+    res.sendFile(__dirname + '/public/4_cauchuyencuahongvan.html');
+});
+app.get('/hieuthemvechanchan', function (req, res) {
+    res.sendFile(__dirname + '/public/5_blog.html');
+});
+app.get('/dangkythanhvienmoi', function (req, res) {
+    res.sendFile(__dirname + '/public/6_register.html');
 });
 
-// get form 1
-app.get('/form1-popup', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-
-app.get('/form2-popup', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-
-app.get('/form3-popup', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-
-app.get('/form4-popup', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
+// get form
 
 app.get('/03month-popup', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
-
+app.get('/03monthlove-popup', function (req, res) {
+    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
+});
 app.get('/06month-popup', function (req, res) {
+    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
+});
+app.get('/06monthlove-popup', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
 
 // load facebook
 app.get('/facebook1', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-app.get('/facebook2', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-app.get('/facebook3', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-app.get('/facebook4', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
 
@@ -71,7 +67,6 @@ app.post('/register', function (req, res) {
         res.status(400).send('Register failed')
     })
 });
-
 
 var server = app.listen(8888, function(){
     var port = server.address().port;

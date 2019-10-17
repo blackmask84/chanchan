@@ -20,7 +20,7 @@ table{border-collapse:collapse;border-spacing:0}
     position: relative;
     margin: 3.52vh 0 16vh;
     border-radius: 1.64vw;
-    box-shadow: -1.05vw 1vw 3.16vw rgba(52, 61, 81, 0.2);
+    box-shadow: -2vw 1vw 6vw rgba(0, 0, 0, 0.25);
 }
 .box_overlay,
 .box_avatar {
@@ -91,11 +91,6 @@ table{border-collapse:collapse;border-spacing:0}
     left: 13.541667vw;
     z-index: -1;
     width: 72.916vw;
-    -webkit-filter: blur(5.68vw);
-    -moz-filter: blur(5.68vw);
-    -o-filter: blur(5.68vw);
-    -ms-filter: blur(5.68vw);
-    filter: blur(5.68vw);
 }
 .slidertemp_bg .bg_avatar img,
 .slidertemp_overlaybg .bg_overlay img {
@@ -137,22 +132,14 @@ table{border-collapse:collapse;border-spacing:0}
     height: 100%;
 }
 .slideImage_bg .item {
-    margin-top: 17.78vw;
+    margin-top: 0vw;
 }
 .slideImage_bg .bg_avatar {
     position: relative;
-    top: 58.258vh;
-    left: 6.12vw;
+    top: 0vh;
+    left: -15vw;
     z-index: -1;
-    width: 81.75vw;
-    -webkit-filter: blur(12.68vw);
-    -moz-filter: blur(12.68vw);
-    -o-filter: blur(12.68vw);
-    -ms-filter: blur(12.68vw);
-    filter: blur(12.68vw);
-}
-.slideImage_bg .bg_avatar:last-child {
-    left: 12.24vw;
+    width: 100vw;
 }
 .slideImage_bg .bg_avatar img,
 .slideImage_overlaybg .bg_overlay img {

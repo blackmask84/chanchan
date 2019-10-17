@@ -75,7 +75,7 @@
             <use filter="url(#filter-9)" xlink:href="#text-8"></use>
             <use xlink:href="#text-8"></use>
         </g>
-        <text id="Bỏ-qua" font-family="SFCompactDisplay-Medium, SF Compact Display" font-size="16" font-weight="400" line-spacing="16" letter-spacing="-0.48" fill="#8C96A8">
+        <text id="Bỏ-qua" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.479999989" fill="#8C96A8">
             <tspan x="57" y="520">Bỏ qua</tspan>
         </text>
     </g>

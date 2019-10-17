@@ -24,6 +24,7 @@ $.fn.isInViewport = function () {
 (function (win, $) {
   'use strict';
 
+  // get cookie //
   window.setCookie = function (cname, cvalue, exdays) {
     var d = new Date();
     d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
@@ -61,7 +62,8 @@ $.fn.isInViewport = function () {
   } else {
     setCookie('referalLink', url, 7);
   }
-
+  //end get cookie//
+  
   var showVolumeIcon = function (wrapper) {
     const video = wrapper.find('video');
     wrapper.find('#play').hide();
@@ -96,3 +98,12 @@ $.fn.isInViewport = function () {
     window.location.href = window.location.href.split('?')[0] + '?page_y=' + page_y;
   });
 })(window, window.jQuery);
+
+// When the user clicks on the button, scroll to the component
+var mybutton = document.getElementById("myBtn");
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}

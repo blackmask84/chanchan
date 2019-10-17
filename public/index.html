@@ -1,37 +1,680 @@
 <!DOCTYPE html>
 <html lang="vi">
-
+    
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
-    <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, ">
-    <meta property=”og:image” content=”media/other/seeu.png” />
-    <title>Chanchan - See you again</title>
+    <meta name="description" content="Chương trình hẹn hò dành cho những ai muốn tìm một tình yêu dài lâu theo năm tháng.">
+    <meta property=”og:image” content=”media/chanchan/trail320.jpg” />
+    <title>Chanchan</title>
     <link rel="shortcut icon" type="image/x-icon" href="media/other/favicon.png">
+    </script>
     <link rel="stylesheet" type="text/css" href="css/pagetemp.css">
+    <link rel="stylesheet" type="text/css" href="css/libs/slideswiper.min.css">
+    <link rel="stylesheet" type="text/css" href="css/slide.css">
     <script src="js/pagetemp/svgInject.js"></script>
     <script type="text/javascript">
         if (window.innerWidth >= 768) {
             document.location = "/desk";
         }
     </script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '326188797999032');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=326188797999032&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Begin Inspectlet Asynchronous Code -->
+    <script type="text/javascript">
+    (function() {
+    window.__insp = window.__insp || [];
+    __insp.push(['wid', 1061115026]);
+    var ldinsp = function(){
+    if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=1061115026&r=' + Math.floor(new Date().getTime()/3600000); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+    setTimeout(ldinsp, 0);
+    })();
+    </script>
+    <!-- End Inspectlet Asynchronous Code -->
 </head>
 
 <body>
     <div class="wrap">
-        <!-- Container -->
+        <!-- container -->
         <main id="container" role="main">
             <!-- Content -->
             <div id="content">
                 <div class="page_temp">
-                    <!-- text -->
-                    <div class="component">
-                        <img src="media/svg_single/seeu.svg" onload="SVGInject(this)" class="fullWidth fullHeight" />
+
+                    <!-- trail -->
+                    <div class="single-video-wrap video-wrap single-video-with-cover component" id="trail">
+                        <div class="bg"><img src="media/chanchan/trail.svg" alt="cover">
+                        </div>
+                        <img src="media/chanchan/trail320.jpg" id="single-preview" class="fullWidth" />
+                        <img src="media/img_act/sound_off.svg" class="video-sound" id="off" />
+                        <img src="media/img_act/sound_on.svg" class="video-sound" id="on" />
+                        <img src="media/img_act/play.svg" class="video-sound" id="play" />
+                        <div id="video-injector">
+                            <video playsinline loop muted preload="none" class="fullWidth">
+                                <source src="media/chanchan/trail30.webm" type="video/webm">
+                                <source src="media/chanchan/trail30.mp4" type="video/mp4">
+                            </video>
+                        </div>
                     </div>
-                    <!-- end text -->
+
+                    <!-- dubancolaai -->
+                    <div class="component" id="dubancolaai"> 
+                        <a href="#chanchanla" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 82vw;
+                            height: 16vw;
+                            bottom:25vw;
+                            left: 9vw;">
+                          </div>
+                        </a>
+                        <a href="/dangkythanhvienmoi" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 35vw;
+                            height: 14vw;
+                            bottom:9vw;
+                            left: 32vw;">
+                          </div>
+                        </a>              
+                        <img src="media/chanchan/dubancolaai.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>                    
+
+                    <!-- chanchanla -->
+                    <div class="component" id="chanchanla">
+                        <img src="media/chanchan/chanchanla.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>                    
+
+                    <!-- slide_event -->
+                    <div class="slideImg component" id="slide_event">
+                        <img src="media/slideimg/bg_fix.svg" class="bg_fix">
+                        <div class="slideImage_wrap">
+                            <!-- slide -->
+                            <div class="slideImage swiper-container">
+                                <ul class="lst swiper-wrapper">
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_event1.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_event1.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_event2.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_event2.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_event3.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_event3.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_event4.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_event4.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_event5.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_event5.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- //slide -->
+                        </div>
+
+                        <!-- svgbackground -->
+                        <div class="slideImage_overlaybg swiper-container">
+                            <ul class="lst swiper-wrapper">
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_event_overlay1.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_event_overlay2.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_event_overlay3.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_event_overlay4.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_event_overlay5.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- //svgbackground -->
+
+                        <div class="slideImage_bg_wrap">
+                            <!-- imgbackground -->
+                            <div class="slideImage_bg swiper-container">
+                                <ul class="lst swiper-wrapper">
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_event_overlay1.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_event_overlay2.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_event_overlay3.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_event_overlay4.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_event_overlay5.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!-- //imgbackground -->
+                        </div>
+                    </div>
+
+                    <!-- dieunayxayra -->
+                    <div class="single-img-with-cover component">              
+                        <img src="media/chanchan/dieunayxayra.svg" alt="cover" onload="SVGInject(this)" class="fullWidth fullHeight">
+                        <div class="single-image" src="media/chanchan/dieunayxayra.png">
+                            <img src="" alt="" class="fullWidth fullHeight">
+                        </div>
+                    </div>
+
+                    <!-- slide_meet -->
+                    <div class="slideImg component" id="slide_meet">
+                        <div class="slideImage_wrap">
+                            <!-- slide -->
+                            <div class="slideImage swiper-container">
+                                <ul class="lst swiper-wrapper">
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_meet1.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_meet1.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_meet2.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_meet2.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- //slide -->
+                        </div>
+                        <!-- svgbackground -->
+                        <div class="slideImage_overlaybg swiper-container">
+                            <ul class="lst swiper-wrapper">
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_meet_overlay1.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_meet_overlay2.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- //svgbackground -->
+
+                        <div class="slideImage_bg_wrap">
+                            <!-- imgbackground -->
+                            <div class="slideImage_bg swiper-container">
+                                <ul class="lst swiper-wrapper">
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_meet_overlay1.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_meet_overlay2.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- //imgbackground -->
+                        </div>
+                    </div>
+
+                    <!-- buocnhay -->
+                    <div class="component">
+                        <img src="media/chanchan/buocnhay.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>
+                    
+                    <!-- choice -->
+                    <div class="single-img-with-cover component">
+                        <img class="fullWidth" src="media/chanchan/choice_preview.jpg" id="preview" />
+                        <div class="single-image" src="media/chanchan/choice.jpg">
+                            <img src="" alt="" class="fullWidth fullHeight">
+                        </div>
+                        <div class="bg"><img src="media/chanchan/choice.svg" alt="cover"
+                                onload="SVGInject(this)" class="fullWidth fullHeight"></div>
+                    </div>
+
+                    <!-- nhumotvongxoay -->
+                    <div class="component">
+                        <img src="media/chanchan/nhumotvongxoay.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>
+
+                    <!-- slide_finish -->
+                    <div class="slideImg component" id="slide_finish">
+                        <div class="slideImage_wrap">
+                            <!-- slide -->
+                            <div class="slideImage swiper-container">
+                                <ul class="lst swiper-wrapper">
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish1.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish1.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish2.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish2.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish3.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish3.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish4.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish4.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish5.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish5.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish6.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish6.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish7.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish7.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish8.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish8.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>                                                                                                   
+                                    <li class="item swiper-slide">
+                                        <div class="box">
+                                            <div class="box_svg">
+                                                <img src="media/slideimg/slide_finish9.svg" onload="SVGInject(this)"
+                                                    class="fullWidth fullHeight" />
+                                            </div>
+                                            <div class="box_avatar" imgurl="media/slideimg/slide_finish9.jpg">
+                                                <img src="" alt="" class="fullWidth fullHeight" />
+                                            </div>
+                                        </div>
+                                    </li>                                               
+                                </ul>
+                            </div>
+                            <!-- //slide -->
+                        </div>
+
+                        <!-- svgbackground -->
+                        <div class="slideImage_overlaybg swiper-container">
+                            <ul class="lst swiper-wrapper">
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay1.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay2.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay3.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay4.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay5.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay6.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay7.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay8.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+                                <li class="item swiper-slide">
+                                    <div class="bg_overlay">
+                                        <img src="media/slideimg/slide_finish_overlay9.svg" onload="SVGInject(this)"
+                                            class="fullWidth fullHeight" />
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <!-- //svgbackground -->
+
+                        <div class="slideImage_bg_wrap">
+                            <!-- imgbackground -->
+                            <div class="slideImage_bg swiper-container">
+                                <ul class="lst swiper-wrapper">
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay1.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay2.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay3.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay4.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay5.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay6.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay7.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay8.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>
+                                    <li class="item swiper-slide">
+                                        <div class="bg_avatar" imgurl="media/slideimg/slide_finish_overlay9.jpg">
+                                            <img src="" alt="" class="fullWidth" />
+                                        </div>
+                                    </li>                                    
+                                </ul>
+                            </div>
+                            <!-- //imgbackground -->
+                        </div>
+                    </div>
+
+                    <!-- nangluongsong -->
+                    <div class="component">
+                        <a href="/dangkythanhvienmoi" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 82vw;
+                            height: 16vw;
+                            bottom:16.5vw;
+                            left: 9vw;">
+                          </div>
+                        </a>
+                        <img src="media/chanchan/nangluongsong.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>
+
+                    <!-- hongvan -->
+                    <div class="single-video-wrap video-wrap single-video-with-cover component">
+                        <div class="bg"><img src="media/chanchan/hongvan_overlay.svg" alt="cover">
+                        </div>          
+                        <img src="media/chanchan/hongvan320.jpg" id="single-preview" class="fullWidth" />
+                        <img src="media/img_act/sound_off.svg" class="video-sound-hongvan" id="off" />
+                        <img src="media/img_act/sound_on.svg" class="video-sound-hongvan" id="on" />                       
+                        <img src="media/img_act/play.svg" class="video-sound" id="play" />
+                        <div id="video-injector">
+                            <video playsinline loop muted preload="none" class="videoIn">
+                                <source src="media/cauchuyencuahongvan/hongvan_trainghiemsausac30.webm" type="video/webm">
+                                <source src="media/cauchuyencuahongvan/hongvan_trainghiemsausac30.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+
+                    <!-- hongvanchiase -->
+                    <div class="component">
+                        <a href="/cauchuyencuahongvan" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 46.5vw;
+                            height: 16vw;
+                            bottom: 12vw;
+                            left: 44vw;">
+                          </div>
+                        </a>
+                        <img src="media/chanchan/hongvanchiase.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>
+
+                    <!-- us -->
+                    <div class="single-video-wrap video-wrap single-video-with-cover component">
+                        <div class="bg"><img src="media/chanchan/us_overlay.svg" alt="cover">
+                        </div> 
+                        <div class="bg"><img src="media/chanchan/us.svg" alt="cover"
+                                onload="SVGInject(this)"></div> 
+                        <img src="media/chanchan/us320.jpg" id="single-preview" class="fullWidth" />
+                        <img src="media/img_act/play.svg" class="video-sound" id="play" />
+                        <div id="video-injector">
+                            <video playsinline loop muted preload="none" class="videoIn">
+                                <source src="media/chanchan/us30.webm" type="video/webm">
+                                <source src="media/chanchan/us30.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+
+                    <!-- chungtoi -->
+                    <div class="component">
+                        <img src="media/chanchan/chungtoi.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div> 
+
+                    <!-- lienhe -->
+                    <div class="component">
+                        <a href="https://facebook.com/hello.chanchan" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 66vw;
+                            height: 16vw;
+                            bottom: 5.5vw;
+                            left: 24vw;">
+                          </div>
+                        </a>
+                        <img src="media/chanchan/lienhe.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>
+
+                    <!-- maplink -->
+                    <div class="component">
+                        <a href="/" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 82vw;
+                            height: 20vw;
+                            bottom: 116.5vw;
+                            left: 9vw;">
+                          </div>
+                        </a>
+                        <a href="/hieuthemvechanchan" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 82vw;
+                            height: 26vw;
+                            bottom: 75.5vw;
+                            left: 9vw;">
+                          </div>
+                        </a>
+                        <a href="/dangkythanhvienmoi" style="-webkit-tap-highlight-color: transparent;"> 
+                          <div class="btn" style="
+                            width: 82vw;
+                            height: 20vw;
+                            bottom: 40.5vw;
+                            left: 9vw;">
+                          </div>
+                        </a>                                          
+                        <img src="media/other/maplink.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>                                     
+
                     <!-- //Content -->
                 </div>
+            </div>
         </main>
         <!-- //Container -->
     </div>
@@ -39,7 +682,9 @@
     <!-- Script -->
     <script src="js/libs/main.js"></script>
     <script src="js/pagetemp/main.js"></script>
-
-</body>
-
+    <script src="js/libs/slideswiper.min.js"></script>
+    <script src="js/pagetemp/slideImage.js"></script>
+    <script src="js/pagetemp/singleVideo.js"></script>
+    <script src="js/pagetemp/singleImage.js"></script>
+    </body>
 </html>

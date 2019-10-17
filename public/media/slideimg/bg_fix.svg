@@ -3,13 +3,7 @@
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>bg_fix</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="69.7412067%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
     <g id="bg_fix" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="bg" fill="url(#linearGradient-1)" x="0" y="0" width="320" height="530"></rect>
+        <rect fill="#F0F6FA" x="0" y="0" width="320" height="530"></rect>
     </g>
 </svg>

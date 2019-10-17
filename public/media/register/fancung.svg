@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="668px" viewBox="0 0 320 668" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>fancung</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="273 623 273 637 272 637 272 623 268 623 272.5 614 277 623"></polygon>
+        <filter x="-100.0%" y="-21.7%" width="255.6%" height="160.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="fancung" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F0F6FA" x="0" y="0" width="320" height="668"></rect>
+        <text id="Bằng-cách-trở-thành" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="76">Bằng cách trở thành Fan cứng, bạn sẽ </tspan>
+            <tspan x="30" y="98">đồng hành cùng chúng tôi làm cho </tspan>
+            <tspan x="30" y="120">Chanchan trở nên tuyệt vời hơn với tất </tspan>
+            <tspan x="30" y="142">cả mọi người.</tspan>
+        </text>
+        <text id="Bạn-cùng-những-Fan-c" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="214">Bạn cùng những Fan cứng khác sẽ là </tspan>
+            <tspan x="30" y="236">những Thành viên đầu tiên nhận được </tspan>
+            <tspan x="30" y="258">những Phiên bản cập nhật mới nhất của </tspan>
+            <tspan x="30" y="280">Chanchan trước thời điểm phát hành.</tspan>
+        </text>
+        <text id="Bằng-cách-sử-dụng-ph" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="314">Bằng cách sử dụng phiên bản mới nhất </tspan>
+            <tspan x="30" y="336">này, bạn cùng các Fan cứng phản hồi </tspan>
+            <tspan x="30" y="358">cho chúng tôi biết được rằng những chi </tspan>
+            <tspan x="30" y="380">tiết/tính năng nào trong Chanchan </tspan>
+            <tspan x="30" y="402">khiến bạn có trải nghiệm chưa tốt, hoặc </tspan>
+            <tspan x="30" y="424">nên ra sao để bạn có trải nghiệm tốt </tspan>
+            <tspan x="30" y="446">hơn khi sử dụng.</tspan>
+        </text>
+        <text id="Bằng-cách-này-bạn-gi" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="480">Bằng cách này bạn giúp chúng tôi cải </tspan>
+            <tspan x="30" y="502">tiến kịp thời để có thể mang lại những </tspan>
+            <tspan x="30" y="524">Phiên bản tốt nhất với trải nghiệm tuyệt </tspan>
+            <tspan x="30" y="546">vời nhất đến tất cả Thành viên tại thời </tspan>
+            <tspan x="30" y="568">điểm phát hành chính thức của mỗi </tspan>
+            <tspan x="30" y="590">Phiên bản.</tspan>
+        </text>
+        <text id="—-Tôi-đã-hiểu." font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="30" y="627">— Tôi đã hiểu. </tspan>
+        </text>
+        <circle id="Oval" fill="#DADFE7" cx="272" cy="625" r="18"></circle>
+        <g id="Line-2" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#343D51" xlink:href="#path-1"></use>
+        </g>
+        <text id="—-Điều-này-xảy-ra-nh" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="30" y="179">— Điều này xảy ra như thế nào?</tspan>
+        </text>
+        <text id="an-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="20" letter-spacing="-1.2" fill="#343D51">
+            <tspan x="43" y="49">an cứng</tspan>
+            <tspan x="109.816797" y="52.5957031" font-size="12"> </tspan>
+        </text>
+        <path d="M118.239,47.375 C116.003,45.074 115.769,44.814 114.911,43.67 C113.637,41.993 113,40.485 113,39.211 C113,38.457 113.247,37.651 113.65,37.079 C114.17,36.351 114.885,36 115.86,36 C116.419,36 116.835,36.117 117.173,36.351 C117.615,36.663 117.953,37.209 118.057,37.794 C118.148,38.223 118.161,38.262 118.239,38.262 C118.317,38.262 118.356,38.184 118.421,37.794 C118.538,37.157 118.915,36.572 119.396,36.299 C119.708,36.13 120.254,36 120.722,36 C121.268,36 121.814,36.182 122.269,36.494 C123.062,37.04 123.478,37.989 123.478,39.237 C123.478,40.212 123.244,41.031 122.685,42.019 C122.035,43.176 121.203,44.255 119.929,45.594 C118.551,47.05 118.551,47.05 118.239,47.375 Z" id="♥" fill="#343D51" fill-rule="nonzero"></path>
+        <path d="M44.2167969,30.4731445 C44.2167969,30.7091483 44.1790368,30.9687486 44.1035156,31.2519531 C44.0279944,31.5351577 43.9052743,31.7758779 43.7353516,31.9741211 C43.5371084,32.2101249 43.3152682,32.3894851 43.0698242,32.512207 C42.8243803,32.634929 42.4562199,32.6962891 41.965332,32.6962891 C41.2195601,32.6962891 40.6342795,32.4366888 40.2094727,31.9174805 C39.7846658,31.3982721 39.3315454,30.5345113 38.8500977,29.3261719 C38.4724916,29.4866544 38.1656913,29.9020149 37.9296875,30.5722656 C37.6936837,31.2425164 37.5756836,32.6821179 37.5756836,34.8911133 L37.5756836,36.0097656 L41.4838867,36.0097656 L41.4838867,37.5390625 L37.6040039,37.5390625 L37.6040039,47.2954102 C37.6040039,47.6635761 37.688964,47.9491364 37.8588867,48.1520996 C38.0288094,48.3550629 38.2506497,48.503743 38.5244141,48.5981445 C38.7509777,48.6736657 39.048338,48.7468258 39.4165039,48.817627 C39.7846698,48.8884281 40.1150702,48.9379881 40.4077148,48.9663086 L40.4077148,50 L30.8496094,50 L30.8496094,48.9663086 C31.0950533,48.9474283 31.3334136,48.9238283 31.5646973,48.8955078 C31.795981,48.8671874 32.0013012,48.8199873 32.1806641,48.7539062 C32.4827489,48.6406244 32.6880691,48.4777843 32.7966309,48.2653809 C32.9051926,48.0529775 32.9594727,47.7721372 32.9594727,47.4228516 L32.9594727,37.5390625 L30.0849609,37.5390625 L30.0849609,36.0097656 L32.9594727,36.0097656 C32.9594727,34.9996694 33.1057928,34.0202684 33.3984375,33.0715332 C33.6910822,32.122798 34.1442027,31.2755571 34.7578125,30.5297852 C35.352542,29.7934533 36.1360628,29.1987327 37.1083984,28.7456055 C38.080734,28.2924782 39.2229752,28.065918 40.5351562,28.065918 C41.705735,28.065918 42.611976,28.2877582 43.2539062,28.7314453 C43.8958365,29.1751324 44.2167969,29.755693 44.2167969,30.4731445 Z" id="f" fill="#343D51" fill-rule="nonzero"></path>
+    </g>
+</svg>
