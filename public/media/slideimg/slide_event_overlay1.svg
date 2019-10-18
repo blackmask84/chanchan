@@ -43,16 +43,6 @@
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <linearGradient x1="13.729807%" y1="55.1658163%" x2="191.722735%" y2="-0.731497991%" id="linearGradient-12">
-            <stop stop-color="#F50057" offset="0%"></stop>
-            <stop stop-color="#AA00FF" offset="100%"></stop>
-        </linearGradient>
-        <polygon id="path-13" points="289.6 506 270 506 270 505 289.6 505 289.6 501 298 505.5 289.6 510"></polygon>
-        <filter x="-26.8%" y="-61.1%" width="146.4%" height="244.4%" filterUnits="objectBoundingBox" id="filter-14">
-            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
     </defs>
     <g id="slide_event_overlay1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="load" transform="translate(131.000000, 503.000000)">
@@ -76,10 +66,6 @@
                 <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-10"></use>
                 <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
             </g>
-        </g>
-        <g id="Line">
-            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
-            <use fill="url(#linearGradient-12)" fill-rule="evenodd" xlink:href="#path-13"></use>
         </g>
     </g>
 </svg>

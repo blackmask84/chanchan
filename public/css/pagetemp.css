@@ -87,7 +87,7 @@ table{border-collapse:collapse;border-spacing:0}
     z-index: 100;
 }
 .video-wrap #play {
-    z-index: 20;
+    z-index: 0;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -96,31 +96,6 @@ table{border-collapse:collapse;border-spacing:0}
 }
 .box_avatar video, .box_video video {
     animation: all 0.3s ease-in-out;
-}
-
-/*  slide video */
-.box_video {
-    height: 100%;
-    overflow: hidden;
-    /*border-radius: 3.9vw;*/
-}
-.box_video #preview {
-    z-index: 0;
-    transition: 0.2s all ease-in-out;
-}
-.box_video video {
-    z-index: -1;
-}
-.box_video #video-injector {
-    width: 100%;
-    /*border-radius: 3.9vw;*/
-    position: absolute;
-    top: 0;
-    left: 0;
-    overflow: hidden;
-}
-.box_video .video-wrap{
-    height: 100%;
 }
 
 /* single image */

@@ -20,7 +20,7 @@
     </defs>
     <g id="bg_info_btn02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="320" height="110"></rect>
-        <path id="Line-2" d="M48.5,52.5 L70.5,52.5 L70.5,53.5 L48.5,53.5 L48.5,57.5 L39.5,53 L48.5,48.5 L48.5,52.5 Z" fill="#8C96A8" fill-rule="nonzero"></path>
+        <polygon id="Line-2" fill="#8C96A8" fill-rule="nonzero" points="48.5 52.5 70.5 52.5 70.5 53.5 48.5 53.5 48.5 57.5 39.5 53 48.5 48.5"></polygon>
         <rect id="Rectangle" fill-opacity="0.27" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="172" y="35" width="106" height="38" rx="18"></rect>
         <rect id="Rectangle" fill="url(#linearGradient-1)" x="174" y="32" width="106" height="38" rx="18"></rect>
         <g id="Hoàntất" fill-rule="nonzero">
