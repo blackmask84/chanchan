@@ -8,12 +8,12 @@
             <use xlink:href="#image-2" transform="scale(0.15,0.15)"></use>
         </pattern>
         <image id="image-2" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
-        <path d="M305,15 L309.937795,10.0622054 L305,15 L309.937795,19.9377946 L305,15 Z M305,15 L300.062205,19.9377946 L305,15 L300.062205,10.0622054 L305,15 Z" id="path-3"></path>
-        <filter x="-62.9%" y="-42.9%" width="205.8%" height="205.8%" filterUnits="objectBoundingBox" id="filter-4">
+        <path d="M302,18 L307.925354,12.0746465 L302,18 L307.925354,23.9253535 L302,18 Z M302,18 L296.074646,12.0746465 L302,18 L296.074646,23.9253535 L302,18 Z" id="path-3"></path>
+        <filter x="-56.5%" y="-31.5%" width="196.3%" height="196.3%" filterUnits="objectBoundingBox" id="filter-4">
             <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="-1" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feOffset dx="-1" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
             <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
-            <feOffset dx="-1" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feOffset dx="-1" dy="2" in="shadowInner" result="shadowInner"></feOffset>
             <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
             <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.85 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>

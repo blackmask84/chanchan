@@ -89,10 +89,10 @@ table{border-collapse:collapse;border-spacing:0}
 .video-wrap #play {
     z-index: 0;
     position: absolute;
-    left: 50%;
-    top: 50%;
-    width:15%;
-    transform: translate(-50%, -50%);
+    left: 0;
+    top: 0;
+    width:100%;
+    /*transform: translate(-50%, -50%);*/
 }
 .box_avatar video, .box_video video {
     animation: all 0.3s ease-in-out;

@@ -130,7 +130,7 @@ table{border-collapse:collapse;border-spacing:0}
     top: -3.2%;
     left: 12.5%;
     z-index: 1;
-    text-shadow: 0 0 8vw rgba(0, 0, 0, 0.5);
+    text-shadow: -0.5vw 0.5vw 2vw rgba(0, 0, 0, 0.5);
     color: #fff;
     font-size: 8.9vw;
     letter-spacing: -0.066em;

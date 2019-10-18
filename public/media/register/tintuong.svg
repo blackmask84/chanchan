@@ -4,12 +4,6 @@
     <title>tintuong</title>
     <desc>Created with Sketch.</desc>
     <g id="tintuong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" line-spacing="16" letter-spacing="-0.51" fill="#343D51">
-            <tspan x="66" y="630">Thường</tspan>
-        </text>
-        <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" line-spacing="16" letter-spacing="-0.51" fill="#FFFFFF">
-            <tspan x="193" y="630">Fan cứng</tspan>
-        </text>
         <text id="Tin-tưởng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" line-spacing="26" letter-spacing="-1.44" fill="#343D51">
             <tspan x="30" y="375">Tin tưởng</tspan>
         </text>
@@ -25,6 +19,12 @@
         <text id="Không-giới-hạn-thời" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
             <tspan x="30" y="408">Không giới hạn thời gian cho đến khi </tspan>
             <tspan x="30" y="430">bạn hoàn thành Chương trình.</tspan>
+        </text>
+        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" line-spacing="16" letter-spacing="-0.51" fill="#343D51">
+            <tspan x="67" y="630">Thường</tspan>
+        </text>
+        <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" line-spacing="16" letter-spacing="-0.51" fill="#FFFFFF">
+            <tspan x="191" y="630">Fan cứng</tspan>
         </text>
     </g>
 </svg>
