@@ -15,7 +15,7 @@
         <filter x="-9.2%" y="-24.0%" width="118.5%" height="148.0%" filterUnits="objectBoundingBox" id="filter-4">
             <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
         </filter>
-        <linearGradient x1="-39.8704324%" y1="87.8559359%" x2="268.816186%" y2="-31.9378163%" id="linearGradient-5">
+        <linearGradient x1="-76.1503504%" y1="77.01977%" x2="179.295144%" y2="3.68597345%" id="linearGradient-5">
             <stop stop-color="#AA00FF" offset="0%"></stop>
             <stop stop-color="#3D5AFE" offset="100%"></stop>
         </linearGradient>

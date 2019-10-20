@@ -24,7 +24,7 @@
             <tspan x="62" y="632">Thường</tspan>
         </text>
         <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.539999962" fill="#FFFFFF">
-            <tspan x="190" y="630">Fan cứng</tspan>
+            <tspan x="190" y="629">Fan cứng</tspan>
         </text>
     </g>
 </svg>
