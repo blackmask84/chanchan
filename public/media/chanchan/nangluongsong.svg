@@ -4,12 +4,12 @@
     <title>nangluongsong</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="-39.8704324%" y1="60.2362451%" x2="268.816186%" y2="27.8440145%" id="linearGradient-1">
+        <linearGradient x1="-39.8704324%" y1="60.2362451%" x2="202.901707%" y2="30.6566725%" id="linearGradient-1">
             <stop stop-color="#AA00FF" offset="0%"></stop>
             <stop stop-color="#304FFE" offset="100%"></stop>
         </linearGradient>
-        <filter x="-4.6%" y="-23.1%" width="109.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        <filter x="-3.5%" y="-17.3%" width="106.9%" height="134.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
         </filter>
     </defs>
     <g id="nangluongsong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

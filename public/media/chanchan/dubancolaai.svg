@@ -4,13 +4,17 @@
     <title>dubancolaai</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="-39.8704324%" y1="60.2362451%" x2="268.816186%" y2="27.8440145%" id="linearGradient-1">
+        <linearGradient x1="-39.8704324%" y1="60.2362451%" x2="195.48233%" y2="34.0831453%" id="linearGradient-1">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
-        <filter x="-6.9%" y="-34.6%" width="113.8%" height="169.2%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        <filter x="-3.5%" y="-17.3%" width="106.9%" height="134.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
         </filter>
+        <linearGradient x1="-53.2683638%" y1="63.1514187%" x2="180.209359%" y2="35.2280905%" id="linearGradient-3">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
     </defs>
     <g id="dubancolaai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="320" height="336"></rect>
@@ -25,7 +29,7 @@
             <tspan x="30" y="171">cả mọi người /&gt;</tspan>
         </text>
         <path d="M288,211 L288,253 C288,255.761424 285.761424,258 283,258 L33,258 C30.2385763,258 28,255.761424 28,253 L28,211 C28,208.238576 30.2385763,206 33,206 L283,206 C285.761424,206 288,208.238576 288,211 Z" id="Triangle" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)"></path>
-        <path d="M290,209 L290,251 C290,253.761424 287.761424,256 285,256 L35,256 C32.2385763,256 30,253.761424 30,251 L30,209 C30,206.238576 32.2385763,204 35,204 L285,204 C287.761424,204 290,206.238576 290,209 Z" id="Triangle" fill="url(#linearGradient-1)"></path>
+        <path d="M290,209 L290,251 C290,253.761424 287.761424,256 285,256 L35,256 C32.2385763,256 30,253.761424 30,251 L30,209 C30,206.238576 32.2385763,204 35,204 L285,204 C287.761424,204 290,206.238576 290,209 Z" id="Triangle" fill="url(#linearGradient-3)"></path>
         <text id="Tìm-hiểu-về-chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#FFFFFF">
             <tspan x="80" y="235">Tìm hiểu về chanchan</tspan>
         </text>
