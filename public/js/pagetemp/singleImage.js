@@ -3,9 +3,9 @@
 
     var injectImage = function(imageCover) {
         if (imageCover.isInViewport()) {
-            imageCover.find('#preview').css('z-index', '-1');
+            imageCover.find('#preview').css('z-index', 0);
             const singleImage = imageCover.find('.single-image');
-            singleImage.css('z-index', 1);
+            singleImage.css('z-index', -1);
             const imageURL = singleImage.attr('src');
             const currentImageURL = singleImage.find('img').attr('src');
             if (currentImageURL === "" || currentImageURL === 'undefined') {

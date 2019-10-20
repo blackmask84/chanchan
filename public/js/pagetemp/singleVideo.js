@@ -17,10 +17,9 @@
 
         if (videobox.find('video').get(0).muted && !videobox.find('video').get(0).paused) {
           videobox.parent().find('#off').show();
-          videobox.parent().find('#play').hide();
         }
 
-        videobox.parent().find('#single-preview').css('z-index', -1);
+        videobox.parent().find('#single-preview').css('z-index', 1);
       } else {
         videobox.find('video').get(0).pause();
       }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="524px" viewBox="0 0 320 524" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="537px" viewBox="0 0 320 537" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>hongvan_overlay</title>
     <desc>Created with Sketch.</desc>
     <g id="hongvan_overlay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M0,0 L320,0 L320,524 L0,524 L0,0 Z M25,32 C22.2385763,32 20,34.2385763 20,37 L20,495 C20,497.761424 22.2385763,500 25,500 L295,500 C297.761424,500 300,497.761424 300,495 L300,37 C300,34.2385763 297.761424,32 295,32 L25,32 Z" id="Rectangle-2" fill="#F0F6FA"></path>
+        <path d="M0,0 L320,0 L320,537 L0,537 L0,0 Z M25,30 C22.2385763,30 20,32.2385763 20,35 L20,501 C20,503.761424 22.2385763,506 25,506 L295,506 C297.761424,506 300,503.761424 300,501 L300,35 C300,32.2385763 297.761424,30 295,30 L25,30 Z" id="Rectangle-2" fill="#F0F6FA"></path>
     </g>
 </svg>

@@ -73,7 +73,7 @@
         </filter>
     </defs>
     <g id="slide_finish_overlay5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="load" transform="translate(104.000000, 505.000000)">
+        <g id="load" transform="translate(104.000000, 511.000000)">
             <g id="Oval">
                 <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-1"></use>
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>

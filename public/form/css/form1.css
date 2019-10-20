@@ -155,7 +155,7 @@ table{border-collapse:collapse;border-spacing:0}
     left: 8%;
     width: 18.3%;
     height: 45%;
-    top: 25%;
+    top: 24%;
     /* Info popup */
   }
   .form-mobile .popup.popup_info {
@@ -202,7 +202,7 @@ table{border-collapse:collapse;border-spacing:0}
   }
   .form-mobile .popup_info .info_ct .btn_info {
     top: auto;
-    bottom: 31%;
+    bottom: 33%;
     right: 10%;
     width: 38%;
     height: 45%;

@@ -20,11 +20,11 @@
             <tspan x="30" y="408">Không giới hạn thời gian cho đến khi </tspan>
             <tspan x="30" y="430">bạn hoàn thành Chương trình.</tspan>
         </text>
-        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" line-spacing="16" letter-spacing="-0.51" fill="#343D51">
-            <tspan x="67" y="630">Thường</tspan>
+        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.539999962" fill="#343D51">
+            <tspan x="62" y="632">Thường</tspan>
         </text>
-        <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" line-spacing="16" letter-spacing="-0.51" fill="#FFFFFF">
-            <tspan x="191" y="630">Fan cứng</tspan>
+        <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.539999962" fill="#FFFFFF">
+            <tspan x="190" y="630">Fan cứng</tspan>
         </text>
     </g>
 </svg>

@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="366px" viewBox="0 0 320 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>nhumotvongxoay</title>
     <desc>Created with Sketch.</desc>
     <g id="nhumotvongxoay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="320" height="320"></rect>
-        <text id="Như-một-vòng-xoáy-Ch" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="22" letter-spacing="-1" fill="#8C96A8">
-            <tspan x="30" y="35">Như một vòng xoáy Chanchan </tspan>
-            <tspan x="30" y="57">giữ lại bên bạn những Triển </tspan>
-            <tspan x="30" y="79">vọng tin cậy cho một mối quan </tspan>
-            <tspan x="30" y="101">hệ gắn bó.</tspan>
+        <rect fill="#FFFFFF" x="0" y="0" width="320" height="366"></rect>
+        <text id="Việc-còn-lại,-những" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="232">Việc còn lại, những tình cảm trong bạn </tspan>
+            <tspan x="30" y="254">sẽ mách bảo ai trong đó là người bạn </tspan>
+            <tspan x="30" y="276">đời mà bạn tìm kiếm. </tspan>
+            <tspan x="30" y="298">Kết quả này luôn có xác nhận của bạn &amp; </tspan>
+            <tspan x="30" y="320">người ấy. Sau khi xác nhận cả hai sẽ </tspan>
+            <tspan x="30" y="342">hoàn thành &amp; kết thúc chương trình.</tspan>
         </text>
-        <text id="Việc-còn-lại…" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="20" letter-spacing="-0.479999989" fill="#343D51">
-            <tspan x="30" y="139">Việc còn lại…</tspan>
+        <polygon id="Triangle" fill="#343D51" points="32 23 32 195 30 195 30 23"></polygon>
+        <text id="Ngầm-giới-hạn-bạn-kh" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="50" y="71">Ngầm giới hạn bạn khỏi những mối </tspan>
+            <tspan x="50" y="93">quan hệ ngắn hạn có thể mang lại </tspan>
+            <tspan x="50" y="115">những trải nghiệm tiêu cực.</tspan>
         </text>
-        <text id="Những-cảm-nhận-trong" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="169">Những cảm nhận trong bạn sẽ mách bảo </tspan>
-            <tspan x="30" y="191">ai trong đó là người bạn đời mà bạn </tspan>
-            <tspan x="30" y="213">đang tìm kiếm.</tspan>
+        <text id="Vòng-xoáy-triển-vọng" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="22" letter-spacing="-1" fill="#343D51">
+            <tspan x="50" y="39">Vòng xoáy triển vọng</tspan>
         </text>
-        <text id="Kết-quả-này-luôn-có" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="248">Kết quả này luôn có xác nhận của bạn &amp; </tspan>
-            <tspan x="30" y="270">người ấy. Sau khi xác nhận cả hai sẽ </tspan>
-            <tspan x="30" y="292">hoàn thành &amp; kết thúc chương trình.</tspan>
+        <text id="&amp;-ngầm-tăng-tốc-với" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="22" letter-spacing="-1" fill="#8C96A8">
+            <tspan x="50" y="151">&amp; ngầm tăng tốc với những </tspan>
+            <tspan x="50" y="173">Triển vọng tin cậy cho một </tspan>
+            <tspan x="50" y="195">mối quan hệ gắn bó.</tspan>
         </text>
     </g>
 </svg>
