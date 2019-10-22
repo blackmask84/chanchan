@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="612px" viewBox="0 0 320 612" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="608px" viewBox="0 0 320 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>blog_overlay</title>
     <desc>Created with Sketch.</desc>
@@ -28,7 +28,7 @@
     </defs>
     <g id="blog_overlay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle" fill-opacity="0.2" fill="url(#pattern-1)" x="0" y="7" width="320" height="400"></rect>
-        <path d="M0,0 L320,0 L320,612 L0,612 L0,0 Z M25,44 C22.2385763,44 20,46.2385763 20,49 L20,391 C20,393.761424 22.2385763,396 25,396 L295,396 C297.761424,396 300,393.761424 300,391 L300,49 C300,46.2385763 297.761424,44 295,44 L25,44 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+        <path d="M0,0 L320,0 L320,608 L0,608 L0,0 Z M25,44 C22.2385763,44 20,46.2385763 20,49 L20,391 C20,393.761424 22.2385763,396 25,396 L295,396 C297.761424,396 300,393.761424 300,391 L300,49 C300,46.2385763 297.761424,44 295,44 L25,44 Z" id="Rectangle-2" fill="#FFFFFF"></path>
         <g id="Triangle" transform="translate(192.000000, 576.000000) rotate(90.000000) translate(-192.000000, -576.000000) " fill="black" fill-opacity="1">
             <use filter="url(#filter-4)" xlink:href="#path-3"></use>
         </g>
