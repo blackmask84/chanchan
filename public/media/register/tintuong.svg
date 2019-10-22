@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="696px" viewBox="0 0 320 696" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="702px" viewBox="0 0 320 702" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>tintuong</title>
     <desc>Created with Sketch.</desc>
     <g id="tintuong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="Tin-tưởng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" line-spacing="26" letter-spacing="-1.44" fill="#343D51">
-            <tspan x="30" y="375">Tin tưởng</tspan>
+            <tspan x="30" y="383">Tin tưởng</tspan>
         </text>
         <text id="Tiết-kiệm-50%-khi-bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22">
-            <tspan x="30" y="498" fill="#4D5B72">Tiết kiệm 50% khi bạn đăng ký với chế </tspan>
-            <tspan x="30" y="520" fill="#4D5B72">độ Fan cứng.</tspan>
-            <tspan x="113.605957" y="520" fill="#FFFFFF"> </tspan>
-            <tspan x="116.608887" y="520" fill="#5D6A80" text-decoration="underline">Tìm hiểu</tspan>
+            <tspan x="30" y="506" fill="#4D5B72">Tiết kiệm 50% khi bạn đăng ký với chế </tspan>
+            <tspan x="30" y="528" fill="#4D5B72">độ Fan cứng.</tspan>
+            <tspan x="113.605957" y="528" fill="#FFFFFF"> </tspan>
+            <tspan x="116.608887" y="528" fill="#5D6A80" text-decoration="underline">Tìm hiểu</tspan>
         </text>
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
-            <tspan x="30" y="459">……………………………………………………………</tspan>
+            <tspan x="30" y="467">……………………………………………………………</tspan>
         </text>
         <text id="Không-giới-hạn-thời" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="408">Không giới hạn thời gian cho đến khi </tspan>
-            <tspan x="30" y="430">bạn hoàn thành Chương trình.</tspan>
+            <tspan x="30" y="416">Không giới hạn thời gian cho đến khi </tspan>
+            <tspan x="30" y="438">bạn hoàn thành Chương trình.</tspan>
         </text>
-        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.539999962" fill="#343D51">
-            <tspan x="62" y="632">Thường</tspan>
+        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#343D51" text-decoration="underline">
+            <tspan x="62" y="640">Thường</tspan>
         </text>
-        <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.539999962" fill="#FFFFFF">
-            <tspan x="190" y="629">Fan cứng</tspan>
+        <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#FFFFFF">
+            <tspan x="190" y="640">Fan cứng</tspan>
         </text>
     </g>
 </svg>

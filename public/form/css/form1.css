@@ -29,7 +29,7 @@ body,input,select,textarea,button{font-family:'SF Compact Display',serif}
 fieldset,li,img{border:0;vertical-align:top}
 ul,ol{list-style:none}
 button{overflow:visible;border:0;background-color:transparent;cursor:pointer}
-button::-moz-focus-inner{padding:0;border:0}
+button:-moz-focus-inner{padding:0;border:0}
 address,caption,em{font-style:normal}
 a,a:focus,a:active,a:hover{text-decoration:none}
 a:hover,a:active,a:focus{background-color:transparent}
@@ -219,6 +219,7 @@ table{border-collapse:collapse;border-spacing:0}
     font-size: 4.9vw;
     font-weight: 500;
     letter-spacing: -0.03em;
+    -webkit-tap-highlight-color: transparent;
     /* border: 1px solid red; */
     /* background: transparent; */
   }
@@ -234,10 +235,10 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup_info .info_ct input#info_codegift {
     top: 87.9%;
   }
-  .form-mobile .popup_info .info_ct input#info_codegift::-webkit-input-placeholder {
+  .form-mobile .popup_info .info_ct input#info_codegift:-webkit-input-placeholder {
     color: #BDC4D0;
   }
-  .form-mobile .popup_info .info_ct input#info_codegift::-moz-placeholder {
+  .form-mobile .popup_info .info_ct input#info_codegift:-moz-placeholder {
     color: #BDC4D0;
   }
   .form-mobile .popup_info .info_ct input#info_codegift:-ms-input-placeholder {

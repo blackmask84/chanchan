@@ -1,50 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="542px" viewBox="0 0 320 542" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="577px" viewBox="0 0 320 577" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>chanchanla</title>
     <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-53.2683638%" y1="378.785467%" x2="147.149253%" y2="-294.441501%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="270" cy="23" r="12"></circle>
+        <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
     <g id="chanchanla" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#F0F6FA" x="0" y="0" width="320" height="542"></rect>
+        <rect fill="#FFFFFF" x="0" y="0" width="320" height="577"></rect>
+        <path d="M0.00147110516,32.3907976 L5.18185728,29.2825659 C8.13100257,27.5130787 11.8307452,27.5790416 14.7149396,29.4525317 L15.0988505,29.7019092 C18.0803644,31.6386151 21.9225778,31.6386151 24.9040917,29.7019092 L25.0988505,29.5753994 C28.0803644,27.6386935 31.9225778,27.6386935 34.9040917,29.5753994 L35.0988505,29.7019092 C38.0803644,31.6386151 41.9225778,31.6386151 44.9040917,29.7019092 L45.0988505,29.5753994 C48.0803644,27.6386935 51.9225778,27.6386935 54.9040917,29.5753994 L55.0988505,29.7019092 C58.0803644,31.6386151 61.9225778,31.6386151 64.9040917,29.7019092 L65.0988505,29.5753994 C68.0803644,27.6386935 71.9225778,27.6386935 74.9040917,29.5753994 L75.0988505,29.7019092 C78.0803644,31.6386151 81.9225778,31.6386151 84.9040917,29.7019092 L85.0988505,29.5753994 C88.0803644,27.6386935 91.9225778,27.6386935 94.9040917,29.5753994 L95.0988505,29.7019092 C98.0803644,31.6386151 101.922578,31.6386151 104.904092,29.7019092 L105.097534,29.5762546 C108.079719,27.6391125 111.922917,27.639584 114.904627,29.5774576 L115.096337,29.7020543 C118.079056,31.6405835 121.923732,31.6403464 124.906212,29.7014495 L125.094958,29.5787462 C128.077591,27.6397495 131.922493,27.6396202 134.905256,29.5784164 L135.095105,29.7018181 C138.077684,31.6404948 141.922316,31.6404948 144.904895,29.7018181 L145.095105,29.5781819 C148.077684,27.6395052 151.922316,27.6395052 154.904895,29.5781819 L155.095105,29.7018181 C158.077684,31.6404948 161.922316,31.6404948 164.904895,29.7018181 L165.095105,29.5781819 C168.077684,27.6395052 171.922316,27.6395052 174.904895,29.5781819 L175.095105,29.7018181 C178.077684,31.6404948 181.922316,31.6404948 184.904895,29.7018181 L185.095105,29.5781819 C188.077684,27.6395052 191.922316,27.6395052 194.904895,29.5781819 L195.095105,29.7018181 C198.077684,31.6404948 201.922316,31.6404948 204.904895,29.7018181 L205.095105,29.5781819 C208.077684,27.6395052 211.922316,27.6395052 214.904895,29.5781819 L215.095105,29.7018181 C218.077684,31.6404948 221.922316,31.6404948 224.904895,29.7018181 L225.095105,29.5781819 C228.077684,27.6395052 231.922316,27.6395052 234.904895,29.5781819 L235.095105,29.7018181 C238.077684,31.6404948 241.922316,31.6404948 244.904895,29.7018181 L245,29.64 C247.920201,27.7418692 251.76759,28.1303274 254.249425,30.5738841 L260,36.2357648 C265.547812,41.69801 274.452188,41.69801 280,36.2357648 L285.750575,30.5738841 C288.23241,28.1303274 292.079799,27.7418692 295,29.64 L295.095105,29.7018181 C298.077684,31.6404948 301.922316,31.6404948 304.904895,29.7018181 L305.095105,29.5781819 C308.077684,27.6395052 311.922316,27.6395052 314.904895,29.5781819 L320,32.89 L320,577 L0,577 L0.00147110516,32.3907976 Z" id="Rectangle" fill="#E1F5FE"></path>
         <text id="Chanchan-kết-nối-Thà" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="202">Chanchan kết nối Thành viên qua những </tspan>
-            <tspan x="30" y="224">Sự kiện mọi người </tspan>
-            <tspan x="149.80957" y="224" text-decoration="underline">chia sẻ với nhau việc </tspan>
-            <tspan x="30" y="246" text-decoration="underline">mình muốn làm vào thời gian rảnh.</tspan>
+            <tspan x="30" y="234">Chanchan kết nối Thành viên qua những </tspan>
+            <tspan x="30" y="256">Sự kiện mọi người </tspan>
+            <tspan x="149.80957" y="256" text-decoration="underline">chia sẻ với nhau việc </tspan>
+            <tspan x="30" y="278" text-decoration="underline">mình muốn làm vào thời gian rảnh.</tspan>
         </text>
         <text id="Tại-những-sự-kiện-nà" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22">
-            <tspan x="30" y="336" fill="#4D5B72">Tại những sự kiện này, Thành viên tham </tspan>
-            <tspan x="30" y="358" fill="#4D5B72">dự sẽ do hệ thống </tspan>
-            <tspan x="149.853516" y="358" fill="#4D5B72" text-decoration="underline">ngầm chọn</tspan>
-            <tspan x="222.971191" y="358" fill="#FFFFFF"> </tspan>
-            <tspan x="225.974121" y="358" fill="#4D5B72">dựa trên </tspan>
-            <tspan x="30" y="380" fill="#4D5B72">Vòng xoáy triển vọng. </tspan>
+            <tspan x="30" y="368" fill="#4D5B72">Tại những sự kiện này, Thành viên tham </tspan>
+            <tspan x="30" y="390" fill="#4D5B72">dự sẽ do hệ thống </tspan>
+            <tspan x="149.853516" y="390" fill="#4D5B72" text-decoration="underline">ngầm chọn</tspan>
+            <tspan x="222.971191" y="390" fill="#FFFFFF"> </tspan>
+            <tspan x="225.974121" y="390" fill="#4D5B72">dựa trên </tspan>
+            <tspan x="30" y="412" fill="#4D5B72">Vòng xoáy triển vọng. </tspan>
         </text>
         <text id="Hoạt-động" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" line-spacing="26" letter-spacing="-1.55999994" fill="#343D51">
-            <tspan x="30" y="65">Hoạt động</tspan>
+            <tspan x="30" y="97">Hoạt động</tspan>
         </text>
-        <text id="Logic-hoạt-động-của" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="18" letter-spacing="-0.48" fill="#8C96A8">
-            <tspan x="30" y="151">Logic hoạt động của Chanchan xoay </tspan>
-            <tspan x="30" y="169">quanh Sự kiện &amp; Triển vọng.</tspan>
+        <text id="Logic-hoạt-động-của" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="18" letter-spacing="-0.48" fill="#5D6A80">
+            <tspan x="30" y="183">Logic hoạt động của Chanchan xoay </tspan>
+            <tspan x="30" y="201">quanh Sự kiện &amp; Triển vọng.</tspan>
         </text>
         <text id="Ví-dụ-cùng-nhau-cafe" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="50" y="279">Ví dụ cùng nhau cafe, cùng đi ăn, xem </tspan>
-            <tspan x="50" y="301">phim, nghe nhạc, dã ngoại… </tspan>
+            <tspan x="50" y="311">Ví dụ cùng nhau cafe, cùng đi ăn, xem </tspan>
+            <tspan x="50" y="333">phim, nghe nhạc, dã ngoại… </tspan>
         </text>
         <text id="—" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="279">—</tspan>
+            <tspan x="30" y="311">—</tspan>
         </text>
         <text id="—-Chanchan-hoạt-động" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="99">— Chanchan hoạt động như thế nào?</tspan>
+            <tspan x="30" y="131">— Chanchan hoạt động như thế nào?</tspan>
         </text>
         <text id="Cơ-hội-để-hai-Thành" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="50" y="447">Cơ hội để hai Thành viên gặp nhau </tspan>
-            <tspan x="50" y="469">tại cùng một sự kiện tỷ lệ thuận với </tspan>
-            <tspan x="50" y="491">Triển vọng bên nhau dài lâu trong </tspan>
-            <tspan x="50" y="513">cuộc sống của họ.</tspan>
+            <tspan x="50" y="479">Cơ hội để hai Thành viên gặp nhau </tspan>
+            <tspan x="50" y="501">tại cùng một sự kiện tỷ lệ thuận với </tspan>
+            <tspan x="50" y="523">Triển vọng bên nhau dài lâu trong </tspan>
+            <tspan x="50" y="545">cuộc sống của họ.</tspan>
         </text>
         <text id="Vòng-xoáy-triển-vọng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="18" letter-spacing="-0.48" fill="#343D51">
-            <tspan x="50" y="419">Vòng xoáy triển vọng</tspan>
+            <tspan x="50" y="451">Vòng xoáy triển vọng</tspan>
         </text>
-        <polygon id="Triangle" fill="#343D51" points="32 407 32 515 30 515 30 407"></polygon>
+        <polygon id="Triangle" fill="#343D51" points="32 439 32 547 30 547 30 439"></polygon>
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+        </g>
+        <text id="i" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#FFFFFF">
+            <tspan x="268" y="27">i</tspan>
+        </text>
     </g>
 </svg>

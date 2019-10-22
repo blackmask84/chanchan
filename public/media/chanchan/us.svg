@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="500px" viewBox="0 0 320 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="512px" viewBox="0 0 320 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>us</title>
     <desc>Created with Sketch.</desc>
@@ -15,7 +15,7 @@
         </filter>
     </defs>
     <g id="us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
-        <g id="txt" filter="url(#filter-1)" opacity="0.96" transform="translate(35.000000, 277.000000)" fill="#FFFFFF" font-size="15" line-spacing="18">
+        <g id="txt" filter="url(#filter-1)" opacity="0.96" transform="translate(35.000000, 289.000000)" fill="#FFFFFF" font-size="15" line-spacing="18">
             <text id="Thành-viên-hoàn-thàn" opacity="0.86" font-family="SFCompactDisplay-Regular, SF Compact Display" letter-spacing="-0.300000012">
                 <tspan x="65" y="61">Thành viên hoàn thành </tspan>
                 <tspan x="65" y="79">chương trình trong 03 tháng</tspan>
@@ -29,7 +29,7 @@
             </text>
         </g>
         <text id="___________________" opacity="0.2" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" line-spacing="22" fill="#FFFFFF">
-            <tspan x="100" y="385">___________________</tspan>
+            <tspan x="100" y="397">___________________</tspan>
         </text>
     </g>
 </svg>

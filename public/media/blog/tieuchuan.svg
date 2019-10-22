@@ -3,46 +3,19 @@
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>tieuchuan</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M192.83205,563.248075 L198.963533,572.4453 C199.269886,572.904828 199.145712,573.525698 198.686183,573.83205 C198.521916,573.941562 198.328908,574 198.131483,574 L185.868517,574 C185.316232,574 184.868517,573.552285 184.868517,573 C184.868517,572.802575 184.926955,572.609567 185.036467,572.4453 L191.16795,563.248075 C191.474302,562.788547 192.095172,562.664373 192.5547,562.970725 C192.664552,563.04396 192.758815,563.138223 192.83205,563.248075 Z" id="path-1"></path>
-        <filter x="-3.9%" y="-5.8%" width="107.9%" height="118.3%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="0%" y1="21.875%" x2="378.796276%" y2="224.135345%" id="linearGradient-3">
-            <stop stop-color="#F50057" offset="0%"></stop>
-            <stop stop-color="#AA00FF" offset="100%"></stop>
-        </linearGradient>
-        <path d="M194.83205,559.248075 L200.963533,568.4453 C201.269886,568.904828 201.145712,569.525698 200.686183,569.83205 C200.521916,569.941562 200.328908,570 200.131483,570 L187.868517,570 C187.316232,570 186.868517,569.552285 186.868517,569 C186.868517,568.802575 186.926955,568.609567 187.036467,568.4453 L193.16795,559.248075 C193.474302,558.788547 194.095172,558.664373 194.5547,558.970725 C194.664552,559.04396 194.758815,559.138223 194.83205,559.248075 Z" id="path-4"></path>
-        <filter x="-28.9%" y="-39.1%" width="170.4%" height="201.6%" filterUnits="objectBoundingBox" id="filter-5">
-            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
     <g id="tieuchuan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="—-Tiêu-chuẩn-của-Cha" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="29" y="467">— Tiêu chuẩn của Chanchan trong vận </tspan>
-            <tspan x="29" y="489">hành Chương trình.</tspan>
+            <tspan x="29" y="483">— Tiêu chuẩn của Chanchan trong vận </tspan>
+            <tspan x="29" y="505">hành Chương trình.</tspan>
         </text>
         <text id="Tiêu-chuẩn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" line-spacing="26" letter-spacing="-1.56" fill="#191F2C">
-            <tspan x="29" y="433">Tiêu chuẩn</tspan>
+            <tspan x="29" y="449">Tiêu chuẩn</tspan>
         </text>
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
-            <tspan x="29" y="527">……………………………………………………………</tspan>
+            <tspan x="29" y="535">……………………………………………………………</tspan>
         </text>
         <text id="Xem-chi-tiết" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="20" letter-spacing="-0.479999989" fill="#343D51">
-            <tspan x="209.806875" y="568">Xem chi tiết</tspan>
+            <tspan x="209.806875" y="575">Xem chi tiết</tspan>
         </text>
-        <g id="Triangle" transform="translate(192.000000, 568.000000) rotate(90.000000) translate(-192.000000, -568.000000) ">
-            <use fill="#F0F6FA" fill-rule="evenodd" xlink:href="#path-1"></use>
-            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-        </g>
-        <g id="Triangle" opacity="0.8" transform="translate(194.000000, 564.000000) rotate(90.000000) translate(-194.000000, -564.000000) ">
-            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
-            <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
-        </g>
     </g>
 </svg>

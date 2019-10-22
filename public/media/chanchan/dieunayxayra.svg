@@ -46,14 +46,14 @@
             <tspan x="30" y="605">/</tspan>
         </text>
         <text id="Bạn-không-cần-phải-c" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="60" y="1058">Bạn không cần phải cảm thấy  đơn </tspan>
+            <tspan x="60" y="1058">Bạn không cần phải cảm thấy đơn </tspan>
             <tspan x="60" y="1080">phương theo đuổi một ai đó.</tspan>
         </text>
         <text id="—" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#4D5B72">
             <tspan x="30" y="1057">—</tspan>
         </text>
-        <text id="—" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="1109">—</tspan>
+        <text id="/" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="1109">/</tspan>
         </text>
         <text id="/" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#4D5B72">
             <tspan x="30" y="1231">/</tspan>

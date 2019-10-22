@@ -4,7 +4,7 @@
     <title>maplink_nosaw</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="46.3203991%" y1="100%" x2="46.3203915%" y2="0%" id="linearGradient-1">
+        <linearGradient x1="28.347926%" y1="0%" x2="28.347926%" y2="100%" id="linearGradient-1">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#D500F9" offset="27.0323562%"></stop>
             <stop stop-color="#651FFF" offset="76.6351303%"></stop>
@@ -13,13 +13,6 @@
     </defs>
     <g id="maplink_nosaw" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="320" height="522"></rect>
-        <text id="Chúng-tôi-tin-rằng-n" opacity="0.270654" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="15" letter-spacing="30" fill="#8C96A8">
-            <tspan x="-63" y="12">chúng tôi </tspan>
-            <tspan x="-63" y="27">tin rằng nếu </tspan>
-            <tspan x="-63" y="42">yêu thương </tspan>
-            <tspan x="-63" y="57">là một khả </tspan>
-            <tspan x="-63" y="72">năng mà ai t</tspan>
-        </text>
         <g id="1" transform="translate(60.000000, 96.000000)">
             <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="20" letter-spacing="-1" fill="#343D51">
                 <tspan x="0" y="19">Chanchan</tspan>
