@@ -16,8 +16,8 @@
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
             <tspan x="30" y="443">……………………………………………………………</tspan>
         </text>
-        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#343D51" text-decoration="underline">
-            <tspan x="62" y="618">Thường</tspan>
+        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#343D51">
+            <tspan x="62" y="617">Thường</tspan>
         </text>
         <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#FFFFFF">
             <tspan x="192" y="616">Fan cứng</tspan>
