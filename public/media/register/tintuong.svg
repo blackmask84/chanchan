@@ -21,7 +21,7 @@
             <tspan x="30" y="438">bạn hoàn thành Chương trình.</tspan>
         </text>
         <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#343D51">
-            <tspan x="62" y="640">Thường</tspan>
+            <tspan x="58" y="642">Thường</tspan>
         </text>
         <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#FFFFFF">
             <tspan x="190" y="640">Fan cứng</tspan>
