@@ -11,6 +11,10 @@
         <filter x="-4.6%" y="-23.1%" width="109.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-2">
             <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
         </filter>
+        <linearGradient x1="-40.4381835%" y1="62.9643238%" x2="127.641461%" y2="34.1649456%" id="linearGradient-3">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
     </defs>
     <g id="dubancolaai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="320" height="298"></rect>
@@ -25,13 +29,12 @@
             <tspan x="30" y="171">cả mọi người /&gt;</tspan>
         </text>
         <path d="M288,211 L288,253 C288,255.761424 285.761424,258 283,258 L33,258 C30.2385763,258 28,255.761424 28,253 L28,211 C28,208.238576 30.2385763,206 33,206 L283,206 C285.761424,206 288,208.238576 288,211 Z" id="Triangle" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)"></path>
-        <path d="M290,209 L290,251 C290,253.761424 287.761424,256 285,256 L35,256 C32.2385763,256 30,253.761424 30,251 L30,209 C30,206.238576 32.2385763,204 35,204 L285,204 C287.761424,204 290,206.238576 290,209 Z" id="Triangle" fill="url(#linearGradient-1)"></path>
-        <polygon id="Line" fill="#FFFFFF" fill-rule="nonzero" opacity="0.3" points="261 229 244 229 244 228 261 228 261 224 270 228.5 261 233"></polygon>
-        <text id="Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#FFFFFF">
-            <tspan x="130" y="235">Đăng ký</tspan>
+        <path d="M290,209 L290,251 C290,253.761424 287.761424,256 285,256 L35,256 C32.2385763,256 30,253.761424 30,251 L30,209 C30,206.238576 32.2385763,204 35,204 L285,204 C287.761424,204 290,206.238576 290,209 Z" id="Triangle" fill="url(#linearGradient-3)"></path>
+        <text id="Tìm-hiểu-về-chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="80" y="235">Tìm hiểu về chanchan</tspan>
         </text>
-        <text id="Tìm-hiểu" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.54" fill="#556279" text-decoration="underline">
-            <tspan x="128" y="293">Tìm hiểu</tspan>
+        <text id="Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.54" fill="#556279" text-decoration="underline">
+            <tspan x="129.5" y="293">Đăng ký</tspan>
         </text>
     </g>
 </svg>
