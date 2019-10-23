@@ -7,11 +7,11 @@
         <text id="Tin-tưởng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" line-spacing="26" letter-spacing="-1.44" fill="#343D51">
             <tspan x="30" y="383">Tin tưởng</tspan>
         </text>
-        <text id="Tiết-kiệm-50%-khi-bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22">
-            <tspan x="30" y="506" fill="#4D5B72">Tiết kiệm 50% khi bạn đăng ký với chế </tspan>
-            <tspan x="30" y="528" fill="#4D5B72">độ Fan cứng.</tspan>
-            <tspan x="113.605957" y="528" fill="#FFFFFF"> </tspan>
-            <tspan x="116.608887" y="528" fill="#5D6A80" text-decoration="underline">Tìm hiểu</tspan>
+        <text id="Tiết-kiệm-cho-tình-y" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22">
+            <tspan x="30" y="506" fill="#5D6A80">Tiết kiệm cho tình yêu 50% khi đăng ký </tspan>
+            <tspan x="30" y="528" fill="#5D6A80">trước.</tspan>
+            <tspan x="69.4189453" y="528" fill="#FFFFFF"> </tspan>
+            <tspan x="72.421875" y="528" fill="#5D6A80" text-decoration="underline">Tìm hiểu</tspan>
         </text>
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
             <tspan x="30" y="467">……………………………………………………………</tspan>
@@ -20,11 +20,8 @@
             <tspan x="30" y="416">Không giới hạn thời gian cho đến khi </tspan>
             <tspan x="30" y="438">bạn hoàn thành Chương trình.</tspan>
         </text>
-        <text id="Thường" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#343D51">
-            <tspan x="58" y="642">Thường</tspan>
-        </text>
-        <text id="Fan-cứng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#FFFFFF">
-            <tspan x="190" y="640">Fan cứng</tspan>
+        <text id="Đăng-ký-trước" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="16" letter-spacing="-0.54" fill="#FFFFFF">
+            <tspan x="106" y="642">Đăng ký trước</tspan>
         </text>
     </g>
 </svg>

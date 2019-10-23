@@ -4,19 +4,28 @@
     <title>slide_event1</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="7.79684971%" y1="-34.6496161%" x2="134.352802%" y2="196.500644%" id="linearGradient-1">
+        <linearGradient x1="-39.8704324%" y1="82.0412641%" x2="268.816186%" y2="-19.3521677%" id="linearGradient-1">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
+        <filter x="-9.2%" y="-26.1%" width="118.5%" height="152.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
     </defs>
     <g id="slide_event1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M159.502139,541.831362 C159.6592,541.988422 159.870627,542.072993 160.076013,542.072993 C160.281399,542.072993 160.492827,541.994463 160.649887,541.831362 L165.832872,536.648377 C166.153033,536.328215 166.153033,535.81475 165.832872,535.494588 C165.512711,535.174427 164.999245,535.174427 164.679084,535.494588 L160.891518,539.288195 L160.891518,522.742512 C160.891518,522.289454 160.529071,521.927007 160.076013,521.927007 C159.622955,521.927007 159.260508,522.289454 159.260508,522.742512 L159.260508,539.288195 L155.466902,535.494588 C155.14674,535.174427 154.633275,535.174427 154.313114,535.494588 C153.992952,535.81475 153.992952,536.328215 154.313114,536.648377 L159.502139,541.831362 Z" id="next" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(160.072993, 532.000000) rotate(-90.000000) translate(-160.072993, -532.000000) "></path>
-        <text id="Chanchan-đang-thấy-c" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="478">Chanchan đang thấy có vài sự kiện có </tspan>
-            <tspan x="30" y="500">thể phù hợp với bạn tối nay. </tspan>
+        <text id="Bạn-có-muốn-ra-ngoài" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="457">Bạn có muốn ra ngoài đi đâu đó không?</tspan>
         </text>
         <text id="Tối-nay-bạn-rảnh" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" line-spacing="24" letter-spacing="-1.44" fill="#343D51">
-            <tspan x="30" y="447">Tối nay bạn rảnh</tspan>
+            <tspan x="30" y="426">Tối nay bạn rảnh </tspan>
+        </text>
+        <rect id="shadow" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="158" y="499" width="130" height="46" rx="4"></rect>
+        <rect id="btn.bg" fill="url(#linearGradient-1)" x="160" y="497" width="130" height="46" rx="4"></rect>
+        <text id="+-Bám-càng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#FFFFFF">
+            <tspan x="185" y="524">+ Bám càng</tspan>
+        </text>
+        <text id="Tạo-sự-kiện" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#DA0093">
+            <tspan x="39" y="525">Tạo sự kiện</tspan>
         </text>
     </g>
 </svg>

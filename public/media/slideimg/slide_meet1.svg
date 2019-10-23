@@ -8,8 +8,8 @@
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
-        <filter x="-6.9%" y="-36.0%" width="113.8%" height="172.0%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        <filter x="-4.6%" y="-24.0%" width="109.2%" height="148.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
         </filter>
         <linearGradient x1="14.866835%" y1="56.0616197%" x2="136.541045%" y2="25.4439101%" id="linearGradient-3">
             <stop stop-color="#F50057" offset="0%"></stop>
@@ -56,7 +56,7 @@
             <tspan x="31" y="393">……………………………………………………………</tspan>
         </text>
         <g id="btn" transform="translate(28.000000, 490.000000)">
-            <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.458007812" filter="url(#filter-2)" x="0" y="2" width="260" height="50" rx="4"></rect>
+            <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.5" filter="url(#filter-2)" x="0" y="2" width="260" height="50" rx="4"></rect>
             <rect id="btn.bg" fill="url(#linearGradient-3)" x="2" y="0" width="260" height="50" rx="4"></rect>
             <g id="Triangle" opacity="0.9" transform="translate(27.650000, 25.000000) rotate(90.000000) translate(-27.650000, -25.000000) ">
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
