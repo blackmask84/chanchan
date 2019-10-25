@@ -13,16 +13,17 @@
         </filter>
     </defs>
     <g id="slide_event1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Bạn-có-muốn-ra-ngoài" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="457">Bạn có muốn ra ngoài đi đâu đó không?</tspan>
+        <text id="Tối-nay-bạn-rảnh.-Bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="435">Tối nay bạn rảnh. Bạn có muốn đến một </tspan>
+            <tspan x="30" y="457">sự kiện với mọi người?</tspan>
         </text>
         <text id="Tối-nay-bạn-rảnh" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" line-spacing="24" letter-spacing="-1.44" fill="#343D51">
-            <tspan x="30" y="426">Tối nay bạn rảnh </tspan>
+            <tspan x="30" y="404">Tối nay bạn rảnh </tspan>
         </text>
         <rect id="shadow" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="158" y="499" width="130" height="46" rx="4"></rect>
         <rect id="btn.bg" fill="url(#linearGradient-1)" x="160" y="497" width="130" height="46" rx="4"></rect>
-        <text id="+-Bám-càng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#FFFFFF">
-            <tspan x="185" y="524">+ Bám càng</tspan>
+        <text id="Mọi-người" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#FFFFFF">
+            <tspan x="190.5" y="524">Mọi người</tspan>
         </text>
         <text id="Tạo-sự-kiện" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#DA0093">
             <tspan x="39" y="525">Tạo sự kiện</tspan>
