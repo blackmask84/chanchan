@@ -3,38 +3,29 @@
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>nangluongsong</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="-39.8704324%" y1="60.2362451%" x2="202.901707%" y2="30.6566725%" id="linearGradient-1">
-            <stop stop-color="#AA00FF" offset="0%"></stop>
-            <stop stop-color="#304FFE" offset="100%"></stop>
-        </linearGradient>
-        <filter x="-3.5%" y="-17.3%" width="106.9%" height="134.6%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
-        </filter>
-    </defs>
     <g id="nangluongsong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Bởi-triển-vọng-được" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="62">Bởi triển vọng được đánh giá qua khả </tspan>
-            <tspan x="30" y="84">năng đến với nhau bằng con người thực </tspan>
-            <tspan x="30" y="106">giữa hai người.</tspan>
+        <text id="Bởi-triển-vọng-được" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="63">Bởi triển vọng được đánh giá </tspan>
+            <tspan x="30" y="85">qua khả năng kết nối </tspan>
+            <tspan x="30" y="107">chân thực giữa hai người.</tspan>
         </text>
-        <text id="Cho-nên-trong-thời-g" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="50" y="143">Cho nên trong thời gian ở trong </tspan>
-            <tspan x="50" y="165">Chương trình, dù có thể chưa gặp </tspan>
-            <tspan x="50" y="187">được bạn đời nhưng những mối quan </tspan>
-            <tspan x="50" y="209">hệ mà bạn gặt hái được sẽ trở thành </tspan>
-            <tspan x="50" y="231">một nguồn năng lượng tích cực cho </tspan>
-            <tspan x="50" y="253">cuộc sống hàng ngày.</tspan>
+        <text id="Cho-nên-trong-thời-g" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="50" y="144">Cho nên trong thời gian ở trong </tspan>
+            <tspan x="50" y="166">Chương trình, dù chưa gặp được </tspan>
+            <tspan x="50" y="188">bạn đời nhưng những mối quan hệ </tspan>
+            <tspan x="50" y="210">mà bạn gặt hái được sẽ trở thành </tspan>
+            <tspan x="50" y="232">một nguồn năng lượng tích cực cho </tspan>
+            <tspan x="50" y="254">cuộc sống hàng ngày.</tspan>
         </text>
-        <text id="/" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="143">/</tspan>
+        <text id="/" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="30" y="144">/</tspan>
         </text>
-        <text id="Bởi-chất-lượng-cuộc" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="292">Bởi chất lượng cuộc sống phụ thuộc </tspan>
-            <tspan x="30" y="314">nhiều vào chất lượng các mối quan hệ &amp; </tspan>
-            <tspan x="30" y="336">chất lượng của các mối quan hệ phụ </tspan>
-            <tspan x="30" y="358">thuộc nhiều vào sự chân thành &amp; tin </tspan>
-            <tspan x="30" y="380">tưởng.</tspan>
+        <text id="Bởi-chất-lượng-cuộc" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="293">Bởi chất lượng cuộc sống phụ thuộc </tspan>
+            <tspan x="30" y="315">nhiều vào chất lượng các mối quan </tspan>
+            <tspan x="30" y="337">hệ &amp; chất lượng của các mối quan hệ </tspan>
+            <tspan x="30" y="359">phụ thuộc nhiều vào sự chân thành &amp; </tspan>
+            <tspan x="30" y="381">tin tưởng.</tspan>
         </text>
         <text id="Năng-lượng-sống" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="20" letter-spacing="-1" fill="#343D51">
             <tspan x="30" y="31">Năng lượng sống</tspan>
@@ -45,14 +36,8 @@
         <text id="Chanchan-có-phù-hợp" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#343D51">
             <tspan x="50" y="464">Chanchan có phù hợp với bạn?</tspan>
         </text>
-        <text id="“" font-family="Georgia-Bold, Georgia" font-size="16" font-weight="bold" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="464">“</tspan>
-        </text>
-        <path d="M288,505 L288,547 C288,549.761424 285.761424,552 283,552 L33,552 C30.2385763,552 28,549.761424 28,547 L28,505 C28,502.238576 30.2385763,500 33,500 L283,500 C285.761424,500 288,502.238576 288,505 Z" id="Triangle" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)"></path>
-        <path d="M290,503 L290,545 C290,547.761424 287.761424,550 285,550 L35,550 C32.2385763,550 30,547.761424 30,545 L30,503 C30,500.238576 32.2385763,498 35,498 L285,498 C287.761424,498 290,500.238576 290,503 Z" id="Triangle" fill="url(#linearGradient-1)"></path>
         <text id="Đăng-ký" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#FFFFFF">
             <tspan x="130" y="529">Đăng ký</tspan>
         </text>
-        <polygon id="Line" fill="#FFFFFF" fill-rule="nonzero" opacity="0.3" points="261.5 524 244.5 524 244.5 523 261.5 523 261.5 519 270.5 523.5 261.5 528"></polygon>
     </g>
 </svg>

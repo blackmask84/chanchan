@@ -14,10 +14,10 @@
         <text id="Kết-thúc" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-1.20000005" fill="#343D51">
             <tspan x="30" y="419">Kết thúc</tspan>
         </text>
-        <text id="Chanchan-đang-thực-h" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
+        <text id="Chanchan-đang-thực-h" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
             <tspan x="30" y="455">Chanchan đang thực hiện tiến trình </tspan>
-            <tspan x="30" y="477">đóng lại hệ thống &amp; ngắt các kết nối của </tspan>
-            <tspan x="30" y="499">của bạn &amp; cô ấy ở Chanchan.</tspan>
+            <tspan x="30" y="477">đóng lại hệ thống &amp; ngắt các kết nối </tspan>
+            <tspan x="30" y="499">của của bạn &amp; cô ấy ở Chanchan.</tspan>
         </text>
         <g id="load" transform="translate(30.000000, 524.000000)">
             <mask id="mask-3" fill="white">

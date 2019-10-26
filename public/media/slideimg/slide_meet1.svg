@@ -24,8 +24,8 @@
         </filter>
     </defs>
     <g id="slide_meet1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
-        <text id="Bạn-đã-gặp-anh-ấy-qu" opacity="0.7" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="20" fill="#343D51">
-            <tspan x="56.6459961" y="182">Bạn đã gặp anh ấy qua 7 sự kiện</tspan>
+        <text id="Bạn-đã-gặp-anh-ấy-qu" opacity="0.7" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="20" fill="#343D51">
+            <tspan x="49.7890625" y="182">Bạn đã gặp anh ấy qua 7 sự kiện</tspan>
         </text>
         <text id="Hải-Anh" opacity="0.7" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="24" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="131.48959" y="157">Hải An</tspan>
@@ -34,19 +34,19 @@
         <text id="Đi-ăn-rồi-lang-thang" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="90" y="239">Đi ăn rồi lang thang phố…</tspan>
         </text>
-        <text id="Sự-kiện-đơn-vào-tối" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#8C96A8">
+        <text id="Sự-kiện-đơn-vào-tối" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#8C96A8">
             <tspan x="90" y="262">Sự kiện đơn vào tối qua</tspan>
         </text>
         <text id="Chạy-bộ-quanh-Hồ-tây" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="91" y="337">Chạy bộ quanh Hồ tây…</tspan>
         </text>
-        <text id="Sự-kiện-nhóm-2-ngày" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#8C96A8">
+        <text id="Sự-kiện-nhóm-2-ngày" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#8C96A8">
             <tspan x="91" y="360">Sự kiện nhóm 2 ngày trước</tspan>
         </text>
         <text id="Liveshow-Lê-cát-trọn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="90" y="435">Liveshow Lê cát trọng lý</tspan>
         </text>
-        <text id="Sự-kiện-đơn-5-ngày-t" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#8C96A8">
+        <text id="Sự-kiện-đơn-5-ngày-t" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#8C96A8">
             <tspan x="90" y="458">Sự kiện đơn 5 ngày trước</tspan>
         </text>
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">

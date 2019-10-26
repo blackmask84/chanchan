@@ -13,9 +13,9 @@
         </filter>
     </defs>
     <g id="slide_event1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Tối-nay-bạn-rảnh.-Bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="435">Tối nay bạn rảnh. Bạn có muốn đến một </tspan>
-            <tspan x="30" y="457">sự kiện với mọi người?</tspan>
+        <text id="Tối-nay-bạn-rảnh.-Bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="435">Tối nay bạn rảnh. Bạn có muốn đến </tspan>
+            <tspan x="30" y="457">một sự kiện với mọi người?</tspan>
         </text>
         <text id="Tối-nay-bạn-rảnh" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" line-spacing="24" letter-spacing="-1.44" fill="#343D51">
             <tspan x="30" y="404">Tối nay bạn rảnh </tspan>

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="364px" height="638px" viewBox="0 0 364 638" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="364px" height="639px" viewBox="0 0 364 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>choice</title>
     <desc>Created with Sketch.</desc>
-    <g id="choice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" line-spacing="22">
-        <text id="Tăng-tốc" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#343D51">
-            <tspan x="52" y="400">Tăng tốc</tspan>
+    <g id="choice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)" line-spacing="22">
+        <text id="Tăng-tốc" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-1.0999999" fill="#343D51">
+            <tspan x="52" y="409">Tăng tốc</tspan>
         </text>
-        <text id="Bằng-cách-ngầm-tăng" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" fill="#4D5B72">
-            <tspan x="52" y="429">Bằng cách ngầm tăng tốc, bạn mong </tspan>
-            <tspan x="52" y="451">muốn có cơ hội gặp Ánh Dương nhiều </tspan>
-            <tspan x="52" y="473">hơn, sẻ chia với cô ấy nhiều hơn trong </tspan>
-            <tspan x="52" y="495">cuộc sống?</tspan>
+        <text id="Bằng-cách-ngầm-tăng" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#4D5B72">
+            <tspan x="52" y="437">Bằng cách ngầm tăng tốc, bạn mong </tspan>
+            <tspan x="52" y="459">muốn có cơ hội gặp Ánh Dương nhiều </tspan>
+            <tspan x="52" y="481">hơn, sẻ chia với cô ấy nhiều hơn?</tspan>
         </text>
     </g>
 </svg>

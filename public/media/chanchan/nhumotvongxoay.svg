@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="378px" viewBox="0 0 320 378" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="386px" viewBox="0 0 320 386" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>nhumotvongxoay</title>
     <desc>Created with Sketch.</desc>
     <g id="nhumotvongxoay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="320" height="378"></rect>
-        <text id="Việc-còn-lại,-những" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="244">Việc còn lại, những tình cảm trong bạn </tspan>
-            <tspan x="30" y="266">sẽ mách bảo ai trong đó là người bạn </tspan>
-            <tspan x="30" y="288">đời mà bạn tìm kiếm. </tspan>
-            <tspan x="30" y="310">Kết quả này luôn có xác nhận của bạn &amp; </tspan>
-            <tspan x="30" y="332">người ấy. Sau khi xác nhận cả hai sẽ </tspan>
-            <tspan x="30" y="354">hoàn thành &amp; kết thúc chương trình.</tspan>
+        <rect fill="#FFFFFF" x="0" y="0" width="320" height="386"></rect>
+        <text id="Việc-còn-lại,-những" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="245">Việc còn lại, những tình cảm trong </tspan>
+            <tspan x="30" y="267">bạn sẽ mách bảo ai trong đó là người </tspan>
+            <tspan x="30" y="289">bạn đời mà bạn tìm kiếm. </tspan>
+        </text>
+        <text id="Kết-quả-này-luôn-có" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
+            <tspan x="30" y="319">Kết quả này luôn có xác nhận của bạn </tspan>
+            <tspan x="30" y="341">&amp; người ấy. Sau khi xác nhận cả hai sẽ </tspan>
+            <tspan x="30" y="363">hoàn thành &amp; kết thúc chương trình.</tspan>
         </text>
         <polygon id="Triangle" fill="#343D51" points="32 35 32 207 30 207 30 35"></polygon>
-        <text id="Chanchan-ngầm-giới-h" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="50" y="83">Chanchan ngầm giới hạn bạn khỏi </tspan>
-            <tspan x="50" y="105">những mối quan hệ ngắn hạn có thể </tspan>
-            <tspan x="50" y="127">mang lại những trải nghiệm tiêu cực.</tspan>
+        <text id="Chanchan-ngầm-giới-h" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
+            <tspan x="50" y="84">Chanchan ngầm giới hạn những </tspan>
+            <tspan x="50" y="106">mối quan hệ ngắn hạn có thể mang </tspan>
+            <tspan x="50" y="128">lại những trải nghiệm tiêu cực.</tspan>
         </text>
         <text id="Như-một-vòng-xoáy" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="22" letter-spacing="-1" fill="#343D51">
             <tspan x="50" y="51">Như một vòng xoáy</tspan>
