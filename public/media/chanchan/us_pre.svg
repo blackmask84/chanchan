@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="508px" viewBox="0 0 320 508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>us_pre</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="10 20 310 20 310 500 10 500"></polygon>
+        <pattern id="pattern-3" width="4.48" height="4.48" x="5.52" y="15.52" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4" transform="scale(0.14,0.14)"></use>
+        </pattern>
+        <image id="image-4" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+    </defs>
+    <g id="us_pre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle">
+            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <use fill-opacity="0.2" fill="url(#pattern-3)" xlink:href="#path-2"></use>
+        </g>
+        <path d="M0,0 L320,0 L320,508 L0,508 L0,0 Z M25,40 C22.2385763,40 20,42.2385763 20,45 L20,479 C20,481.761424 22.2385763,484 25,484 L295,484 C297.761424,484 300,481.761424 300,479 L300,45 C300,42.2385763 297.761424,40 295,40 L25,40 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+    </g>
+</svg>

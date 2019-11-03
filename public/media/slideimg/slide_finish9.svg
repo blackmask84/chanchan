@@ -4,34 +4,39 @@
     <title>slide_finish9</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="0%" y1="58.6284786%" x2="139.523584%" y2="35.8305829%" id="linearGradient-1">
+        <linearGradient x1="0%" y1="53.3597225%" x2="139.523584%" y2="44.4827691%" id="linearGradient-1">
             <stop stop-color="#D500F9" offset="0%"></stop>
             <stop stop-color="#651FFF" offset="100%"></stop>
         </linearGradient>
-        <filter x="-4.6%" y="-24.0%" width="109.2%" height="148.0%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        <filter x="-12.0%" y="-100.0%" width="124.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
         </filter>
+        <linearGradient x1="0%" y1="58.6284786%" x2="139.523584%" y2="35.8305829%" id="linearGradient-3">
+            <stop stop-color="#D500F9" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
     </defs>
     <g id="slide_finish9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="Lời-tạm-biệt" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-1.20000005" fill="#343D51">
-            <tspan x="30" y="269">Lời tạm biệt</tspan>
+            <tspan x="30" y="266">Lời tạm biệt</tspan>
         </text>
-        <text id="Chanchan-chúc-hai-bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="301">Chanchan chúc hai bạn luôn bên </tspan>
-            <tspan x="30" y="323">nhau. Chúc cho tình cảm này còn mãi </tspan>
+        <text id="Chanchan-chúc-hai-bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#4D5B72">
+            <tspan x="30" y="303">Chanchan chúc hai bạn luôn bên </tspan>
+            <tspan x="30" y="324">nhau. Chúc cho tình cảm này còn mãi </tspan>
             <tspan x="30" y="345">bên bạn theo năm tháng. Chanchan </tspan>
-            <tspan x="30" y="367">sẽ nhớ đến hai bạn.</tspan>
+            <tspan x="30" y="366">sẽ nhớ đến hai bạn.</tspan>
         </text>
-        <text id="Nói-lời-tạm-biệt-chư" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="398">Nói lời tạm biệt chương trình</tspan>
-            <tspan x="30" y="420">………………………………………………………</tspan>
-            <tspan x="30" y="442">………………………………………………………</tspan>
+        <text id="Nói-lời-tạm-biệt-chư" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="28" fill="#5D6A80">
+            <tspan x="30" y="403">Nói lời tạm biệt chương trình</tspan>
+            <tspan x="30" y="431">………………………………………………………</tspan>
+            <tspan x="30" y="459">………………………………………………………</tspan>
         </text>
-        <rect id="Rectangle" fill-opacity="0.3" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="28" y="486" width="260" height="50" rx="5"></rect>
-        <rect id="Rectangle" fill="url(#linearGradient-1)" x="30" y="484" width="260" height="50" rx="5"></rect>
-        <path d="M260.15,508.5 L260.25,508.65 L264.15,512.85 C264.25,512.95 264.35,513 264.5,513 C264.65,513 264.75,512.95 264.85,512.85 L272.85,504.55 C273.05,504.35 273.05,504.05 272.85,503.85 L272.15,503.15 C271.95,502.95 271.65,502.95 271.45,503.15 L271.4,503.15 L264.7,510.1 C264.6,510.2 264.45,510.2 264.35,510.1 L261.6,507.15 L261.55,507.1 C261.35,506.9 261.05,506.9 260.85,507.1 L260.15,507.8 C260.05,507.9 260,508.05 260,508.15 C260,508.25 260.05,508.4 260.15,508.5 Z" id="check" fill="#FFFFFF" opacity="0.6"></path>
-        <text id="Cảm-ơn-Chanchan" opacity="0.92" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#FFFFFF">
-            <tspan x="98" y="513">Cảm ơn Chanchan</tspan>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.72" filter="url(#filter-2)" transform="translate(155.000000, 518.000000) scale(-1, 1) translate(-155.000000, -518.000000) " x="30" y="503" width="250" height="30" rx="5"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-3)" transform="translate(160.000000, 509.000000) scale(-1, 1) translate(-160.000000, -509.000000) " x="30" y="484" width="260" height="50" rx="5"></rect>
+        <path d="M260.15,507.5 L260.25,507.65 L264.15,511.85 C264.25,511.95 264.35,512 264.5,512 C264.65,512 264.75,511.95 264.85,511.85 L272.85,503.55 C273.05,503.35 273.05,503.05 272.85,502.85 L272.15,502.15 C271.95,501.95 271.65,501.95 271.45,502.15 L271.4,502.15 L264.7,509.1 C264.6,509.2 264.45,509.2 264.35,509.1 L261.6,506.15 L261.55,506.1 C261.35,505.9 261.05,505.9 260.85,506.1 L260.15,506.8 C260.05,506.9 260,507.05 260,507.15 C260,507.25 260.05,507.4 260.15,507.5 Z" id="check" fill="#FFFFFF" opacity="0.6"></path>
+        <text id="Cảm-ơn-Chanchan" opacity="0.92" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="91.7831643" y="513">Cảm ơn Chancha</tspan>
+            <tspan x="217.749062" y="513">n</tspan>
         </text>
     </g>
 </svg>

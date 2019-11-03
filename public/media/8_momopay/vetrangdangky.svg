@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="252px" viewBox="0 0 320 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>vetrangdangky</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-69.8246243%" y1="219.251809%" x2="229.335428%" y2="-228.278237%" id="linearGradient-1">
+            <stop stop-color="#BE1D78" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M40,95 C34.4771525,95 30,90.5228475 30,85 C30,79.4771525 34.4771525,75 40,75 C45.5228475,75 50,79.4771525 50,85 C50,90.5228475 45.5228475,95 40,95 Z M42.75,85.0000152 C42.75,84.8357908 42.6901123,84.6715257 42.5702981,84.546212 L38.7987138,80.6048046 C38.5587943,80.353954 38.1698058,80.353954 37.9299833,80.6048046 C37.6901609,80.8554117 37.6901609,81.2618039 37.9299833,81.5125328 L41.2671733,85.0000152 L37.9298669,88.4874774 C37.6900444,88.7382265 37.6900444,89.1446593 37.9298669,89.3952867 C38.1696894,89.6460155 38.5586778,89.6460155 38.7985973,89.3952867 L42.5701817,85.4538184 C42.6899764,85.3285656 42.75,85.1643005 42.75,85.0000152 Z" id="path-2"></path>
+        <filter x="-10.0%" y="-10.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="vetrangdangky" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Trong-trường-hợp-bạn" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="172">Trong trường hợp bạn cần hỗ trợ bạn </tspan>
+            <tspan x="30" y="193">hãy liên hệ với chúng tôi qua các </tspan>
+            <tspan x="30" y="214">kênh dưới đây</tspan>
+        </text>
+        <text id="Về-trang-Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#343D51">
+            <tspan x="64" y="91">Về trang Đăng ký</tspan>
+        </text>
+        <g id="Oval-2" transform="translate(40.000000, 85.000000) scale(-1, 1) translate(-40.000000, -85.000000) ">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="30" y="45">……………………………………………………………</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="30" y="125">……………………………………………………………</tspan>
+        </text>
+    </g>
+</svg>

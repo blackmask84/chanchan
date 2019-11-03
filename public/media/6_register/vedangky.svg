@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="827px" viewBox="0 0 320 827" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>vedangky</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="129.745585%" x2="112.37481%" y2="-33.6417308%" id="linearGradient-1">
+            <stop stop-color="#1E88E5" offset="0%"></stop>
+            <stop stop-color="#039BE5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M58,516 C53.5889231,516 50,519.588615 50,524 C50,528.411385 53.5889231,532 58,532 C62.4110769,532 66,528.411385 66,524 C66,519.588615 62.4110769,516 58,516 Z M62.46,521.332 L57.5369231,526.870462 C57.4156923,527.006769 57.2467692,527.076923 57.0766154,527.076923 C56.9415385,527.076923 56.8058462,527.032615 56.6923077,526.942154 L53.6153846,524.480615 C53.3501538,524.268615 53.3070769,523.881231 53.5193846,523.615692 C53.7313846,523.350154 54.1190769,523.307077 54.3843077,523.519385 L57.0049231,525.615692 L61.54,520.513846 C61.7652308,520.259692 62.1547692,520.236923 62.4086154,520.462769 C62.6627692,520.688923 62.6858462,521.077846 62.46,521.332 Z" id="path-2"></path>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M58,719 C53.5889231,719 50,722.588615 50,727 C50,731.411385 53.5889231,735 58,735 C62.4110769,735 66,731.411385 66,727 C66,722.588615 62.4110769,719 58,719 Z M58.9357041,722.354259 L58.9357041,728.023185 C58.933636,728.205592 58.8521732,728.369361 58.7237565,728.480992 C58.6218126,728.569611 58.4903359,728.625193 58.3452992,728.631409 L54.4082013,728.792306 C54.0689446,728.806314 53.7822869,728.542212 53.7683086,728.202521 C53.7540981,727.863033 54.0184322,727.576173 54.3578908,727.562397 L57.7109959,727.425222 L57.7109959,722.354259 C57.7142398,722.014682 58.0055507,721.696206 58.3452992,721.700117 C58.6854818,721.704057 58.9394125,722.014278 58.9357041,722.354259 Z" id="path-4"></path>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="vedangky" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="320" height="827"></rect>
+        <g id="Shape">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+        <text id="Phí-khởi-tạo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="50" y="419">Phí khởi tạo</tspan>
+        </text>
+        <text id="1.280.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="24" font-weight="400" letter-spacing="-1.2" fill="#1E88E5">
+            <tspan x="80" y="531">1.280.000 VND</tspan>
+        </text>
+        <text id="Dành-cho-hoạt-động-t" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="50" y="446">Dành cho hoạt động thiết kế &amp; </tspan>
+            <tspan x="50" y="467">khởi tạo Chương trình của bạn từ </tspan>
+            <tspan x="50" y="488">các Chuyên gia.</tspan>
+        </text>
+        <polygon id="Triangle" fill="#343D51" points="32 407 32 565 30 565 30 407"></polygon>
+        <text id="Thanh-toán-khi-Đăng" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#5D6A80">
+            <tspan x="80" y="561">Thanh toán khi Đăng ký.</tspan>
+        </text>
+        <text id="Phí-vận-hành" opacity="0.64" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#5D6A80">
+            <tspan x="50" y="622">Phí vận hành</tspan>
+        </text>
+        <text id="960.000-VND-/-THÁNG" opacity="0.64" font-family="Oswald-Regular_Medium, Oswald" font-size="24" font-weight="400" letter-spacing="-1.2" fill="#5D6A80">
+            <tspan x="80" y="734">960.000 VND / THÁNG </tspan>
+        </text>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="30" y="280">……………………………………………………………</tspan>
+        </text>
+        <text id="Dành-cho-hoạt-động-v" opacity="0.64" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#5D6A80">
+            <tspan x="50" y="649">Dành cho hoạt động vận hành </tspan>
+            <tspan x="50" y="670">Chương trình của bạn bởi các </tspan>
+            <tspan x="50" y="691">Chuyên gia </tspan>
+        </text>
+        <text id="Thanh-toán-sau-theo" opacity="0.64" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#5D6A80">
+            <tspan x="80" y="764">Thanh toán sau theo thời gian </tspan>
+            <tspan x="80" y="785">ở trong Chương trình.</tspan>
+        </text>
+        <g id="Shape" opacity="0.64">
+            <use fill="#8C96A8" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+        </g>
+        <text id="Điều-kiện-đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="168">Điều kiện đăng ký</tspan>
+        </text>
+        <text id="Bạn-hiện-đang-sinh-s" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="199">Bạn hiện đang sinh sống làm việc tại </tspan>
+            <tspan x="30" y="220">Việt Nam có độ tuổi 20 - 45 &amp; hiện </tspan>
+            <tspan x="30" y="241">đang độc thân.</tspan>
+        </text>
+        <text id=".-.-.-.-.-.-.-.-.-." opacity="0.64" font-family="Georgia-Bold, Georgia" font-size="16" font-weight="bold" line-spacing="8" fill="#5D6A80">
+            <tspan x="29" y="611">.</tspan>
+            <tspan x="29" y="619">.</tspan>
+            <tspan x="29" y="627">.</tspan>
+            <tspan x="29" y="635">.</tspan>
+            <tspan x="29" y="643">.</tspan>
+            <tspan x="29" y="651">.</tspan>
+            <tspan x="29" y="659">.</tspan>
+            <tspan x="29" y="667">.</tspan>
+            <tspan x="29" y="675">.</tspan>
+            <tspan x="29" y="683">.</tspan>
+            <tspan x="29" y="691">.</tspan>
+            <tspan x="29" y="699">.</tspan>
+            <tspan x="29" y="707">.</tspan>
+            <tspan x="29" y="715">.</tspan>
+            <tspan x="29" y="723">.</tspan>
+            <tspan x="29" y="731">.</tspan>
+            <tspan x="29" y="739">.</tspan>
+            <tspan x="29" y="747">.</tspan>
+            <tspan x="29" y="755">.</tspan>
+            <tspan x="29" y="763">.</tspan>
+            <tspan x="29" y="771">.</tspan>
+            <tspan x="29" y="779">.</tspan>
+            <tspan x="29" y="787">.</tspan>
+        </text>
+        <text id="Về-chương-trình" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="328">Về chương trình</tspan>
+        </text>
+        <text id="Chanchan-là-Chương-t" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="359">Chanchan là Chương trình trả phí. Phí </tspan>
+            <tspan x="30" y="380">chương trình gồm có</tspan>
+        </text>
+        <text id="—-Thông-tin-bạn-cần" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
+            <tspan x="30" y="93">— Thông tin bạn cần biết trước khi </tspan>
+            <tspan x="30" y="113">Đăng ký.</tspan>
+        </text>
+        <text id="Về-đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
+            <tspan x="30" y="61">Về đăng ký</tspan>
+        </text>
+    </g>
+</svg>

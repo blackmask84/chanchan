@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="460px" viewBox="0 0 320 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>cachhoatdong</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#FFFFFF">
+            <tspan x="45" y="279">Cách hoạt động của Chương </tspan>
+            <tspan x="45" y="303">trình có phù hợp với bạn?</tspan>
+        </text>
+        <filter x="-3.9%" y="-10.4%" width="106.1%" height="129.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="cachhoatdong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="130.285137" y="370">Đăng ký</tspan>
+        </text>
+        <g id="Cách-hoạt-động-của-C" opacity="0.9" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+            <use xlink:href="#text-1"></use>
+        </g>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
+            <tspan x="0" y="2">…………………………………………………………………………</tspan>
+        </text>
+    </g>
+</svg>

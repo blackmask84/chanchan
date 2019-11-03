@@ -1,115 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="530px" viewBox="0 0 320 530" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="544px" viewBox="0 0 320 544" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>slide_finish_overlay9</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <circle id="path-1" cx="3.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <circle id="path-3" cx="16.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-4">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <circle id="path-5" cx="29.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-6">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <circle id="path-7" cx="42.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-8">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <circle id="path-9" cx="55.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-10">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <circle id="path-11" cx="68.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-12">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <circle id="path-13" cx="81.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-14">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <circle id="path-15" cx="94.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-16">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="13.729807%" y1="100%" x2="116.141476%" y2="-195.319758%" id="linearGradient-17">
-            <stop stop-color="#F50057" offset="0%"></stop>
-            <stop stop-color="#AA00FF" offset="100%"></stop>
+        <linearGradient x1="-85.6038195%" y1="161.244928%" x2="136.589411%" y2="-28.0260959%" id="linearGradient-1">
+            <stop stop-color="#FFC107" offset="0%"></stop>
+            <stop stop-color="#F57F17" offset="100%"></stop>
         </linearGradient>
-        <circle id="path-18" cx="107.5" cy="3.5" r="3.5"></circle>
-        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-19">
-            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+        <rect id="path-2" x="222" y="518" width="24" height="24" rx="2.5"></rect>
+        <filter x="-8.3%" y="-8.3%" width="116.7%" height="116.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-4" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#FFFFFF">
+            <tspan x="229.984" y="537">9</tspan>
+        </text>
+        <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="slide_finish_overlay9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="load" transform="translate(104.000000, 511.000000)">
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-            </g>
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-3"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
-            </g>
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-5"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-            </g>
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-7"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
-            </g>
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-9"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-            </g>
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-11"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-            </g>
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-13"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
-            </g>
-            <g id="Oval">
-                <use fill="#343D51" fill-rule="evenodd" xlink:href="#path-15"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
-            </g>
-            <g id="Oval">
-                <use fill="url(#linearGradient-17)" fill-rule="evenodd" xlink:href="#path-18"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
-            </g>
+        <g id="Rectangle">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+        <text id="1" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="38.832" y="537">1</tspan>
+        </text>
+        <text id="2" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="62.176" y="537">2</tspan>
+        </text>
+        <text id="3" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="86.184" y="537">3</tspan>
+        </text>
+        <text id="4" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="110.136" y="537">4</tspan>
+        </text>
+        <text id="5" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="134.192" y="537">5</tspan>
+        </text>
+        <text id="2" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="62.176" y="537">2</tspan>
+        </text>
+        <text id="3" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="86.184" y="537">3</tspan>
+        </text>
+        <text id="4" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="110.136" y="537">4</tspan>
+        </text>
+        <text id="5" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="134.192" y="537">5</tspan>
+        </text>
+        <text id="6" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="157.976" y="537">6</tspan>
+        </text>
+        <text id="7" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="182.912" y="537">7</tspan>
+        </text>
+        <text id="8" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
+            <tspan x="206.008" y="537">8</tspan>
+        </text>
+        <g id="9" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+            <use xlink:href="#text-4"></use>
         </g>
     </g>
 </svg>

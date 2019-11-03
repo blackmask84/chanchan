@@ -1,67 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="822px" viewBox="0 0 320 822" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="811px" viewBox="0 0 320 811" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>chanchanla</title>
     <desc>Created with Sketch.</desc>
     <g id="chanchanla" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="320" height="822"></rect>
-        <text id="Những-sự-kiện-ở-Chan" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="23">Những sự kiện ở Chanchan được tạo </tspan>
-            <tspan x="30" y="45">bởi mọi người để </tspan>
-            <tspan x="149.757812" y="45" text-decoration="underline">chia sẻ với nhau </tspan>
-            <tspan x="30" y="67" text-decoration="underline">việc mình muốn làm vào thời gian </tspan>
-            <tspan x="30" y="89" text-decoration="underline">rảnh.</tspan>
+        <text id="Chương-trình-của-mỗi" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
+            <tspan x="30" y="187">Chương trình của mỗi Thành viên </tspan>
+            <tspan x="30" y="207">được thiết kế riêng bởi Chuyên gia.</tspan>
         </text>
-        <text id="Thành-viên-tham-dự-s" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22">
-            <tspan x="50" y="217" fill="#4D5B72">Thành viên tham dự sẽ do </tspan>
-            <tspan x="50" y="239" fill="#4D5B72">chanchan ngầm chọn</tspan>
-            <tspan x="199.929688" y="239" fill="#FFFFFF"> </tspan>
-            <tspan x="203.132812" y="239" fill="#556279">để mọi </tspan>
-            <tspan x="50" y="261" fill="#556279">người gặp được đối phương có </tspan>
-            <tspan x="50" y="283" fill="#556279">nhiều triển vọng gắn bó nhất với </tspan>
-            <tspan x="50" y="305" fill="#556279">mình ở đó.</tspan>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="30" y="246">……………………………………………………………</tspan>
         </text>
-        <text id="Điều-này-là-tình-cờ." font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="50" y="338">Điều này là tình cờ. Cả hai không </tspan>
-            <tspan x="50" y="360">biết đối phương là ai cho đến khi </tspan>
-            <tspan x="50" y="382">cùng có mặt ở Sự kiện.</tspan>
+        <text id="Chanchan-là-một-chươ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="63">Chanchan là một chương trình kết nối </tspan>
+            <tspan x="30" y="84">hoạt động trên Ứng dụng mobile </tspan>
+            <tspan x="30" y="105">được thiết kế &amp; vận hành bởi</tspan>
         </text>
-        <text id="Tại-sự-kiện-này" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="18" letter-spacing="-0.479999989" fill="#343D51">
-            <tspan x="50" y="187">Tại sự kiện này</tspan>
+        <text id="Những-Chuyên-gia-về" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="136">Những Chuyên gia về Tâm lý, Thiết </tspan>
+            <tspan x="30" y="157">kế &amp; Công nghệ.</tspan>
         </text>
-        <text id="Ví-dụ-cùng-nhau-cafe" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="50" y="126">Ví dụ cùng nhau cafe, cùng đi ăn, </tspan>
-            <tspan x="50" y="148">xem phim, nghe nhạc, dã ngoại… </tspan>
+        <text id="—-Đơn-giản" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#343D51">
+            <tspan x="30" y="490">— Đơn giản</tspan>
         </text>
-        <text id="—" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="126">—</tspan>
+        <text id="01" font-family="Oswald-Regular_Medium, Oswald" font-size="40" font-weight="400" letter-spacing="-2" fill="#3D5AFE">
+            <tspan x="30" y="455">01</tspan>
         </text>
-        <polygon id="Triangle" fill="#343D51" points="32 175 32 383 30 383 30 175"></polygon>
-        <text id="Bạn-không-cần-phải-c" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="577">Bạn không cần phải cảm thấy đơn </tspan>
-            <tspan x="30" y="599">phương theo đuổi một ai đó.</tspan>
+        <text id="Bạn-không-cần-cảm-th" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
+            <tspan x="30" y="535">Bạn không cần cảm thấy mình phải </tspan>
+            <tspan x="30" y="556">tốt hơn để được yêu &amp; tin tưởng</tspan>
+            <tspan x="262.870429" y="556">.</tspan>
         </text>
-        <text id="Bởi-kết-nối-dựa-trên" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="629">Bởi kết nối dựa trên triển vọng, nên </tspan>
-            <tspan x="30" y="651">Chanchan ngầm tăng tốc những lần </tspan>
-            <tspan x="30" y="673">tình cờ gặp lại của bạn &amp; đối phương </tspan>
-            <tspan x="30" y="695">khi triển vọng của hai người ngày </tspan>
-            <tspan x="30" y="717">càng bộc lộ rõ ràng.</tspan>
+        <text id="Chanchan-tự-tìm-ra-n" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="620">Chanchan tự tìm ra những Thành viên </tspan>
+            <tspan x="30" y="641">có triển vọng với bạn qua</tspan>
         </text>
-        <text id="/" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="30" y="754">/</tspan>
+        <text id="/" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" fill="#343D51">
+            <tspan x="30" y="588">/</tspan>
         </text>
-        <text id="Càng-có-nhiều-triển" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#5D6A80">
-            <tspan x="50" y="754">Càng có nhiều triển vọng với ai, </tspan>
-            <tspan x="50" y="776">bạn &amp; người ấy càng “va” phải </tspan>
-            <tspan x="50" y="798">nhau càng nhiều qua các Sự kiện.</tspan>
+        <text id="Bạn-đơn-giản-là-chín" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="50" y="589">Bạn đơn giản là chính mình.</tspan>
         </text>
-        <text id="Tốc-độ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" line-spacing="22" letter-spacing="-1" fill="#343D51">
-            <tspan x="30" y="543">Tốc độ</tspan>
+        <text id="Trực-giác,-cảm-nhận" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
+            <tspan x="60" y="673">Trực giác, cảm nhận về nhau qua </tspan>
+            <tspan x="60" y="693">cái nhìn đầu tiên.</tspan>
         </text>
-        <path d="M3.47488281,502.48 C1.58154001,502.48 0.0148890125,502.080004 -1.22511719,501.28 C-2.46512339,500.479996 -3.39844739,499.37334 -4.02511719,497.96 C-4.65178699,496.54666 -4.96511719,494.920009 -4.96511719,493.08 L-4.96511719,478.72 C-4.96511719,476.826657 -4.66512019,475.166674 -4.06511719,473.74 C-3.46511419,472.313326 -2.54512339,471.200004 -1.30511719,470.4 C-0.0651109875,469.599996 1.52820641,469.2 3.47488281,469.2 C5.42155921,469.2 7.01487661,469.599996 8.25488281,470.4 C9.49488901,471.200004 10.4148798,472.313326 11.0148828,473.74 C11.6148858,475.166674 11.9148828,476.826657 11.9148828,478.72 L11.9148828,493.08 C11.9148828,494.920009 11.6015526,496.54666 10.9748828,497.96 C10.348213,499.37334 9.41488901,500.479996 8.17488281,501.28 C6.93487661,502.080004 5.36822561,502.48 3.47488281,502.48 Z M3.47488281,497.72 C4.30155361,497.72 4.91488081,497.466669 5.31488281,496.96 C5.71488481,496.453331 5.98154881,495.840004 6.11488281,495.12 C6.24821681,494.399996 6.31488281,493.693337 6.31488281,493 L6.31488281,478.8 C6.31488281,478.05333 6.25488341,477.313337 6.13488281,476.58 C6.01488221,475.846663 5.75488481,475.226669 5.35488281,474.72 C4.95488081,474.213331 4.32822041,473.96 3.47488281,473.96 C2.62154521,473.96 1.99488481,474.213331 1.59488281,474.72 C1.19488081,475.226669 0.934883412,475.846663 0.814882812,476.58 C0.694882212,477.313337 0.634882812,478.05333 0.634882812,478.8 L0.634882812,493 C0.634882812,493.693337 0.708215412,494.399996 0.854882812,495.12 C1.00155021,495.840004 1.27488081,496.453331 1.67488281,496.96 C2.07488481,497.466669 2.67487881,497.72 3.47488281,497.72 Z M22.1561523,502.48 C20.1294755,502.48 18.4961585,502.100004 17.2561523,501.34 C16.0161461,500.579996 15.1161551,499.500007 14.5561523,498.1 C13.9961495,496.699993 13.7161523,495.066676 13.7161523,493.2 L13.7161523,492.08 L19.1961523,492.08 L19.1961523,493.04 C19.2228191,494.053338 19.3161515,494.919996 19.4761523,495.64 C19.6361531,496.360004 19.9361501,496.906665 20.3761523,497.28 C20.8161545,497.653335 21.4228151,497.84 22.1961523,497.84 C23.0228231,497.84 23.6428169,497.640002 24.0561523,497.24 C24.4694877,496.839998 24.7494849,496.253337 24.8961523,495.48 C25.0428197,494.706663 25.1161523,493.786672 25.1161523,492.72 C25.1161523,491.066658 24.8561549,489.766671 24.3361523,488.82 C23.8161497,487.873329 22.8094931,487.36 21.3161523,487.28 L20.3961523,487.28 L20.3961523,482.84 L21.2361523,482.84 C22.7028263,482.813333 23.7161495,482.420004 24.2761523,481.66 C24.8361551,480.899996 25.1161523,479.680008 25.1161523,478 C25.1161523,476.639993 24.9094877,475.573337 24.4961523,474.8 C24.0828169,474.026663 23.2894915,473.64 22.1161523,473.64 C20.9694799,473.64 20.2028209,474.066662 19.8161523,474.92 C19.4294837,475.773338 19.2228191,476.879993 19.1961523,478.24 L19.1961523,479.44 L13.7161523,479.44 L13.7161523,477.88 C13.7161523,476.039991 14.0428157,474.47334 14.6961523,473.18 C15.3494889,471.88666 16.3028127,470.900003 17.5561523,470.22 C18.8094919,469.539997 20.3294767,469.2 22.1161523,469.2 C23.9561615,469.2 25.5028127,469.53333 26.7561523,470.2 C28.0094919,470.86667 28.9628157,471.833327 29.6161523,473.1 C30.2694889,474.366673 30.5961523,475.919991 30.5961523,477.76 C30.5961523,479.68001 30.1961563,481.253327 29.3961523,482.48 C28.5961483,483.706673 27.5694919,484.506665 26.3161523,484.88 C27.1694899,485.146668 27.9161491,485.606663 28.5561523,486.26 C29.1961555,486.913337 29.6961505,487.766661 30.0561523,488.82 C30.4161541,489.873339 30.5961523,491.146659 30.5961523,492.64 C30.5961523,494.586676 30.3228217,496.299993 29.7761523,497.78 C29.2294829,499.260007 28.3361585,500.413329 27.0961523,501.24 C25.8561461,502.066671 24.2094959,502.48 22.1561523,502.48 Z" id="03" fill="#E91E63" fill-rule="nonzero"></path>
-        <text id="……………………………………………………" opacity="0.5" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#8C96A8">
-            <tspan x="30" y="427">……………………………………………………………</tspan>
+        <text id="Những-phân-tích-&amp;-đá" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
+            <tspan x="60" y="725">Những phân tích &amp; đánh giá của </tspan>
+            <tspan x="60" y="745">Chuyên gia về xu hướng hoà hợp, </tspan>
+            <tspan x="60" y="765">khả năng bên nhau dài lâu trong </tspan>
+            <tspan x="60" y="785">cuộc sống giữa hai người.</tspan>
+        </text>
+        <text id="Những-giá-trị-khác-b" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="290">Những giá trị khác biệt mà bạn chỉ </tspan>
+            <tspan x="30" y="311">thấy có ở Chanchan.</tspan>
         </text>
     </g>
 </svg>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="452px" viewBox="0 0 320 452" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="460px" viewBox="0 0 320 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>bg_info_popup01</title>
     <desc>Created with Sketch.</desc>
     <g id="bg_info_popup01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Vui-lòng-cung-cấp-ch" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5" font-weight="normal" line-spacing="19" letter-spacing="-0.135" fill="#556279">
-            <tspan x="40" y="227">Vui lòng cung cấp cho Chanchan những </tspan>
-            <tspan x="40" y="246">thông tin cơ bản</tspan>
+        <text id="Vui-lòng-cung-cấp-ch" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#556279">
+            <tspan x="40" y="227">Vui lòng cung cấp cho Chanchan </tspan>
+            <tspan x="40" y="248">những thông tin cơ bản</tspan>
         </text>
-        <text id="Thông-tin" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="28" font-weight="500" letter-spacing="-1.955883" fill="#343D51">
-            <tspan x="40" y="195">Thông tin</tspan>
+        <text id="Thông-tin" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
+            <tspan x="40" y="194">Thông tin</tspan>
         </text>
-        <text id="…………………………….……………………" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5" font-weight="normal" line-spacing="19" letter-spacing="-0.135" fill="#DADFE7">
-            <tspan x="40" y="315">…………………………….…………………………….……………</tspan>
+        <text id="……………………………………………………" opacity="0.5" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#8C96A8">
+            <tspan x="40" y="315">………………………………………………………</tspan>
         </text>
-        <text id="…………………………….……………………" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5" font-weight="normal" line-spacing="19" letter-spacing="-0.135" fill="#DADFE7">
-            <tspan x="40" y="382">…………………………….…………………………….……………</tspan>
+        <text id="……………………………………………………" opacity="0.5" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#8C96A8">
+            <tspan x="40" y="382">………………………………………………………</tspan>
         </text>
         <text id="…………………………….……………………" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="13.5" font-weight="normal" line-spacing="19" letter-spacing="-0.135" fill="#DADFE7">
             <tspan x="40" y="449">…………………………….…………………………….……………</tspan>

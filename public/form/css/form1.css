@@ -127,12 +127,13 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup_register .register_choose .name {
     display: block;
     position: absolute;
-    top: -3.2%;
+    top: -27.2%;
     left: 12.5%;
     z-index: 1;
-    text-shadow: -0.5vw 0.5vw 2vw rgba(0, 0, 0, 0.5);
+    /* text-shadow: -0.5vw 0.5vw 2vw rgba(0, 0, 0, 0.5); */
     color: #fff;
     font-size: 8.9vw;
+    opacity: 0;
     letter-spacing: -0.066em;
     font-weight: 500;
   }
@@ -140,15 +141,15 @@ table{border-collapse:collapse;border-spacing:0}
     z-index: 10;
   }
   .form-mobile .popup_register .register_choose .btn_register_more, .form-mobile .popup_register .register_choose .btn_register_now {
-    left: 9%;
-    width: 81.5%;
-    height: 15%;
+    left: 12%;
+    width: 75.5%;
+    height: 24%;
   }
   .form-mobile .popup_register .register_choose .btn_register_more {
-    bottom: 28.5%;
+    bottom: 36.5%;
   }
   .form-mobile .popup_register .register_choose .btn_register_now {
-    bottom: 6.5%;
+    bottom: 7.5%;
   }
   .form-mobile .popup_info .btn_back {
     right: auto;
@@ -203,9 +204,9 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup_info .info_ct .btn_info {
     top: auto;
     bottom: 33%;
-    right: 10%;
-    width: 38%;
-    height: 45%;
+    right: 12%;
+    width: 44%;
+    height: 46%;
     z-index: 10;
   }
   .form-mobile .popup_info .info_ct input, .form-mobile .popup_info .info_ct textarea {
@@ -216,24 +217,24 @@ table{border-collapse:collapse;border-spacing:0}
     padding: 3% 1%;
     border: none;
     color: #5D6A80;
-    font-size: 4.9vw;
+    font-size: 6vw;
     font-weight: 500;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.06em;
     -webkit-tap-highlight-color: transparent;
     /* border: 1px solid red; */
     /* background: transparent; */
   }
   .form-mobile .popup_info .info_ct textarea {
-    line-height: 5.9vw;
+    line-height: 6.8vw;
   }
   .form-mobile .popup_info .info_ct input#info_name {
-    top: 58.4%;
+    top: 57.3%;
   }
   .form-mobile .popup_info .info_ct input#info_phone {
-    top: 73.3%;
+    top: 71.9%;
   }
   .form-mobile .popup_info .info_ct input#info_codegift {
-    top: 87.9%;
+    top: 86.2%;
   }
   .form-mobile .popup_info .info_ct input#info_codegift:-webkit-input-placeholder {
     color: #BDC4D0;
@@ -249,20 +250,20 @@ table{border-collapse:collapse;border-spacing:0}
   }
   .form-mobile .popup_info .info_ct02 input, .form-mobile .popup_info .info_ct02 textarea {
     font-weight: 400;
-    font-size: 4.4vw;
-    letter-spacing: -0.048em;
+    font-size: 5vw;
+    letter-spacing: -0.03em;
   }
   .form-mobile .popup_info .info_ct02 input#info_province {
-    top: 37.8%;
+    top: 37.7%;
   }
   .form-mobile .popup_info .info_ct02 input#info_district {
-    top: 53.2%;
+    top: 52.9%;
   }
   .form-mobile .popup_info .info_ct02 input#info_village {
-    top: 68.7%;
+    top: 68%;
   }
   .form-mobile .popup_info .info_ct02 textarea#info_numhouse {
-    top: 83.8%;
+    top: 82.7%;
   }
   .form-mobile .popup_info .info_bg {
     top: 0;
@@ -295,7 +296,7 @@ table{border-collapse:collapse;border-spacing:0}
   }
   .form-mobile .popup_notifi .txt {
     color: #5d6a80;
-    font-size: 3.75vw;
+    font-size: 4vw;
     font-weight: 400;
   }
   

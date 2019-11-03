@@ -18,7 +18,7 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/desk', function (req, res) {
-    res.sendFile(__dirname + '/public/seeu-pc.html');
+    res.sendFile(__dirname + '/public/8_seeupc.html');
 });
 app.get('/tieuchuanvanhanh', function (req, res) {
     res.sendFile(__dirname + '/public/2_tieuchuan.html');
@@ -35,19 +35,16 @@ app.get('/hieuthemvechanchan', function (req, res) {
 app.get('/dangkythanhvienmoi', function (req, res) {
     res.sendFile(__dirname + '/public/6_register.html');
 });
+app.get('/timhieuchuongtrinh', function (req, res) {
+    res.sendFile(__dirname + '/public/7_program.html');
+});
+app.get('/thanhtoanquamomo', function (req, res) {
+    res.sendFile(__dirname + '/public/8_momopay.html');
+});
 
 // get form
 
-app.get('/03month-popup', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-app.get('/03monthlove-popup', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-app.get('/06month-popup', function (req, res) {
-    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
-});
-app.get('/06monthlove-popup', function (req, res) {
+app.get('/creat-popup', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
 

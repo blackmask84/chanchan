@@ -10,42 +10,41 @@
         </linearGradient>
     </defs>
     <g id="slide_event5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Cafe-bóc-phốt-tình-c" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="20" letter-spacing="-0.479999989" fill="#343D51">
-            <tspan x="80" y="41">Cafe bóc phốt tình cũ</tspan>
+        <text id="Cafe-bóc-phốt-tình-c" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" letter-spacing="-0.479999989" fill="#343D51">
+            <tspan x="80" y="42">Cafe bóc phốt tình cũ</tspan>
         </text>
-        <text id="08:30-Tối-nay-tại-Cộ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" line-spacing="14" fill="#5D6A80">
-            <tspan x="80" y="68">08:30 Tối nay tại Cộng cafe…</tspan>
+        <text id="08:30-Tối-nay-tại-Cộ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" fill="#5D6A80">
+            <tspan x="80" y="64">08:30 Tối nay tại Cộng cafe…</tspan>
         </text>
-        <text id="Uầy-!" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+        <text id="Uầy-!" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#FFFFFF">
             <tspan x="70" y="104">Uầy !</tspan>
         </text>
-        <text id="Thấy-trời-báo-mưa.-M" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#FFFFFF">
-            <tspan x="70" y="150">Thấy trời báo mưa. Mang </tspan>
-            <tspan x="70" y="172">áo mưa theo nhé các tình </tspan>
-            <tspan x="70" y="194">yêu.</tspan>
+        <text id="Thấy-trời-báo-mưa.-M" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+            <tspan x="70" y="151">Thấy trời báo mưa. Mang </tspan>
+            <tspan x="70" y="172">áo mưa nhé các tình yêu.</tspan>
         </text>
-        <text id="Căng!-Đã-đến-nơi-rồi" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#FFFFFF">
-            <tspan x="70" y="264">Căng! Đã đến nơi rồi nhé</tspan>
+        <text id="Căng!-Đã-đến-rồi-nhé" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#FFFFFF">
+            <tspan x="70" y="264">Căng! Đã đến rồi nhé</tspan>
         </text>
-        <text id="Có.-Cho-500-địa-chỉ" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+        <text id="Có.-Cho-500-địa-chỉ" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#FFFFFF">
             <tspan x="70" y="400">Có. Cho 500 địa chỉ</tspan>
         </text>
-        <text id="Ahuhu.-Không-dắt-xe" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#FFFFFF">
-            <tspan x="70" y="310">Ahuhu. Không dắt xe ra </tspan>
+        <text id="Ahuhu.-Không-dắt-xe" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+            <tspan x="70" y="311">Ahuhu. Không dắt xe ra </tspan>
             <tspan x="70" y="332">được có ai qua Xuân Thuỷ </tspan>
-            <tspan x="70" y="354">không cho em đi nhờ với ạ</tspan>
+            <tspan x="70" y="353">không cho em đi nhờ với ạ</tspan>
         </text>
-        <text id="Em-cân-hết" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+        <text id="Em-cân-hết" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#FFFFFF">
             <tspan x="178" y="218">Em cân hết</tspan>
         </text>
         <text id="Aa" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="16" fill="#556279">
             <tspan x="110" y="524.617284">Aa</tspan>
         </text>
         <path d="M45.7383513,520.831541 C49.4539068,520.831541 52.4767025,523.854337 52.4767025,527.569892 C52.4767025,527.807484 52.284129,528 52.046595,528 C51.8090609,528 51.6164875,527.807484 51.6164875,527.569892 C51.6164875,524.328659 48.9795842,521.691756 45.7383513,521.691756 C42.4971183,521.691756 39.8602151,524.328659 39.8602151,527.569892 C39.8602151,527.807484 39.6676416,528 39.4301075,528 C39.1925735,528 39,527.807484 39,527.569892 C39,523.854337 42.0227957,520.831541 45.7383513,520.831541 Z M45.7383513,519.168459 C43.7620358,519.168459 42.1541219,517.560602 42.1541219,515.584229 C42.1541219,513.607857 43.7620358,512 45.7383513,512 C47.7146667,512 49.3225806,513.607857 49.3225806,515.584229 C49.3225806,517.560602 47.7146667,519.168459 45.7383513,519.168459 Z M45.7383513,512.860215 C44.2363584,512.860215 43.0143369,514.082237 43.0143369,515.584229 C43.0143369,517.086222 44.2363584,518.308244 45.7383513,518.308244 C47.2403441,518.308244 48.4623656,517.086222 48.4623656,515.584229 C48.4623656,514.082237 47.2403441,512.860215 45.7383513,512.860215 Z M55.2007168,519.168459 C53.2244014,519.168459 51.6164875,517.560602 51.6164875,515.584229 C51.6164875,513.607857 53.2244014,512 55.2007168,512 C57.1770323,512 58.7849462,513.607857 58.7849462,515.584229 C58.7849462,517.560602 57.1770323,519.168459 55.2007168,519.168459 Z M55.2007168,512.860215 C53.698724,512.860215 52.4767025,514.082237 52.4767025,515.584229 C52.4767025,517.086222 53.698724,518.308244 55.2007168,518.308244 C56.7027097,518.308244 57.9247312,517.086222 57.9247312,515.584229 C57.9247312,514.082237 56.7027097,512.860215 55.2007168,512.860215 Z M59.8548244,523.978896 C58.7316129,522.525362 57.0352115,521.691756 55.2007168,521.691756 C54.0227384,521.691756 52.8863943,522.038824 51.9144659,522.695398 C51.7177061,522.828387 51.4503513,522.776659 51.3173047,522.579728 C51.1843728,522.38291 51.2361004,522.115556 51.4329749,521.982566 C52.5475842,521.229534 53.8504659,520.831541 55.2007168,520.831541 C57.3036559,520.831541 59.2481434,521.786953 60.5355412,523.452903 C60.6807455,523.640889 60.6461649,523.910996 60.4581792,524.056258 C60.3798423,524.116703 60.2872832,524.146007 60.1954695,524.146007 C60.0668387,524.146065 59.9395842,524.088545 59.8548244,523.978896 Z" id="mem" fill="url(#linearGradient-1)"></path>
-        <text id="Triển-vọng-của-bạn*" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#FFFFFF">
-            <tspan x="70" y="446">Triển vọng của bạn* anh </tspan>
+        <text id="Triển-vọng-của-bạn*" opacity="0.92" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+            <tspan x="70" y="447">Triển vọng của bạn* anh </tspan>
             <tspan x="70" y="468">ấy đã có mặt ở sự kiện</tspan>
         </text>
-        <path d="M233.63169,459.563295 C233.622777,459.570438 233.614122,459.578186 233.605769,459.586538 L233.576923,459.586538 L229.711538,463.596154 C229.653846,463.653846 229.567308,463.653846 229.509615,463.596154 L227.923077,461.894231 L227.894231,461.865385 C227.778846,461.75 227.605769,461.75 227.490385,461.865385 L227.086538,462.269231 C227.028846,462.326923 227,462.413462 227,462.471154 C227,462.528846 227.028846,462.615385 227.086538,462.673077 L227.144231,462.759615 L229.394231,465.182692 C229.451923,465.240385 229.509615,465.269231 229.596154,465.269231 C229.682692,465.269231 229.740385,465.240385 229.798077,465.182692 L234.323732,460.487325 C234.753706,461.225616 235,462.084045 235,463 C235,465.761424 232.761424,468 230,468 C227.238576,468 225,465.761424 225,463 C225,460.238576 227.238576,458 230,458 C231.430306,458 232.720342,458.60057 233.63169,459.563295 Z" id="Oval" fill="#FFFFFF" opacity="0.92"></path>
+        <path d="M231.63169,461.563295 C231.622777,461.570438 231.614122,461.578186 231.605769,461.586538 L231.576923,461.586538 L227.711538,465.596154 C227.653846,465.653846 227.567308,465.653846 227.509615,465.596154 L225.923077,463.894231 L225.894231,463.865385 C225.778846,463.75 225.605769,463.75 225.490385,463.865385 L225.086538,464.269231 C225.028846,464.326923 225,464.413462 225,464.471154 C225,464.528846 225.028846,464.615385 225.086538,464.673077 L225.144231,464.759615 L227.394231,467.182692 C227.451923,467.240385 227.509615,467.269231 227.596154,467.269231 C227.682692,467.269231 227.740385,467.240385 227.798077,467.182692 L232.323732,462.487325 C232.753706,463.225616 233,464.084045 233,465 C233,467.761424 230.761424,470 228,470 C225.238576,470 223,467.761424 223,465 C223,462.238576 225.238576,460 228,460 C229.430306,460 230.720342,460.60057 231.63169,461.563295 Z" id="Oval" fill="#FFFFFF" opacity="0.92"></path>
     </g>
 </svg>

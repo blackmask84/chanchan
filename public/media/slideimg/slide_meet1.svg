@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="569px" viewBox="0 0 320 569" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="568px" viewBox="0 0 320 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>slide_meet1</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="13.729807%" y1="51.8491124%" x2="116.141476%" y2="40.9275237%" id="linearGradient-1">
+        <linearGradient x1="14.866835%" y1="53.7868888%" x2="136.541045%" y2="34.6590209%" id="linearGradient-1">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
-        <filter x="-4.6%" y="-24.0%" width="109.2%" height="148.0%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        <filter x="-14.4%" y="-94.7%" width="128.8%" height="289.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
         </filter>
         <linearGradient x1="14.866835%" y1="56.0616197%" x2="136.541045%" y2="25.4439101%" id="linearGradient-3">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
-        <path d="M28.4884436,20.7899133 L33.7957576,28.9550116 C34.0967463,29.4180713 33.9653619,30.0374549 33.5023023,30.3384436 C33.340092,30.4438803 33.1507799,30.5 32.957314,30.5 L22.342686,30.5 C21.7904013,30.5 21.342686,30.0522847 21.342686,29.5 C21.342686,29.3065341 21.3988058,29.1172219 21.5042424,28.9550116 L26.8115564,20.7899133 C27.1125451,20.3268536 27.7319287,20.1954692 28.1949884,20.496458 C28.3122516,20.5726791 28.4122225,20.67265 28.4884436,20.7899133 Z" id="path-4"></path>
+        <path d="M56.4884436,510.789913 L61.7957576,518.955012 C62.0967463,519.418071 61.9653619,520.037455 61.5023023,520.338444 C61.340092,520.44388 61.1507799,520.5 60.957314,520.5 L50.342686,520.5 C49.7904013,520.5 49.342686,520.052285 49.342686,519.5 C49.342686,519.306534 49.3988058,519.117222 49.5042424,518.955012 L54.8115564,510.789913 C55.1125451,510.326854 55.7319287,510.195469 56.1949884,510.496458 C56.3122516,510.572679 56.4122225,510.67265 56.4884436,510.789913 Z" id="path-4"></path>
         <filter x="-8.1%" y="-10.6%" width="116.2%" height="128.8%" filterUnits="objectBoundingBox" id="filter-5">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
@@ -23,48 +23,46 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="slide_meet1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
-        <text id="Bạn-đã-gặp-anh-ấy-qu" opacity="0.7" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="20" fill="#343D51">
-            <tspan x="49.7890625" y="182">Bạn đã gặp anh ấy qua 7 sự kiện</tspan>
+    <g id="slide_meet1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Bạn-đã-gặp-anh-ấy-qu" opacity="0.7" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#343D51">
+            <tspan x="50.2890625" y="184">Bạn đã gặp anh ấy qua 7 sự kiện</tspan>
         </text>
-        <text id="Hải-Anh" opacity="0.7" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="24" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="131.48959" y="157">Hải An</tspan>
-            <tspan x="179.00748" y="157">h</tspan>
+        <text id="Hải-Anh" opacity="0.7" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="131.48959" y="158">Hải An</tspan>
+            <tspan x="179.00748" y="158">h</tspan>
         </text>
-        <text id="Đi-ăn-rồi-lang-thang" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="90" y="239">Đi ăn rồi lang thang phố…</tspan>
+        <text id="Đi-ăn-rồi-lang-thang" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="90" y="238">Đi ăn rồi lang thang phố…</tspan>
         </text>
-        <text id="Sự-kiện-đơn-vào-tối" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#8C96A8">
-            <tspan x="90" y="262">Sự kiện đơn vào tối qua</tspan>
+        <text id="Sự-kiện-đơn-vào-tối" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#8C96A8">
+            <tspan x="90" y="263">Sự kiện đơn vào tối qua</tspan>
         </text>
-        <text id="Chạy-bộ-quanh-Hồ-tây" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="91" y="337">Chạy bộ quanh Hồ tây…</tspan>
+        <text id="Chạy-bộ-quanh-Hồ-tây" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="91" y="336">Chạy bộ quanh Hồ tây…</tspan>
         </text>
-        <text id="Sự-kiện-nhóm-2-ngày" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#8C96A8">
-            <tspan x="91" y="360">Sự kiện nhóm 2 ngày trước</tspan>
+        <text id="Sự-kiện-nhóm-2-ngày" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#8C96A8">
+            <tspan x="90" y="361">Sự kiện nhóm 2 ngày trước</tspan>
         </text>
-        <text id="Liveshow-Lê-cát-trọn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="90" y="435">Liveshow Lê cát trọng lý</tspan>
+        <text id="Liveshow-Lê-cát-trọn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="90" y="434">Liveshow Lê cát trọng lý</tspan>
         </text>
-        <text id="Sự-kiện-đơn-5-ngày-t" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#8C96A8">
-            <tspan x="90" y="458">Sự kiện đơn 5 ngày trước</tspan>
+        <text id="Sự-kiện-đơn-5-ngày-t" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#8C96A8">
+            <tspan x="90" y="459">Sự kiện đơn 5 ngày trước</tspan>
         </text>
-        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
-            <tspan x="30" y="295">……………………………………………………………</tspan>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="30" y="298">……………………………………………………………</tspan>
         </text>
-        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22" fill="#DADFE7">
-            <tspan x="31" y="393">……………………………………………………………</tspan>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="31" y="396">……………………………………………………………</tspan>
         </text>
-        <g id="btn" transform="translate(28.000000, 490.000000)">
-            <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.5" filter="url(#filter-2)" x="0" y="2" width="260" height="50" rx="4"></rect>
-            <rect id="btn.bg" fill="url(#linearGradient-3)" x="2" y="0" width="260" height="50" rx="4"></rect>
-            <g id="Triangle" opacity="0.9" transform="translate(27.650000, 25.000000) rotate(90.000000) translate(-27.650000, -25.000000) ">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
-            </g>
-            <text id="Hiểu-hơn-về-anh-ấy" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#FFFFFF">
-                <tspan x="62.5" y="30.9130435">Hiểu hơn về anh ấy</tspan>
-            </text>
+        <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.72" filter="url(#filter-2)" transform="translate(155.000000, 521.000000) scale(-1, 1) translate(-155.000000, -521.000000) " x="30" y="502" width="250" height="38" rx="4"></rect>
+        <rect id="btn" fill="url(#linearGradient-3)" transform="translate(160.000000, 515.000000) scale(-1, 1) translate(-160.000000, -515.000000) " x="30" y="490" width="260" height="50" rx="4"></rect>
+        <g id="Triangle" opacity="0.9" transform="translate(55.650000, 515.000000) rotate(90.000000) translate(-55.650000, -515.000000) ">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
         </g>
+        <text id="Hiểu-hơn-về-anh-ấy" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="90.9819534" y="519.913043">Hiểu hơn về anh ấy</tspan>
+        </text>
     </g>
 </svg>

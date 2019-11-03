@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="261px" viewBox="0 0 320 261" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>thanhtoanqua</title>
+    <desc>Created with Sketch.</desc>
+    <g id="thanhtoanqua" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="—-Hướng-dẫn-thanh-to" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
+            <tspan x="30" y="101">— Hướng dẫn thanh toán qua momo</tspan>
+        </text>
+        <text id="Thanh-toán-qua-momo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
+            <tspan x="30" y="65">Thanh toán qua momo</tspan>
+        </text>
+        <text id="Tại-ứng-dụng-momo-bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21">
+            <tspan x="30" y="226" fill="#343D51">Tại ứng dụng momo bạn chọn chức </tspan>
+            <tspan x="30" y="247" fill="#343D51">năng</tspan>
+            <tspan x="65.3046875" y="247" fill="#FFFFFF"> </tspan>
+            <tspan x="68.5078125" y="247" fill="#343D51" text-decoration="underline">Chuyển tiền</tspan>
+            <tspan x="151.335938" y="247" fill="#FFFFFF"> </tspan>
+            <tspan x="154.539062" y="247" fill="#343D51">như hình dưới</tspan>
+        </text>
+        <text id="01" font-family="Oswald-Regular_Medium, Oswald" font-size="40" font-weight="400" letter-spacing="-2" fill="#D3117E">
+            <tspan x="30" y="187">01</tspan>
+        </text>
+    </g>
+</svg>

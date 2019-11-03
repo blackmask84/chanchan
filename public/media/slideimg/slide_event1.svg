@@ -4,29 +4,33 @@
     <title>slide_event1</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="-39.8704324%" y1="82.0412641%" x2="268.816186%" y2="-19.3521677%" id="linearGradient-1">
+        <linearGradient x1="-39.8704324%" y1="73.0315514%" x2="268.816186%" y2="0.14903257%" id="linearGradient-1">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
-        <filter x="-9.2%" y="-26.1%" width="118.5%" height="152.2%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        <filter x="-30.0%" y="-100.0%" width="160.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
         </filter>
+        <linearGradient x1="-39.8704324%" y1="87.8559359%" x2="268.816186%" y2="-31.9378163%" id="linearGradient-3">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
     </defs>
     <g id="slide_event1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="Tối-nay-bạn-rảnh.-Bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="22" fill="#4D5B72">
-            <tspan x="30" y="435">Tối nay bạn rảnh. Bạn có muốn đến </tspan>
-            <tspan x="30" y="457">một sự kiện với mọi người?</tspan>
+            <tspan x="30" y="429">Tối nay bạn rảnh. Bạn có muốn đến </tspan>
+            <tspan x="30" y="451">một sự kiện với mọi người?</tspan>
+        </text>
+        <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.72" filter="url(#filter-2)" x="160" y="500" width="120" height="36" rx="4"></rect>
+        <rect id="btn.bg" fill="url(#linearGradient-3)" x="160" y="486" width="130" height="50" rx="4"></rect>
+        <text id="Mọi-người" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="187.880625" y="515">Mọi người</tspan>
+        </text>
+        <text id="Tạo-sự-kiện" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#DA0093">
+            <tspan x="53.7490627" y="515">Tạo sự kiện</tspan>
         </text>
         <text id="Tối-nay-bạn-rảnh" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" line-spacing="24" letter-spacing="-1.44" fill="#343D51">
-            <tspan x="30" y="404">Tối nay bạn rảnh </tspan>
-        </text>
-        <rect id="shadow" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="158" y="499" width="130" height="46" rx="4"></rect>
-        <rect id="btn.bg" fill="url(#linearGradient-1)" x="160" y="497" width="130" height="46" rx="4"></rect>
-        <text id="Mọi-người" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#FFFFFF">
-            <tspan x="190.5" y="524">Mọi người</tspan>
-        </text>
-        <text id="Tạo-sự-kiện" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="16" letter-spacing="-0.48" fill="#DA0093">
-            <tspan x="39" y="525">Tạo sự kiện</tspan>
+            <tspan x="30" y="397">Tối nay bạn rảnh </tspan>
         </text>
     </g>
 </svg>

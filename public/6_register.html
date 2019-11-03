@@ -6,12 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
     <meta name="description" content="Đăng ký thành viên mới">
-    <meta property="og:image" content="media/register/trainghiem.jpg" />
+    <meta property="og:image" content="media/6_register/gift.jpg" />
     <title>Chanchan - Đăng ký thành viên mới</title>
     <link rel="shortcut icon" type="image/x-icon" href="media/other/favicon.png">
     <link rel="stylesheet" type="text/css" href="css/pagetemp.css">
-    <link rel="stylesheet" type="text/css" href="css/libs/slideswiper.min.css">
-    <link rel="stylesheet" type="text/css" href="css/slide.css">
     <link rel="stylesheet" href="/form/css/form.css">
     <link rel="stylesheet" href="/form/css/form1.css">
     <script src="js/pagetemp/svgInject.js"></script>
@@ -21,7 +19,7 @@
             document.location = "/desk";
         }
     </script>
-    
+
     <!-- Facebook Pixel Code -->
     <script>
     !function(f,b,e,v,n,t,s)
@@ -49,72 +47,87 @@
             <div id="content">
                 <div class="page_temp">
 
-                    <!-- dangky -->
-                    <div class="component">                
-                        <img src="media/register/dangky.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    <!-- gift -->
+                    <div class="single-img-with-cover component">
+                        <img class="fullWidth" src="media/6_register/gift_pre.svg" id="preview" />
+                        <div class="single-image" src="media/6_register/gift.jpg">
+                            <img src="" alt="" class="fullWidth fullHeight">
+                        </div>
+                    </div>
+
+                    <!-- tietkiem -->
+                    <div class="single-img-with-cover component" id="tietkiem">
+                        <button class="js_popup_register popup-button btn" target="creat-popup" style="
+                            width: 82vw;
+                            height: 17.5vw;
+                            bottom: 15vw;
+                            left: 9vw;">
+                        </button>
+                        <a href="/thanhtoanquamomo"> 
+                            <button class="btn" style="
+                              width: 82vw;
+                              height: 16.5vw;
+                              bottom: 43vw;
+                              left: 9vw;">
+                            </button>
+                        </a>
+                        <img src="media/6_register/tietkiem_overlay.svg" class="imgpre">              
+                        <img src="media/6_register/tietkiem.svg" alt="cover" onload="SVGInject(this)" class="fullWidth fullHeight">
+                        <div class="single-image" src="media/6_register/tietkiem.png">
+                            <img src="" alt="" class="fullWidth fullHeight">
+                        </div>
+                    </div>
+
+                    <!-- haychacchan -->
+                    <div class="component">
+                        <a href="/timhieuchuongtrinh"> 
+                            <button class="btn" style="
+                              width: 82vw;
+                              height: 23.5vw;
+                              bottom: 52vw;
+                              left: 9vw;">
+                            </button>
+                        </a>
+                        <a href="#vedangky"> 
+                            <button class="btn" style="
+                              width: 82vw;
+                              height: 23.5vw;
+                              bottom: 13vw;
+                              left: 9vw;">
+                            </button>
+                        </a>
+                        <img src="media/6_register/haychacchan.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
                     </div>
                     
-                    <!-- trainghiem -->
+                    <!-- vedangky -->
+                    <div class="component" id="vedangky">
+                        <img src="media/6_register/vedangky.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    </div>
+
+                    <!-- gift -->
                     <div class="single-img-with-cover component">
-                        <img class="fullWidth" src="media/register/trainghiem_overlay.svg" id="preview" />
-                        <div class="single-image" src="media/register/trainghiem.jpg">
+                        <img class="fullWidth" src="media/6_register/gift_pre.svg" id="preview" />
+                        <div class="single-image" src="media/6_register/gift.jpg">
                             <img src="" alt="" class="fullWidth fullHeight">
                         </div>
-                        <div class="bg"><img src="media/register/trainghiem.svg" alt="cover"
-                            onload="SVGInject(this)" class="fullWidth fullHeight">
-                            <a href="#fancung"> 
-                                <button class="btn" style="
-                                width: 28.5vw;
-                                height: 7.5vw;
-                                bottom: 53vw;
-                                left: 16vw;">
-                                </button>
-                            </a>
-                            <button class="js_popup_register popup-button btn" target="03month-popup" style="
-                                width: 81.5vw;
-                                height: 15.5vw;
-                                bottom: 14vw;
-                                left: 9vw;">
-                            </button>
-                        </div>  
                     </div>
 
-                    <!-- tintuong -->
-                    <div class="single-img-with-cover component" id="tintuong">
-                        <img class="fullWidth" src="media/register/tintuong_overlay.svg" id="preview" />
-                        <div class="single-image" src="media/register/tintuong.jpg">
-                            <img src="" alt="" class="fullWidth fullHeight">
-                        </div>
-                        <div class="bg"><img src="media/register/tintuong.svg" alt="cover"
-                            onload="SVGInject(this)" class="fullWidth fullHeight">
-                            <a href="#fancung">                                
-                                <button class="btn" style="
-                                    width: 28.5vw;
-                                    height: 7.5vw;
-                                    bottom: 52vw;
-                                    left: 16vw;">
-                                </button>
-                            </a>
-                            <button class="js_popup_register popup-button btn" target="06month-popup" style="
-                                width: 81.5vw;
-                                height: 15.5vw;
-                                bottom: 12vw;
-                                left: 9vw;">
-                            </button>
-                        </div>  
+                    <!-- gift -->
+                    <div class="component">
+                        <img src="media/6_register/gift.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
                     </div>
 
-                    <!-- fancung -->
-                    <div class="component" id="fancung">
-                        <a href="#tintuong"> 
-                          <button class="btn" style="
-                            width: 82vw;
-                            height: 16vw;
-                            bottom: 6.5vw;
-                            left: 9vw;">
-                          </button>
-                        </a>                
-                        <img src="media/register/fancung.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                    <!-- up -->
+                    <div class="component">
+                        <a href="#tietkiem"> 
+                            <button class="btn" style="
+                              width: 82vw;
+                              height: 23.5vw;
+                              bottom: 0vw;
+                              left: 9vw;">
+                            </button>
+                        </a>
+                        <img src="media/6_register/up.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
                     </div>
 
                     <!-- maplink -->
@@ -143,41 +156,12 @@
                             left: 9vw;">
                           </button>
                         </a>                                          
-                        <img src="media/other/maplink.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
+                        <img src="media/other/maplink_grey.svg" alt="" onload="SVGInject(this)" class="fullWidth fullHeight" />
                     </div>
                     <!-- //Content -->
                 </div>
             </div>
         </main>
-        
-        <header id="header">
-            <a href="/"> 
-                <button class="btn" style="
-                    width: 17vw;
-                    height: 13vw;
-                    bottom: 2vw;
-                    left: 18vw;">
-                </button>
-            </a>
-            <a href="/dangkythanhvienmoi"> 
-                <button class="btn" style=" 
-                    width: 23vw;
-                    height: 13vw;
-                    bottom: 2vw;
-                    left: 38vw;">
-                </button>
-            </a>
-            <a href="/hieuthemvechanchan"> 
-                <button class="btn" style=" 
-                    width: 17vw;
-                    height: 13vw;
-                    bottom: 2vw;
-                    left: 63vw;">
-                </button>
-            </a>
-            <img src="media/other/menu.svg" alt="">
-        </header>
-        <!-- //Container -->
     </div>
 
     <!-- Script -->
@@ -186,7 +170,6 @@
     <script src="js/libs/slideswiper.min.js"></script>
     <script src="/form/js/form1/libs/slick.min.js"></script>
     <script src="/form/js/main.js"></script>
-    <script src="js/pagetemp/slideImage.js"></script>
     <script src="js/pagetemp/singleVideo.js"></script>
     <script src="js/pagetemp/singleImage.js"></script>
     <script type="text/javascript">
