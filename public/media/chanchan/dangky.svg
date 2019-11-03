@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="310px" viewBox="0 0 320 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>dangky</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-31.2535442%" y1="34.7889397%" x2="100%" y2="63.7452061%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-14.4%" y="-64.3%" width="128.8%" height="228.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-36.069949%" y1="38.3945579%" x2="107.247342%" y2="66.2808319%" id="linearGradient-3">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-4" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#FFFFFF">
+            <tspan x="127.12793" y="239">Đăng ký</tspan>
+        </text>
+        <filter x="-11.4%" y="-22.9%" width="121.2%" height="154.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="dangky" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M280,223 L280,269 C280,271.761424 277.761424,274 275,274 L35,274 C32.2385763,274 30,271.761424 30,269 L30,223 C30,220.238576 32.2385763,218 35,218 L275,218 C277.761424,218 280,220.238576 280,223 Z" id="Triangle" fill="url(#linearGradient-1)" opacity="0.6" filter="url(#filter-2)" transform="translate(155.000000, 246.000000) scale(-1, 1) translate(-155.000000, -246.000000) "></path>
+        <path d="M290,211 L290,257 C290,259.761424 287.761424,262 285,262 L35,262 C32.2385763,262 30,259.761424 30,257 L30,211 C30,208.238576 32.2385763,206 35,206 L285,206 C287.761424,206 290,208.238576 290,211 Z" id="Triangle" fill="url(#linearGradient-3)" transform="translate(160.000000, 234.000000) scale(-1, 1) translate(-160.000000, -234.000000) "></path>
+        <polygon id="Line" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" points="261 234 244 234 244 233 261 233 261 229 270 233.5 261 238"></polygon>
+        <g id="Đăng-ký" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+            <use xlink:href="#text-4"></use>
+        </g>
+        <text id="—-Được-tạo-ra-&amp;-để-l" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="21" fill="#556279">
+            <tspan x="30" y="47">— Được tạo ra &amp; để làm cho…</tspan>
+        </text>
+        <text id="…-trở-nên-đơn-giản-h" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="21" fill="#556279">
+            <tspan x="30" y="155">… trở nên đơn giản hơn với tất cả </tspan>
+            <tspan x="30" y="176">mọi người. /&gt;</tspan>
+        </text>
+        <text id="Việc-tìm-được-một-tì" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="82">Việc tìm được một tình yêu thực </tspan>
+            <tspan x="30" y="103">sự, một người bạn đời gắn bó theo </tspan>
+            <tspan x="30" y="124">năm tháng</tspan>
+        </text>
+    </g>
+</svg>
