@@ -19,7 +19,7 @@ $(document).ready(function() {
         const formId = '#' + $(this).prop('id') + ' ';
         const formMobile = $(this);
 
-            // Close popup
+        // Close popup
         $(formId + '.link_close').on('click', function() {
             $(this).parents('.popup').removeClass('active show');
         });
@@ -43,24 +43,6 @@ $(document).ready(function() {
         $(formId + '.info_ct01 .btn_back').on('click', function() {
             $(formId + '.popup.popup_info').removeClass('active');
         });
-        // Next step on Info popup
-        // $('.js_btn_continue').on('click', function() {
-        //     $('.info_ct01, .info_svg01, .info_bg01').hide();
-        //     $('.info_ct02, .info_svg02, .info_bg02').show();
-        //     $('.js_info_bike').animate({
-        //         top: '34.8%',
-        //         left: '18.3%'
-        //     }, 300);
-        // });
-
-        // $('.js_btn_completed').on('click', function() {
-        //     $('.info_ct02, .info_svg02, .info_bg02').hide();
-        //     $('.info_ct03, .info_svg03').show();
-        //     $('.js_info_bike').animate({
-        //         top: '53.7%',
-        //         left: '24.6%'
-        //     }, 300);
-        // });
 
         $(formId + '.js_btn_back').on('click', function(e) {
             $(formId + '.info_ct02,' + formId + '.info_svg02,' + formId + ' .info_bg02').hide();
