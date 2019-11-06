@@ -103,6 +103,9 @@
             <tspan x="50" y="985">Tìm hiểu thêm về phí Chương </tspan>
             <tspan x="50" y="1009">trình.</tspan>
         </text>
+        <text id="*" font-family="Georgia-Bold, Georgia" font-size="26" font-weight="bold" fill="#343D51">
+            <tspan x="26" y="991">*</tspan>
+        </text>
         <text id="&gt;-Click-để-tìm-hiểu" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#64B5F6">
             <tspan x="50" y="1041">&gt; Click để tìm hiểu &lt;</tspan>
         </text>
