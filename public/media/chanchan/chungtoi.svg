@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="328px" viewBox="0 0 320 328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="431px" viewBox="0 0 320 431" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>chungtoi</title>
     <desc>Created with Sketch.</desc>
@@ -25,6 +25,15 @@
         <text id="Tháng-2-năm-2018,-ch" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#4D5B72">
             <tspan x="30" y="265">Tháng 2 năm 2018, chúng tôi bắt đầu </tspan>
             <tspan x="30" y="286">Chanchan với một niềm tin như vậy.</tspan>
+        </text>
+        <text id="&gt;-Đi-đến-đăng-ký-&lt;" opacity="0.8" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#8C96A8">
+            <tspan x="30" y="395">&gt; Đi đến đăng ký &lt;</tspan>
+        </text>
+        <text id="Chanchan-có-khiến-bạ" opacity="0.8" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
+            <tspan x="30" y="369">Chanchan có khiến bạn tin tưởng?</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="30" y="325">……………………………………………………………</tspan>
         </text>
     </g>
 </svg>

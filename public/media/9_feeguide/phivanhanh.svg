@@ -33,9 +33,9 @@
         <text id="Kết-nối" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#343D51">
             <tspan x="30" y="304">Kết nối</tspan>
         </text>
-        <text id="Bởi-kết-nối-hoạt-độn" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="336">Bởi kết nối hoạt động theo logic ưu </tspan>
-            <tspan x="30" y="357">tiên triển vọng:</tspan>
+        <text id="Bởi-kết-nối-giữa-các" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="336">Bởi kết nối giữa các Thành viên dựa </tspan>
+            <tspan x="30" y="357">trên triển vọng:</tspan>
         </text>
         <text id="—-Để-làm-được-điều-n" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="21" fill="#343D51">
             <tspan x="30" y="469">— Để làm được điều này</tspan>
@@ -68,17 +68,17 @@
         </text>
         <text id="Bản-thiết-kế-được-nâ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
             <tspan x="30" y="873">Bản thiết kế được nâng cấp liên tục </tspan>
-            <tspan x="30" y="894">bởi những hiểu biết mới của Chuyên </tspan>
-            <tspan x="30" y="915">gia về Thành viên khi Thành viên hoạt </tspan>
-            <tspan x="30" y="936">động trong Chương trình.</tspan>
+            <tspan x="30" y="894">xuất phát từ những hiểu biết mới về </tspan>
+            <tspan x="30" y="915">hoạt động của Thành viên khi Thành </tspan>
+            <tspan x="30" y="936">viên đang ở trong Chương trình.</tspan>
         </text>
         <text id="&lt;-Bằng-cách-này-tính" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
             <tspan x="30" y="973">&lt; Bằng cách này tính chính xác của </tspan>
             <tspan x="30" y="993">bản thiết kế sẽ càng được tăng lên. /&gt;</tspan>
         </text>
         <text id="Chương-trình-của-Thà" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="30" y="1029">Chương trình của Thành viên càng </tspan>
-            <tspan x="30" y="1050">hoạt động hiệu quả.</tspan>
+            <tspan x="30" y="1029">Chương trình của Thành viên hoạt </tspan>
+            <tspan x="30" y="1050">động sẽ càng hiệu quả.</tspan>
         </text>
         <text id="Tại-mỗi-sự-kiện-Thàn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="30" y="392">Tại mỗi sự kiện Thành viên luôn gặp </tspan>

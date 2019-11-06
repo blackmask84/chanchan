@@ -28,19 +28,21 @@
         <text id="Tìm-hiểu-về-Chương-t" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
             <tspan x="67.4295511" y="480">Tìm hiểu về Chương trình</tspan>
         </text>
-        <text id="Được-thiết-kế-&amp;-vận" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="105">Được thiết kế &amp; vận hành bởi những </tspan>
-            <tspan x="30" y="126">Chuyên gia về Tâm lý - Công nghệ - </tspan>
-            <tspan x="30" y="147">Thiết kế - Marketing… cùng chung </tspan>
-            <tspan x="30" y="168">một tầm nhìn về việc làm cho:</tspan>
+        <text id="Được-thiết-kế-&amp;-vận" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#556279">
+            <tspan x="30" y="97">Được thiết kế &amp; vận hành bởi những </tspan>
+            <tspan x="30" y="118">Chuyên gia về Tâm lý - Công nghệ - </tspan>
+            <tspan x="30" y="139">Thiết kế - Marketing…</tspan>
         </text>
-        <text id="Chanchan-là-một-chươ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="30" y="53">Chanchan là một chương trình hẹn </tspan>
-            <tspan x="30" y="74">hò thực tế.</tspan>
+        <text id="Là-một-chương-trình" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#556279">
+            <tspan x="30" y="49">Là một chương trình hẹn hò thực tế </tspan>
+            <tspan x="30" y="70">dành cho mọi người.</tspan>
         </text>
         <text id="…-trở-nên-đơn-giản-h" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="21" fill="#343D51">
             <tspan x="30" y="276">… trở nên đơn giản hơn với tất cả </tspan>
             <tspan x="30" y="297">mọi người. /&gt;</tspan>
+        </text>
+        <text id="—-và-để-làm-cho" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="172">— và để làm cho</tspan>
         </text>
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
             <tspan x="30" y="336">……………………………………………………………</tspan>
@@ -52,10 +54,10 @@
             <use filter="url(#filter-5)" xlink:href="#text-4"></use>
             <use xlink:href="#text-4"></use>
         </g>
-        <text id="Gặp-được-một-ai-đó-y" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="30" y="203">Gặp được một ai đó yêu mình thật </tspan>
-            <tspan x="30" y="224">lòng, gặp được một ai đó muốn ở </tspan>
-            <tspan x="30" y="245">bên mình theo cùng năm tháng</tspan>
+        <text id="Việc-tìm-được-một-tì" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="207">Việc tìm được một tình yêu thực </tspan>
+            <tspan x="30" y="228">sự, gặp được người bạn đời gắn bó </tspan>
+            <tspan x="30" y="249">theo năm tháng</tspan>
         </text>
     </g>
 </svg>

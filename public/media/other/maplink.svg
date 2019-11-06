@@ -4,34 +4,34 @@
     <title>maplink</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="154.972398%" y1="-125.023792%" x2="-39.2936878%" y2="194.81112%" id="linearGradient-1">
+        <linearGradient x1="154.972398%" y1="-2.07319436%" x2="-39.2936878%" y2="93.0843003%" id="linearGradient-1">
             <stop stop-color="#651FFF" offset="0%"></stop>
             <stop stop-color="#3D5AFE" offset="100%"></stop>
         </linearGradient>
-        <path d="M280,115 C274.477153,115 270,110.522847 270,105 C270,99.4771525 274.477153,95 280,95 C285.522847,95 290,99.4771525 290,105 C290,110.522847 285.522847,115 280,115 Z M282.75,105.000015 C282.75,104.835791 282.690112,104.671526 282.570298,104.546212 L278.798714,100.604805 C278.558794,100.353954 278.169806,100.353954 277.929983,100.604805 C277.690161,100.855412 277.690161,101.261804 277.929983,101.512533 L281.267173,105.000015 L277.929867,108.487477 C277.690044,108.738227 277.690044,109.144659 277.929867,109.395287 C278.169689,109.646016 278.558678,109.646016 278.798597,109.395287 L282.570182,105.453818 C282.689976,105.328566 282.75,105.164301 282.75,105.000015 Z" id="path-2"></path>
-        <filter x="-10.0%" y="-10.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+        <path d="M281.166648,107.5 C280.969506,107.5 280.772388,107.427972 280.622085,107.284218 L275.892323,102.758317 C275.591448,102.470413 275.591448,102.003627 275.892323,101.71584 C276.193076,101.428053 276.680795,101.428053 276.981694,101.71584 L281.166648,105.720608 L285.351627,101.71598 C285.652502,101.428193 286.140173,101.428193 286.440901,101.71598 C286.741922,102.003767 286.741922,102.470553 286.440901,102.758457 L281.711212,107.284358 C281.560836,107.428135 281.363718,107.5 281.166648,107.5 Z" id="path-2"></path>
+        <filter x="-18.2%" y="-33.3%" width="136.4%" height="166.7%" filterUnits="objectBoundingBox" id="filter-3">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <linearGradient x1="154.972398%" y1="-125.023792%" x2="-39.2936878%" y2="194.81112%" id="linearGradient-4">
+        <linearGradient x1="154.972398%" y1="-2.07319436%" x2="-39.2936878%" y2="93.0843003%" id="linearGradient-4">
             <stop stop-color="#D500F9" offset="0%"></stop>
             <stop stop-color="#651FFF" offset="100%"></stop>
         </linearGradient>
-        <path d="M280,227 C274.477153,227 270,222.522847 270,217 C270,211.477153 274.477153,207 280,207 C285.522847,207 290,211.477153 290,217 C290,222.522847 285.522847,227 280,227 Z M282.75,217.000015 C282.75,216.835791 282.690112,216.671526 282.570298,216.546212 L278.798714,212.604805 C278.558794,212.353954 278.169806,212.353954 277.929983,212.604805 C277.690161,212.855412 277.690161,213.261804 277.929983,213.512533 L281.267173,217.000015 L277.929867,220.487477 C277.690044,220.738227 277.690044,221.144659 277.929867,221.395287 C278.169689,221.646016 278.558678,221.646016 278.798597,221.395287 L282.570182,217.453818 C282.689976,217.328566 282.75,217.164301 282.75,217.000015 Z" id="path-5"></path>
-        <filter x="-10.0%" y="-10.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-6">
+        <path d="M281.166648,219.5 C280.969506,219.5 280.772388,219.427972 280.622085,219.284218 L275.892323,214.758317 C275.591448,214.470413 275.591448,214.003627 275.892323,213.71584 C276.193076,213.428053 276.680795,213.428053 276.981694,213.71584 L281.166648,217.720608 L285.351627,213.71598 C285.652502,213.428193 286.140173,213.428193 286.440901,213.71598 C286.741922,214.003767 286.741922,214.470553 286.440901,214.758457 L281.711212,219.284358 C281.560836,219.428135 281.363718,219.5 281.166648,219.5 Z" id="path-5"></path>
+        <filter x="-18.2%" y="-33.3%" width="136.4%" height="166.7%" filterUnits="objectBoundingBox" id="filter-6">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <linearGradient x1="154.972398%" y1="-125.023792%" x2="-39.2936878%" y2="194.81112%" id="linearGradient-7">
+        <linearGradient x1="154.972398%" y1="-2.07319436%" x2="-39.2936878%" y2="93.0843003%" id="linearGradient-7">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#D500F9" offset="100%"></stop>
         </linearGradient>
-        <path d="M280,359 C274.477153,359 270,354.522847 270,349 C270,343.477153 274.477153,339 280,339 C285.522847,339 290,343.477153 290,349 C290,354.522847 285.522847,359 280,359 Z M282.75,349.000015 C282.75,348.835791 282.690112,348.671526 282.570298,348.546212 L278.798714,344.604805 C278.558794,344.353954 278.169806,344.353954 277.929983,344.604805 C277.690161,344.855412 277.690161,345.261804 277.929983,345.512533 L281.267173,349.000015 L277.929867,352.487477 C277.690044,352.738227 277.690044,353.144659 277.929867,353.395287 C278.169689,353.646016 278.558678,353.646016 278.798597,353.395287 L282.570182,349.453818 C282.689976,349.328566 282.75,349.164301 282.75,349.000015 Z" id="path-8"></path>
-        <filter x="-10.0%" y="-10.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-9">
+        <path d="M281.166648,351.5 C280.969506,351.5 280.772388,351.427972 280.622085,351.284218 L275.892323,346.758317 C275.591448,346.470413 275.591448,346.003627 275.892323,345.71584 C276.193076,345.428053 276.680795,345.428053 276.981694,345.71584 L281.166648,349.720608 L285.351627,345.71598 C285.652502,345.428193 286.140173,345.428193 286.440901,345.71598 C286.741922,346.003767 286.741922,346.470553 286.440901,346.758457 L281.711212,351.284358 C281.560836,351.428135 281.363718,351.5 281.166648,351.5 Z" id="path-8"></path>
+        <filter x="-18.2%" y="-33.3%" width="136.4%" height="166.7%" filterUnits="objectBoundingBox" id="filter-9">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
@@ -49,18 +49,6 @@
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
             <tspan x="30" y="178">……………………………………………………</tspan>
         </text>
-        <g id="Oval-2">
-            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
-            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-        </g>
-        <g id="Oval-2">
-            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
-            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-        </g>
-        <g id="Oval-2">
-            <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
-            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
-        </g>
         <text id="Blog" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#5D6A80">
             <tspan x="30" y="224">Blog</tspan>
         </text>
@@ -90,5 +78,17 @@
         <text id="“" font-family="Georgia-Bold, Georgia" font-size="15" font-weight="bold" fill="#8C96A8">
             <tspan x="30" y="54">“</tspan>
         </text>
+        <g id="Path" transform="translate(281.166667, 104.500000) rotate(-90.000000) translate(-281.166667, -104.500000) ">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+        <g id="Path" transform="translate(281.166667, 216.500000) rotate(-90.000000) translate(-281.166667, -216.500000) ">
+            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+        </g>
+        <g id="Path" transform="translate(281.166667, 348.500000) rotate(-90.000000) translate(-281.166667, -348.500000) ">
+            <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+        </g>
     </g>
 </svg>

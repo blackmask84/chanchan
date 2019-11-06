@@ -41,11 +41,11 @@
             <tspan x="30" y="514">Bạn không cần cảm thấy mình đơn </tspan>
             <tspan x="30" y="535">phương theo đuổi một ai đó.</tspan>
         </text>
-        <text id="Cơ-hội-gặp-nhau-tại" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
-            <tspan x="50" y="598">Cơ hội gặp nhau tại cùng một sự </tspan>
-            <tspan x="50" y="618">kiện giữa bạn &amp; ai đó càng cao khi </tspan>
-            <tspan x="50" y="638">triển vọng giữa bạn &amp; người ấy </tspan>
-            <tspan x="50" y="658">càng nhiều.</tspan>
+        <text id="Triển-vọng-của-bạn-v" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
+            <tspan x="50" y="598">Triển vọng của bạn với một ai đó </tspan>
+            <tspan x="50" y="618">ngày càng tăng sẽ khiến những lần </tspan>
+            <tspan x="50" y="638">hai người tình cờ gặp nhau tại một </tspan>
+            <tspan x="50" y="658">Sự kiện ngày càng nhiều.</tspan>
         </text>
         <text id="—-Tốc-độ" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#343D51">
             <tspan x="30" y="469">— Tốc độ</tspan>
@@ -72,8 +72,8 @@
             <tspan x="30" y="770">Tìm hiểu qua những ảnh chụp </tspan>
             <tspan x="30" y="791">màn hình Chương trình.</tspan>
         </text>
-        <text id="Chanchan-“ngầm”-ưu-t" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="50" y="568">Chanchan “ngầm” ưu tiên</tspan>
+        <text id="Chanchan-“ngầm”-tăng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="50" y="568">Chanchan “ngầm” tăng tốc</tspan>
         </text>
         <g id="Rectangle-2">
             <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>

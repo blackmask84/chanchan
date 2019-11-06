@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="377px" viewBox="0 0 320 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="381px" viewBox="0 0 320 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>tietkiem</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <text id="text-1" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#FFFFFF">
-            <tspan x="116.086914" y="218">Qua momo</tspan>
+            <tspan x="116.086914" y="222">Qua momo</tspan>
         </text>
         <filter x="-8.4%" y="-22.9%" width="114.6%" height="154.2%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -13,7 +13,7 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <text id="text-3" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#FFFFFF">
-            <tspan x="116.081055" y="306">Qua địa chỉ</tspan>
+            <tspan x="116.081055" y="310">Qua địa chỉ</tspan>
         </text>
         <filter x="-8.5%" y="-22.9%" width="114.8%" height="154.2%" filterUnits="objectBoundingBox" id="filter-4">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -27,13 +27,13 @@
             <tspan x="30" y="83">trình khi đăng ký hôm nay.</tspan>
         </text>
         <text id="—-Khởi-tạo-chương-tr" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#8C96A8">
-            <tspan x="30" y="155">— Khởi tạo chương trình</tspan>
+            <tspan x="30" y="159">— Khởi tạo chương trình</tspan>
         </text>
         <text id="1.280.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="22" font-weight="400" letter-spacing="-1.1" fill="#556279" text-decoration="line-through">
-            <tspan x="138" y="127">1.280.000 VND</tspan>
+            <tspan x="142" y="131">1.280.000 VND</tspan>
         </text>
         <text id="640.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="22" font-weight="400" letter-spacing="-1.1" fill="#1E88E5">
-            <tspan x="30" y="127">640.000 VND</tspan>
+            <tspan x="30" y="131">640.000 VND</tspan>
         </text>
         <g id="Qua-momo" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-2)" xlink:href="#text-1"></use>

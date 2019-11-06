@@ -8,20 +8,6 @@
             <stop stop-color="#1E88E5" offset="0%"></stop>
             <stop stop-color="#039BE5" offset="100%"></stop>
         </linearGradient>
-        <path d="M38,91 C33.5889231,91 30,94.5886154 30,99 C30,103.411385 33.5889231,107 38,107 C42.4110769,107 46,103.411385 46,99 C46,94.5886154 42.4110769,91 38,91 Z M42.46,96.332 L37.5369231,101.870462 C37.4156923,102.006769 37.2467692,102.076923 37.0766154,102.076923 C36.9415385,102.076923 36.8058462,102.032615 36.6923077,101.942154 L33.6153846,99.4806154 C33.3501538,99.2686154 33.3070769,98.8812308 33.5193846,98.6156923 C33.7313846,98.3501538 34.1190769,98.3070769 34.3843077,98.5193846 L37.0049231,100.615692 L41.54,95.5138462 C41.7652308,95.2596923 42.1547692,95.2369231 42.4086154,95.4627692 C42.6627692,95.6889231 42.6858462,96.0778462 42.46,96.332 Z" id="path-2"></path>
-        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-3">
-            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <path d="M38,196 C33.5889231,196 30,199.588615 30,204 C30,208.411385 33.5889231,212 38,212 C42.4110769,212 46,208.411385 46,204 C46,199.588615 42.4110769,196 38,196 Z M38.9357041,199.354259 L38.9357041,205.023185 C38.933636,205.205592 38.8521732,205.369361 38.7237565,205.480992 C38.6218126,205.569611 38.4903359,205.625193 38.3452992,205.631409 L34.4082013,205.792306 C34.0689446,205.806314 33.7822869,205.542212 33.7683086,205.202521 C33.7540981,204.863033 34.0184322,204.576173 34.3578908,204.562397 L37.7109959,204.425222 L37.7109959,199.354259 C37.7142398,199.014682 38.0055507,198.696206 38.3452992,198.700117 C38.6854818,198.704057 38.9394125,199.014278 38.9357041,199.354259 Z" id="path-4"></path>
-        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-5">
-            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
     </defs>
     <g id="gift" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="980.000-VND-/-THÁNG" font-family="Oswald-Regular_Medium, Oswald" font-size="20" font-weight="400" letter-spacing="-0.9999999" fill="#8C96A8" fill-opacity="0.5" text-decoration="line-through">
@@ -30,8 +16,8 @@
         <text id="490.000-VND-/-THÁNG" opacity="0.6" font-family="Oswald-Regular_Medium, Oswald" font-size="20" font-weight="400" letter-spacing="-0.9999999" fill="#5D6A80">
             <tspan x="60" y="211">490.000 VND / THÁNG</tspan>
         </text>
-        <text id="1.280.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="20" font-weight="400" letter-spacing="-0.9999999" fill="#1E88E5" fill-opacity="0.4" text-decoration="line-through">
-            <tspan x="158" y="106">1.280.000 VND</tspan>
+        <text id="1.280.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="20" font-weight="400" letter-spacing="-0.9999999" fill="#556279" text-decoration="line-through">
+            <tspan x="160" y="106">1.280.000 VND</tspan>
         </text>
         <text id="640.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="20" font-weight="400" letter-spacing="-0.9999999" fill="#1E88E5">
             <tspan x="60" y="106">640.000 VND</tspan>
@@ -39,23 +25,17 @@
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
             <tspan x="60" y="168">……………………………………………………</tspan>
         </text>
-        <text id="Tiết-kiệm-50%-cho-to" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="30" y="41">Tiết kiệm 50% cho toàn bộ chương </tspan>
+        <text id="Tiết-kiệm-50%-toàn-b" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="41">Tiết kiệm 50% toàn bộ chương </tspan>
             <tspan x="30" y="62">trình khi đăng ký hôm nay.</tspan>
         </text>
-        <g id="Shape">
-            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
-            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-        </g>
-        <text id="Phí-khởi-tạo." font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#556279">
-            <tspan x="60" y="135">Phí khởi tạo.</tspan>
+        <path d="M38,91 C33.5889231,91 30,94.5886154 30,99 C30,103.411385 33.5889231,107 38,107 C42.4110769,107 46,103.411385 46,99 C46,94.5886154 42.4110769,91 38,91 Z M42.46,96.332 L37.5369231,101.870462 C37.4156923,102.006769 37.2467692,102.076923 37.0766154,102.076923 C36.9415385,102.076923 36.8058462,102.032615 36.6923077,101.942154 L33.6153846,99.4806154 C33.3501538,99.2686154 33.3070769,98.8812308 33.5193846,98.6156923 C33.7313846,98.3501538 34.1190769,98.3070769 34.3843077,98.5193846 L37.0049231,100.615692 L41.54,95.5138462 C41.7652308,95.2596923 42.1547692,95.2369231 42.4086154,95.4627692 C42.6627692,95.6889231 42.6858462,96.0778462 42.46,96.332 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+        <text id="Phí-khởi-tạo" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#556279">
+            <tspan x="60" y="135">Phí khởi tạo</tspan>
         </text>
-        <g id="Shape" opacity="0.64">
-            <use fill="#8C96A8" fill-rule="evenodd" xlink:href="#path-4"></use>
-            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
-        </g>
-        <text id="Phí-vận-hành." opacity="0.6" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#5D6A80">
-            <tspan x="60" y="270">Phí vận hành.</tspan>
+        <path d="M38,196 C33.5889231,196 30,199.588615 30,204 C30,208.411385 33.5889231,212 38,212 C42.4110769,212 46,208.411385 46,204 C46,199.588615 42.4110769,196 38,196 Z M38.9357041,199.354259 L38.9357041,205.023185 C38.933636,205.205592 38.8521732,205.369361 38.7237565,205.480992 C38.6218126,205.569611 38.4903359,205.625193 38.3452992,205.631409 L34.4082013,205.792306 C34.0689446,205.806314 33.7822869,205.542212 33.7683086,205.202521 C33.7540981,204.863033 34.0184322,204.576173 34.3578908,204.562397 L37.7109959,204.425222 L37.7109959,199.354259 C37.7142398,199.014682 38.0055507,198.696206 38.3452992,198.700117 C38.6854818,198.704057 38.9394125,199.014278 38.9357041,199.354259 Z" id="Shape" fill="#8C96A8" opacity="0.64"></path>
+        <text id="Phí-vận-hành" opacity="0.6" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#5D6A80">
+            <tspan x="60" y="270">Phí vận hành</tspan>
         </text>
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
             <tspan x="30" y="319">……………………………………………………………</tspan>

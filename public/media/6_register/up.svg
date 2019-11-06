@@ -3,36 +3,10 @@
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>up</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="0%" y1="129.745585%" x2="112.37481%" y2="-33.6417308%" id="linearGradient-1">
-            <stop stop-color="#1E88E5" offset="0%"></stop>
-            <stop stop-color="#039BE5" offset="100%"></stop>
-        </linearGradient>
-        <circle id="path-2" cx="274" cy="40" r="16"></circle>
-        <filter x="-6.2%" y="-6.2%" width="112.5%" height="112.5%" filterUnits="objectBoundingBox" id="filter-3">
-            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <polygon id="path-4" points="275 38 275 52 274 52 274 38 270 38 274.5 29 279 38"></polygon>
-        <filter x="-100.0%" y="-21.7%" width="255.6%" height="160.9%" filterUnits="objectBoundingBox" id="filter-5">
-            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
     <g id="up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Oval">
-            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
-            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-        </g>
-        <g id="Line-2" fill-rule="nonzero">
-            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
-            <use fill="#FFFFFF" xlink:href="#path-4"></use>
-        </g>
         <text id="Đi-đến-Đăng-ký" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#343D51">
             <tspan x="30" y="47">Đi đến Đăng ký</tspan>
         </text>
+        <path d="M273.99998,46.7454545 C273.784916,46.7454545 273.569878,46.6668782 273.40591,46.510056 L268.24617,41.5727093 C267.917943,41.2586327 267.917943,40.7494115 268.24617,40.4354621 C268.574264,40.1215126 269.106322,40.1215126 269.434575,40.4354621 L273.99998,44.8042996 L278.565412,40.4356146 C278.893639,40.1216651 279.425643,40.1216651 279.75371,40.4356146 C280.082097,40.749564 280.082097,41.2587852 279.75371,41.5728617 L274.59405,46.5102085 C274.430003,46.6670561 274.214965,46.7454545 273.99998,46.7454545 Z M273.99998,39.5454545 C273.784916,39.5454545 273.569878,39.4668782 273.40591,39.310056 L268.24617,34.3727093 C267.917943,34.0586327 267.917943,33.5494115 268.24617,33.2354621 C268.574264,32.9215126 269.106322,32.9215126 269.434575,33.2354621 L273.99998,37.6042996 L278.565412,33.2356146 C278.893639,32.9216651 279.425643,32.9216651 279.75371,33.2356146 C280.082097,33.549564 280.082097,34.0587852 279.75371,34.3728617 L274.59405,39.3102085 C274.430003,39.4670561 274.214965,39.5454545 273.99998,39.5454545 Z" id="Rectangle-2" fill="#F57F17" transform="translate(274.000000, 39.872727) scale(1, -1) translate(-274.000000, -39.872727) "></path>
     </g>
 </svg>
