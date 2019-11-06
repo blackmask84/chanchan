@@ -31,10 +31,10 @@ $(document).ready(function() {
         // Open Info popup
         $(formId + '.js_info_open').on('click', function() {
             if ($(this).hasClass('btn_register_more')) {
-                $(formId + '#choose_type').text('Cần tư vấn');
+                $(formId + '#choose_type').text('nam');
             }
             if ($(this).hasClass('btn_register_now')) {
-                $(formId + '#choose_type').text('Đăng kí ngay');
+                $(formId + '#choose_type').text('nữ');
             }
             $(formId).find('.active').removeClass('active');
             $(formId + '.popup.popup_info').addClass('active');
