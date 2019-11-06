@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="523px" viewBox="0 0 320 523" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>khacbiet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="133.191225%" x2="50%" y2="-130.896815%" id="linearGradient-1">
+            <stop stop-color="#FFC107" offset="0%"></stop>
+            <stop stop-color="#F57F17" offset="100%"></stop>
+        </linearGradient>
+        <path d="M284.999983,481 C284.820763,481 284.641565,480.937118 284.504925,480.811619 L280.205142,476.860435 C279.931619,476.609091 279.931619,476.201579 280.205142,475.950337 C280.478554,475.699094 280.921935,475.699094 281.195479,475.950337 L284.999983,479.446563 L288.80451,475.950459 C289.078032,475.699216 289.521369,475.699216 289.794759,475.950459 C290.068414,476.201701 290.068414,476.609213 289.794759,476.860557 L285.495041,480.811741 C285.358336,480.937261 285.179137,481 284.999983,481 Z M284.999983,475.238095 C284.820763,475.238095 284.641565,475.175213 284.504925,475.049714 L280.205142,471.098531 C279.931619,470.847186 279.931619,470.439675 280.205142,470.188432 C280.478554,469.937189 280.921935,469.937189 281.195479,470.188432 L284.999983,473.684658 L288.80451,470.188554 C289.078032,469.937311 289.521369,469.937311 289.794759,470.188554 C290.068414,470.439797 290.068414,470.847308 289.794759,471.098653 L285.495041,475.049836 C285.358336,475.175356 285.179137,475.238095 284.999983,475.238095 Z" id="path-2"></path>
+        <filter x="-20.0%" y="-18.2%" width="140.0%" height="136.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="khacbiet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Khác-biệt" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
+            <tspan x="30" y="65">Khác biệt</tspan>
+        </text>
+        <text id="—-Những-giá-trị-mà-b" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#5D6A80">
+            <tspan x="30" y="105">— Những giá trị mà bạn chỉ thấy có ở </tspan>
+            <tspan x="30" y="125">Chanchan.</tspan>
+        </text>
+        <text id="—-Đơn-giản" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#343D51">
+            <tspan x="30" y="246">— Đơn giản</tspan>
+        </text>
+        <text id="01" font-family="Oswald-Regular_Medium, Oswald" font-size="40" font-weight="400" letter-spacing="-2" fill="#3D5AFE">
+            <tspan x="30" y="211">01</tspan>
+        </text>
+        <text id="Bạn-không-cần-cảm-th" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
+            <tspan x="30" y="291">Bạn không cần cảm thấy mình phải </tspan>
+            <tspan x="30" y="312">tốt hơn để được yêu &amp; tin tưởng</tspan>
+            <tspan x="262.870429" y="312">.</tspan>
+        </text>
+        <text id="Bạn-càng-là-chính-mì" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="376">Bạn càng là chính mình Chanchan </tspan>
+            <tspan x="30" y="397">càng dễ tìm ra những Thành viên có </tspan>
+            <tspan x="30" y="418">nhiều triển vọng gắn bó với bạn trong </tspan>
+            <tspan x="30" y="439">cuộc sống.</tspan>
+        </text>
+        <text id="Tìm-hiểu-qua-những-ả" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
+            <tspan x="30" y="476">Tìm hiểu qua những ảnh chụp </tspan>
+            <tspan x="30" y="497">màn hình Chương trình.</tspan>
+        </text>
+        <g id="Rectangle-2">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+        <text id="/" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" fill="#343D51">
+            <tspan x="30" y="344">/</tspan>
+        </text>
+        <text id="Bạn-đơn-giản-là-chín" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="50" y="345">Bạn đơn giản là chính mình.</tspan>
+        </text>
+    </g>
+</svg>

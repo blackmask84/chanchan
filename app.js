@@ -35,11 +35,11 @@ app.get('/hieuthemvechanchan', function (req, res) {
 app.get('/dangkythanhvienmoi', function (req, res) {
     res.sendFile(__dirname + '/public/6_register.html');
 });
-app.get('/timhieuchuongtrinh', function (req, res) {
-    res.sendFile(__dirname + '/public/7_program.html');
-});
 app.get('/thanhtoanquamomo', function (req, res) {
     res.sendFile(__dirname + '/public/8_momopay.html');
+});
+app.get('/timhieuvephichuongtrinh', function (req, res) {
+    res.sendFile(__dirname + '/public/9_feeguide.html');
 });
 
 // get form

@@ -22,12 +22,12 @@
         <text id="Chuyên-gia-của-Chanc" opacity="0.9" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#FFFFFF">
             <tspan x="50" y="120">Chuyên gia của Chanchan sẽ </tspan>
             <tspan x="50" y="141">đánh giá mức độ triển vọng của </tspan>
-            <tspan x="50" y="162">bạn với từng partner. </tspan>
+            <tspan x="50" y="162">bạn với từng Thành viên.</tspan>
         </text>
         <text id="—-Kế-tiếp-hệ-thống-s" opacity="0.9" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#FFFFFF">
             <tspan x="50" y="198">— Kế tiếp hệ thống sẽ so sánh </tspan>
             <tspan x="50" y="218">những triển vọng này với nhau </tspan>
-            <tspan x="50" y="238">để tìm ra những Partner có </tspan>
+            <tspan x="50" y="238">để tìm ra những Thành viên có </tspan>
             <tspan x="50" y="258">nhiều triển vọng với bạn nhất. </tspan>
         </text>
         <g id="here" transform="translate(249.000000, 9.000000)">

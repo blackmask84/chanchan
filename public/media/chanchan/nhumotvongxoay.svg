@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="578px" viewBox="0 0 320 578" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="628px" viewBox="0 0 320 628" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>nhumotvongxoay</title>
     <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="133.191225%" x2="50%" y2="-130.896815%" id="linearGradient-1">
+            <stop stop-color="#FFC107" offset="0%"></stop>
+            <stop stop-color="#F57F17" offset="100%"></stop>
+        </linearGradient>
+        <path d="M284.999983,586.454545 C284.820763,586.454545 284.641565,586.389065 284.504925,586.25838 L280.205142,582.143924 C279.931619,581.882194 279.931619,581.457843 280.205142,581.196218 C280.478554,580.934594 280.921935,580.934594 281.195479,581.196218 L284.999983,584.836916 L288.80451,581.196345 C289.078032,580.934721 289.521369,580.934721 289.794759,581.196345 C290.068414,581.45797 290.068414,581.882321 289.794759,582.144051 L285.495041,586.258507 C285.358336,586.389213 285.179137,586.454545 284.999983,586.454545 Z M284.999983,580.454545 C284.820763,580.454545 284.641565,580.389065 284.504925,580.25838 L280.205142,576.143924 C279.931619,575.882194 279.931619,575.457843 280.205142,575.196218 C280.478554,574.934594 280.921935,574.934594 281.195479,575.196218 L284.999983,578.836916 L288.80451,575.196345 C289.078032,574.934721 289.521369,574.934721 289.794759,575.196345 C290.068414,575.45797 290.068414,575.882321 289.794759,576.144051 L285.495041,580.258507 C285.358336,580.389213 285.179137,580.454545 284.999983,580.454545 Z" id="path-2"></path>
+        <filter x="-20.0%" y="-17.5%" width="140.0%" height="134.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
     <g id="nhumotvongxoay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <polygon id="Triangle" fill="#343D51" points="32 26 32 192 30 192 30 26"></polygon>
         <text id="Việc-còn-lại,-những" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
@@ -14,16 +27,16 @@
             <tspan x="0" y="312">…………………………………………………………………………</tspan>
         </text>
         <text id="—-Minh-bạch" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#343D51">
-            <tspan x="30" y="438">— Minh bạch</tspan>
+            <tspan x="30" y="430">— Minh bạch</tspan>
         </text>
         <text id="Khi-bạn-&amp;-một-Triển" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="481">Khi bạn &amp; một Triển vọng chắc chắn </tspan>
-            <tspan x="30" y="502">về tình cảm của mình.</tspan>
+            <tspan x="30" y="473">Khi bạn &amp; một Triển vọng chắc chắn </tspan>
+            <tspan x="30" y="494">về tình cảm của mình.</tspan>
         </text>
         <text id="Cả-hai-sẽ-xác-nhận-&amp;" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="30" y="533">Cả hai sẽ xác nhận &amp; cùng kết thúc </tspan>
-            <tspan x="30" y="554">chương trình ở chanchan</tspan>
-            <tspan x="217.346249" y="554">.</tspan>
+            <tspan x="30" y="525">Cả hai sẽ xác nhận &amp; cùng kết thúc </tspan>
+            <tspan x="30" y="546">chương trình ở chanchan</tspan>
+            <tspan x="217.346249" y="546">.</tspan>
         </text>
         <text id="Chanchan-ngầm-giới-h" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#5D6A80">
             <tspan x="50" y="70">Chanchan ngầm giới hạn những </tspan>
@@ -39,7 +52,15 @@
             <tspan x="50" y="191">mối quan hệ dài lâu.</tspan>
         </text>
         <text id="04" font-family="Oswald-Regular_Medium, Oswald" font-size="40" font-weight="400" letter-spacing="-2" fill="#D500F9">
-            <tspan x="30" y="403">04</tspan>
+            <tspan x="30" y="395">04</tspan>
         </text>
+        <text id="Tìm-hiểu-qua-những-ả" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
+            <tspan x="30" y="581">Tìm hiểu qua những ảnh chụp </tspan>
+            <tspan x="30" y="602">màn hình Chương trình.</tspan>
+        </text>
+        <g id="Rectangle-2">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
     </g>
 </svg>

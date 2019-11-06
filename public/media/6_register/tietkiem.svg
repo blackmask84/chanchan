@@ -29,10 +29,10 @@
         <text id="—-Khởi-tạo-chương-tr" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#8C96A8">
             <tspan x="30" y="155">— Khởi tạo chương trình</tspan>
         </text>
-        <text id="1.280.000-VND" opacity="0.3" font-family="Oswald-Regular_Medium, Oswald" font-size="22" font-weight="400" letter-spacing="-1.1" fill="#1E88E5" text-decoration="line-through">
+        <text id="1.280.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="22" font-weight="400" letter-spacing="-1.1" fill="#556279" text-decoration="line-through">
             <tspan x="138" y="127">1.280.000 VND</tspan>
         </text>
-        <text id="640.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="22" font-weight="400" letter-spacing="-1.1" fill="#EF6C00">
+        <text id="640.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="22" font-weight="400" letter-spacing="-1.1" fill="#1E88E5">
             <tspan x="30" y="127">640.000 VND</tspan>
         </text>
         <g id="Qua-momo" fill="#FFFFFF" fill-opacity="1">

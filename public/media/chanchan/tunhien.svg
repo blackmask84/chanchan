@@ -1,46 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="503px" viewBox="0 0 320 503" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="703px" viewBox="0 0 320 703" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>tunhien</title>
     <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="133.191225%" x2="50%" y2="-130.896815%" id="linearGradient-1">
+            <stop stop-color="#FFC107" offset="0%"></stop>
+            <stop stop-color="#F57F17" offset="100%"></stop>
+        </linearGradient>
+        <path d="M284.999983,661.454545 C284.820763,661.454545 284.641565,661.389065 284.504925,661.25838 L280.205142,657.143924 C279.931619,656.882194 279.931619,656.457843 280.205142,656.196218 C280.478554,655.934594 280.921935,655.934594 281.195479,656.196218 L284.999983,659.836916 L288.80451,656.196345 C289.078032,655.934721 289.521369,655.934721 289.794759,656.196345 C290.068414,656.45797 290.068414,656.882321 289.794759,657.144051 L285.495041,661.258507 C285.358336,661.389213 285.179137,661.454545 284.999983,661.454545 Z M284.999983,655.454545 C284.820763,655.454545 284.641565,655.389065 284.504925,655.25838 L280.205142,651.143924 C279.931619,650.882194 279.931619,650.457843 280.205142,650.196218 C280.478554,649.934594 280.921935,649.934594 281.195479,650.196218 L284.999983,653.836916 L288.80451,650.196345 C289.078032,649.934721 289.521369,649.934721 289.794759,650.196345 C290.068414,650.45797 290.068414,650.882321 289.794759,651.144051 L285.495041,655.258507 C285.358336,655.389213 285.179137,655.454545 284.999983,655.454545 Z" id="path-2"></path>
+        <filter x="-20.0%" y="-17.5%" width="140.0%" height="134.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
     <g id="tunhien" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
-            <tspan x="0" y="33">…………………………………………………………………………</tspan>
+            <tspan x="30" y="33">……………………………………………………………</tspan>
         </text>
         <text id="—-Tự-nhiên" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#343D51">
-            <tspan x="30" y="159">— Tự nhiên</tspan>
+            <tspan x="30" y="151">— Tự nhiên</tspan>
         </text>
         <text id="Bạn-không-cần-cảm-th" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
-            <tspan x="30" y="204">Bạn không cần cảm thấy mình</tspan>
-            <tspan x="30" y="225">nên có sức hút để hẹn hò với đối </tspan>
-            <tspan x="30" y="246">phương</tspan>
-            <tspan x="89.9016795" y="246">.</tspan>
+            <tspan x="30" y="196">Bạn không cần cảm thấy mình nên </tspan>
+            <tspan x="30" y="217">có sức hút để hẹn hò với đối </tspan>
+            <tspan x="30" y="238">phương</tspan>
+            <tspan x="89.9016795" y="238">.</tspan>
         </text>
         <text id="Chanchan-“ngầm”-kết" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.8100001" fill="#343D51">
-            <tspan x="50" y="279">Chanchan “ngầm” kết nối</tspan>
+            <tspan x="50" y="271">Chanchan “ngầm” kết nối</tspan>
         </text>
         <text id="Bạn-&amp;-những-Triển-vọ" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
-            <tspan x="50" y="309">Bạn &amp; những Triển vọng gặp gỡ </tspan>
-            <tspan x="50" y="329">tình cờ qua các Sự kiện.</tspan>
+            <tspan x="50" y="301">Bạn &amp; những Triển vọng gặp gỡ </tspan>
+            <tspan x="50" y="321">tình cờ qua các Sự kiện.</tspan>
+        </text>
+        <text id="Mọi-người-đều-gặp-đư" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#5D6A80">
+            <tspan x="30" y="579">Mọi người đều gặp được một trong </tspan>
+            <tspan x="30" y="600">những người bạn có nhiều triển </tspan>
+            <tspan x="30" y="621">vọng gắn bó nhất với mình ở đó.</tspan>
         </text>
         <text id="Những-sự-kiện-ở-Chan" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="362">Những sự kiện ở Chanchan được tạo </tspan>
-            <tspan x="30" y="383">ra bởi mọi người để chia sẻ với nhau </tspan>
-            <tspan x="30" y="404">việc mình muốn làm vào thời gian </tspan>
-            <tspan x="30" y="425">rảnh.</tspan>
+            <tspan x="30" y="354">Những sự kiện ở Chanchan được tạo </tspan>
+            <tspan x="30" y="375">ra bởi mọi người để chia sẻ với nhau </tspan>
+            <tspan x="30" y="396">việc mình muốn làm vào thời gian </tspan>
+            <tspan x="30" y="417">rảnh.</tspan>
+        </text>
+        <text id="Tìm-hiểu-qua-những-ả" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
+            <tspan x="30" y="656">Tìm hiểu qua những ảnh chụp </tspan>
+            <tspan x="30" y="677">màn hình Chương trình.</tspan>
+        </text>
+        <text id="Tại-các-Sự-kiện-này," font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="502">Tại các Sự kiện này, Thành viên tham </tspan>
+            <tspan x="30" y="523">dự sẽ do Chanchan ngầm chọn để </tspan>
+            <tspan x="30" y="544">cho tại mỗi Sự kiện:</tspan>
         </text>
         <text id="Ví-dụ-cùng-đi-cafe," font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
-            <tspan x="50" y="457">Ví dụ cùng đi cafe, cùng đi ăn, xem </tspan>
-            <tspan x="50" y="477">phim, nghe nhạc, dã ngoại… </tspan>
+            <tspan x="50" y="449">Ví dụ cùng đi cafe, cùng đi ăn, xem </tspan>
+            <tspan x="50" y="469">phim, nghe nhạc, dã ngoại… </tspan>
         </text>
         <text id="—" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
-            <tspan x="30" y="457">—</tspan>
+            <tspan x="30" y="449">—</tspan>
         </text>
         <text id="/" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" fill="#343D51">
-            <tspan x="30" y="278">/</tspan>
+            <tspan x="30" y="270">/</tspan>
         </text>
         <text id="02" font-family="Oswald-Regular_Medium, Oswald" font-size="40" font-weight="400" letter-spacing="-2" fill="#651FFF">
-            <tspan x="30" y="124">02</tspan>
+            <tspan x="30" y="116">02</tspan>
         </text>
+        <g id="Rectangle-2">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
     </g>
 </svg>

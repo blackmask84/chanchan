@@ -25,7 +25,7 @@
         </filter>
         <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-6">
             <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="slide_match_overlay1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -44,7 +44,7 @@
             <tspan x="86.184" y="537">3</tspan>
         </text>
         <text id="Vuốt-sang-bên-để-xem" opacity="0.6" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" letter-spacing="-0.48" fill="#EF6C00">
-            <tspan x="103" y="535">Vuốt sang bên để xem slide</tspan>
+            <tspan x="103" y="535">Vuốt sang bên để xem tiếp</tspan>
         </text>
         <rect id="Rectangle" fill="url(#linearGradient-6)" x="30" y="518" width="290" height="26"></rect>
     </g>

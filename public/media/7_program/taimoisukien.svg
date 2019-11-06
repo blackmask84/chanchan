@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="335px" viewBox="0 0 320 335" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="334px" viewBox="0 0 320 334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>taimoisukien</title>
     <desc>Created with Sketch.</desc>
@@ -15,15 +15,15 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="taimoisukien" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
+    <g id="taimoisukien" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="Thành-viên-mà-bạn-gặ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="30" y="106">Thành viên mà bạn gặp là một </tspan>
             <tspan x="30" y="127">trong những Thành viên có nhiều </tspan>
             <tspan x="30" y="148">triển vọng với bạn nhất ở thời điểm </tspan>
             <tspan x="30" y="169">hiện tại. </tspan>
         </text>
-        <text id="Điều-này-xảy-ra-như" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#4D5B72">
-            <tspan x="30" y="262">Điều này xảy ra như thế nào?</tspan>
+        <text id="Điều-này-diễn-ra-như" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" fill="#4D5B72">
+            <tspan x="30" y="262">Điều này diễn ra như thế nào?</tspan>
         </text>
         <text id="—-Tại-mỗi-Sự-kiện" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" fill="#5D6A80">
             <tspan x="30" y="66">— Tại mỗi Sự kiện</tspan>
