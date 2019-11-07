@@ -5,8 +5,8 @@
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="18.8993216%" y1="100%" x2="122.803305%" y2="-54.216083%" id="linearGradient-1">
-            <stop stop-color="#3D5AFE" offset="0%"></stop>
-            <stop stop-color="#00B0FF" offset="100%"></stop>
+            <stop stop-color="#66BB6A" offset="0%"></stop>
+            <stop stop-color="#9CCC65" offset="100%"></stop>
         </linearGradient>
         <circle id="path-2" cx="270" cy="18" r="12"></circle>
         <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-3">
