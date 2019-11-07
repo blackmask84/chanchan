@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="500px" viewBox="0 0 320 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="471px" viewBox="0 0 320 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>chanchanla</title>
     <desc>Created with Sketch.</desc>
@@ -16,7 +16,7 @@
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
         <text id="text-4" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#FFFFFF">
-            <tspan x="127.12793" y="404">Đăng ký</tspan>
+            <tspan x="127.12793" y="375">Đăng ký</tspan>
         </text>
         <filter x="-11.4%" y="-22.9%" width="121.2%" height="154.2%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -26,38 +26,35 @@
     </defs>
     <g id="chanchanla" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <text id="Tìm-hiểu-về-Chương-t" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
-            <tspan x="67.4295511" y="480">Tìm hiểu về Chương trình</tspan>
+            <tspan x="67.4295511" y="451">Tìm hiểu về Chương trình</tspan>
         </text>
         <text id="Được-thiết-kế-&amp;-vận" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#556279">
             <tspan x="30" y="97">Được thiết kế &amp; vận hành bởi những </tspan>
             <tspan x="30" y="118">Chuyên gia về Tâm lý - Công nghệ - </tspan>
             <tspan x="30" y="139">Thiết kế - Marketing…</tspan>
         </text>
-        <text id="Là-một-chương-trình" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#556279">
-            <tspan x="30" y="49">Là một chương trình hẹn hò thực tế </tspan>
-            <tspan x="30" y="70">dành cho mọi người.</tspan>
+        <text id="Chanchan-là-một-Chươ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#556279">
+            <tspan x="30" y="49">Chanchan là một Chương trình hẹn </tspan>
+            <tspan x="30" y="70">hò thực tế.</tspan>
         </text>
         <text id="…-trở-nên-đơn-giản-h" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="276">… trở nên đơn giản hơn với tất cả </tspan>
-            <tspan x="30" y="297">mọi người. /&gt;</tspan>
-        </text>
-        <text id="—-và-để-làm-cho" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="172">— và để làm cho</tspan>
+            <tspan x="30" y="247">… trở nên đơn giản hơn với tất cả </tspan>
+            <tspan x="30" y="268">mọi người. /&gt;</tspan>
         </text>
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
-            <tspan x="30" y="336">……………………………………………………………</tspan>
+            <tspan x="30" y="307">……………………………………………………………</tspan>
         </text>
-        <path d="M280,388 L280,434 C280,436.761424 277.761424,439 275,439 L35,439 C32.2385763,439 30,436.761424 30,434 L30,388 C30,385.238576 32.2385763,383 35,383 L275,383 C277.761424,383 280,385.238576 280,388 Z" id="Triangle" fill="url(#linearGradient-1)" opacity="0.6" filter="url(#filter-2)" transform="translate(155.000000, 411.000000) scale(-1, 1) translate(-155.000000, -411.000000) "></path>
-        <path d="M290,376 L290,422 C290,424.761424 287.761424,427 285,427 L35,427 C32.2385763,427 30,424.761424 30,422 L30,376 C30,373.238576 32.2385763,371 35,371 L285,371 C287.761424,371 290,373.238576 290,376 Z" id="Triangle" fill="url(#linearGradient-3)" transform="translate(160.000000, 399.000000) scale(-1, 1) translate(-160.000000, -399.000000) "></path>
-        <polygon id="Line" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" points="261 399 244 399 244 398 261 398 261 394 270 398.5 261 403"></polygon>
+        <path d="M280,359 L280,405 C280,407.761424 277.761424,410 275,410 L35,410 C32.2385763,410 30,407.761424 30,405 L30,359 C30,356.238576 32.2385763,354 35,354 L275,354 C277.761424,354 280,356.238576 280,359 Z" id="Triangle" fill="url(#linearGradient-1)" opacity="0.6" filter="url(#filter-2)" transform="translate(155.000000, 382.000000) scale(-1, 1) translate(-155.000000, -382.000000) "></path>
+        <path d="M290,347 L290,393 C290,395.761424 287.761424,398 285,398 L35,398 C32.2385763,398 30,395.761424 30,393 L30,347 C30,344.238576 32.2385763,342 35,342 L285,342 C287.761424,342 290,344.238576 290,347 Z" id="Triangle" fill="url(#linearGradient-3)" transform="translate(160.000000, 370.000000) scale(-1, 1) translate(-160.000000, -370.000000) "></path>
+        <polygon id="Line" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" points="261 370 244 370 244 369 261 369 261 365 270 369.5 261 374"></polygon>
         <g id="Đăng-ký" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-5)" xlink:href="#text-4"></use>
             <use xlink:href="#text-4"></use>
         </g>
-        <text id="Việc-tìm-được-một-tì" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="30" y="207">Việc tìm được một tình yêu thực </tspan>
-            <tspan x="30" y="228">sự, một người bạn đời gắn bó theo </tspan>
-            <tspan x="30" y="249">năm tháng</tspan>
+        <text id="Giúp-cho-việc-tìm-đư" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="178">Giúp cho việc tìm được một tình </tspan>
+            <tspan x="30" y="199">yêu thực sự, một người bạn đời gắn </tspan>
+            <tspan x="30" y="220">bó theo năm tháng</tspan>
         </text>
     </g>
 </svg>

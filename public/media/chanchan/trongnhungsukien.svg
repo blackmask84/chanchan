@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="817px" viewBox="0 0 320 817" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="722px" viewBox="0 0 320 722" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>trongnhungsukien</title>
     <desc>Created with Sketch.</desc>
@@ -8,8 +8,8 @@
             <stop stop-color="#FFC107" offset="0%"></stop>
             <stop stop-color="#F57F17" offset="100%"></stop>
         </linearGradient>
-        <path d="M284.999983,775.454545 C284.820763,775.454545 284.641565,775.389065 284.504925,775.25838 L280.205142,771.143924 C279.931619,770.882194 279.931619,770.457843 280.205142,770.196218 C280.478554,769.934594 280.921935,769.934594 281.195479,770.196218 L284.999983,773.836916 L288.80451,770.196345 C289.078032,769.934721 289.521369,769.934721 289.794759,770.196345 C290.068414,770.45797 290.068414,770.882321 289.794759,771.144051 L285.495041,775.258507 C285.358336,775.389213 285.179137,775.454545 284.999983,775.454545 Z M284.999983,769.454545 C284.820763,769.454545 284.641565,769.389065 284.504925,769.25838 L280.205142,765.143924 C279.931619,764.882194 279.931619,764.457843 280.205142,764.196218 C280.478554,763.934594 280.921935,763.934594 281.195479,764.196218 L284.999983,767.836916 L288.80451,764.196345 C289.078032,763.934721 289.521369,763.934721 289.794759,764.196345 C290.068414,764.45797 290.068414,764.882321 289.794759,765.144051 L285.495041,769.258507 C285.358336,769.389213 285.179137,769.454545 284.999983,769.454545 Z" id="path-2"></path>
-        <filter x="-20.0%" y="-17.5%" width="140.0%" height="134.9%" filterUnits="objectBoundingBox" id="filter-3">
+        <path d="M284.999983,680 C284.820763,680 284.641565,679.937118 284.504925,679.811619 L280.205142,675.860435 C279.931619,675.609091 279.931619,675.201579 280.205142,674.950337 C280.478554,674.699094 280.921935,674.699094 281.195479,674.950337 L284.999983,678.446563 L288.80451,674.950459 C289.078032,674.699216 289.521369,674.699216 289.794759,674.950459 C290.068414,675.201701 290.068414,675.609213 289.794759,675.860557 L285.495041,679.811741 C285.358336,679.937261 285.179137,680 284.999983,680 Z M284.999983,674.238095 C284.820763,674.238095 284.641565,674.175213 284.504925,674.049714 L280.205142,670.098531 C279.931619,669.847186 279.931619,669.439675 280.205142,669.188432 C280.478554,668.937189 280.921935,668.937189 281.195479,669.188432 L284.999983,672.684658 L288.80451,669.188554 C289.078032,668.937311 289.521369,668.937311 289.794759,669.188554 C290.068414,669.439797 290.068414,669.847308 289.794759,670.098653 L285.495041,674.049836 C285.358336,674.175356 285.179137,674.238095 284.999983,674.238095 Z" id="path-2"></path>
+        <filter x="-20.0%" y="-18.2%" width="140.0%" height="136.4%" filterUnits="objectBoundingBox" id="filter-3">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
@@ -26,26 +26,25 @@
         </text>
         <text id="&lt;-Điều-này-là-tình-c" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
             <tspan x="50" y="192">&lt; Điều này là tình cờ. Cả hai đều </tspan>
-            <tspan x="50" y="212">không biết trước người kia là ai </tspan>
-            <tspan x="50" y="232">cho đến khi cùng có mặt ở Sự kiện. </tspan>
+            <tspan x="50" y="212">không biết người kia là ai cho đến </tspan>
+            <tspan x="50" y="232">khi cùng có mặt ở Sự kiện. </tspan>
         </text>
         <text id="Cả-hai-chỉ-biết-đó-l" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
             <tspan x="50" y="264">Cả hai chỉ biết đó là một trong </tspan>
             <tspan x="50" y="284">những Triển vọng mình đang có </tspan>
             <tspan x="50" y="304">trong Chương trình. /&gt;</tspan>
         </text>
-        <text id="—-Tại-sự-kiện-này" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" fill="#556279">
+        <text id="—-Tại-sự-kiện-này" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" fill="#343D51">
             <tspan x="30" y="88">— Tại sự kiện này</tspan>
         </text>
         <text id="Bạn-không-cần-cảm-th" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
             <tspan x="30" y="514">Bạn không cần cảm thấy mình đơn </tspan>
             <tspan x="30" y="535">phương theo đuổi một ai đó.</tspan>
         </text>
-        <text id="Triển-vọng-của-bạn-v" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
-            <tspan x="50" y="598">Triển vọng của bạn với một ai đó </tspan>
-            <tspan x="50" y="618">ngày càng tăng sẽ khiến những lần </tspan>
-            <tspan x="50" y="638">hai người tình cờ gặp nhau tại một </tspan>
-            <tspan x="50" y="658">Sự kiện ngày càng nhiều.</tspan>
+        <text id="Càng-có-nhiều-triển" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
+            <tspan x="50" y="598">Càng có nhiều triển vọng với ai, </tspan>
+            <tspan x="50" y="618">bạn &amp; người ấy càng “va” phải </tspan>
+            <tspan x="50" y="638">nhau càng nhiều qua các Sự kiện.</tspan>
         </text>
         <text id="—-Tốc-độ" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#343D51">
             <tspan x="30" y="469">— Tốc độ</tspan>
@@ -58,19 +57,14 @@
         </text>
         <text id="Trong-những-Sự-kiện" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
             <tspan x="30" y="35">Trong những Sự kiện bạn muốn đến, </tspan>
-            <tspan x="30" y="56">Chanchan chọn ra một Sự kiện mà…</tspan>
+            <tspan x="30" y="56">Chanchan chọn ra một Sự kiện mà:</tspan>
         </text>
         <text id="/" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" fill="#556279">
             <tspan x="30" y="567">/</tspan>
         </text>
-        <text id="Càng-có-nhiều-triển" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="691">Càng có nhiều triển vọng với ai, bạn &amp; </tspan>
-            <tspan x="30" y="712">người ấy càng “va” phải nhau càng </tspan>
-            <tspan x="30" y="733">nhiều qua các Sự kiện.</tspan>
-        </text>
         <text id="Tìm-hiểu-qua-những-ả" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
-            <tspan x="30" y="770">Tìm hiểu qua những ảnh chụp </tspan>
-            <tspan x="30" y="791">màn hình Chương trình.</tspan>
+            <tspan x="30" y="675">Tìm hiểu qua những ảnh chụp </tspan>
+            <tspan x="30" y="696">màn hình Chương trình.</tspan>
         </text>
         <text id="Chanchan-“ngầm”-tăng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="50" y="568">Chanchan “ngầm” tăng tốc</tspan>
