@@ -8,7 +8,7 @@
             <stop stop-color="#FFC107" offset="0%"></stop>
             <stop stop-color="#F57F17" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-2" x="78" y="518" width="24" height="24" rx="2.5"></rect>
+        <rect id="path-2" x="78" y="514" width="24" height="24" rx="2.5"></rect>
         <filter x="-8.3%" y="-8.3%" width="116.7%" height="116.7%" filterUnits="objectBoundingBox" id="filter-3">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
@@ -16,7 +16,7 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
         <text id="text-4" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#FFFFFF">
-            <tspan x="86.184" y="537">3</tspan>
+            <tspan x="86.184" y="533">3</tspan>
         </text>
         <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -30,16 +30,16 @@
             <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
         </g>
         <text id="1" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
-            <tspan x="38.832" y="537">1</tspan>
+            <tspan x="38.832" y="533">1</tspan>
         </text>
         <text id="2" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
-            <tspan x="62.176" y="537">2</tspan>
+            <tspan x="62.176" y="533">2</tspan>
         </text>
         <text id="3" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
-            <tspan x="86.184" y="537">3</tspan>
+            <tspan x="86.184" y="533">3</tspan>
         </text>
         <text id="2" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
-            <tspan x="62.176" y="537">2</tspan>
+            <tspan x="62.176" y="533">2</tspan>
         </text>
         <g id="3" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-5)" xlink:href="#text-4"></use>

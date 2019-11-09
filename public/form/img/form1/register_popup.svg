@@ -7,15 +7,15 @@
         <text id="……………………………………………….." font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
             <tspan x="68" y="167">………………………………………………..</tspan>
         </text>
-        <text id="Bạn-là" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56000006" fill="#8C96A8">
-            <tspan x="40" y="95">Bạn là</tspan>
+        <text id="Cho-chanchan-biết-lự" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#556279">
+            <tspan x="40" y="74">Cho chanchan biết lựa chọn nào </tspan>
+            <tspan x="40" y="95">dưới đây phù hợp với bạn</tspan>
         </text>
-        <text id="Nam" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="68" y="138">Nam</tspan>
+        <text id="Cần-được-tư-vấn-thêm" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="68" y="138">Cần được tư vấn thêm</tspan>
         </text>
-        <text id="Nữ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
-            <tspan x="68" y="207">N</tspan>
-            <tspan x="79.4176953" y="207">ữ</tspan>
+        <text id="Đăng-ký-ngay" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="68" y="207">Đăng ký ngay </tspan>
         </text>
     </g>
 </svg>

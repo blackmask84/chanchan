@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="495px" viewBox="0 0 320 495" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>chungtoi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-37.5658265%" y1="41.3307134%" x2="134.769076%" y2="65.0404029%" id="linearGradient-1">
+            <stop stop-color="#AA00FF" offset="0%"></stop>
+            <stop stop-color="#304FFE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-14.4%" y="-69.2%" width="128.8%" height="238.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-37.5658265%" y1="40.7042155%" x2="134.769076%" y2="66.1273184%" id="linearGradient-3">
+            <stop stop-color="#AA00FF" offset="0%"></stop>
+            <stop stop-color="#304FFE" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-4" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#FFFFFF">
+            <tspan x="127.12793" y="432">Đăng ký</tspan>
+        </text>
+        <filter x="-11.4%" y="-22.9%" width="121.2%" height="154.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="chungtoi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Chanchan-được-tạo-ra" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
+            <tspan x="50" y="186">Chanchan được tạo ra để điều này </tspan>
+            <tspan x="50" y="206">trở nên đơn giản hơn với tất cả </tspan>
+            <tspan x="50" y="226">mọi người. </tspan>
+        </text>
+        <text id="/" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="22" fill="#343D51">
+            <tspan x="30" y="186">/</tspan>
+        </text>
+        <text id="Chúng-tôi-tin-rằng-n" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="70">Chúng tôi tin rằng nếu yêu thương là </tspan>
+            <tspan x="30" y="91">một khả năng mà ai cũng có, thì việc </tspan>
+            <tspan x="30" y="112">có được một tình yêu ở bên mình </tspan>
+            <tspan x="30" y="133">theo năm tháng là kết quả mà ai cũng </tspan>
+            <tspan x="30" y="154">có thể nhận được.</tspan>
+        </text>
+        <text id="Chúng-tôi" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
+            <tspan x="30" y="33">Chúng tôi</tspan>
+        </text>
+        <text id="Tháng-2-năm-2018,-ch" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="263">Tháng 2 năm 2018, chúng tôi bắt đầu </tspan>
+            <tspan x="30" y="284">Chanchan với một niềm tin như vậy.</tspan>
+        </text>
+        <text id="Chanchan-có-khiến-bạ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="30" y="367">Chanchan có khiến bạn tin tưởng?</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="30" y="323">……………………………………………………………</tspan>
+        </text>
+        <path d="M280,416 L280,458 C280,460.761424 277.761424,463 275,463 L35,463 C32.2385763,463 30,460.761424 30,458 L30,416 C30,413.238576 32.2385763,411 35,411 L275,411 C277.761424,411 280,413.238576 280,416 Z" id="Triangle" fill="url(#linearGradient-1)" opacity="0.6" filter="url(#filter-2)" transform="translate(155.000000, 437.000000) scale(-1, 1) translate(-155.000000, -437.000000) "></path>
+        <path d="M290,404 L290,450 C290,452.761424 287.761424,455 285,455 L35,455 C32.2385763,455 30,452.761424 30,450 L30,404 C30,401.238576 32.2385763,399 35,399 L285,399 C287.761424,399 290,401.238576 290,404 Z" id="Triangle" fill="url(#linearGradient-3)" transform="translate(160.000000, 427.000000) scale(-1, 1) translate(-160.000000, -427.000000) "></path>
+        <polygon id="Line" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4" points="262 427 245 427 245 426 262 426 262 422 271 426.5 262 431"></polygon>
+        <g id="Đăng-ký" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+            <use xlink:href="#text-4"></use>
+        </g>
+    </g>
+</svg>

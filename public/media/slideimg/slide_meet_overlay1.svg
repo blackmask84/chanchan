@@ -8,7 +8,7 @@
             <stop stop-color="#FFC107" offset="0%"></stop>
             <stop stop-color="#F57F17" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-2" x="30" y="518" width="24" height="24" rx="2.5"></rect>
+        <rect id="path-2" x="30" y="514" width="24" height="24" rx="2.5"></rect>
         <filter x="-8.3%" y="-8.3%" width="116.7%" height="116.7%" filterUnits="objectBoundingBox" id="filter-3">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
@@ -16,7 +16,7 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
         <text id="text-4" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#FFFFFF">
-            <tspan x="38.832" y="537">1</tspan>
+            <tspan x="38.832" y="533">1</tspan>
         </text>
         <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -24,7 +24,7 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <text id="text-6" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#FFFFFF">
-            <tspan x="38.832" y="537">1</tspan>
+            <tspan x="38.832" y="533">1</tspan>
         </text>
         <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-7">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -33,7 +33,7 @@
         </filter>
         <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-8">
             <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="slide_meet_overlay1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -46,18 +46,18 @@
             <use xlink:href="#text-4"></use>
         </g>
         <text id="2" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
-            <tspan x="62.176" y="537">2</tspan>
+            <tspan x="62.176" y="533">2</tspan>
         </text>
         <g id="1" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-7)" xlink:href="#text-6"></use>
             <use xlink:href="#text-6"></use>
         </g>
         <text id="2" font-family="Oswald-Regular, Oswald" font-size="16" font-weight="normal" fill="#F57F17">
-            <tspan x="62.176" y="537">2</tspan>
+            <tspan x="62.176" y="533">2</tspan>
         </text>
         <text id="Vuốt-sang-bên-để-xem" opacity="0.6" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" letter-spacing="-0.48" fill="#EF6C00">
-            <tspan x="103" y="535">Vuốt sang bên để xem tiếp</tspan>
+            <tspan x="103" y="531">Vuốt sang bên để xem tiếp</tspan>
         </text>
-        <rect id="Rectangle" fill="url(#linearGradient-8)" x="30" y="518" width="290" height="26"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-8)" x="30" y="514" width="290" height="26"></rect>
     </g>
 </svg>

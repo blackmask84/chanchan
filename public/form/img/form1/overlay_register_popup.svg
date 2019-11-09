@@ -4,8 +4,8 @@
     <title>overlay_register_popup</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="38" width="320" height="216"></rect>
-        <filter x="-9.5%" y="-14.6%" width="119.1%" height="128.2%" filterUnits="objectBoundingBox" id="filter-2">
+        <rect id="path-1" x="0" y="39" width="320" height="215"></rect>
+        <filter x="-9.5%" y="-14.7%" width="119.1%" height="128.4%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
