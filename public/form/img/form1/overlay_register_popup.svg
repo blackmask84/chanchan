@@ -4,8 +4,8 @@
     <title>overlay_register_popup</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="39" width="320" height="215"></rect>
-        <filter x="-9.5%" y="-14.7%" width="119.1%" height="128.4%" filterUnits="objectBoundingBox" id="filter-2">
+        <rect id="path-1" x="0" y="30" width="320" height="224"></rect>
+        <filter x="-9.5%" y="-14.1%" width="119.1%" height="127.2%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
@@ -14,14 +14,14 @@
             <stop stop-color="#1BC4C0" offset="0%"></stop>
             <stop stop-color="#02AEC0" offset="100%"></stop>
         </linearGradient>
-        <circle id="path-4" cx="46" cy="133" r="6"></circle>
+        <circle id="path-4" cx="46" cy="140" r="6"></circle>
         <filter x="-16.7%" y="-16.7%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-5">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <circle id="path-6" cx="46" cy="202" r="6"></circle>
+        <circle id="path-6" cx="46" cy="209" r="6"></circle>
         <filter x="-16.7%" y="-16.7%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-7">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
