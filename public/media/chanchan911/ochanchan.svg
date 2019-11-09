@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="592px" viewBox="0 0 320 592" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="620px" viewBox="0 0 320 620" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>ochanchan</title>
     <desc>Created with Sketch.</desc>
@@ -15,10 +15,13 @@
             <tspan x="50" y="463">Sự kiện đơn chỉ có 2 người. Thành </tspan>
             <tspan x="50" y="483">viên nào cũng có thể tạo.</tspan>
         </text>
+        <text id="Từ-kết-quả-thử-thách" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="50" y="529">Từ kết quả thử thách</tspan>
+        </text>
         <text id="Chương-trình-kết-nối" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#343D51">
-            <tspan x="50" y="526">Chương trình kết nối các cặp đôi </tspan>
-            <tspan x="50" y="546">gặp nhau qua các Sự kiện này một </tspan>
-            <tspan x="50" y="566">cách tình cờ.</tspan>
+            <tspan x="50" y="554">Chương trình kết nối các cặp đôi </tspan>
+            <tspan x="50" y="574">gặp nhau qua các Sự kiện này một </tspan>
+            <tspan x="50" y="594">cách tình cờ.</tspan>
         </text>
         <text id="Mọi-người-để-cho-kết" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="20" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="50" y="193">Mọi người để cho kết quả Thử </tspan>
@@ -36,7 +39,7 @@
             <tspan x="50" y="162">đang Thử thách. /&gt;</tspan>
         </text>
         <rect id="Rectangle" fill="#343D51" x="30" y="108" width="2" height="108"></rect>
-        <rect id="Rectangle" fill="#343D51" x="30" y="512" width="2" height="60"></rect>
+        <rect id="Rectangle" fill="#343D51" x="30" y="512" width="2" height="88"></rect>
         <text id="Thành-viên-sử-dụng-t" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="20" fill="#343D51">
             <tspan x="30" y="255">Thành viên sử dụng tính năng Tạo Sự </tspan>
             <tspan x="30" y="275">kiện để chia sẻ với mọi người việc </tspan>
