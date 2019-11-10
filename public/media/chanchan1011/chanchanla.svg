@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="449px" viewBox="0 0 320 449" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="441px" viewBox="0 0 320 441" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>chanchanla</title>
     <desc>Created with Sketch.</desc>
@@ -25,27 +25,25 @@
         </filter>
     </defs>
     <g id="chanchanla" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Là-một-Chương-trình" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
-            <tspan x="30" y="174">Là một Chương trình thử thách, </tspan>
-            <tspan x="30" y="195">chanchan giúp cho việc tìm được một </tspan>
-            <tspan x="30" y="216">ai đó yêu mình thật lòng, một ai đó </tspan>
-            <tspan x="30" y="237">muốn ở bên mình theo cùng năm </tspan>
-            <tspan x="30" y="258">tháng… trở nên </tspan>
-            <tspan x="137.421875" y="258" text-decoration="underline">đơn giản hơn </tspan>
-            <tspan x="231.773438" y="258">với tất </tspan>
-            <tspan x="30" y="279">cả mọi người.</tspan>
+        <text id="Là-một-chương-trình" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="174">Là một chương trình thử thách, </tspan>
+            <tspan x="30" y="195">Chanchan giúp cho việc tìm được </tspan>
+            <tspan x="30" y="216">một ai đó yêu mình thật lòng, một ai </tspan>
+            <tspan x="30" y="237">đó muốn ở bên mình theo năm tháng </tspan>
+            <tspan x="30" y="258">trở nên đơn giản hơn với tất cả mọi </tspan>
+            <tspan x="30" y="279">người.</tspan>
         </text>
         <text id="&lt;-Thử-thách-chân-thà" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
             <tspan x="30" y="98">&lt; Thử thách chân thành để tìm thấy </tspan>
-            <tspan x="30" y="118">một tình yêu chân thực. /&gt;</tspan>
+            <tspan x="30" y="118">tình yêu chân thực. /&gt;</tspan>
         </text>
         <g id="Chanchan-2" transform="translate(30.000000, 32.000000)" fill="#343D51" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56">
             <text id="Chanchan">
                 <tspan x="0" y="25">Chanchan</tspan>
             </text>
         </g>
-        <text id="—" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
-            <tspan x="30" y="146">—</tspan>
+        <text id="—" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#556279">
+            <tspan x="30" y="147">—</tspan>
         </text>
         <path d="M280,362 L280,408 C280,410.761424 277.761424,413 275,413 L35,413 C32.2385763,413 30,410.761424 30,408 L30,362 C30,359.238576 32.2385763,357 35,357 L275,357 C277.761424,357 280,359.238576 280,362 Z" id="Triangle" fill="url(#linearGradient-1)" opacity="0.5" filter="url(#filter-2)" transform="translate(155.000000, 385.000000) scale(-1, 1) translate(-155.000000, -385.000000) "></path>
         <path d="M290,350 L290,396 C290,398.761424 287.761424,401 285,401 L35,401 C32.2385763,401 30,398.761424 30,396 L30,350 C30,347.238576 32.2385763,345 35,345 L285,345 C287.761424,345 290,347.238576 290,350 Z" id="Triangle" fill="url(#linearGradient-3)" transform="translate(160.000000, 373.000000) scale(-1, 1) translate(-160.000000, -373.000000) "></path>
@@ -57,5 +55,6 @@
             <use filter="url(#filter-5)" xlink:href="#text-4"></use>
             <use xlink:href="#text-4"></use>
         </g>
+        <polygon id="Path" fill="#343D51" fill-rule="nonzero" points="85 259.75 175.5 259.75 175.5 259 85 259"></polygon>
     </g>
 </svg>
