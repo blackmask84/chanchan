@@ -41,6 +41,9 @@ app.get('/thanhtoanquamomo', function (req, res) {
 app.get('/timhieuvephichuongtrinh', function (req, res) {
     res.sendFile(__dirname + '/public/9_feeguide.html');
 });
+app.get('/timhieuchuongtrinh', function (req, res) {
+    res.sendFile(__dirname + '/public/7_program1011.html');
+});
 
 // get form
 

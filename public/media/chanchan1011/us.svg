@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="508px" viewBox="0 0 320 508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>us</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.2%" y="-3.5%" width="106.4%" height="107.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.96">
+        <g id="txt" filter="url(#filter-1)" transform="translate(35.000000, 228.000000)" fill="#FFFFFF">
+            <text id="Thành-viên-hoàn-thàn" opacity="0.86" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15.5" font-weight="normal" letter-spacing="-0.31">
+                <tspan x="65" y="120">Thành viên hoàn thành </tspan>
+                <tspan x="65" y="139">chương trình trong 03 tháng</tspan>
+            </text>
+            <text id="Thành-viên-hoàn-thàn" opacity="0.86" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15.5" font-weight="normal" letter-spacing="-0.31">
+                <tspan x="65" y="206">Thành viên hoàn thành </tspan>
+                <tspan x="65" y="225">chương trình trong 06 tháng</tspan>
+            </text>
+            <text id="—-Hơn-một-năm-phát-t" opacity="0.86" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal">
+                <tspan x="0" y="73">— Hơn một năm phát triển</tspan>
+            </text>
+            <text id="50" font-family="Oswald-Regular_Medium, Oswald" font-size="28" font-weight="400" letter-spacing="-1.68">
+                <tspan x="0" y="134">50</tspan>
+            </text>
+            <text id="+" font-family="Oswald-Regular_Medium, Oswald" font-size="28" font-weight="400" letter-spacing="-1.68">
+                <tspan x="40" y="134">+</tspan>
+            </text>
+            <text id="%" font-family="Oswald-Regular, Oswald" font-size="12" font-weight="normal" letter-spacing="-0.5485713">
+                <tspan x="27" y="121">%</tspan>
+            </text>
+            <text id="01-+" font-family="Oswald-Regular_Medium, Oswald" font-size="32" font-weight="400" letter-spacing="-1.92">
+                <tspan x="0" y="38">01 +</tspan>
+            </text>
+            <text id="80" font-family="Oswald-Regular_Medium, Oswald" font-size="28" font-weight="400" letter-spacing="-1.68">
+                <tspan x="0" y="220">80</tspan>
+            </text>
+            <text id="+" font-family="Oswald-Regular_Medium, Oswald" font-size="28" font-weight="400" letter-spacing="-1.68">
+                <tspan x="40" y="220">+</tspan>
+            </text>
+            <text id="%" font-family="Oswald-Regular, Oswald" font-size="12" font-weight="normal" letter-spacing="-0.5485713">
+                <tspan x="27" y="207">%</tspan>
+            </text>
+            <text id="___________________" opacity="0.2" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="22">
+                <tspan x="65" y="167">___________________</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="821px" viewBox="0 0 320 821" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>timhieu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="147.003337%" x2="122.803305%" y2="-54.216083%" id="linearGradient-1">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#00B0FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="270" cy="12" r="12"></circle>
+        <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="timhieu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F0F6FA" x="0" y="38" width="320" height="783"></rect>
+        <path d="M0,23.3942402 L5.17643724,20.2848721 C8.12752144,18.5122229 11.8312646,18.5782898 14.7172509,20.4550598 L15.0935815,20.6997894 C18.0769173,22.6398662 21.9232666,22.6398662 24.9066023,20.6997894 L25.0936275,20.5781661 C28.0769632,18.6380893 31.9233126,18.6380893 34.9066483,20.5781661 L35.0936735,20.6997894 C38.0770092,22.6398662 41.9233586,22.6398662 44.9066943,20.6997894 L45.0937195,20.5781661 C48.0770552,18.6380893 51.9234045,18.6380893 54.9067403,20.5781661 L55.0937654,20.6997894 C58.0771012,22.6398662 61.9234505,22.6398662 64.9067862,20.6997894 L65.0938114,20.5781661 C68.0771471,18.6380893 71.9234965,18.6380893 74.9068322,20.5781661 L75.0938574,20.6997894 C78.0771931,22.6398662 81.9235425,22.6398662 84.9068782,20.6997894 L85.0939033,20.5781661 C88.0772391,18.6380893 91.9235884,18.6380893 94.9069242,20.5781661 L95.0939493,20.6997894 C98.077285,22.6398662 101.923634,22.6398662 104.90697,20.6997894 L105.092678,20.5790229 C108.076685,18.6385094 111.924019,18.6389815 114.90755,20.5802274 L115.091527,20.6999328 C118.076067,22.6418352 121.924882,22.6415978 124.909182,20.6993272 L125.090195,20.5815187 C128.074649,18.6391482 131.923688,18.6390188 134.908273,20.5811885 L135.090387,20.6996964 C138.074788,22.6417463 141.923557,22.6417463 144.907958,20.6996964 L145.090433,20.5809535 C148.074834,18.6389035 151.923603,18.6389035 154.908004,20.5809535 L155.090479,20.6996964 C158.07488,22.6417463 161.923649,22.6417463 164.90805,20.6996964 L165.090525,20.5809535 C168.074926,18.6389035 171.923695,18.6389035 174.908096,20.5809535 L175.090571,20.6996964 C178.074972,22.6417463 181.923741,22.6417463 184.908142,20.6996964 L185.090617,20.5809535 C188.075018,18.6389035 191.923787,18.6389035 194.908188,20.5809535 L195.090663,20.6996964 C198.075064,22.6417463 201.923833,22.6417463 204.908234,20.6996964 L205.090709,20.5809535 C208.075109,18.6389035 211.923879,18.6389035 214.90828,20.5809535 L215.090755,20.6996964 C218.075155,22.6417463 221.923925,22.6417463 224.908326,20.6996964 L225.090801,20.5809535 C228.075201,18.6389035 231.923971,18.6389035 234.908372,20.5809535 L235.090847,20.6996964 C238.075247,22.6417463 241.924017,22.6417463 244.908417,20.6996964 L244.999655,20.6403249 C247.919158,18.7405064 251.767492,19.1291542 254.248187,21.5743449 L259.999724,27.2435652 C265.545762,32.7102271 274.453778,32.7102271 279.999816,27.2435652 L285.751353,21.5743449 C288.232048,19.1291542 292.080383,18.7405064 294.999885,20.6403249 L295.091123,20.6996964 C298.075523,22.6417463 301.924293,22.6417463 304.908693,20.6996964 L305.091169,20.5809535 C308.075569,18.6389035 311.924339,18.6389035 314.908739,20.5809535 L320,23.8940084 L320,39 L0,39 L0,23.3942402 Z" id="Rectangle" fill="#F0F6FA"></path>
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+        </g>
+        <text id="i" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" fill="#FFFFFF">
+            <tspan x="267.5" y="17">i</tspan>
+        </text>
+        <text id="Tìm-hiểu" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
+            <tspan x="30" y="88">Tìm hiểu</tspan>
+        </text>
+        <text id="Ở-chanchan,-khi-hai" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="30" y="175">Ở chanchan, khi hai Thành viên bất kỳ </tspan>
+            <tspan x="30" y="196">mong muốn có cơ hội với nhau, </tspan>
+            <tspan x="30" y="217">chương trình sẽ </tspan>
+            <tspan x="143.085938" y="217" text-decoration="underline">thử thách họ.</tspan>
+        </text>
+        <text id="Ở-chanchan,-khi-đang" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="60" y="258">Ở chanchan, khi đang thử thách </tspan>
+            <tspan x="60" y="279">các cặp đôi không có xu hướng </tspan>
+            <tspan x="60" y="300">hẹn hò với nhau. Mọi người để </tspan>
+            <tspan x="60" y="321">cho </tspan>
+            <tspan x="89.140625" y="321" text-decoration="underline">kết quả thử thách </tspan>
+            <tspan x="213.851562" y="321">quyết định </tspan>
+            <tspan x="60" y="342">cơ hội gặp gỡ.</tspan>
+        </text>
+        <text id="Qua-thử-thách,-cặp-đ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+            <tspan x="60" y="383">Qua thử thách, cặp đôi nào cho </tspan>
+            <tspan x="60" y="404">thấy mong muốn có nhau </tspan>
+            <tspan x="239.0625" y="404" text-decoration="underline">càng </tspan>
+            <tspan x="60" y="425" text-decoration="underline">chân thành </tspan>
+            <tspan x="141.546875" y="425">thì cặp đôi ấy càng </tspan>
+            <tspan x="60" y="446" text-decoration="underline">tình cờ gặp nhau </tspan>
+            <tspan x="179.148438" y="446">càng nhiều qua </tspan>
+            <tspan x="60" y="467">các Sự kiện thực tế.</tspan>
+        </text>
+        <text id="Cả-hai-chắc-chắn-về" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#556279">
+            <tspan x="50" y="668">Cả hai </tspan>
+            <tspan x="95.53125" y="668" text-decoration="underline">chắc chắn </tspan>
+            <tspan x="169.828125" y="668">về cảm nhận của </tspan>
+            <tspan x="50" y="689">mình. Cả hai cảm thấy Thử thách </tspan>
+            <tspan x="50" y="710">từ Chương trình là </tspan>
+            <tspan x="178.84375" y="710" text-decoration="underline">không còn cần </tspan>
+            <tspan x="50" y="731" text-decoration="underline">thiết </tspan>
+            <tspan x="85.5078125" y="731">nữa.</tspan>
+        </text>
+        <text id="Cả-hai-sẽ-xác-nhận-h" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="20">
+            <tspan x="60" y="776" fill="#343D51">Cả hai sẽ xác n</tspan>
+            <tspan x="161.242188" y="776" fill="#343D51">hận hoàn thành v</tspan>
+            <tspan x="280.195312" y="776" fill="#343D51">à </tspan>
+            <tspan x="60" y="796" fill="#343D51" text-decoration="underline">kết thúc</tspan>
+            <tspan x="116.25" y="796" fill="#FFFFFF"> </tspan>
+            <tspan x="119.453125" y="796" fill="#343D51">chương trình.</tspan>
+        </text>
+        <text id="Một-cách-tự-nhiên…" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
+            <tspan x="50" y="516">Một cách tự nhiên…</tspan>
+        </text>
+        <text id="Cho-đến-khi…" font-family="Georgia-Italic, Georgia" font-size="16" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
+            <tspan x="50" y="640">Cho đến khi…</tspan>
+        </text>
+        <text id="Cả-hai-dần-thân-thuộ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#556279">
+            <tspan x="50" y="544">Cả hai dần thân thuộc qua những </tspan>
+            <tspan x="50" y="565">lần gặp gỡ, hiểu nhau nhiều hơn &amp; </tspan>
+            <tspan x="50" y="586">sẻ chia nhiều hơn trong cuộc </tspan>
+            <tspan x="50" y="607">sống.</tspan>
+        </text>
+        <polygon id="Triangle" fill="#343D51" points="32 501 32 737 30 737 30 501"></polygon>
+        <text id="—-Cách-hoạt-động-Chư" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
+            <tspan x="30" y="122">— Cách hoạt động Chương trình.</tspan>
+        </text>
+        <text id="a" font-family="Georgia-Bold, Georgia" font-size="20" font-weight="bold" line-spacing="23" fill="#343D51">
+            <tspan x="30" y="261">a</tspan>
+        </text>
+        <text id="—" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="17" fill="#343D51">
+            <tspan x="30" y="268">—</tspan>
+        </text>
+        <text id="b" font-family="Georgia-Bold, Georgia" font-size="20" font-weight="bold" line-spacing="23" fill="#343D51">
+            <tspan x="30" y="386">b</tspan>
+        </text>
+        <text id="—" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="17" fill="#343D51">
+            <tspan x="30" y="393">—</tspan>
+        </text>
+        <text id="c" font-family="Georgia-Bold, Georgia" font-size="20" font-weight="bold" line-spacing="23" fill="#343D51">
+            <tspan x="30" y="779">c</tspan>
+        </text>
+        <text id="—" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" line-spacing="17" fill="#343D51">
+            <tspan x="30" y="786">—</tspan>
+        </text>
+    </g>
+</svg>
