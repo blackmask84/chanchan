@@ -47,7 +47,7 @@ app.get('/timhieuchuongtrinh', function (req, res) {
 app.get('/chancode', function (req, res) {
     res.sendFile(__dirname + '/public/10_programcreat.html');
 });
-app.get('/moiquanhetuyetvoi', function (req, res) {
+app.get('/mqhtv', function (req, res) {
     res.sendFile(__dirname + '/public/moiquanhetuyetvoi.html');
 });
 
