@@ -44,6 +44,9 @@ app.get('/timhieuvephichuongtrinh', function (req, res) {
 app.get('/timhieuchuongtrinh', function (req, res) {
     res.sendFile(__dirname + '/public/7_program1011.html');
 });
+app.get('/chancode', function (req, res) {
+    res.sendFile(__dirname + '/public/10_programcreat.html');
+});
 
 // get form
 

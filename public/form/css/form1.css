@@ -287,15 +287,15 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup_notifi {
     visibility: hidden;
     position: absolute;
-    bottom: 39%;
-    left: 11%;
+    bottom: 0;
+    left: 12%;
     z-index: 100;
-    padding: 3% 1%;
+    padding: 12% 10%;
     background-color: #fff;
     transition: opacity 0.3s ease-in-out;
   }
   .form-mobile .popup_notifi .txt {
     color: #5d6a80;
-    font-size: 4vw;
+    font-size: 5vw;
     font-weight: 400;
   }
