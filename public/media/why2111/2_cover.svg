@@ -4,7 +4,7 @@
     <title>2_cover</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <filter x="-5.4%" y="-11.4%" width="110.4%" height="122.9%" filterUnits="objectBoundingBox" id="filter-1">
+        <filter x="-5.4%" y="-10.6%" width="110.4%" height="121.2%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="-1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
@@ -15,17 +15,17 @@
         </filter>
     </defs>
     <g id="2_cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" filter="url(#filter-1)" transform="translate(40.000000, 371.000000)">
+        <g id="Group" filter="url(#filter-1)" transform="translate(40.000000, 363.000000)">
             <text id="chanchan.vn" font-family="ChalkboardSE-Bold, Chalkboard SE" font-size="15" font-weight="bold" fill="#FFFFFF">
-                <tspan x="0" y="101">chanchan.vn</tspan>
+                <tspan x="0" y="109">chanchan.vn</tspan>
             </text>
             <text id="_" font-family="Chalkduster" font-size="20" font-weight="normal" fill="#AC5E8C">
-                <tspan x="0" y="75">_</tspan>
+                <tspan x="0" y="83">_</tspan>
             </text>
             <text id="“-Cách-chúng-ta-thườ" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="15" font-weight="bold" line-spacing="20" fill="#FFFFFF">
-                <tspan x="0" y="14">“</tspan>
-                <tspan x="0" y="34">Cách chúng ta thường làm là bắt </tspan>
-                <tspan x="0" y="54">đầu từ thiện mỹ. </tspan>
+                <tspan x="0" y="11">“</tspan>
+                <tspan x="0" y="31">Cách chúng ta thường làm là bắt </tspan>
+                <tspan x="0" y="51">đầu từ thiện mỹ. </tspan>
             </text>
         </g>
     </g>
