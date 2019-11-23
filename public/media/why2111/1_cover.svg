@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="500px" viewBox="0 0 320 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>1_cover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.0%" y="-9.8%" width="109.6%" height="119.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="1_cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" filter="url(#filter-1)" transform="translate(30.000000, 354.000000)">
+            <text id="chanchan.vn" font-family="ChalkboardSE-Bold, Chalkboard SE" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="0" y="118">chanchan.vn</tspan>
+            </text>
+            <text id="_" font-family="Chalkduster" font-size="20" font-weight="normal" fill="#3C8DA6">
+                <tspan x="0" y="92">_</tspan>
+            </text>
+            <text id="“-Chúng-ta-thường-bắ" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="15" font-weight="bold" line-spacing="20" fill="#FFFFFF">
+                <tspan x="0" y="11">“</tspan>
+                <tspan x="0" y="31">Chúng ta thường bắt đầu từ tình yêu. </tspan>
+                <tspan x="0" y="51">Nên chúng ta trầy trật! Sẽ đơn giản </tspan>
+                <tspan x="0" y="71">hơn khi bắt đầu từ chân thành. </tspan>
+            </text>
+        </g>
+    </g>
+</svg>
