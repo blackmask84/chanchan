@@ -1,129 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="767px" viewBox="0 0 320 767" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="490px" viewBox="0 0 320 490" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>5</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="15.6907462%" y1="53.6503809%" x2="133.039764%" y2="39.2144022%" id="linearGradient-1">
-            <stop stop-color="#EF6C00" offset="0%"></stop>
-            <stop stop-color="#F57C00" offset="100%"></stop>
+        <linearGradient x1="-37.5658265%" y1="41.3307134%" x2="134.769076%" y2="65.0404029%" id="linearGradient-1">
+            <stop stop-color="#AA00FF" offset="0%"></stop>
+            <stop stop-color="#304FFE" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-2" x="0" y="0" width="260" height="56" rx="5"></rect>
-        <filter x="-0.6%" y="-2.7%" width="101.2%" height="105.4%" filterUnits="objectBoundingBox" id="filter-3">
-            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        <filter x="-14.4%" y="-69.2%" width="128.8%" height="238.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
         </filter>
-        <text id="text-4" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="22" font-weight="700" letter-spacing="-0.8800001" fill="#FFFFFF">
-            <tspan x="84.2730004" y="34">Chanchan</tspan>
+        <linearGradient x1="-37.5658265%" y1="40.7042155%" x2="134.769076%" y2="66.1273184%" id="linearGradient-3">
+            <stop stop-color="#AA00FF" offset="0%"></stop>
+            <stop stop-color="#304FFE" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-4" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="700" fill="#FFFFFF">
+            <tspan x="94.284" y="34">Tìm hiểu</tspan>
         </text>
-        <filter x="-4.9%" y="-11.4%" width="107.6%" height="131.8%" filterUnits="objectBoundingBox" id="filter-5">
+        <filter x="-10.3%" y="-35.4%" width="117.8%" height="166.7%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-7" transform="translate(30.000000, 7.000000)">
-            <g id="Group-2" transform="translate(0.000000, 33.000000)">
-                <text id="Kết-nối-thành-viên-g" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                    <tspan x="24" y="11">Kết nối thành viên gặp được người </tspan>
-                    <tspan x="24" y="31">kia bằng cách khiến cả hai tình cờ </tspan>
-                    <tspan x="24" y="51">cùng có mặt tại các sự kiện cộng </tspan>
-                    <tspan x="24" y="71">đồng. Cơ hội cho những lần gặp này </tspan>
-                    <tspan x="24" y="91">là ngẫu nhiên. Như việc gieo xúc xắc. </tspan>
-                    <tspan x="24" y="111">Là không thể kiểm soát.</tspan>
-                </text>
-                <text id="_" font-family="Chalkduster" font-size="12" font-weight="normal" line-spacing="34" fill="#FF9800">
-                    <tspan x="0" y="17">_</tspan>
-                </text>
-                <text id="A" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="19" letter-spacing="-0.3" fill="#1E2432">
-                    <tspan x="0" y="13">A</tspan>
-                </text>
-            </g>
-            <g id="Group-3" transform="translate(0.000000, 161.000000)">
-                <text id="Bằng-cách-cho-thấy-m" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                    <tspan x="24" y="11">Bằng cách cho thấy mong muốn gặp </tspan>
-                    <tspan x="24" y="31">lại người kia chân thành đến mức </tspan>
-                    <tspan x="24" y="51">nào, thành viên mới có thể kiểm soát </tspan>
-                    <tspan x="24" y="71">được tính ngẫu nhiên, kiểm soát </tspan>
-                    <tspan x="24" y="91">được cơ hội gặp gỡ. Tình cờ gặp lại </tspan>
-                    <tspan x="24" y="111">người kia nhiều hơn và sớm hơn qua </tspan>
-                    <tspan x="24" y="131">các sự kiện.</tspan>
-                </text>
-                <text id="_" font-family="Chalkduster" font-size="12" font-weight="normal" line-spacing="34" fill="#FF9800">
-                    <tspan x="0" y="17">_</tspan>
-                </text>
-                <text id="B" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="19" letter-spacing="-0.3" fill="#1E2432">
-                    <tspan x="0" y="13">B</tspan>
-                </text>
-            </g>
-            <g id="Group-4" transform="translate(0.000000, 309.000000)">
-                <text id="Chúng-tôi-không-kiểm" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                    <tspan x="24" y="11">Chúng tôi không kiểm chứng chân </tspan>
-                    <tspan x="24" y="31">thành qua lời nói. Chúng tôi tìm qua </tspan>
-                    <tspan x="24" y="51">các hành động cụ thể.</tspan>
-                </text>
-                <text id="_" font-family="Chalkduster" font-size="12" font-weight="normal" line-spacing="34" fill="#FF9800">
-                    <tspan x="0" y="17">_</tspan>
-                </text>
-                <text id="C" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="19" letter-spacing="-0.3" fill="#1E2432">
-                    <tspan x="0" y="13">C</tspan>
-                </text>
-            </g>
-            <text id="Cách-hoạt-động" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="16" font-weight="700" line-spacing="21" letter-spacing="-0.32" fill="#1E2432">
-                <tspan x="0" y="12">Cách hoạt động</tspan>
-            </text>
-        </g>
-        <g id="Group-6" transform="translate(30.000000, 388.000000)">
-            <text id="Những-thử-thách-của" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="24" y="43">Những thử thách của chương trình là </tspan>
-                <tspan x="24" y="63">về mặt tâm lý.</tspan>
-            </text>
-            <text id="Không-phải-là-các-ho" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="24" y="91">Không phải là các hoạt động thể dục </tspan>
-                <tspan x="24" y="111">thể thao.</tspan>
-            </text>
-            <text id="Lưu-ý" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="11">Lưu ý</tspan>
-            </text>
-            <text id="v" font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#4DABBD">
-                <tspan x="0" y="43">v</tspan>
-            </text>
-            <text id="x" font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#D04550">
-                <tspan x="0" y="91">x</tspan>
-            </text>
-        </g>
-        <g id="Group-5" transform="translate(30.000000, 520.000000)">
-            <text id="Bài-viết-này-thuộc-s" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="51">Bài viết này thuộc sở hữu của Chanchan. </tspan>
-                <tspan x="0" y="71">Vui lòng ghi rõ nguồn khi trích dẫn hoặc </tspan>
-                <tspan x="0" y="91">sao chép</tspan>
-            </text>
-            <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#869FB5">
-                <tspan x="3" y="138">____</tspan>
+        <g id="Group" transform="translate(30.000000, 6.150000)">
+            <text id="Bài-viết-thuộc-sở-hữ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                <tspan x="0" y="296.85">Bài viết thuộc sở hữu của Chanchan.vn </tspan>
+                <tspan x="0" y="316.85">Bạn cần ghi rõ nguồn khi trích dẫn hoặc </tspan>
+                <tspan x="0" y="336.85">sao chép.</tspan>
             </text>
             <text id="Tìm-hiểu-về-chương-t" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#869FB5">
-                <tspan x="0" y="119">Tìm hiểu về chương trình của chúng tôi </tspan>
-                <tspan x="0" y="136">tại đây.</tspan>
+                <tspan x="0" y="364.85">Tìm hiểu về chương trình tại đây.</tspan>
             </text>
             <text id="……………………………………………………" opacity="0.675454" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" fill="#8C96A8">
-                <tspan x="0" y="11">…………………………………………………………..</tspan>
+                <tspan x="0" y="256.85">…………………………………………………………..</tspan>
             </text>
-        </g>
-        <g id="Group" transform="translate(30.000000, 679.000000)">
-            <g id="btn">
-                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-            </g>
-            <text id="…" font-family="Chalkduster" font-size="24" font-weight="normal" fill="#FFFFFF">
-                <tspan x="118" y="47">…</tspan>
+            <text id="Chương-trình-phù-hợp" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#092D4D">
+                <tspan x="0" y="11.85">Chương trình phù hợp với</tspan>
             </text>
-            <g id="Chanchan" fill="#FFFFFF" fill-opacity="1">
-                <use filter="url(#filter-5)" xlink:href="#text-4"></use>
-                <use xlink:href="#text-4"></use>
+            <text id="Các-bạn-đang-còn-độc" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                <tspan x="24" y="40.85">Các bạn đang còn độc thân muốn bắt </tspan>
+                <tspan x="24" y="60.85">đầu mối quan hệ mới có triển vọng </tspan>
+                <tspan x="24" y="80.85">dài lâu trong tình yêu hoặc hôn nhân.</tspan>
+            </text>
+            <text id="v" font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#4DABBD">
+                <tspan x="0" y="40.85">v</tspan>
+            </text>
+            <text id="v" font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#4DABBD">
+                <tspan x="0" y="108.85">v</tspan>
+            </text>
+            <text id="v" font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#4DABBD">
+                <tspan x="0" y="156.85">v</tspan>
+            </text>
+            <text id="Các-bạn-yêu-thích-sự" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                <tspan x="24" y="108.85">Các bạn yêu thích sự đơn giản, tự </tspan>
+                <tspan x="24" y="128.85">nhiên &amp; riêng tư trong kết nối.</tspan>
+            </text>
+            <text id="Các-bạn-bận-rộn,-khô" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                <tspan x="24" y="156.85">Các bạn bận rộn, không có nhiều thời </tspan>
+                <tspan x="24" y="176.85">gian dành cho bản thân.</tspan>
+            </text>
+            <text id="Chương-trình-được-vậ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                <tspan x="0" y="204.85">Chương trình được vận hành bởi các </tspan>
+                <tspan x="0" y="224.85">chuyên gia tâm lý của Chanchan.</tspan>
+            </text>
+            <g id="Group-4" transform="translate(0.000000, 391.850000)">
+                <g id="Group-3">
+                    <path d="M250,17 L250,59 C250,61.7614237 247.761424,64 245,64 L5,64 C2.23857625,64 3.38176876e-16,61.7614237 0,59 L0,17 C-3.38176876e-16,14.2385763 2.23857625,12 5,12 L245,12 C247.761424,12 250,14.2385763 250,17 Z" id="Triangle" fill="url(#linearGradient-1)" opacity="0.6" filter="url(#filter-2)"></path>
+                    <path d="M260,5 L260,51 C260,53.7614237 257.761424,56 255,56 L5,56 C2.23857625,56 3.38176876e-16,53.7614237 0,51 L0,5 C-3.38176876e-16,2.23857625 2.23857625,5.07265313e-16 5,0 L255,0 C257.761424,-5.07265313e-16 260,2.23857625 260,5 Z" id="Triangle" fill="url(#linearGradient-3)"></path>
+                    <text id="…" opacity="0.8" font-family="Chalkduster" font-size="24" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="216" y="30">…</tspan>
+                    </text>
+                    <g id="Tìm-hiểu" fill="#FFFFFF" fill-opacity="1">
+                        <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                        <use xlink:href="#text-4"></use>
+                    </g>
+                </g>
             </g>
         </g>
+        <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#869FB5">
+            <tspan x="198" y="373">____</tspan>
+        </text>
     </g>
 </svg>

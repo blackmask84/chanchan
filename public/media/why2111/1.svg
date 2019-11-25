@@ -5,99 +5,101 @@
     <desc>Created with Sketch.</desc>
     <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#F0F6FA" x="0" y="0" width="320" height="989"></rect>
-        <g id="Group-3" transform="translate(30.000000, 187.000000)" font-family="GMVDINPro, GMV DIN Pro" font-weight="normal">
-            <text id="Chúng-ta-sẽ-dễ-dàng" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="11">Chúng ta sẽ dễ dàng đồng ý với nhau </tspan>
-                <tspan x="0" y="31">rằng việc có được một tình yêu chân </tspan>
-                <tspan x="0" y="51">thành có ý nghĩa quan trọng với cuộc </tspan>
-                <tspan x="0" y="71">sống của chúng ta như thế nào.</tspan>
+        <g id="Group-2" transform="translate(30.000000, 47.000000)">
+            <g id="Group-3" transform="translate(0.000000, 140.000000)" font-family="GMVDINPro, GMV DIN Pro" font-weight="normal">
+                <text id="Chúng-ta-sẽ-dễ-dàng" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="0" y="11">Chúng ta sẽ dễ dàng đồng ý với nhau </tspan>
+                    <tspan x="0" y="31">rằng việc có được một tình yêu chân </tspan>
+                    <tspan x="0" y="51">thành có ý nghĩa quan trọng với cuộc </tspan>
+                    <tspan x="0" y="71">sống của chúng ta như thế nào.</tspan>
+                </text>
+                <text id="Vì-những-lý-do-trên" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="0" y="296">Vì những lý do trên mà mối quan hệ tuyệt </tspan>
+                    <tspan x="0" y="316">vời này xứng đáng để chúng tôi &amp; bạn tìm </tspan>
+                    <tspan x="0" y="336">kiếm.</tspan>
+                </text>
+                <text id="Cho-chúng-ta-bình-yê" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="20" y="99">Cho chúng ta bình yên, cho chúng ta </tspan>
+                    <tspan x="20" y="119">mái ấm, là điểm tựa giúp chúng ta </tspan>
+                    <tspan x="20" y="139">vững vàng trong cuộc sống.</tspan>
+                </text>
+                <text id="Cho-chúng-ta-cảm-giá" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="20" y="167">Cho chúng ta cảm giác như đã kết nối </tspan>
+                    <tspan x="20" y="187">được với thế giới. Như cuộc sống đã </tspan>
+                    <tspan x="20" y="207">nhìn thấy trước sự tồn tại của chúng </tspan>
+                    <tspan x="20" y="227">ta nên đã tạo trước ra một ai đó để ở </tspan>
+                    <tspan x="20" y="247">bên chúng ta trọn vẹn bằng chính con </tspan>
+                    <tspan x="20" y="267">người thật của mình.</tspan>
+                </text>
+                <text id="●" font-size="10" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
+                    <tspan x="0" y="99">●</tspan>
+                </text>
+                <text id="●" font-size="10" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
+                    <tspan x="0" y="167">●</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(0.000000, 501.000000)">
+                <text id="Có-cách-nào-đơn-giản" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="0" y="11">Có cách nào đơn giản hơn không?</tspan>
+                </text>
+                <text id="Số-ít-gặp-may-mắn.-C" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="0" y="36">Số ít gặp may mắn. Còn lại là trầy trật. </tspan>
+                    <tspan x="0" y="56">Nhiều người chọn bỏ cuộc. Bỏ cuộc trong </tspan>
+                    <tspan x="0" y="76">hôn nhân. Bỏ cuộc trong tuổi trẻ. Bỏ </tspan>
+                    <tspan x="0" y="96">cuộc sau khi vấp ngã. Cuối cùng bỏ cuộc </tspan>
+                    <tspan x="0" y="116">với niềm tin &amp; chọn việc chung sống với </tspan>
+                    <tspan x="0" y="136">sự hoài nghi về bản thân hoặc với thế </tspan>
+                    <tspan x="0" y="156">giới.</tspan>
+                </text>
+                <text id="Có-khi-mình-không-có" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="20" y="188">Có khi mình không có khả năng để </tspan>
+                    <tspan x="20" y="208">yêu. Có khi mình không đủ tốt.</tspan>
+                </text>
+                <text id="●" font-family="GMVDINPro, GMV DIN Pro" font-size="10" font-weight="normal" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
+                    <tspan x="0" y="235">●</tspan>
+                </text>
+                <text id="●" font-family="GMVDINPro, GMV DIN Pro" font-size="10" font-weight="normal" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
+                    <tspan x="0" y="187">●</tspan>
+                </text>
+                <text id="Thế-giới-này-không-c" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="20" y="236">Thế giới này không có chỗ cho mình. </tspan>
+                    <tspan x="20" y="256">Không ai hiểu mình cả.</tspan>
+                </text>
+                <text id="Câu-hỏi-là-có-cách-n" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+                    <tspan x="0" y="288">Câu hỏi là có cách nào đơn giản hơn </tspan>
+                    <tspan x="0" y="308">không?</tspan>
+                </text>
+            </g>
+            <text id="." font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#D04550">
+                <tspan x="0" y="847">.</tspan>
             </text>
-            <text id="Vì-những-lý-do-trên" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="296">Vì những lý do trên mà mối quan hệ tuyệt </tspan>
-                <tspan x="0" y="316">vời này xứng đáng để chúng tôi &amp; bạn tìm </tspan>
-                <tspan x="0" y="336">kiếm.</tspan>
+            <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D04550">
+                <tspan x="18" y="856">____</tspan>
             </text>
-            <text id="Cho-chúng-ta-bình-yê" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="20" y="99">Cho chúng ta bình yên, cho chúng ta </tspan>
-                <tspan x="20" y="119">mái ấm, là điểm tựa giúp chúng ta </tspan>
-                <tspan x="20" y="139">vững vàng trong cuộc sống.</tspan>
+            <text id="Nguyên-nhân" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="22" fill="#1E2432">
+                <tspan x="20" y="849">Nguyên nhân</tspan>
             </text>
-            <text id="Cho-chúng-ta-cảm-giá" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="20" y="167">Cho chúng ta cảm giác như đã kết nối </tspan>
-                <tspan x="20" y="187">được với thế giới. Như cuộc sống đã </tspan>
-                <tspan x="20" y="207">nhìn thấy trước sự tồn tại của chúng </tspan>
-                <tspan x="20" y="227">ta nên đã tạo trước ra một ai đó để ở </tspan>
-                <tspan x="20" y="247">bên chúng ta trọn vẹn bằng chính con </tspan>
-                <tspan x="20" y="267">người thật của mình.</tspan>
+            <text id="." font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#4DABBD">
+                <tspan x="0" y="889">.</tspan>
             </text>
-            <text id="●" font-size="10" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
-                <tspan x="0" y="99">●</tspan>
+            <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#4DABBD">
+                <tspan x="18" y="898">____</tspan>
             </text>
-            <text id="●" font-size="10" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
-                <tspan x="0" y="167">●</tspan>
+            <text id="Giải-pháp" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="22" fill="#1E2432">
+                <tspan x="20" y="891">Giải pháp</tspan>
             </text>
-        </g>
-        <g id="Group" transform="translate(30.000000, 548.000000)">
-            <text id="Có-cách-nào-đơn-giản" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="11">Có cách nào đơn giản hơn không?</tspan>
-            </text>
-            <text id="Số-ít-gặp-may-mắn.-C" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="36">Số ít gặp may mắn. Còn lại là trầy trật. </tspan>
-                <tspan x="0" y="56">Nhiều người chọn bỏ cuộc. Bỏ cuộc trong </tspan>
-                <tspan x="0" y="76">hôn nhân. Bỏ cuộc trong tuổi trẻ. Bỏ </tspan>
-                <tspan x="0" y="96">cuộc sau khi vấp ngã. Cuối cùng bỏ cuộc </tspan>
-                <tspan x="0" y="116">với niềm tin &amp; chọn việc chung sống với </tspan>
-                <tspan x="0" y="136">sự hoài nghi về bản thân hoặc với thế </tspan>
-                <tspan x="0" y="156">giới.</tspan>
-            </text>
-            <text id="Có-khi-mình-không-có" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="20" y="188">Có khi mình không có khả năng để </tspan>
-                <tspan x="20" y="208">yêu. Có khi mình không đủ tốt.</tspan>
-            </text>
-            <text id="●" font-family="GMVDINPro, GMV DIN Pro" font-size="10" font-weight="normal" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
-                <tspan x="0" y="235">●</tspan>
-            </text>
-            <text id="●" font-family="GMVDINPro, GMV DIN Pro" font-size="10" font-weight="normal" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
-                <tspan x="0" y="187">●</tspan>
-            </text>
-            <text id="Thế-giới-này-không-c" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="20" y="236">Thế giới này không có chỗ cho mình. </tspan>
-                <tspan x="20" y="256">Không ai hiểu mình cả.</tspan>
-            </text>
-            <text id="Câu-hỏi-là-có-cách-n" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="288">Câu hỏi là có cách nào đơn giản hơn </tspan>
-                <tspan x="0" y="308">không?</tspan>
-            </text>
-        </g>
-        <text id="." font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#D04550">
-            <tspan x="30" y="894">.</tspan>
-        </text>
-        <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D04550">
-            <tspan x="48" y="903">____</tspan>
-        </text>
-        <text id="Nguyên-nhân" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="22" fill="#1E2432">
-            <tspan x="50" y="896">Nguyên nhân</tspan>
-        </text>
-        <text id="." font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#4DABBD">
-            <tspan x="30" y="936">.</tspan>
-        </text>
-        <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#4DABBD">
-            <tspan x="48" y="945">____</tspan>
-        </text>
-        <text id="Giải-pháp" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="22" fill="#1E2432">
-            <tspan x="50" y="938">Giải pháp</tspan>
-        </text>
-        <g id="Group-4" transform="translate(30.000000, 47.000000)">
-            <text id="-" font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#173856">
-                <tspan x="0" y="66">-</tspan>
-            </text>
-            <text id="Tình-yêu-chân-thành" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="32" font-style="condensed" font-weight="700" line-spacing="32" letter-spacing="-0.959999979" fill="#869FB5">
-                <tspan x="0" y="24">Tình yêu chân thành</tspan>
-            </text>
-            <text id="Mối-quan-hệ-tuyệt-vờ" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="22" fill="#092D4D">
-                <tspan x="0" y="95">Mối quan hệ tuyệt vời khiến chúng ta </tspan>
-                <tspan x="0" y="117">muốn tìm kiếm.</tspan>
-            </text>
+            <g id="Group-4">
+                <text id="-" font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#173856">
+                    <tspan x="0" y="66">-</tspan>
+                </text>
+                <text id="Tình-yêu-chân-thành" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="32" font-style="condensed" font-weight="700" line-spacing="32" letter-spacing="-0.959999979" fill="#869FB5">
+                    <tspan x="0" y="24">Tình yêu chân thành</tspan>
+                </text>
+                <text id="Mối-quan-hệ-tuyệt-vờ" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="22" fill="#092D4D">
+                    <tspan x="0" y="95">Mối quan hệ tuyệt vời khiến chúng ta </tspan>
+                    <tspan x="0" y="117">muốn tìm kiếm.</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>

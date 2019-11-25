@@ -4,7 +4,7 @@
     <title>1_cover</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <filter x="-5.0%" y="-9.8%" width="109.6%" height="119.7%" filterUnits="objectBoundingBox" id="filter-1">
+        <filter x="-5.0%" y="-9.4%" width="109.6%" height="119.7%" filterUnits="objectBoundingBox" id="filter-1">
             <feOffset dx="-1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
@@ -15,18 +15,23 @@
         </filter>
     </defs>
     <g id="1_cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" filter="url(#filter-1)" transform="translate(30.000000, 354.000000)">
-            <text id="chanchan.vn" font-family="ChalkboardSE-Bold, Chalkboard SE" font-size="15" font-weight="bold" fill="#FFFFFF">
-                <tspan x="0" y="118">chanchan.vn</tspan>
+        <g id="Group" filter="url(#filter-1)" transform="translate(30.000000, 353.000000)">
+            <text id="https://chanchan.vn" font-family="ChalkboardSE-Regular, Chalkboard SE" font-size="15" font-weight="normal" fill="#AED9DA">
+                <tspan x="0" y="123">https://chanchan.vn</tspan>
             </text>
-            <text id="_" font-family="Chalkduster" font-size="20" font-weight="normal" fill="#3C8DA6">
-                <tspan x="0" y="92">_</tspan>
+            <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#AED9DA">
+                <tspan x="0" y="34">_</tspan>
             </text>
-            <text id="“-Chúng-ta-thường-bắ" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="15" font-weight="bold" line-spacing="20" fill="#FFFFFF">
-                <tspan x="0" y="11">“</tspan>
-                <tspan x="0" y="31">Chúng ta thường bắt đầu từ tình yêu. </tspan>
-                <tspan x="0" y="51">Nên chúng ta trầy trật! Sẽ đơn giản </tspan>
-                <tspan x="0" y="71">hơn khi bắt đầu từ chân thành. </tspan>
+            <text id="Tình-yêu" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="20" fill="#D6F7F8">
+                <tspan x="0" y="15">Tình yêu</tspan>
+            </text>
+            <text id="Chúng-ta-thường-bắt" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" line-spacing="21" fill="#AED9DA">
+                <tspan x="0" y="56">Chúng ta thường bắt đầu từ tình yêu. </tspan>
+                <tspan x="0" y="77">Nên chúng ta trầy trật! Đơn giản hơn </tspan>
+                <tspan x="0" y="98">khi bắt đầu từ chân thành. </tspan>
+            </text>
+            <text id="chân-thành" opacity="0.5" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" line-spacing="20" fill="#D6F7F8">
+                <tspan x="63" y="15">chân thành</tspan>
             </text>
         </g>
     </g>
