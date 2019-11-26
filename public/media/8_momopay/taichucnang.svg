@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="526px" viewBox="0 0 320 526" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="545px" viewBox="0 0 320 545" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>taichucnang</title>
     <desc>Created with Sketch.</desc>
@@ -25,17 +25,18 @@
         <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
             <tspan x="30" y="388">……………………………………………………………</tspan>
         </text>
-        <text id="640.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="20" font-weight="400" letter-spacing="-1" fill="#BE1D78">
-            <tspan x="30" y="357">640.000 VND</tspan>
+        <text id="890.000-VND" font-family="Oswald-Regular_Medium, Oswald" font-size="20" font-weight="400" letter-spacing="-1" fill="#BE1D78">
+            <tspan x="30" y="357">890.000 VND</tspan>
         </text>
         <text id="Nội-dung" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
             <tspan x="30" y="426">Nội dung</tspan>
         </text>
-        <text id="[Số-điện-thoại-của-b" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#8C96A8">
-            <tspan x="30" y="461">[Số điện thoại của bạn] [Họ tên]</tspan>
+        <text id="[Số-điện-thoại-của-b" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" letter-spacing="-0.640000045" fill="#8C96A8">
+            <tspan x="30" y="461">[Số điện thoại của bạn] [Họ tên] [Email]</tspan>
         </text>
-        <text id="Ví-dụ:-0912345678-Ha" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.720000029" fill="#BE1D78">
-            <tspan x="30" y="490">Ví dụ: 0912345678 Hai Anh</tspan>
+        <text id="Ví-dụ:-0912345678-Ha" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" letter-spacing="-0.640000045" fill="#BE1D78">
+            <tspan x="30" y="490">Ví dụ: 0912345678 Hai Anh </tspan>
+            <tspan x="30" y="509">haianh@gmail.com</tspan>
         </text>
         <text id="02" font-family="Oswald-Regular_Medium, Oswald" font-size="40" font-weight="400" letter-spacing="-2" fill="#D3117E">
             <tspan x="30" y="80">02</tspan>
