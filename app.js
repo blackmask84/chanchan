@@ -35,7 +35,7 @@ app.get('/hieuthemvechanchan', function (req, res) {
 app.get('/dangkythanhvienmoi', function (req, res) {
     res.sendFile(__dirname + '/public/6_register.html');
 });
-app.get('/thanhtoanquamomo', function (req, res) {
+app.get('/thanhtoanonline', function (req, res) {
     res.sendFile(__dirname + '/public/8_momopay.html');
 });
 app.get('/timhieuvephichuongtrinh', function (req, res) {
