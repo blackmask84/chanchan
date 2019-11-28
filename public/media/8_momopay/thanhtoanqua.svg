@@ -1,25 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="261px" viewBox="0 0 320 261" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="908px" viewBox="0 0 320 908" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>thanhtoanqua</title>
     <desc>Created with Sketch.</desc>
     <g id="thanhtoanqua" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F0F6FA" x="0" y="0" width="320" height="655"></rect>
         <text id="—-Hướng-dẫn-thanh-to" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
-            <tspan x="30" y="101">— Hướng dẫn thanh toán qua momo</tspan>
+            <tspan x="30" y="748">— Hướng dẫn thanh toán qua momo</tspan>
         </text>
         <text id="Thanh-toán-qua-momo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
-            <tspan x="30" y="65">Thanh toán qua momo</tspan>
+            <tspan x="30" y="712">Thanh toán qua momo</tspan>
         </text>
+        <g id="Group-5" transform="translate(30.000000, 40.000000)">
+            <text id="Chuyển-khoản" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="26" font-weight="500" letter-spacing="-1.56" fill="#343D51">
+                <tspan x="0" y="25">Chuyển khoản</tspan>
+            </text>
+            <text id="—-Thông-tin-chuyển-k" font-family="Georgia-Italic, Georgia" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" fill="#556279">
+                <tspan x="0" y="61">— Thông tin chuyển khoản</tspan>
+            </text>
+            <g id="Group-3" transform="translate(0.000000, 185.000000)">
+                <text id="Số-tài-khoản" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
+                    <tspan x="0" y="15">Số tài khoản</tspan>
+                </text>
+                <text id="55771618" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#2E7D32">
+                    <tspan x="0" y="50">55771618</tspan>
+                </text>
+                <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+                    <tspan x="0" y="81">……………………………………………………………</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(0.000000, 85.000000)">
+                <text id="Chủ-tài-khoản" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
+                    <tspan x="0" y="15">Chủ tài khoản</tspan>
+                </text>
+                <text id="Đỗ-Hoài-Giang" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#2E7D32">
+                    <tspan x="0" y="50">Đỗ Hoài Giang</tspan>
+                </text>
+                <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+                    <tspan x="0" y="81">……………………………………………………………</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(0.000000, 285.000000)">
+                <text id="Ngân-hàng" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
+                    <tspan x="0" y="15">Ngân hàng</tspan>
+                </text>
+                <text id="Vpbank" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#2E7D32">
+                    <tspan x="0" y="50">Vpbank</tspan>
+                </text>
+                <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+                    <tspan x="0" y="73">……………………………………………………………</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 377.000000)">
+                <text id="Nội-dung" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#8C96A8">
+                    <tspan x="0" y="15">Nội dung </tspan>
+                </text>
+                <text id="Số-điện-thoại-&amp;-Emai" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-1" fill="#2E7D32">
+                    <tspan x="0" y="50">Số điện thoại &amp; Email của bạn</tspan>
+                </text>
+                <text id="Ví-dụ:-0912345678-ab" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="15" font-weight="normal" fill="#2E7D32">
+                    <tspan x="0" y="77">Ví dụ: 0912345678 abc@gmail.com</tspan>
+                </text>
+                <text id="……………………………………………………" font-family="Georgia-Italic, Georgia" font-size="14" font-style="italic" font-weight="normal" fill="#DADFE7">
+                    <tspan x="0" y="99">……………………………………………………………</tspan>
+                </text>
+            </g>
+            <text id="Sau-khi-hoàn-tất-chu" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21" fill="#343D51">
+                <tspan x="0" y="510">Sau khi hoàn tất chuyển khoản bạn </tspan>
+                <tspan x="0" y="531">vui lòng nhắn tin vào số 0908103357 </tspan>
+                <tspan x="0" y="552">cho chúng tôi được biết để có thể </tspan>
+                <tspan x="0" y="573">khởi tạo chương trình sớm cho bạn.</tspan>
+            </text>
+        </g>
         <text id="Tại-ứng-dụng-momo-bạ" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="16" font-weight="normal" line-spacing="21">
-            <tspan x="30" y="226" fill="#343D51">Tại ứng dụng momo bạn chọn chức </tspan>
-            <tspan x="30" y="247" fill="#343D51">năng</tspan>
-            <tspan x="65.3046875" y="247" fill="#FFFFFF"> </tspan>
-            <tspan x="68.5078125" y="247" fill="#343D51" text-decoration="underline">Chuyển tiền</tspan>
-            <tspan x="151.335938" y="247" fill="#FFFFFF"> </tspan>
-            <tspan x="154.539062" y="247" fill="#343D51">như hình dưới</tspan>
+            <tspan x="30" y="873" fill="#343D51">Tại ứng dụng momo bạn chọn chức </tspan>
+            <tspan x="30" y="894" fill="#343D51">năng</tspan>
+            <tspan x="65.3046875" y="894" fill="#FFFFFF"> </tspan>
+            <tspan x="68.5078125" y="894" fill="#343D51" text-decoration="underline">Chuyển tiền</tspan>
+            <tspan x="151.335938" y="894" fill="#FFFFFF"> </tspan>
+            <tspan x="154.539062" y="894" fill="#343D51">như hình dưới</tspan>
         </text>
         <text id="01" font-family="Oswald-Regular_Medium, Oswald" font-size="40" font-weight="400" letter-spacing="-2" fill="#D3117E">
-            <tspan x="30" y="187">01</tspan>
+            <tspan x="30" y="834">01</tspan>
         </text>
     </g>
 </svg>
