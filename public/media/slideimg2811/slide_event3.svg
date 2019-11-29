@@ -23,7 +23,7 @@
             <stop stop-color="#651FFF" offset="0%"></stop>
             <stop stop-color="#304FFE" offset="100%"></stop>
         </linearGradient>
-        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
             <tspan x="181.908" y="516">+ Muốn đến</tspan>
         </text>
         <filter x="-9.2%" y="-38.9%" width="116.1%" height="188.9%" filterUnits="objectBoundingBox" id="filter-7">
@@ -32,16 +32,15 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <text id="text-8" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" line-spacing="21" letter-spacing="-0.319999993" fill="#FFFFFF">
-            <tspan x="30" y="257">08:30 Tối nay tại Cộng cafe, 08 Thái hà, </tspan>
-            <tspan x="30" y="278">Đống đa, Hà nộ</tspan>
-            <tspan x="133.04" y="278">i</tspan>
+            <tspan x="30" y="257">07:45 Tối nay tại Rạp quốc gia, 87 </tspan>
+            <tspan x="30" y="278">Láng hạ, Hà nội</tspan>
         </text>
         <filter x="-1.2%" y="-7.1%" width="102.3%" height="119.0%" filterUnits="objectBoundingBox" id="filter-9">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <text id="text-10" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="20" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
+        <text id="text-10" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="20" font-style="expanded" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
             <tspan x="30" y="205">Đón xuất chiếu đầu phim The </tspan>
             <tspan x="30" y="225">Joker</tspan>
         </text>
@@ -74,10 +73,10 @@
         <text id="Dẫn-sự-kiện" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
             <tspan x="90" y="364">Dẫn sự kiện</tspan>
         </text>
-        <text id="Triển-vọng" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+        <text id="Triển-vọng" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="90" y="341">Triển vọng</tspan>
         </text>
-        <g id="08:30-Tối-nay-tại-Cộ" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
+        <g id="07:45-Tối-nay-tại-Rạ" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-9)" xlink:href="#text-8"></use>
             <use xlink:href="#text-8"></use>
         </g>
@@ -85,7 +84,7 @@
             <use filter="url(#filter-11)" xlink:href="#text-10"></use>
             <use xlink:href="#text-10"></use>
         </g>
-        <text id="Bỏ-qua" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#8C96A8">
+        <text id="Bỏ-qua" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#8C96A8">
             <tspan x="69.2510001" y="516">Bỏ qua</tspan>
         </text>
     </g>
