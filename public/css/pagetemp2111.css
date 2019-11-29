@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 /* GMV DIN Pro */
-/* @font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-Italic.woff2) format("woff2");font-weight:normal;font-style:italic} */
-/* @font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-BlackItalic.woff2) format("woff2");font-weight:700;font-style:italic} */
+@font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-Italic.woff2) format("woff2");font-weight:normal;font-style:italic}
+@font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-BlackItalic.woff2) format("woff2");font-weight:700;font-style:italic}
 @font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro.woff2) format("woff2");font-weight:normal}
 @font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-Black.woff2) format("woff2");font-weight:700}
 @font-face{font-family:'GMVDINPro-Bold';src:url(webfont/Din/GMVDINPro-Bold.woff2) format("woff2");font-weight:bold}

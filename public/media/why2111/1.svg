@@ -35,7 +35,7 @@
         <text id="●" font-family="GMVDINPro, GMV DIN Pro" font-size="10" font-weight="normal" line-spacing="18" letter-spacing="-0.2" fill="#092D4D">
             <tspan x="30" y="354">●</tspan>
         </text>
-        <text id="Có-cách-nào-đơn-giản" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
+        <text id="Có-cách-nào-đơn-giản" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
             <tspan x="30" y="559">Có cách nào đơn giản hơn không?</tspan>
         </text>
         <text id="Số-ít-gặp-may-mắn.-C" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">

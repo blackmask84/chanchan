@@ -53,7 +53,7 @@
             <tspan x="54" y="937">bỏ bản thân, che đậy cái xấu thiên vị </tspan>
             <tspan x="54" y="957">cái tốt của mình.</tspan>
         </text>
-        <text id="01" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
+        <text id="01" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
             <tspan x="30" y="919">01</tspan>
         </text>
         <text id="_" font-family="Chalkduster" font-size="12" font-weight="normal" line-spacing="34" fill="#092D4D">
@@ -66,10 +66,10 @@
             <tspan x="54" y="1045">không lựa gắp miếng ngon bỏ miếng </tspan>
             <tspan x="54" y="1065">xương xẩu.</tspan>
         </text>
-        <text id="02" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
+        <text id="02" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#1E2432">
             <tspan x="30" y="987">02</tspan>
         </text>
-        <text id="Mọi-chuyện-sẽ-đơn-gi" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#195A66">
+        <text id="Mọi-chuyện-sẽ-đơn-gi" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#195A66">
             <tspan x="30" y="858">Mọi chuyện sẽ đơn giản hơn nếu trước </tspan>
             <tspan x="30" y="875">mỗi một mối quan hệ mới, ta tiêm cho </tspan>
             <tspan x="30" y="892">nó 02 liều vắc-xin.</tspan>
@@ -87,7 +87,7 @@
             <tspan x="30" y="1159">thương khi tình cảm phải dừng theo kiểu </tspan>
             <tspan x="30" y="1179">bóp phanh đột ngột.</tspan>
         </text>
-        <text id="Cả-hai-sẽ-tự-biết-mo" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#195A66">
+        <text id="Cả-hai-sẽ-tự-biết-mo" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#195A66">
             <tspan x="30" y="1097">Cả hai sẽ tự biết mong muốn có nhau </tspan>
             <tspan x="30" y="1114">đến mức nào.</tspan>
         </text>

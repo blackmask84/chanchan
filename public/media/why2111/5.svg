@@ -30,13 +30,13 @@
             <tspan x="30" y="323">Bạn cần ghi rõ nguồn khi trích dẫn hoặc </tspan>
             <tspan x="30" y="343">sao chép.</tspan>
         </text>
-        <text id="Tìm-hiểu-về-chương-t" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#869FB5">
+        <text id="Tìm-hiểu-về-chương-t" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#869FB5">
             <tspan x="30" y="371">Tìm hiểu về chương trình tại đây.</tspan>
         </text>
         <text id="……………………………………………………" opacity="0.675454" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" fill="#8C96A8">
             <tspan x="30" y="263">…………………………………………………………..</tspan>
         </text>
-        <text id="Chương-trình-phù-hợp" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#092D4D">
+        <text id="Chương-trình-phù-hợp" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#092D4D">
             <tspan x="30" y="18">Chương trình phù hợp với</tspan>
         </text>
         <text id="Các-bạn-đang-còn-độc" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">

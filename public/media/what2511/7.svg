@@ -1,60 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="464px" viewBox="0 0 320 464" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="524px" viewBox="0 0 320 524" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>7</title>
     <desc>Created with Sketch.</desc>
     <g id="7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="move" transform="translate(30.000000, 7.000000)">
-            <text id="Màn-hình-thống-kê-sự" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#8C96A8">
-                <tspan x="44.845" y="11">Màn hình thống kê sự kiện.</tspan>
-            </text>
-            <text id="……………………………………………………" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" fill="#B9C0CF">
-                <tspan x="0" y="243">…………………………………………………………..</tspan>
-            </text>
-            <text id="Khi-tính-ngẫu-nhiên" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="0" y="349">Khi tính ngẫu nhiên giảm còn bằng 0 và </tspan>
-                <tspan x="0" y="369">duy trì giá trị này đủ lâu, chúng tôi sẽ tiến </tspan>
-                <tspan x="0" y="389">hành rà xoát lại.</tspan>
-            </text>
-            <text id="Nếu-nhìn-thấy-nhiều" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="0" y="413">Nếu nhìn thấy nhiều dấu hiệu tin cậy, </tspan>
-                <tspan x="0" y="433">thấy thử thách không còn ý nghĩa, chúng </tspan>
-                <tspan x="0" y="453">tôi sẽ gửi thư thông báo đầu hàng.</tspan>
-            </text>
-            <text id="Chúng-tôi-đầu-hàng" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="700" line-spacing="22" letter-spacing="-0.720000029" fill="#1E2432">
-                <tspan x="0" y="302">Chúng tôi đầu hàng</tspan>
-            </text>
-            <text id="—" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
-                <tspan x="0" y="325">—</tspan>
-            </text>
-            <text id="Thành-viên-không-biế" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="24" y="43">Thành viên không biết tính ngẫu </tspan>
-                <tspan x="24" y="63">nhiên đang giảm dần. Chỉ cảm giác </tspan>
-                <tspan x="24" y="83">được khi những lần gặp lại ngày càng </tspan>
-                <tspan x="24" y="103">thường xuyên.</tspan>
-            </text>
-            <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
-                <tspan x="0" y="48">_</tspan>
-            </text>
-            <text id="a" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
-                <tspan x="0" y="45">a</tspan>
-            </text>
-            <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
-                <tspan x="0" y="136">_</tspan>
-            </text>
-            <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
-                <tspan x="129" y="214">____</tspan>
-            </text>
-            <text id="b" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
-                <tspan x="0" y="133">b</tspan>
-            </text>
-            <text id="Chuyên-gia-tâm-lý-củ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="24" y="131">Chuyên gia tâm lý của Chanchan sẽ </tspan>
-                <tspan x="24" y="151">liên tục ngầm đánh giá chỉ số “chân </tspan>
-                <tspan x="24" y="171">thành” giữa hai thành viên. Mọi người </tspan>
-                <tspan x="24" y="191">gần như không biết điều này đang </tspan>
-                <tspan x="24" y="211">xảy ra. Tìm hiểu tại đây.</tspan>
-            </text>
-        </g>
+        <text id="……………………………………………………" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" fill="#B9C0CF">
+            <tspan x="30" y="310">…………………………………………………………..</tspan>
+        </text>
+        <text id="Khi-tính-ngẫu-nhiên" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="416">Khi tính ngẫu nhiên giảm còn bằng 0 và </tspan>
+            <tspan x="30" y="436">duy trì giá trị này đủ lâu, chúng tôi sẽ tiến </tspan>
+            <tspan x="30" y="456">hành rà xoát lại.</tspan>
+        </text>
+        <text id="Nếu-nhìn-thấy-nhiều" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="480">Nếu nhìn thấy nhiều dấu hiệu tin cậy, </tspan>
+            <tspan x="30" y="500">thấy thử thách không còn ý nghĩa, chúng </tspan>
+            <tspan x="30" y="520">tôi sẽ gửi thư thông báo đầu hàng.</tspan>
+        </text>
+        <text id="Chúng-tôi-đầu-hàng" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="700" line-spacing="25" letter-spacing="-0.720000029" fill="#1E2432">
+            <tspan x="30" y="366">Chúng tôi đầu hàng</tspan>
+        </text>
+        <text id="—" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
+            <tspan x="30" y="392">—</tspan>
+        </text>
+        <text id="Thành-viên-không-biế" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="54" y="50">Thành viên không biết tính ngẫu </tspan>
+            <tspan x="54" y="70">nhiên đang giảm dần. Chỉ cảm giác </tspan>
+            <tspan x="54" y="90">được khi những lần gặp lại ngày càng </tspan>
+            <tspan x="54" y="110">thường xuyên.</tspan>
+        </text>
+        <text id="Màn-hình-thống-kê-sự" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#8C96A8">
+            <tspan x="74.845" y="18">Màn hình thống kê sự kiện.</tspan>
+        </text>
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
+            <tspan x="30" y="55">_</tspan>
+        </text>
+        <text id="a" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
+            <tspan x="30" y="52">a</tspan>
+        </text>
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
+            <tspan x="30" y="143">_</tspan>
+        </text>
+        <text id="b" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
+            <tspan x="30" y="140">b</tspan>
+        </text>
+        <text id="Chuyên-gia-tâm-lý-củ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="54" y="138">Chuyên gia tâm lý của Chanchan sẽ </tspan>
+            <tspan x="54" y="158">liên tục tìm kiếm những dấu hiệu </tspan>
+            <tspan x="54" y="178">chân thành giữa hai thành viên. Mỗi </tspan>
+            <tspan x="54" y="198">một dấu hiệu tìm được, chuyên gia sẽ </tspan>
+            <tspan x="54" y="218">“cộng” lên hệ thống. Hệ thống tiếp </tspan>
+            <tspan x="54" y="238">nhận &amp; xử lý tiếp theo các thuật toán </tspan>
+            <tspan x="54" y="258">của Chanchan để tăng cơ hội gặp gỡ </tspan>
+            <tspan x="54" y="278">cho hai người.</tspan>
+        </text>
     </g>
 </svg>
