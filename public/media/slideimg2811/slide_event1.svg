@@ -38,7 +38,7 @@
         <text id="Tạo-sự-kiện" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#DA0093">
             <tspan x="52.2500002" y="516">Tạo sự kiện</tspan>
         </text>
-        <text id="Tối-nay-bạn-rảnh" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="24" font-weight="bold" letter-spacing="-1.44" fill="#343D51">
+        <text id="Tối-nay-bạn-rảnh" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="24" font-style="expanded" font-weight="bold" letter-spacing="-1.44000006" fill="#343D51">
             <tspan x="30" y="419">Tối nay bạn rảnh </tspan>
         </text>
     </g>
