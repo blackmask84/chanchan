@@ -23,36 +23,36 @@
         <text id="—" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#1E2432">
             <tspan x="30" y="392">—</tspan>
         </text>
-        <text id="Thành-viên-không-biế" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-            <tspan x="54" y="50">Thành viên không biết tính ngẫu </tspan>
-            <tspan x="54" y="70">nhiên đang giảm dần. Chỉ cảm giác </tspan>
-            <tspan x="54" y="90">được khi những lần gặp lại ngày càng </tspan>
-            <tspan x="54" y="110">thường xuyên.</tspan>
-        </text>
         <text id="Màn-hình-thống-kê-sự" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#8C96A8">
             <tspan x="74.845" y="18">Màn hình thống kê sự kiện.</tspan>
         </text>
-        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#2962FF">
             <tspan x="30" y="55">_</tspan>
         </text>
         <text id="a" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
             <tspan x="30" y="52">a</tspan>
         </text>
-        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
-            <tspan x="30" y="143">_</tspan>
+        <text id="Chuyên-gia-của-Chanc" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="54" y="50">Chuyên gia của Chanchan ngầm tìm </tspan>
+            <tspan x="54" y="70">kiếm những dấu hiệu mách bảo sự </tspan>
+            <tspan x="54" y="90">chân thành giữa hai thành viên. Mỗi </tspan>
+            <tspan x="54" y="110">dấu hiệu tìm được, chuyên gia sẽ </tspan>
+            <tspan x="54" y="130">“cộng” lên hệ thống. Các thuật toán </tspan>
+            <tspan x="54" y="150">trên hệ thống của Chanchan xử lý </tspan>
+            <tspan x="54" y="170">tiếp để giảm tính ngẫu nhiên &amp; tăng </tspan>
+            <tspan x="54" y="190">cơ hội gặp gỡ cho hai người.</tspan>
+        </text>
+        <text id="Thành-viên-không-biế" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="54" y="218">Thành viên không biết tính ngẫu </tspan>
+            <tspan x="54" y="238">nhiên đang giảm dần. Chỉ cảm giác </tspan>
+            <tspan x="54" y="258">được khi những lần gặp lại ngày càng </tspan>
+            <tspan x="54" y="278">thường xuyên.</tspan>
+        </text>
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#2962FF">
+            <tspan x="30" y="223">_</tspan>
         </text>
         <text id="b" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
-            <tspan x="30" y="140">b</tspan>
-        </text>
-        <text id="Chuyên-gia-tâm-lý-củ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-            <tspan x="54" y="138">Chuyên gia tâm lý của Chanchan sẽ </tspan>
-            <tspan x="54" y="158">liên tục tìm kiếm những dấu hiệu </tspan>
-            <tspan x="54" y="178">chân thành giữa hai thành viên. Mỗi </tspan>
-            <tspan x="54" y="198">một dấu hiệu tìm được, chuyên gia sẽ </tspan>
-            <tspan x="54" y="218">“cộng” lên hệ thống. Hệ thống tiếp </tspan>
-            <tspan x="54" y="238">nhận &amp; xử lý tiếp theo các thuật toán </tspan>
-            <tspan x="54" y="258">của Chanchan để tăng cơ hội gặp gỡ </tspan>
-            <tspan x="54" y="278">cho hai người.</tspan>
+            <tspan x="30" y="220">b</tspan>
         </text>
     </g>
 </svg>

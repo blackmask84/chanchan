@@ -22,7 +22,7 @@
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
             <tspan x="118.524" y="547.913043">Gặp lại nhiều hơn</tspan>
         </text>
         <filter x="-6.2%" y="-38.9%" width="110.9%" height="188.9%" filterUnits="objectBoundingBox" id="filter-7">
@@ -36,24 +36,24 @@
             <tspan x="74.4239999" y="212">Bạn đã gặp anh ấy qua 7 sự kiệ</tspan>
             <tspan x="282.568" y="212">n</tspan>
         </text>
-        <text id="Hải-Anh" opacity="0.7" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+        <text id="Hải-Anh" opacity="0.7" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="154" y="184">Hải Anh</tspan>
         </text>
-        <text id="Đi-ăn-rồi-lang-thang" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+        <text id="Đi-ăn-rồi-lang-thang" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="113" y="267">Đi ăn rồi lang thang phố…</tspan>
         </text>
         <text id="Sự-kiện-đơn-vào-tối" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
             <tspan x="113" y="291">Sự kiện đơn vào tối qu</tspan>
             <tspan x="260.568" y="291">a</tspan>
         </text>
-        <text id="Chạy-bộ-quanh-Hồ-tây" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+        <text id="Chạy-bộ-quanh-Hồ-tây" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="114" y="365">Chạy bộ quanh Hồ tây…</tspan>
         </text>
         <text id="Sự-kiện-nhóm-2-ngày" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
             <tspan x="113" y="389">Sự kiện nhóm 2 ngày trướ</tspan>
             <tspan x="286.008" y="389">c</tspan>
         </text>
-        <text id="Liveshow-Lê-cát-trọn" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+        <text id="Liveshow-Lê-cát-trọn" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="113" y="463">Liveshow Lê cát trọng lý</tspan>
         </text>
         <text id="Sự-kiện-đơn-5-ngày-t" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
