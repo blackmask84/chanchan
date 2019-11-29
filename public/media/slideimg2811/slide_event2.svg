@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="568px" viewBox="0 0 320 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>slide_event2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-39.8704324%" y1="73.0315514%" x2="268.816186%" y2="0.14903257%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-30.0%" y="-100.0%" width="160.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-39.8704324%" y1="87.8559359%" x2="268.816186%" y2="-31.9378163%" id="linearGradient-3">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-57.0524305%" y2="99.9927334%" id="linearGradient-4">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="77.3706436%" x2="100%" y2="22.6293564%" id="linearGradient-5">
+            <stop stop-color="#651FFF" offset="0%"></stop>
+            <stop stop-color="#304FFE" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="181.908" y="516">+ Muốn đến</tspan>
+        </text>
+        <filter x="-9.2%" y="-38.9%" width="116.1%" height="188.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="-1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-19.2170046%" y1="135.811454%" x2="127.921317%" y2="-29.127438%" id="linearGradient-8">
+            <stop stop-color="#304FFE" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-9" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" line-spacing="21" letter-spacing="-0.319999993" fill="#FFFFFF">
+            <tspan x="30" y="257">08:30 Tối nay tại Cộng cafe, 08 Thái hà, </tspan>
+            <tspan x="30" y="278">Đống đa, Hà nộ</tspan>
+            <tspan x="133.04" y="278">i</tspan>
+        </text>
+        <filter x="-1.2%" y="-7.1%" width="102.3%" height="119.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-11" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="20" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
+            <tspan x="30" y="225">Cafe bóc phốt tình cũ</tspan>
+        </text>
+        <filter x="-5.4%" y="-55.0%" width="110.7%" height="200.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="slide_event2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.72" filter="url(#filter-2)" x="160" y="500" width="120" height="36" rx="4"></rect>
+        <rect id="btn.bg" fill="url(#linearGradient-3)" x="160" y="486" width="130" height="50" rx="4"></rect>
+        <path d="M37.9970932,446 C40.2054599,446 42.204927,446.897562 43.6563719,448.342493 C45.1020032,449.793623 46,451.792121 46,453.999419 C46,456.206716 45.1020032,458.205215 43.6563719,459.656344 C42.2045394,461.101275 40.2054599,461.998837 37.9970932,461.998837 C35.7887266,461.998837 33.7896471,461.101275 32.3440157,459.656344 C30.8921832,458.205215 30,456.207103 30,453.999419 C30,451.792121 30.8917957,449.793623 32.3436281,448.342493 C33.7896471,446.897562 35.7887266,446 37.9970932,446 L37.9970932,446 Z M41.7154277,454.688182 C41.9553327,454.688182 42.1460165,454.884972 42.1460165,455.124761 C42.1460165,455.364549 41.9553327,455.561339 41.7154277,455.561339 L37.6490565,455.561339 L37.6366543,455.561339 C37.4765884,455.561339 37.3351258,455.469142 37.2614878,455.340144 L37.2552867,455.333946 L37.2552867,455.333946 L37.2490856,455.32155 L37.2490856,455.32155 L37.2490856,455.315352 L37.2490856,455.315352 L37.2428845,455.302956 L37.2428845,455.302956 L37.2366834,455.29056 L37.2366834,455.29056 L37.2366834,455.284362 L37.2366834,455.284362 L37.2304823,455.271965 L37.2304823,455.271965 L37.2242812,455.265767 L37.2242812,455.265767 L37.2242812,455.253371 L37.2242812,455.253371 L37.2180801,455.240975 L37.2180801,455.240975 L37.2180801,455.234777 L37.2180801,455.234777 L37.211879,455.222381 L37.211879,455.222381 L37.211879,455.209984 L37.211879,455.209984 L37.211879,455.203786 L37.211879,455.197588 L37.2056779,455.19139 L37.2056779,455.19139 L37.2056779,455.178994 L37.2056779,455.178994 L37.2056779,455.166598 L37.2056779,455.166598 L37.2056779,455.155751 L37.2056779,455.155751 L37.2056779,455.149553 L37.2056779,455.149553 L37.2056779,455.137157 L37.2056779,455.137157 L37.2056779,455.124761 L37.2056779,455.124761 L37.2056779,449.91681 C37.2056779,449.677021 37.3963617,449.486429 37.6362667,449.486429 C37.8761718,449.486429 38.0730567,449.677021 38.0730567,449.91681 L38.0730567,454.688182 L41.7154277,454.688182 Z M43.0413003,448.957654 C41.7495337,447.666513 39.9655548,446.873157 37.9970932,446.873157 C36.0286316,446.873157 34.2446528,447.666126 32.9528862,448.957654 C31.6673207,450.248795 30.8673788,452.03191 30.8673788,453.999419 C30.8673788,455.966927 31.6669331,457.750042 32.9528862,459.04157 C34.2446528,460.332711 36.0286316,461.126068 37.9970932,461.126068 C39.9655548,461.126068 41.7495337,460.332711 43.0413003,459.04157 C44.3330669,457.750429 45.1330087,455.967314 45.1330087,453.999419 C45.1330087,452.03191 44.3334544,450.248795 43.0413003,448.957654 L43.0413003,448.957654 Z" id="time" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+        <path d="M166.738351,454.831541 C170.453907,454.831541 173.476703,457.854337 173.476703,461.569892 C173.476703,461.807484 173.284129,462 173.046595,462 C172.809061,462 172.616487,461.807484 172.616487,461.569892 C172.616487,458.328659 169.979584,455.691756 166.738351,455.691756 C163.497118,455.691756 160.860215,458.328659 160.860215,461.569892 C160.860215,461.807484 160.667642,462 160.430108,462 C160.192573,462 160,461.807484 160,461.569892 C160,457.854337 163.022796,454.831541 166.738351,454.831541 Z M166.738351,453.168459 C164.762036,453.168459 163.154122,451.560602 163.154122,449.584229 C163.154122,447.607857 164.762036,446 166.738351,446 C168.714667,446 170.322581,447.607857 170.322581,449.584229 C170.322581,451.560602 168.714667,453.168459 166.738351,453.168459 Z M166.738351,446.860215 C165.236358,446.860215 164.014337,448.082237 164.014337,449.584229 C164.014337,451.086222 165.236358,452.308244 166.738351,452.308244 C168.240344,452.308244 169.462366,451.086222 169.462366,449.584229 C169.462366,448.082237 168.240344,446.860215 166.738351,446.860215 Z M176.200717,453.168459 C174.224401,453.168459 172.616487,451.560602 172.616487,449.584229 C172.616487,447.607857 174.224401,446 176.200717,446 C178.177032,446 179.784946,447.607857 179.784946,449.584229 C179.784946,451.560602 178.177032,453.168459 176.200717,453.168459 Z M176.200717,446.860215 C174.698724,446.860215 173.476703,448.082237 173.476703,449.584229 C173.476703,451.086222 174.698724,452.308244 176.200717,452.308244 C177.70271,452.308244 178.924731,451.086222 178.924731,449.584229 C178.924731,448.082237 177.70271,446.860215 176.200717,446.860215 Z M180.854824,457.978896 C179.731613,456.525362 178.035211,455.691756 176.200717,455.691756 C175.022738,455.691756 173.886394,456.038824 172.914466,456.695398 C172.717706,456.828387 172.450351,456.776659 172.317305,456.579728 C172.184373,456.38291 172.2361,456.115556 172.432975,455.982566 C173.547584,455.229534 174.850466,454.831541 176.200717,454.831541 C178.303656,454.831541 180.248143,455.786953 181.535541,457.452903 C181.680746,457.640889 181.646165,457.910996 181.458179,458.056258 C181.379842,458.116703 181.287283,458.146007 181.19547,458.146007 C181.066839,458.146065 180.939584,458.088545 180.854824,457.978896 Z" id="mem" fill="url(#linearGradient-5)"></path>
+        <text id="01h-30m" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" fill="#F50057">
+            <tspan x="56" y="457">01h 30m</tspan>
+        </text>
+        <text id="04-/-06" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal">
+            <tspan x="192" y="457" fill="#304FFE">04</tspan>
+            <tspan x="207.66" y="457" fill="#8C96A8"> / 06 </tspan>
+        </text>
+        <g id="+-Muốn-đến" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-7)" xlink:href="#text-6"></use>
+            <use xlink:href="#text-6"></use>
+        </g>
+        <text id="Tối-nay-cafe-kể-tội" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" line-spacing="21" letter-spacing="-0.319999993" fill="#4D5B72">
+            <tspan x="30" y="403">Tối nay cafe kể tội người yêu cũ. Tiện </tspan>
+            <tspan x="30" y="424">tay xoá tội luôn nhé các tình yêu  :”</tspan>
+            <tspan x="262.176" y="424">&gt;</tspan>
+        </text>
+        <text id="Bỏ-qua" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#8C96A8">
+            <tspan x="69.2510001" y="516">Bỏ qua</tspan>
+        </text>
+        <text id="Dẫn-sự-kiện" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
+            <tspan x="90" y="364">Dẫn sự kiện</tspan>
+        </text>
+        <text id="Ánh-Dương" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="90" y="341">Ánh Dương</tspan>
+        </text>
+        <path d="M191.358028,330.875953 C191.347332,330.884525 191.336946,330.893823 191.326923,330.903846 L191.292308,330.903846 L186.653846,335.715385 C186.584615,335.784615 186.480769,335.784615 186.411538,335.715385 L184.507692,333.673077 L184.473077,333.638462 C184.334615,333.5 184.126923,333.5 183.988462,333.638462 L183.503846,334.123077 C183.434615,334.192308 183.4,334.296154 183.4,334.365385 C183.4,334.434615 183.434615,334.538462 183.503846,334.607692 L183.573077,334.711538 L186.273077,337.619231 C186.342308,337.688462 186.411538,337.723077 186.515385,337.723077 C186.619231,337.723077 186.688462,337.688462 186.757692,337.619231 L192.188479,331.98479 C192.704447,332.870739 193,333.900854 193,335 C193,338.313708 190.313708,341 187,341 C183.686292,341 181,338.313708 181,335 C181,331.686292 183.686292,329 187,329 C188.716368,329 190.26441,329.720684 191.358028,330.875953 Z" id="check" fill="url(#linearGradient-8)"></path>
+        <g id="08:30-Tối-nay-tại-Cộ" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-10)" xlink:href="#text-9"></use>
+            <use xlink:href="#text-9"></use>
+        </g>
+        <g id="Cafe-bóc-phốt-tình-c" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-12)" xlink:href="#text-11"></use>
+            <use xlink:href="#text-11"></use>
+        </g>
+    </g>
+</svg>

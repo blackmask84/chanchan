@@ -50,6 +50,9 @@ app.get('/chancode', function (req, res) {
 app.get('/mqhtv', function (req, res) {
     res.sendFile(__dirname + '/public/why2111.html');
 });
+app.get('/test', function (req, res) {
+    res.sendFile(__dirname + '/public/what2511.html');
+});
 
 // get form
 

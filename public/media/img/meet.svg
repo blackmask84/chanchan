@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="624px" viewBox="0 0 366 624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>meet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="14.866835%" y1="53.7868888%" x2="136.541045%" y2="34.6590209%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-14.4%" y="-94.7%" width="128.8%" height="289.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-24.2153253%" y1="59.3538659%" x2="195.839832%" y2="22.9700281%" id="linearGradient-3">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M79.4884436,538.789913 L84.7957576,546.955012 C85.0967463,547.418071 84.9653619,548.037455 84.5023023,548.338444 C84.340092,548.44388 84.1507799,548.5 83.957314,548.5 L73.342686,548.5 C72.7904013,548.5 72.342686,548.052285 72.342686,547.5 C72.342686,547.306534 72.3988058,547.117222 72.5042424,546.955012 L77.8115564,538.789913 C78.1125451,538.326854 78.7319287,538.195469 79.1949884,538.496458 C79.3122516,538.572679 79.4122225,538.67265 79.4884436,538.789913 Z" id="path-4"></path>
+        <filter x="-8.1%" y="-10.6%" width="116.2%" height="128.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="118.524" y="547.913043">Gặp lại nhiều hơn</tspan>
+        </text>
+        <filter x="-6.2%" y="-38.9%" width="110.9%" height="188.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="-1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="meet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Bạn-đã-gặp-anh-ấy-qu" opacity="0.7" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#343D51">
+            <tspan x="74.4239999" y="212">Bạn đã gặp anh ấy qua 7 sự kiệ</tspan>
+            <tspan x="282.568" y="212">n</tspan>
+        </text>
+        <text id="Hải-Anh" opacity="0.7" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="154" y="184">Hải Anh</tspan>
+        </text>
+        <text id="Đi-ăn-rồi-lang-thang" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="113" y="267">Đi ăn rồi lang thang phố…</tspan>
+        </text>
+        <text id="Sự-kiện-đơn-vào-tối" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
+            <tspan x="113" y="291">Sự kiện đơn vào tối qu</tspan>
+            <tspan x="260.568" y="291">a</tspan>
+        </text>
+        <text id="Chạy-bộ-quanh-Hồ-tây" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="114" y="365">Chạy bộ quanh Hồ tây…</tspan>
+        </text>
+        <text id="Sự-kiện-nhóm-2-ngày" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
+            <tspan x="113" y="389">Sự kiện nhóm 2 ngày trướ</tspan>
+            <tspan x="286.008" y="389">c</tspan>
+        </text>
+        <text id="Liveshow-Lê-cát-trọn" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="113" y="463">Liveshow Lê cát trọng lý</tspan>
+        </text>
+        <text id="Sự-kiện-đơn-5-ngày-t" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
+            <tspan x="113" y="487">Sự kiện đơn 5 ngày trướ</tspan>
+            <tspan x="272.136" y="487">c</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="GMVDINPro-Italic, GMV DIN Pro" font-size="16" font-style="italic" font-weight="normal" fill="#DADFE7">
+            <tspan x="53" y="326">………………………………………………………….</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" fill="#DADFE7">
+            <tspan x="54" y="424">…………………………………………………………..</tspan>
+        </text>
+        <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.72" filter="url(#filter-2)" transform="translate(178.000000, 549.000000) scale(-1, 1) translate(-178.000000, -549.000000) " x="53" y="530" width="250" height="38" rx="4"></rect>
+        <rect id="btn" fill="url(#linearGradient-3)" transform="translate(183.000000, 543.000000) scale(-1, 1) translate(-183.000000, -543.000000) " x="53" y="518" width="260" height="50" rx="4"></rect>
+        <g id="Triangle" opacity="0.9" transform="translate(78.650000, 543.000000) rotate(90.000000) translate(-78.650000, -543.000000) ">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+        </g>
+        <g id="Gặp-lại-nhiều-hơn" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-7)" xlink:href="#text-6"></use>
+            <use xlink:href="#text-6"></use>
+        </g>
+    </g>
+</svg>

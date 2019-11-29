@@ -2,12 +2,11 @@
 
 /* GMV DIN Pro */
 @font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro.woff2) format("woff2");font-weight:normal}
-@font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-Black.woff) format("woff2");font-weight:700}
+@font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-Black.woff2 format("woff2");font-weight:700}
+@font-face{font-family:'GMV DIN Pro';src:url(webfont/Din/GMVDINPro-Bold.woff2) format("woff2");font-weight:bold}
 @font-face{font-family:'GMV DIN Cond';src:url(webfont/Din/GMVDINPro-CondBlack.woff2) format("woff2");font-weight:700;font-style:condensed}
 /* Chalkduster */
 @font-face{font-family:'Chalkduster';src:url(webfont/Chalkduster/Chalkduster-edit.woff2) format("woff2");font-weight:normal}
-/* ChalkboardSE */
-@font-face{font-family:'Chalkboard SE';src:url(webfont/ChalkboardSE/ChalkboardSE-Bold.woff2) format("woff2");font-weight:bold}
 
 /* Reset Common */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:0;padding:0}
@@ -47,7 +46,7 @@ table{border-collapse:collapse;border-spacing:0}
     height: 100%;
 }
 .videoIn {
-    padding-top: 9%;
+    padding-top: 6.5%;
     margin-left: 5%;
     width:90%;
 }
@@ -77,8 +76,8 @@ table{border-collapse:collapse;border-spacing:0}
 }
 .video-sound-hongvan {
     position: absolute;
-    bottom: 11%;
-    right: 5.5%;
+    bottom: 8vw;
+    right: 8vw;
     width: 12%;
 }
 .video-wrap #on {
