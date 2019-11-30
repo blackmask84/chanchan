@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="568px" viewBox="0 0 320 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>slide_finish2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="slide_finish2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="3-/-12" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="700" letter-spacing="-1.67647">
+            <tspan x="30" y="315" fill="#D81B60">3 </tspan>
+            <tspan x="44.46706" y="315" fill="#121721">/ 12</tspan>
+        </text>
+        <g id="move" transform="translate(30.000000, 345.000000)" fill="#4D5B72" font-size="16" font-weight="normal" letter-spacing="-0.319999993" line-spacing="21">
+            <text id="Chúng-tôi-nhận-thấy" font-family="GMVDINPro, GMV DIN Pro">
+                <tspan x="0" y="12">Chúng tôi nhận thấy rằng còn 03 điều </tspan>
+                <tspan x="0" y="33">giữa bạn và cô ấy chưa chia sẻ được </tspan>
+                <tspan x="0" y="54">hết với nhau.</tspan>
+            </text>
+            <text id="Hai-bạn-sẽ-thực-hiện" font-family="GMVDINPro-Italic, GMV DIN Pro" font-style="italic">
+                <tspan x="0" y="83">Hai bạn sẽ thực hiện điều này sau khi </tspan>
+                <tspan x="0" y="104">hoàn thành &amp; kết thúc chương trình?</tspan>
+            </text>
+        </g>
+        <text id="Tôi-đồng-ý" font-family="GMVDINPro-Italic, GMV DIN Pro" font-size="16" font-style="italic" font-weight="normal" letter-spacing="-0.319999993" fill="#4D5B72">
+            <tspan x="54" y="483">Tôi đồng ý</tspan>
+        </text>
+    </g>
+</svg>

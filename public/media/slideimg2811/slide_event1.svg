@@ -15,7 +15,7 @@
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#AA00FF" offset="100%"></stop>
         </linearGradient>
-        <text id="text-4" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+        <text id="text-4" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
             <tspan x="188.037" y="516">Mọi người</tspan>
         </text>
         <filter x="-10.8%" y="-27.8%" width="118.9%" height="177.8%" filterUnits="objectBoundingBox" id="filter-5">
@@ -35,7 +35,7 @@
             <use filter="url(#filter-5)" xlink:href="#text-4"></use>
             <use xlink:href="#text-4"></use>
         </g>
-        <text id="Tạo-sự-kiện" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#DA0093">
+        <text id="Tạo-sự-kiện" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#DA0093">
             <tspan x="52.2500002" y="516">Tạo sự kiện</tspan>
         </text>
         <text id="Tối-nay-bạn-rảnh" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="24" font-style="expanded" font-weight="bold" letter-spacing="-1.44000006" fill="#343D51">

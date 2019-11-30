@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="1015px" viewBox="0 0 320 1015" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="1036px" viewBox="0 0 320 1036" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>4</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <circle id="path-1" cx="49" cy="629" r="12"></circle>
+        <circle id="path-1" cx="49" cy="649" r="12"></circle>
         <filter x="-25.0%" y="-16.7%" width="141.7%" height="141.7%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
@@ -12,14 +12,14 @@
         </filter>
     </defs>
     <g id="4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#ECF6FF" x="0" y="0" width="320" height="658"></rect>
+        <rect id="Rectangle" fill="#ECF6FF" x="0" y="0" width="320" height="679"></rect>
         <g id="move" transform="translate(30.000000, 47.000000)">
             <text id="Dưới-đây-là-những-gì" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.300000012" fill="#343D51">
                 <tspan x="0" y="256">Dưới đây là những gì chúng tôi làm cho </tspan>
                 <tspan x="0" y="276">thành viên.</tspan>
             </text>
             <text id="Gặp-ngẫu-nhiên" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#343D51">
-                <tspan x="24" y="315">Gặp ngẫu nhiên</tspan>
+                <tspan x="30" y="315">Gặp ngẫu nhiên</tspan>
             </text>
             <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
                 <tspan x="0" y="319">_</tspan>
@@ -27,18 +27,18 @@
             <text id="1" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#303F9F">
                 <tspan x="0" y="315">1</tspan>
             </text>
-            <text id="Khi-cả-hai-mong-muốn" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="24" y="337">Khi cả hai mong muốn có cơ hội với </tspan>
-                <tspan x="24" y="357">nhau.</tspan>
+            <text id="Khi-cả-hai-mong-muốn" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#556279">
+                <tspan x="30" y="337">Khi cả hai mong muốn có cơ hội với </tspan>
+                <tspan x="30" y="357">nhau.</tspan>
             </text>
             <text id="x" font-family="Chalkduster" font-size="18" font-weight="normal" line-spacing="47" fill="#B71C1C">
                 <tspan x="0" y="391">x</tspan>
             </text>
             <text id="Không-chat-làm-quen" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#8C96A8">
-                <tspan x="24" y="392">Không chat làm quen</tspan>
+                <tspan x="30" y="392">Không chat làm quen</tspan>
             </text>
             <text id="Hãy-trân-trọng.-Đừng" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#8C96A8">
-                <tspan x="24" y="414">Hãy trân trọng. Đừng nói gì cả!</tspan>
+                <tspan x="30" y="414">Hãy trân trọng. Đừng nói gì cả!</tspan>
             </text>
             <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
                 <tspan x="0" y="453">_</tspan>
@@ -46,12 +46,12 @@
             <text id="2" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#303F9F">
                 <tspan x="0" y="449">2</tspan>
             </text>
-            <text id="Chỉ-cần-cho-thấy-châ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="24" y="471">Chỉ cần cho thấy chân thành qua </tspan>
-                <tspan x="24" y="491">hành động.</tspan>
+            <text id="Chỉ-cần-cho-thấy-châ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#556279">
+                <tspan x="30" y="471">Chỉ cần cho thấy chân thành qua </tspan>
+                <tspan x="30" y="491">hành động.</tspan>
             </text>
             <text id="Thử-thách" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#343D51">
-                <tspan x="24" y="449">Thử thách</tspan>
+                <tspan x="30" y="449">Thử thách</tspan>
             </text>
             <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
                 <tspan x="0" y="530">_</tspan>
@@ -59,11 +59,12 @@
             <text id="3" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#303F9F">
                 <tspan x="0" y="526">3</tspan>
             </text>
-            <text id="Sẽ-tìm-thấy-nhau-tro" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="24" y="548">Sẽ tìm thấy nhau trong chương trình. </tspan>
+            <text id="Sẽ-tìm-thấy-nhau-tro" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#556279">
+                <tspan x="30" y="548">Sẽ tìm thấy nhau trong chương </tspan>
+                <tspan x="30" y="568">trình. </tspan>
             </text>
-            <text id="Chúng-tôi-đầu-hàng" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#343D51">
-                <tspan x="24" y="526">Chúng tôi đầu hàng</tspan>
+            <text id="Hoàn-thành" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" line-spacing="21" letter-spacing="-0.360000014" fill="#343D51">
+                <tspan x="30" y="526">Hoàn thành</tspan>
             </text>
             <text id="Chúng-tôi-vận-hành-c" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="0" y="188">Chúng tôi vận hành chương trình &amp; </tspan>
@@ -85,8 +86,8 @@
                 <tspan x="0" y="55">—</tspan>
             </text>
         </g>
-        <path d="M0,637 L17.4177705,637 C25.532023,637 33.3734706,639.929593 39.5,645.25 L39.5,645.25 C44.949329,649.982312 53.050671,649.982312 58.5,645.25 L58.5,645.25 C64.6265294,639.929593 72.467977,637 80.5822295,637 L320,637 L320,661 L0,661 L0,637 Z" id="Rectangle" fill="#FFFFFF"></path>
-        <g id="move" transform="translate(30.000000, 683.000000)">
+        <path d="M0,657 L17.4177705,657 C25.532023,657 33.3734706,659.929593 39.5,665.25 L39.5,665.25 C44.949329,669.982312 53.050671,669.982312 58.5,665.25 L58.5,665.25 C64.6265294,659.929593 72.467977,657 80.5822295,657 L320,657 L320,681 L0,681 L0,657 Z" id="Rectangle" fill="#FFFFFF"></path>
+        <g id="move" transform="translate(30.000000, 704.000000)">
             <text id="Chúng-tôi-tạo-cơ-hội" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="0" y="68">Chúng tôi tạo cơ hội bằng cách khiến cả </tspan>
                 <tspan x="0" y="88">hai cùng có mặt tại các sự kiện cộng </tspan>
@@ -130,7 +131,7 @@
             <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
         </g>
         <text id="i" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="14" font-style="expanded" font-weight="bold" fill="#1E2432">
-            <tspan x="47" y="634">i</tspan>
+            <tspan x="47" y="654">i</tspan>
         </text>
     </g>
 </svg>

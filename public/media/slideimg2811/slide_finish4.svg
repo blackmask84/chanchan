@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="568px" viewBox="0 0 320 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>slide_finish4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+            <tspan x="92.3830002" y="513">Cảm ơn Chanchan</tspan>
+        </text>
+        <filter x="-5.9%" y="-33.3%" width="110.3%" height="183.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="slide_finish4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Lời-tạm-biệt" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="24" font-style="expanded" font-weight="bold" letter-spacing="-1.44" fill="#343D51">
+            <tspan x="30" y="271">Lời tạm biệt</tspan>
+        </text>
+        <g id="move" transform="translate(30.000000, 296.000000)" fill="#4D5B72" font-size="16" font-weight="normal" letter-spacing="-0.319999993" line-spacing="21">
+            <text id="Chanchan-chúc-hai-bạ" font-family="GMVDINPro, GMV DIN Pro">
+                <tspan x="0" y="12">Chanchan chúc hai bạn luôn bên </tspan>
+                <tspan x="0" y="33">nhau. Chúc cho tình cảm này còn mãi </tspan>
+                <tspan x="0" y="54">bên bạn theo năm tháng. Chanchan sẽ </tspan>
+                <tspan x="0" y="75">nhớ đến hai bạn.</tspan>
+            </text>
+            <text id="Nói-lời-tạm-biệt-chư" font-family="GMVDINPro-Italic, GMV DIN Pro" font-style="italic">
+                <tspan x="0" y="112">Nói lời tạm biệt chương trình</tspan>
+                <tspan x="0" y="133">……………………………………………………………</tspan>
+                <tspan x="0" y="154">……………………………………………………………</tspan>
+            </text>
+        </g>
+        <g id="Cảm-ơn-Chanchan" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+            <use xlink:href="#text-1"></use>
+        </g>
+    </g>
+</svg>

@@ -15,7 +15,7 @@
             <stop stop-color="#AA00FF" offset="0%"></stop>
             <stop stop-color="#304FFE" offset="100%"></stop>
         </linearGradient>
-        <text id="text-4" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+        <text id="text-4" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
             <tspan x="75.1210003" y="516">Sự kiện của bạn tối nay</tspan>
         </text>
         <filter x="-4.7%" y="-38.9%" width="108.8%" height="188.9%" filterUnits="objectBoundingBox" id="filter-5">
@@ -45,7 +45,7 @@
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <text id="text-11" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="20" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
+        <text id="text-11" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="20" font-style="expanded" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
             <tspan x="30" y="225">Cafe bóc phốt tình cũ</tspan>
         </text>
         <filter x="-5.4%" y="-55.0%" width="110.7%" height="200.0%" filterUnits="objectBoundingBox" id="filter-12">
@@ -58,7 +58,7 @@
         <rect id="shadow" fill="url(#linearGradient-1)" opacity="0.72" filter="url(#filter-2)" x="30" y="500" width="250" height="36" rx="4"></rect>
         <rect id="btn" fill="url(#linearGradient-3)" x="30" y="486" width="260" height="50" rx="4"></rect>
         <path d="M48.1499996,511.5 L48.2500002,511.65 L52.1500002,515.85 C52.2499999,515.95 52.3499996,516 52.5,516 C52.6499997,516 52.7500003,515.95 52.8500001,515.85 L60.8500004,507.55 C61.0499998,507.35 61.0499998,507.05 60.8500004,506.85 L60.1499996,506.15 C59.9500002,505.95 59.6500001,505.95 59.4499998,506.15 L59.3999999,506.15 L52.6999996,513.1 C52.5999998,513.2 52.4500003,513.2 52.3499996,513.1 L49.6000001,510.15 L49.5500002,510.1 C49.3499999,509.9 49.0499998,509.9 48.8500004,510.1 L48.1499996,510.8 C48.0499999,510.9 48,511.05 48,511.15 C48,511.25 48.0499999,511.4 48.1499996,511.5 Z" id="check" fill="#FFFFFF" opacity="0.6"></path>
-        <g id="Sự-kiện-của-bạn-tối" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
+        <g id="Sự-kiện-của-bạn-tối" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-5)" xlink:href="#text-4"></use>
             <use xlink:href="#text-4"></use>
         </g>
@@ -79,7 +79,7 @@
         <text id="Dẫn-sự-kiện" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
             <tspan x="90" y="364">Dẫn sự kiện</tspan>
         </text>
-        <text id="Ánh-Dương" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+        <text id="Ánh-Dương" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="90" y="341">Ánh Dương</tspan>
         </text>
         <path d="M191.358028,330.875953 C191.347332,330.884525 191.336946,330.893823 191.326923,330.903846 L191.292308,330.903846 L186.653846,335.715385 C186.584615,335.784615 186.480769,335.784615 186.411538,335.715385 L184.507692,333.673077 L184.473077,333.638462 C184.334615,333.5 184.126923,333.5 183.988462,333.638462 L183.503846,334.123077 C183.434615,334.192308 183.4,334.296154 183.4,334.365385 C183.4,334.434615 183.434615,334.538462 183.503846,334.607692 L183.573077,334.711538 L186.273077,337.619231 C186.342308,337.688462 186.411538,337.723077 186.515385,337.723077 C186.619231,337.723077 186.688462,337.688462 186.757692,337.619231 L192.188479,331.98479 C192.704447,332.870739 193,333.900854 193,335 C193,338.313708 190.313708,341 187,341 C183.686292,341 181,338.313708 181,335 C181,331.686292 183.686292,329 187,329 C188.716368,329 190.26441,329.720684 191.358028,330.875953 Z" id="check" fill="url(#linearGradient-8)"></path>

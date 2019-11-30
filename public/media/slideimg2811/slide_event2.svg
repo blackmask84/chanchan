@@ -23,7 +23,7 @@
             <stop stop-color="#651FFF" offset="0%"></stop>
             <stop stop-color="#304FFE" offset="100%"></stop>
         </linearGradient>
-        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
+        <text id="text-6" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#FFFFFF">
             <tspan x="181.908" y="516">+ Muốn đến</tspan>
         </text>
         <filter x="-9.2%" y="-38.9%" width="116.1%" height="188.9%" filterUnits="objectBoundingBox" id="filter-7">
@@ -45,7 +45,7 @@
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <text id="text-11" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="20" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
+        <text id="text-11" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="20" font-style="expanded" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
             <tspan x="30" y="225">Cafe bóc phốt tình cũ</tspan>
         </text>
         <filter x="-5.4%" y="-55.0%" width="110.7%" height="200.0%" filterUnits="objectBoundingBox" id="filter-12">
@@ -75,13 +75,13 @@
             <tspan x="30" y="424">tay xoá tội luôn nhé các tình yêu  :”</tspan>
             <tspan x="262.176" y="424">&gt;</tspan>
         </text>
-        <text id="Bỏ-qua" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#8C96A8">
+        <text id="Bỏ-qua" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#8C96A8">
             <tspan x="69.2510001" y="516">Bỏ qua</tspan>
         </text>
         <text id="Dẫn-sự-kiện" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#8C96A8">
             <tspan x="90" y="364">Dẫn sự kiện</tspan>
         </text>
-        <text id="Ánh-Dương" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+        <text id="Ánh-Dương" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
             <tspan x="90" y="341">Ánh Dương</tspan>
         </text>
         <path d="M191.358028,330.875953 C191.347332,330.884525 191.336946,330.893823 191.326923,330.903846 L191.292308,330.903846 L186.653846,335.715385 C186.584615,335.784615 186.480769,335.784615 186.411538,335.715385 L184.507692,333.673077 L184.473077,333.638462 C184.334615,333.5 184.126923,333.5 183.988462,333.638462 L183.503846,334.123077 C183.434615,334.192308 183.4,334.296154 183.4,334.365385 C183.4,334.434615 183.434615,334.538462 183.503846,334.607692 L183.573077,334.711538 L186.273077,337.619231 C186.342308,337.688462 186.411538,337.723077 186.515385,337.723077 C186.619231,337.723077 186.688462,337.688462 186.757692,337.619231 L192.188479,331.98479 C192.704447,332.870739 193,333.900854 193,335 C193,338.313708 190.313708,341 187,341 C183.686292,341 181,338.313708 181,335 C181,331.686292 183.686292,329 187,329 C188.716368,329 190.26441,329.720684 191.358028,330.875953 Z" id="check" fill="url(#linearGradient-8)"></path>
