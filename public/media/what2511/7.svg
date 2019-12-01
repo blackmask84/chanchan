@@ -25,7 +25,7 @@
         <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
             <tspan x="30" y="55">_</tspan>
         </text>
-        <text id="a" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
+        <text id="a" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
             <tspan x="30" y="52">a</tspan>
         </text>
         <text id="Chuyên-gia-của-Chanc" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
@@ -50,7 +50,7 @@
         <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
             <tspan x="30" y="247">_</tspan>
         </text>
-        <text id="b" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
+        <text id="b" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
             <tspan x="30" y="244">b</tspan>
         </text>
     </g>

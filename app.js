@@ -21,28 +21,31 @@ app.get('/desk', function (req, res) {
     res.sendFile(__dirname + '/public/seeu_pc.html');
 });
 app.get('/tieuchuanvanhanh', function (req, res) {
-    res.sendFile(__dirname + '/public/2_tieuchuan.html');
+    res.sendFile(__dirname + '/public/what2511.html');
 });
 app.get('/cauhoithuonggap', function (req, res) {
-    res.sendFile(__dirname + '/public/3_faq.html');
+    res.sendFile(__dirname + '/public/what2511.html');
 });
 app.get('/cauchuyencuahongvan', function (req, res) {
     res.sendFile(__dirname + '/public/4_cauchuyencuahongvan.html');
 });
 app.get('/hieuthemvechanchan', function (req, res) {
-    res.sendFile(__dirname + '/public/5_blog.html');
+    res.sendFile(__dirname + '/public/what2511.html');
 });
 app.get('/dangkythanhvienmoi', function (req, res) {
-    res.sendFile(__dirname + '/public/6_register.html');
+    res.sendFile(__dirname + '/public/register2911.html');
 });
 app.get('/thanhtoanonline', function (req, res) {
-    res.sendFile(__dirname + '/public/8_momopay.html');
+    res.sendFile(__dirname + '/public/payonline0112.html');
+});
+app.get('/thanhtoanquamomo', function (req, res) {
+    res.sendFile(__dirname + '/public/payonline0112.html');
 });
 app.get('/timhieuvephichuongtrinh', function (req, res) {
-    res.sendFile(__dirname + '/public/9_feeguide.html');
+    res.sendFile(__dirname + '/public/what2511.html');
 });
 app.get('/timhieuchuongtrinh', function (req, res) {
-    res.sendFile(__dirname + '/public/7_program1011.html');
+    res.sendFile(__dirname + '/public/what2511.html');
 });
 app.get('/chancode', function (req, res) {
     res.sendFile(__dirname + '/public/10_programcreat.html');
@@ -50,13 +53,17 @@ app.get('/chancode', function (req, res) {
 app.get('/mqhtv', function (req, res) {
     res.sendFile(__dirname + '/public/why2111.html');
 });
-app.get('/test', function (req, res) {
-    res.sendFile(__dirname + '/public/what2511.html');
+app.get('/lienhe', function (req, res) {
+    res.sendFile(__dirname + '/public/connect0112.html');
 });
 
 // get form
 
-app.get('/creat-popup', function (req, res) {
+app.get('/trial', function (req, res) {
+    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
+});
+
+app.get('/believe', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
 

@@ -1,5 +1,4 @@
 @charset "utf-8";
-
 /* Slick lib */
 .slick-slider{position:relative;display:block;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}
 .slick-list{position:relative;display:block;overflow:hidden;margin:0;padding:0}
@@ -25,7 +24,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,
 article,aside,dialog,footer,header,section,footer,nav,figure,main{display:block}
 html,body{height:100%}
 body{-webkit-text-size-adjust:none}
-body,input,select,textarea,button{font-family:'SF Compact Display',serif}
+body,input,select,textarea,button{font-family:'GMV DIN Pro'}
 fieldset,li,img{border:0;vertical-align:top}
 ul,ol{list-style:none}
 button{overflow:visible;border:0;background-color:transparent;cursor:pointer}
@@ -135,7 +134,7 @@ table{border-collapse:collapse;border-spacing:0}
     font-size: 8.9vw;
     opacity: 0;
     letter-spacing: -0.066em;
-    font-weight: 500;
+    font-weight: 700;
   }
   .form-mobile .popup_register .register_choose .btn {
     z-index: 10;
@@ -143,13 +142,13 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup_register .register_choose .btn_register_more, .form-mobile .popup_register .register_choose .btn_register_now {
     left: 12%;
     width: 75.5%;
-    height: 24%;
+    height: 8%;
   }
   .form-mobile .popup_register .register_choose .btn_register_more {
-    bottom: 36.5%;
+    bottom: 11%;
   }
   .form-mobile .popup_register .register_choose .btn_register_now {
-    bottom: 7.5%;
+    bottom: 3%;
   }
   .form-mobile .popup_info .btn_back {
     right: auto;
@@ -217,12 +216,12 @@ table{border-collapse:collapse;border-spacing:0}
     padding: 3% 1%;
     border: none;
     color: #5D6A80;
-    font-size: 6vw;
-    font-weight: 500;
-    letter-spacing: -0.06em;
+    font-size: 5.5vw;
+    font-weight: 700;
+    letter-spacing: -0.04em;
     -webkit-tap-highlight-color: transparent;
     /* border: 1px solid red; */
-    /* background: transparent; */
+    background: transparent;
   }
   .form-mobile .popup_info .info_ct textarea {
     line-height: 6.8vw;
@@ -249,9 +248,9 @@ table{border-collapse:collapse;border-spacing:0}
     color: #BDC4D0;
   }
   .form-mobile .popup_info .info_ct02 input, .form-mobile .popup_info .info_ct02 textarea {
-    font-weight: 400;
+    font-weight: normal;
     font-size: 5vw;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.04em;
   }
   .form-mobile .popup_info .info_ct02 input#info_province {
     top: 37.7%;
@@ -297,5 +296,5 @@ table{border-collapse:collapse;border-spacing:0}
   .form-mobile .popup_notifi .txt {
     color: #5d6a80;
     font-size: 5vw;
-    font-weight: 400;
+    font-weight: normal;
   }

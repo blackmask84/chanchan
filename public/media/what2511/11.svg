@@ -16,9 +16,9 @@
             <stop stop-color="#304FFE" offset="100%"></stop>
         </linearGradient>
         <text id="text-4" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" letter-spacing="-0.400000006" fill="#FFFFFF">
-            <tspan x="111.46" y="409">Đi đến đăng ký</tspan>
+            <tspan x="103.45" y="409">Tìm hiểu đăng ký</tspan>
         </text>
-        <filter x="-7.6%" y="-32.5%" width="113.1%" height="170.0%" filterUnits="objectBoundingBox" id="filter-5">
+        <filter x="-6.6%" y="-42.5%" width="111.4%" height="180.0%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
@@ -67,7 +67,7 @@
         <text id="…" opacity="0.32" font-family="Chalkduster" font-size="24" font-weight="normal" fill="#FFFFFF">
             <tspan x="246" y="406">…</tspan>
         </text>
-        <g id="Đi-đến-đăng-ký" opacity="0.96" fill="#FFFFFF" fill-opacity="1">
+        <g id="Tìm-hiểu-đăng-ký" opacity="0.96" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-5)" xlink:href="#text-4"></use>
             <use xlink:href="#text-4"></use>
         </g>

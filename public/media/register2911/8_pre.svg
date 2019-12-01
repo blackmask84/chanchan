@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="381px" viewBox="0 0 320 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>8_pre</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="15.6907462%" y1="53.948252%" x2="133.039764%" y2="38.3342974%" id="linearGradient-1">
+            <stop stop-color="#AE2070" offset="0%"></stop>
+            <stop stop-color="#D81B60" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-14.4%" y="-64.3%" width="128.8%" height="228.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="15.6907462%" y1="53.9157785%" x2="133.039764%" y2="38.4302452%" id="linearGradient-3">
+            <stop stop-color="#AE2070" offset="0%"></stop>
+            <stop stop-color="#D81B60" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="92.8335337%" y1="53.1904444%" x2="26.0731807%" y2="47.4912%" id="linearGradient-4">
+            <stop stop-color="#1BC4C0" offset="0%"></stop>
+            <stop stop-color="#02AEC0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="30" y="207" width="250" height="56" rx="5"></rect>
+        <filter x="-14.4%" y="-64.3%" width="128.8%" height="228.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="92.8335337%" y1="53.1642038%" x2="26.0731807%" y2="47.5118343%" id="linearGradient-7">
+            <stop stop-color="#1BC4C0" offset="0%"></stop>
+            <stop stop-color="#02AEC0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-8" x="30" y="197" width="260" height="58" rx="5"></rect>
+    </defs>
+    <g id="8_pre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#ECF6FF" x="0" y="0" width="320" height="381"></rect>
+        <rect id="btn" fill-opacity="0.75" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="30" y="293" width="250" height="56" rx="5"></rect>
+        <rect id="btn" fill="url(#linearGradient-3)" x="30" y="283" width="260" height="58" rx="5"></rect>
+        <g id="btn" opacity="0.7" filter="url(#filter-6)">
+            <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+            <use fill-opacity="0.2" fill="#00B0FF" xlink:href="#path-5"></use>
+        </g>
+        <g id="btn">
+            <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+            <use fill-opacity="0.2" fill="#00B0FF" xlink:href="#path-8"></use>
+        </g>
+    </g>
+</svg>

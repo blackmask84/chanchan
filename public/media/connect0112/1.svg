@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="428px" viewBox="0 0 320 428" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M46.4227295,387.657593 C42.1452332,388.114136 37.8547668,388.114136 33.5772705,387.657593 C31.871643,387.475555 30.5244446,386.128357 30.3424072,384.422577 C29.8858643,380.145081 29.8858643,375.854767 30.3424072,371.577271 C30.5244446,369.871643 31.871643,368.524445 33.5772705,368.342407 C37.8547668,367.885864 42.1450805,367.885864 46.4225769,368.342407 C48.128357,368.524445 49.4755554,369.871643 49.6575928,371.577271 C50.1141357,375.854767 50.1141357,380.145081 49.6575928,384.422577 C49.4755554,386.128357 48.1285095,387.475555 46.4227295,387.657593 Z M40.2908325,387.999084 C41.4561463,387.993439 42.6213074,387.953918 43.7860107,387.880676 L43.7860107,379.760712 L46.1050415,379.760712 L46.3851929,376.842773 L43.7860107,376.842773 L43.7860107,374.989899 C43.7860107,374.580658 44.1177368,374.248932 44.5269775,374.248932 L46.3851929,374.248932 L46.3851929,371.330841 L43.4458923,371.330841 C41.7033386,371.330841 40.2908325,372.7435 40.2908325,374.486053 L40.2908325,376.842773 L38.5928345,376.842773 L38.5928345,379.760712 L40.2908325,379.760712 L40.2908325,387.999084 Z" id="path-1"></path>
+        <filter x="-10.0%" y="-10.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M39.4996039,154 C44.7376958,154 48.9994718,158.29413 49,163.572253 C49,164.948993 48.7205999,166.263468 48.169194,167.479491 C45.7932367,172.716903 41.2393845,178.245681 39.9004823,179.815069 C39.8001307,179.932414 39.6538285,180 39.499868,180 C39.3459074,180 39.1996053,179.932414 39.0992536,179.815069 C37.7598232,178.245415 33.2059711,172.716371 30.830806,167.479491 C30.2796642,166.263468 30,164.948993 30,163.572253 C30,158.29413 34.261776,154 39.4996039,154 Z M39.4996039,168.544109 C42.220718,168.544109 44.4345282,166.313493 44.4342641,163.571987 C44.4342641,160.830215 42.2204539,158.599599 39.4996039,158.599599 C36.7787538,158.599599 34.5649436,160.830215 34.5649436,163.571987 C34.5649436,166.313493 36.7787538,168.544109 39.4996039,168.544109 Z" id="path-3"></path>
+        <filter x="-10.5%" y="-7.7%" width="121.1%" height="115.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M40.5,263 C44.9272842,263 48.5294495,266.602165 48.5294495,271.029449 C48.5294495,274.748573 48.5294495,277.196693 48.5294495,280.911812 C48.5294495,281.933517 47.6982422,282.764725 46.6765366,282.764725 L42.2391586,282.764725 C41.9832916,283.482018 41.3041306,284 40.5,284 C39.4782944,284 38.6470871,283.168793 38.6470871,282.147087 C38.6470871,281.125381 39.4782944,280.294174 40.5,280.294174 C41.3041306,280.294174 41.9832916,280.811996 42.2391586,281.529449 L46.6765366,281.529449 C47.0166778,281.529449 47.2941742,281.252594 47.2941742,280.911812 L47.2941742,280.18042 C47.0999908,280.249634 46.8941116,280.294174 46.6765366,280.294174 C45.6546707,280.294174 44.8234634,279.462967 44.8234634,278.441101 L44.8234634,272.264725 C44.8234634,271.243019 45.6546707,270.411812 46.6765366,270.411812 C46.8841782,270.411812 47.0820465,270.448822 47.2678985,270.512428 C47.0019379,267.007515 44.0710831,264.235275 40.5,264.235275 C36.9269943,264.235275 33.9953384,267.010078 33.731781,270.517395 C33.9187546,270.453949 34.1155014,270.411812 34.3234634,270.411812 C35.3453293,270.411812 36.1765366,271.243019 36.1765366,272.264725 L36.1765366,278.441101 C36.1765366,279.462967 35.3453293,280.294174 34.3234634,280.294174 C33.3017578,280.294174 32.4705505,279.462967 32.4705505,278.441101 L32.4705505,271.029449 C32.4705505,266.602165 36.0727158,263 40.5,263 Z M49.7647247,271.760841 C50.4820175,272.016708 51,272.695869 51,273.5 L51,277.205826 C51,278.010117 50.4820175,278.689278 49.7647247,278.944984 L49.7647247,271.760841 Z M30,273.5 C30,272.695869 30.5179825,272.016708 31.2352753,271.760841 L31.2352753,278.944984 C30.5179825,278.689278 30,278.010117 30,277.205826 L30,273.5 Z" id="path-5"></path>
+        <filter x="-9.5%" y="-9.5%" width="119.0%" height="119.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="facebook">
+            <use fill="#556279" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+        </g>
+        <g id="location">
+            <use fill="#556279" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+        </g>
+        <g id="phone">
+            <use fill="#556279" fill-rule="evenodd" xlink:href="#path-5"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+        </g>
+        <text id="Support@chanchan.vn" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="70" y="275">Support@chanchan.vn</tspan>
+        </text>
+        <text id="090.810.3357" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#556279">
+            <tspan x="70" y="306">090.810.335</tspan>
+            <tspan x="150.288" y="306">7</tspan>
+        </text>
+        <text id="fb.com/hello.chancha" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="70" y="383">fb.com/hello.chanchan</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="GMVDINPro, GMV DIN Pro" font-size="14" font-weight="normal" fill="#8C96A8">
+            <tspan x="70" y="229">……………………………………………………</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="GMVDINPro, GMV DIN Pro" font-size="14" font-weight="normal" fill="#8C96A8">
+            <tspan x="70" y="337">……………………………………………………</tspan>
+        </text>
+        <text id="Espace-coworking" font-family="GMVDINPro-Bold, GMV DIN Pro" font-size="18" font-style="expanded" font-weight="bold" letter-spacing="-0.720000029" fill="#343D51">
+            <tspan x="70" y="167">Espace coworking</tspan>
+        </text>
+        <text id="01-Đinh-Lễ,-Hoàn-Kiế" font-family="GMVDINPro, GMV DIN Pro" font-size="16" font-weight="normal" letter-spacing="-0.319999993" fill="#556279">
+            <tspan x="70" y="198">01 Đinh Lễ, Hoàn Kiếm, Hà Nộ</tspan>
+            <tspan x="274.576" y="198">i</tspan>
+        </text>
+        <text id="Liên-hệ" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="28" font-style="condensed" font-weight="700" letter-spacing="-0.84" fill="#1E2432">
+            <tspan x="30" y="61">Liên hệ</tspan>
+        </text>
+        <text id="—" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="95">—</tspan>
+        </text>
+        <text id="Liên-hệ-với-team-phá" font-family="GMVDINPro-Italic, GMV DIN Pro" font-size="16" font-style="italic" font-weight="normal" letter-spacing="-0.319999993" fill="#556279">
+            <tspan x="30" y="117">Liên hệ với team phát triển</tspan>
+        </text>
+    </g>
+</svg>
