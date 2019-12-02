@@ -22,7 +22,7 @@
         <text id="Màn-hình-thống-kê-sự" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#8C96A8">
             <tspan x="74.845" y="18">Màn hình thống kê sự kiện.</tspan>
         </text>
-        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
             <tspan x="30" y="55">_</tspan>
         </text>
         <text id="a" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
@@ -47,7 +47,7 @@
             <tspan x="54" y="282">được khi những lần tình cờ gặp lại </tspan>
             <tspan x="54" y="302">ngày càng thường xuyên.</tspan>
         </text>
-        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
             <tspan x="30" y="247">_</tspan>
         </text>
         <text id="b" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">

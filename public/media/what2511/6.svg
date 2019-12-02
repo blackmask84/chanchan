@@ -11,7 +11,7 @@
             <tspan x="51.6175" y="18">Slide ảnh màn hình sự kiện xảy ra.</tspan>
             <tspan x="70.3225" y="38">Vuốt sang bên để xem thêm.</tspan>
         </text>
-        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#FFA000">
             <tspan x="30" y="75">_</tspan>
         </text>
         <text id="a" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
@@ -24,7 +24,7 @@
             <tspan x="54" y="130">thành viên uy tín tạo. Người tạo sự </tspan>
             <tspan x="54" y="150">kiện là người dẫn dắt sự kiện.</tspan>
         </text>
-        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#303F9F">
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#FFA000">
             <tspan x="30" y="183">_</tspan>
         </text>
         <text id="b" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#343D51">
