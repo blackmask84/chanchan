@@ -18,8 +18,8 @@
                 <tspan x="0" y="127">khoảng thời gian nhất định.</tspan>
             </text>
             <text id="Chúng-tôi-tìm-kiếm-n" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="0" y="163">Chúng tôi tìm kiếm những dấu hiệu </tspan>
-                <tspan x="0" y="183">chân thành ở A và B ra sao? </tspan>
+                <tspan x="0" y="159">Chúng tôi tìm kiếm những dấu hiệu </tspan>
+                <tspan x="0" y="179">chân thành ở A và B ra sao? </tspan>
             </text>
             <text id="Từ-A-đến-B" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="20" y="299">Từ A đến B</tspan>
@@ -28,11 +28,11 @@
                 <tspan x="20" y="323">Khả năng A tương tác với B bằng con </tspan>
                 <tspan x="20" y="343">người thật của mình.</tspan>
             </text>
-            <text id="Chúng-tôi-tập-trung" font-family="GMVDINPro-Italic, GMV DIN Pro" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="0" y="211">Chúng tôi tập trung vào các dấu hiệu mách </tspan>
-                <tspan x="0" y="231">bảo cả hai đang được tự do trong mối quan </tspan>
-                <tspan x="0" y="251">hệ, đang đến với người kia đơn giản là </tspan>
-                <tspan x="0" y="271">chính mình. Sẽ luôn có hai chiều:</tspan>
+            <text id="Chúng-tôi-tập-trung" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.300000012" fill="#343D51">
+                <tspan x="0" y="207">Chúng tôi tập trung vào các dấu hiệu </tspan>
+                <tspan x="0" y="227">mách bảo cả hai đang được tự do trong </tspan>
+                <tspan x="0" y="247">mối quan hệ, đơn giản là chính mình. Sẽ </tspan>
+                <tspan x="0" y="267">luôn có hai chiều:</tspan>
             </text>
             <text id="Chúng-tôi-đánh-giá-c" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="20" y="367">Chúng tôi đánh giá cao việc cởi mở </tspan>
