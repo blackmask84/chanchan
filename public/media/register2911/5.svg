@@ -51,9 +51,9 @@
             <text id="Lưu-ý" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="17" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="0" y="63">Lưu ý </tspan>
             </text>
-            <text id="Tính-năng-“gợi-ý”-gi" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#8C96A8">
-                <tspan x="6.5575" y="11">Tính năng “gợi ý” giúp cả hai kết nối với </tspan>
-                <tspan x="69.4975" y="31">nhau đơn giản hơn.</tspan>
+            <text id="Màn-hình-tính-năng-“" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#8C96A8">
+                <tspan x="10.81" y="11">Màn hình tính năng “gợi ý” giúp cả hai </tspan>
+                <tspan x="35.8225" y="31">kết nối với nhau đơn giản hơn.</tspan>
             </text>
             <text id="……………………………………………………" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" fill="#B9C0CF">
                 <tspan x="0" y="436">…………………………………………………………..</tspan>
