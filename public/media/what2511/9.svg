@@ -197,7 +197,7 @@
             <text id="Chanchan-có-khiến-bạ" font-family="GMVDINPro-BlackItalic, GMV DIN Pro" font-size="15" font-style="italic" font-weight="700" line-spacing="20" letter-spacing="-0.3" fill="#01579B">
                 <tspan x="20" y="1981">Chanchan có khiến bạn yêu thích?</tspan>
             </text>
-            <text id="." font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#01579B">
+            <text id="." font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#0288D1">
                 <tspan x="0" y="1979">.</tspan>
             </text>
         </g>
