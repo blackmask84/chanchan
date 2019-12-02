@@ -3,21 +3,36 @@
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>slide_finish_overlay2</title>
     <desc>Created with Sketch.</desc>
-    <g id="slide_finish_overlay2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Chalkduster" font-size="16" font-weight="normal">
-        <text id="_" fill="#F57F17">
-            <tspan x="143" y="530">_</tspan>
+    <g id="slide_finish_overlay2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="1" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="60.608" y="526">1</tspan>
         </text>
-        <text id="1" fill="#1E2432">
-            <tspan x="119.164641" y="526">1</tspan>
+        <text id="2" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="84.608" y="526">2</tspan>
         </text>
-        <text id="2" fill="#1E2432">
-            <tspan x="143.500552" y="526">2</tspan>
+        <text id="3" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="108.608" y="526">3</tspan>
         </text>
-        <text id="3" fill="#1E2432">
-            <tspan x="166.501657" y="526">3</tspan>
+        <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" fill="#F57F17">
+            <tspan x="83" y="530">_</tspan>
         </text>
-        <text id="4" fill="#1E2432">
-            <tspan x="188.671823" y="526">4</tspan>
+        <text id="4" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="132.608" y="526">4</tspan>
+        </text>
+        <text id="5" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="156.608" y="526">5</tspan>
+        </text>
+        <text id="6" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="180.608" y="526">6</tspan>
+        </text>
+        <text id="7" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="204.608" y="526">7</tspan>
+        </text>
+        <text id="8" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="228.608" y="526">8</tspan>
+        </text>
+        <text id="9" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="16" font-style="condensed" font-weight="700" fill="#1E2432">
+            <tspan x="252.608" y="526">9</tspan>
         </text>
     </g>
 </svg>
