@@ -29,9 +29,9 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <text id="text-7" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" letter-spacing="-0.180000007" fill="#FFFFFF">
-            <tspan x="101.635" y="221"> Thanh toán tại nhà</tspan>
+            <tspan x="102.301" y="221">Thanh toán tận nơi</tspan>
         </text>
-        <filter x="-6.4%" y="-30.6%" width="111.1%" height="172.2%" filterUnits="objectBoundingBox" id="filter-8">
+        <filter x="-6.5%" y="-30.6%" width="111.2%" height="172.2%" filterUnits="objectBoundingBox" id="filter-8">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
@@ -58,19 +58,19 @@
                 <tspan x="20" y="104">với một triển vọng.</tspan>
             </text>
             <text id="Kết-thúc-khi-gặp-đượ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="20" y="160">Kết thúc khi gặp được 03 Triển vọng.</tspan>
+                <tspan x="20" y="132">Kết thúc khi gặp được 03 Triển vọng.</tspan>
+            </text>
+            <text id="v" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#0288D1">
+                <tspan x="0" y="132">v</tspan>
             </text>
             <text id="Không-có-tăng-tốc." font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-                <tspan x="20" y="132">Không có tăng tốc.</tspan>
+                <tspan x="20" y="160">Không có tăng tốc.</tspan>
             </text>
             <text id="x" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#B71C1C">
-                <tspan x="0" y="132">x</tspan>
+                <tspan x="0" y="160">x</tspan>
             </text>
             <text id="v" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#0288D1">
                 <tspan x="0" y="84">v</tspan>
-            </text>
-            <text id="v" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#0288D1">
-                <tspan x="0" y="160">v</tspan>
             </text>
         </g>
         <g id="Thanh-toán-online" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
@@ -85,7 +85,7 @@
             <use filter="url(#filter-6)" xlink:href="#text-5"></use>
             <use xlink:href="#text-5"></use>
         </g>
-        <g id="Thanh-toán-tại-nhà" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
+        <g id="Thanh-toán-tận-nơi" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-8)" xlink:href="#text-7"></use>
             <use xlink:href="#text-7"></use>
         </g>

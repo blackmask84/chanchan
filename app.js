@@ -21,16 +21,16 @@ app.get('/desk', function (req, res) {
     res.sendFile(__dirname + '/public/seeu_pc.html');
 });
 app.get('/tieuchuanvanhanh', function (req, res) {
-    res.sendFile(__dirname + '/public/what2511.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/cauhoithuonggap', function (req, res) {
-    res.sendFile(__dirname + '/public/what2511.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/cauchuyencuahongvan', function (req, res) {
     res.sendFile(__dirname + '/public/4_cauchuyencuahongvan.html');
 });
 app.get('/hieuthemvechanchan', function (req, res) {
-    res.sendFile(__dirname + '/public/what2511.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/dangkythanhvienmoi', function (req, res) {
     res.sendFile(__dirname + '/public/register2911.html');
@@ -42,16 +42,19 @@ app.get('/thanhtoanquamomo', function (req, res) {
     res.sendFile(__dirname + '/public/payonline0112.html');
 });
 app.get('/timhieuvephichuongtrinh', function (req, res) {
-    res.sendFile(__dirname + '/public/what2511.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/timhieuchuongtrinh', function (req, res) {
-    res.sendFile(__dirname + '/public/what2511.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/chancode', function (req, res) {
     res.sendFile(__dirname + '/public/10_programcreat.html');
 });
-app.get('/mqhtv', function (req, res) {
+app.get('/moiquanhetuyetvoi', function (req, res) {
     res.sendFile(__dirname + '/public/why2111.html');
+});
+app.get('/mqhtv', function (req, res) {
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/lienhe', function (req, res) {
     res.sendFile(__dirname + '/public/connect0112.html');

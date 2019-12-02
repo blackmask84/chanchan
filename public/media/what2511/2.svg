@@ -64,8 +64,8 @@
             <text id="." font-family="Chalkduster" font-size="20" font-weight="normal" line-spacing="52" fill="#D81B60">
                 <tspan x="0" y="547">.</tspan>
             </text>
-            <text id="____" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
-                <tspan x="18" y="553">____</tspan>
+            <text id="_" font-family="Chalkduster" font-size="14" font-weight="normal" line-spacing="38" fill="#D81B60">
+                <tspan x="18" y="553">_</tspan>
             </text>
         </g>
     </g>

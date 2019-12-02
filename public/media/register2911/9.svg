@@ -29,7 +29,7 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <text id="text-7" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="18" font-style="condensed" font-weight="700" letter-spacing="-0.36" fill="#FFFFFF">
-            <tspan x="103.345" y="193"> Thanh toán tại nhà</tspan>
+            <tspan x="103.921" y="193">Thanh toán tận nơi</tspan>
         </text>
         <filter x="-5.3%" y="-22.2%" width="108.8%" height="155.6%" filterUnits="objectBoundingBox" id="filter-8">
             <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
@@ -58,7 +58,7 @@
             <use filter="url(#filter-6)" xlink:href="#text-5"></use>
             <use xlink:href="#text-5"></use>
         </g>
-        <g id="Thanh-toán-tại-nhà" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
+        <g id="Thanh-toán-tận-nơi" opacity="0.92" fill="#FFFFFF" fill-opacity="1">
             <use filter="url(#filter-8)" xlink:href="#text-7"></use>
             <use xlink:href="#text-7"></use>
         </g>
