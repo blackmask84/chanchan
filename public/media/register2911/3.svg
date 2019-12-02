@@ -11,10 +11,10 @@
             <text id="—" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="0" y="52">—</tspan>
             </text>
-            <text id="Cách-chúng-tôi-nhận" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="20" letter-spacing="-0.3">
-                <tspan x="0" y="132" fill="#343D51">Cách chúng tôi nhận biết nơi chân thành </tspan>
-                <tspan x="0" y="152" fill="#343D51">xuất hiện. </tspan>
-                <tspan x="68.28" y="152" fill="#8C96A8">[ Tính năng tăng tốc]</tspan>
+            <text id="Cách-chúng-tôi-biết" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="20" letter-spacing="-0.3">
+                <tspan x="0" y="132" fill="#343D51">Cách chúng tôi biết ở đâu là nơi chân </tspan>
+                <tspan x="0" y="152" fill="#343D51">thành xuất hiện. </tspan>
+                <tspan x="109.35" y="152" fill="#8C96A8">[ Tính năng tăng tốc]</tspan>
             </text>
             <text id="Chúng-tôi-tìm-kiếm-s" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="0" y="76">Chúng tôi tìm kiếm sự chân thành trong </tspan>
@@ -30,8 +30,8 @@
             <text id="Để-sử-dụng-tính-năng" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
                 <tspan x="0" y="284">Để sử dụng tính năng này, A cần chấp </tspan>
                 <tspan x="0" y="304">nhận việc đánh đổi, là phải bỏ đi đáng kể </tspan>
-                <tspan x="0" y="324">những cơ hội để gặp được những triển </tspan>
-                <tspan x="0" y="344">vọng còn lại.</tspan>
+                <tspan x="0" y="324">cơ hội gặp những triển vọng khác để có </tspan>
+                <tspan x="0" y="344">cơ hội gặp được B nhiều hơn.</tspan>
             </text>
         </g>
     </g>
