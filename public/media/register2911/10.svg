@@ -3,13 +3,10 @@
     <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>10</title>
     <desc>Created with Sketch.</desc>
-    <g id="10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
-        <text id="Trong-trường-hợp-cần" font-family="GMVDINPro, GMV DIN Pro" font-size="15" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
-            <tspan x="30" y="18">Trong trường hợp cần hỗ trợ bạn có thể </tspan>
-            <tspan x="30" y="38">liên hệ với chúng tôi.</tspan>
-        </text>
-        <text id="____" font-family="Chalkduster" font-size="14" line-spacing="38" fill="#B9C0CF">
-            <tspan x="31" y="42">____</tspan>
+    <g id="10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" letter-spacing="-0.3" line-spacing="20">
+        <text id="Trong-trường-hợp-cần" fill="#343D51">
+            <tspan x="30" y="18">Trong trường hợp cần hỗ trợ hãy liên hệ </tspan>
+            <tspan x="30" y="38">với chúng tôi. Chúng tôi luôn ở đây.</tspan>
         </text>
     </g>
 </svg>
