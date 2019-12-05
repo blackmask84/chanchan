@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="754px" viewBox="0 0 320 754" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-37.5658265%" y1="41.3307134%" x2="134.769076%" y2="65.0404029%" id="linearGradient-1">
+            <stop stop-color="#AA00FF" offset="0%"></stop>
+            <stop stop-color="#304FFE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-14.4%" y="-69.2%" width="128.8%" height="238.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-37.5658265%" y1="40.7042155%" x2="134.769076%" y2="66.1273184%" id="linearGradient-3">
+            <stop stop-color="#AA00FF" offset="0%"></stop>
+            <stop stop-color="#304FFE" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-4" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="20" font-style="condensed" font-weight="700" letter-spacing="-0.400000006" fill="#FFFFFF">
+            <tspan x="94.5" y="33">Tôi đã hiểu</tspan>
+        </text>
+        <filter x="-10.6%" y="-42.5%" width="118.3%" height="180.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Hãy-chắc-chắn-rằng-b" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="47">Hãy chắc chắn rằng bạn đã đọc những </tspan>
+            <tspan x="30" y="67">thông tin về việc khởi tạo Chương trình </tspan>
+            <tspan x="30" y="87">dưới đây</tspan>
+        </text>
+        <text id="Từ-đó-những-chuyên-g" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="287">Từ đó những chuyên gia sẽ thiết kế cho </tspan>
+            <tspan x="30" y="307">bạn một chương trình hiệu quả.</tspan>
+        </text>
+        <text id="Sau-khi-bạn-hoàn-tất" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="111">Sau khi bạn hoàn tất việc điền form </tspan>
+            <tspan x="30" y="131">thông tin ở ngay bước sau đây, Chuyên </tspan>
+            <tspan x="30" y="151">gia của Chanchan sẽ thực hiện một số </tspan>
+            <tspan x="30" y="171">trắc nghiệm bằng cách trò chuyện với </tspan>
+            <tspan x="30" y="191">bạn qua điện thoại.</tspan>
+        </text>
+        <text id="Mục-đích-của-việc-nà" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="215">Mục đích của việc này là để có được </tspan>
+            <tspan x="30" y="235">những hiểu biết cần thiết về bạn &amp; mong </tspan>
+            <tspan x="30" y="255">muốn về người mình muốn tìm.</tspan>
+        </text>
+        <text id="Bước-này-là-quan-trọ" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="331">Bước này là quan trọng &amp; cần thiết. Bạn </tspan>
+            <tspan x="30" y="351">không cần lo ngại về tính riêng tư, thông </tspan>
+            <tspan x="30" y="371">tin của bạn được phân tán trước khi </tspan>
+            <tspan x="30" y="391">chuyển đến Chuyên gia. Chuyên gia </tspan>
+            <tspan x="30" y="411">không biết gì về bạn.</tspan>
+        </text>
+        <text id="Ngay-sau-khi-hoàn-tấ" font-family="GMVDINPro-Black, GMV DIN Pro" font-size="15" font-style="expanded" font-weight="700" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="573">Ngay sau khi hoàn tất thiết kế, chương </tspan>
+            <tspan x="30" y="593">trình của bạn được khởi tạo.</tspan>
+        </text>
+        <text id="……………………………………………………" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" fill="#B9C0CF">
+            <tspan x="30" y="625">…………………………………………………………..</tspan>
+        </text>
+        <text id="Hoạt-động-thiết-kế-t" font-family="GMVDINPro-Italic, GMV DIN Pro" font-size="15" font-style="italic" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#556279">
+            <tspan x="30" y="519">Hoạt động thiết kế thường được hoàn tất từ </tspan>
+            <tspan x="30" y="539">2 - 3 ngày.</tspan>
+        </text>
+        <text id="Trước-mỗi-cuộc-gọi-C" font-family="GMVDINPro, GMV DIN Pro" font-size="15" font-weight="normal" line-spacing="20" letter-spacing="-0.3" fill="#343D51">
+            <tspan x="30" y="435">Trước mỗi cuộc gọi Chuyên gia cũng sẽ </tspan>
+            <tspan x="30" y="455">hướng dẫn cho bạn biết những thông tin </tspan>
+            <tspan x="30" y="475">nào sẽ không cung cấp trong khi trò </tspan>
+            <tspan x="30" y="495">chuyện theo Quy định của Chương trình.</tspan>
+        </text>
+        <g id="Group" transform="translate(30.000000, 662.000000)">
+            <path d="M250,17 L250,59 C250,61.7614237 247.761424,64 245,64 L5,64 C2.23857625,64 3.38176876e-16,61.7614237 0,59 L0,17 C-3.38176876e-16,14.2385763 2.23857625,12 5,12 L245,12 C247.761424,12 250,14.2385763 250,17 Z" id="Triangle" fill="url(#linearGradient-1)" opacity="0.6" filter="url(#filter-2)"></path>
+            <path d="M260,5 L260,51 C260,53.7614237 257.761424,56 255,56 L5,56 C2.23857625,56 3.38176876e-16,53.7614237 0,51 L0,5 C-3.38176876e-16,2.23857625 2.23857625,5.07265313e-16 5,0 L255,0 C257.761424,-5.07265313e-16 260,2.23857625 260,5 Z" id="Triangle" fill="url(#linearGradient-3)"></path>
+            <g id="Tôi-đã-hiểu" opacity="0.96" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                <use xlink:href="#text-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>
