@@ -59,6 +59,9 @@ app.get('/mqhtv', function (req, res) {
 app.get('/lienhe', function (req, res) {
     res.sendFile(__dirname + '/public/connect0112.html');
 });
+app.get('/test', function (req, res) {
+    res.sendFile(__dirname + '/public/test.html');
+});
 
 // get form
 
