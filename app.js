@@ -62,6 +62,12 @@ app.get('/lienhe', function (req, res) {
 app.get('/test', function (req, res) {
     res.sendFile(__dirname + '/public/test.html');
 });
+app.get('/terms', function (req, res) {
+    res.sendFile(__dirname + '/public/terms.html');
+});
+app.get('/terms_desk', function (req, res) {
+    res.sendFile(__dirname + '/public/terms_desk.html');
+});
 
 // get form
 
