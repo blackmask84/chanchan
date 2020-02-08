@@ -68,6 +68,9 @@ app.get('/terms', function (req, res) {
 app.get('/terms_desk', function (req, res) {
     res.sendFile(__dirname + '/public/terms_desk.html');
 });
+app.get('/policy', function (req, res) {
+    res.sendFile(__dirname + '/public/policy.html');
+});
 
 // get form
 
