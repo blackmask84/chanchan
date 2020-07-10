@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="492px" viewBox="0 0 320 492" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>usblack_pre</title>
+    <defs>
+        <pattern id="pattern-1" width="3.2" height="3.2" x="1.8" y="1.8" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.1,0.1)"></use>
+        </pattern>
+        <image id="image-2" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAAKZJREFUWAlj/P//PzPDAAImSuzWM7KzAWFKzKDIAZRYDNPLOKSjAOYLSmiKomA0DVAS9DC9FEUBzBBKaIocoK5j/geEB8wBlFgM00tRCMAMoYQedcCAhwC4LoDVaJfOHToCik90Prkp/eaVkyzYzEM2f3CEALmpGBYyMJ+SY86Ah8CoA0ZDYLRNSFEaGG0TklPyoeuhKArQDSOHT5EDRtMAOUGOrgcAGgY6FRjrC+EAAAAASUVORK5CYII="></image>
+    </defs>
+    <g id="usblack_pre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <rect id="path-2" fill-opacity="0.2" fill="url(#pattern-1)" x="5" y="5" width="310" height="482"></rect>
+            <path d="M320,0 L320,492 L0,492 L0,0 L320,0 Z M291,24 L29,24 C24.0294373,24 20,28.0294373 20,33 L20,33 L20,459 C20,463.970563 24.0294373,468 29,468 L29,468 L291,468 C295.970563,468 300,463.970563 300,459 L300,459 L300,33 C300,28.0294373 295.970563,24 291,24 L291,24 Z" id="Rectangle-2" fill="#262626"></path>
+        </g>
+    </g>
+</svg>
