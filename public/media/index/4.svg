@@ -32,10 +32,13 @@
         <g id="blackberry-messenger" transform="translate(71.000000, 426.000000)" fill="#FFFFFF" fill-rule="nonzero">
             <path d="M11,0 C4.92525,0 0,4.5595 0,10.184625 C0,13.38975 1.599125,16.248375 4.098875,18.115625 L4.098875,22 L7.844375,19.944375 C8.844,20.22075 9.90275,20.370625 11,20.370625 C17.07475,20.370625 22,15.811125 22,10.186 C22,4.560875 17.07475,0 11,0 Z M12.093125,13.715625 L9.29225,10.72775 L3.826625,13.715625 L9.8395,7.332875 L12.709125,10.32075 L18.106,7.332875 L12.093125,13.715625 Z" id="Shape"></path>
         </g>
-        <text id="Tháng-đầu-tiên:-580." font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
-            <tspan x="72.859375" y="321">Tháng đầu tiên: 580.000đ </tspan>
-            <tspan x="66.6601562" y="343">gồm phí khởi tạo một lần và </tspan>
+        <text id="Tháng-đầu-tiên:-640." font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
+            <tspan x="77.59375" y="321">Tháng đầu tiên: 640.000</tspan>
+            <tspan x="65.0429688" y="343"> gồm phí khởi tạo một lần và </tspan>
             <tspan x="130.230469" y="365">duy nhất</tspan>
+        </text>
+        <text id="đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="10" font-weight="300" fill="#5D6A80">
+            <tspan x="243.192383" y="319">đ</tspan>
         </text>
         <text id="Tiết-kiệm-20%-khi-ch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
             <tspan x="61.1640625" y="588">Tiết kiệm 20% khi chọn thanh</tspan>
@@ -49,8 +52,8 @@
         <text id="đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" fill="#343D51">
             <tspan x="202.289062" y="245">đ</tspan>
         </text>
-        <text id="Phí-thành-viên" font-family="SFCompactDisplay-Black, SF Compact Display" font-size="27" font-weight="700" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
-            <tspan x="69" y="86">Phí thành viên</tspan>
+        <text id="Phí-thành-viên" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="27" font-weight="500" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
+            <tspan x="73.6183984" y="83.1958008">Phí thành viên</tspan>
         </text>
     </g>
 </svg>

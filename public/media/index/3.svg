@@ -9,10 +9,10 @@
                 <tspan x="50" y="20">Thời gian</tspan>
             </text>
             <text id="Sớm-nhận-biết-triển" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
-                <tspan x="50" y="49">Sớm nhận biết triển vọng </tspan>
-                <tspan x="50" y="71">qua cảm nhận thực tế. Không </tspan>
-                <tspan x="50" y="93">mất thời gian vào chat tán </tspan>
-                <tspan x="50" y="115">gẫu.</tspan>
+                <tspan x="50" y="49">Sớm nhận biết triển vọng với </tspan>
+                <tspan x="50" y="71">đối phương qua cảm nhận </tspan>
+                <tspan x="50" y="93">thực tế. Không mất thời gian </tspan>
+                <tspan x="50" y="115">vào chat tán gẫu.</tspan>
             </text>
             <text id="01" opacity="0.5" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-size="34" font-weight="200" fill="#00BCD4">
                 <tspan x="0" y="32">01</tspan>
@@ -21,23 +21,23 @@
         <g id="Group-6" transform="translate(35.000000, 373.000000)">
             <text id="Tại-mỗi-thời-điểm-ch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
                 <tspan x="50" y="49">Tại mỗi thời điểm chỉ kết nối </tspan>
-                <tspan x="50" y="71">với một match duy nhất. </tspan>
+                <tspan x="50" y="71">với một Match duy nhất. </tspan>
                 <tspan x="50" y="93">Không kết nối cùng lúc với </tspan>
                 <tspan x="50" y="115">nhiều người.</tspan>
             </text>
-            <text id="Tập-trung" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
-                <tspan x="50" y="20">Tập trung</tspan>
+            <text id="Nghiêm-túc" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
+                <tspan x="50" y="20">Nghiêm túc</tspan>
             </text>
             <text id="02" opacity="0.5" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-size="34" font-weight="200" fill="#4CAF50">
                 <tspan x="0" y="32">02</tspan>
             </text>
         </g>
         <g id="Group-6" transform="translate(35.000000, 516.000000)">
-            <text id="Gặp-lại-tùy-duyên,-k" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
-                <tspan x="50" y="49">Gặp lại tùy duyên, không </tspan>
-                <tspan x="50" y="71">gượng ép. Gặp gỡ đơn giản, </tspan>
-                <tspan x="50" y="93">không cầu kỳ sửa soạn. Đơn </tspan>
-                <tspan x="50" y="115">giản là chính mình.</tspan>
+            <text id="Gặp-lại-do-bén-duyên" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+                <tspan x="50" y="49">Gặp lại do bén duyên, không  </tspan>
+                <tspan x="50" y="71">miễn cưỡng. Gặp gỡ và sẻ </tspan>
+                <tspan x="50" y="93">chia, không cầu kỳ. Đơn giản </tspan>
+                <tspan x="50" y="115">là chính mình.</tspan>
             </text>
             <text id="Đơn-giản" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
                 <tspan x="50" y="20">Đơn giản</tspan>
@@ -77,8 +77,8 @@
             <text id="Sau-31-ngày-Hồ-sơ-kh" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
                 <tspan x="50" y="49">Sau 31 ngày Hồ sơ không </tspan>
                 <tspan x="50" y="71">hoạt động sẽ tự động xóa. </tspan>
-                <tspan x="50" y="93">Robot không nhớ được khi </tspan>
-                <tspan x="50" y="115">thành viên quay lại.</tspan>
+                <tspan x="50" y="93">Robot sẽ không nhớ được </tspan>
+                <tspan x="50" y="115">thành viên là ai.</tspan>
             </text>
             <text id="Không-lưu-trữ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
                 <tspan x="50" y="20">Không lưu trữ</tspan>

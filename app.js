@@ -18,7 +18,7 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/desk', function (req, res) {
-    res.sendFile(__dirname + '/public/desk.html');
+    res.sendFile(__dirname + '/public/coming_pc.html');
 });
 app.get('/tieuchuanvanhanh', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');

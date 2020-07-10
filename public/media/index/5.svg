@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="263px" viewBox="0 0 320 263" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="1080px" viewBox="0 0 320 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>5</title>
     <g id="5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#262626" x="0" y="0" width="320" height="263"></rect>
         <text id="Chúng-tôi" font-family="SFCompactDisplay-Black, SF Compact Display" font-size="27" font-weight="700" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
             <tspan x="93.2374902" y="82.5234375">Chúng tôi</tspan>
         </text>
         <text id="Là-đội-ngũ-những-nhà" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
             <tspan x="87.171875" y="124">Là đội ngũ những nhà </tspan>
-            <tspan x="65.5546875" y="146">Thiết kế, Kỹ sư, Tiếp thị… làm </tspan>
-            <tspan x="65.1210938" y="168">việc cùng nhau bởi tầm nhìn </tspan>
-            <tspan x="83.6132812" y="190">công nghệ sẽ giúp cho </tspan>
+            <tspan x="63.9375" y="146">Thiết kế, Kỹ sư, Tiếp thị…  làm </tspan>
+            <tspan x="73.4375" y="168">việc cùng nhau bởi chung </tspan>
+            <tspan x="66.3242188" y="190">tầm nhìn công nghệ sẽ giúp </tspan>
             <tspan x="70.015625" y="212">chuyện lứa đôi trở nên đơn </tspan>
             <tspan x="81.6015625" y="234">giản hơn với mọi người.</tspan>
+        </text>
+        <text id="Admin@chanchan.vn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="22" fill="#8C96A8">
+            <tspan x="85" y="917">Admin@chanchan.vn</tspan>
+        </text>
+        <text id="096-900-1816" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
+            <tspan x="85" y="942">096 900 1816</tspan>
+        </text>
+        <text id="fb.com/hello.chancha" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="22" fill="#8C96A8">
+            <tspan x="85" y="1015">fb.com/hello.chanchan</tspan>
+        </text>
+        <text id="Espace-coworking" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="22" fill="#8C96A8">
+            <tspan x="85" y="795">Espace coworking</tspan>
+        </text>
+        <text id="01-Đinh-Lễ,-Hoàn-Kiế" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
+            <tspan x="85" y="820">01 Đinh Lễ, Hoàn Kiếm, Hà </tspan>
+            <tspan x="85" y="842">Nội</tspan>
         </text>
     </g>
 </svg>
