@@ -23,7 +23,7 @@
         </g>
         <text id="Thanh-toán-khi-xác-n" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#64B5F6">
             <tspan x="77.2070312" y="496">Thanh toán khi xác nhận</tspan>
-            <tspan x="111.890625" y="518">hẹn với match</tspan>
+            <tspan x="99.1328125" y="518">cuộc hẹn đầu tiên</tspan>
         </text>
         <rect id="Rectangle" fill="#0084FF" x="55" y="410" width="210" height="53" rx="6"></rect>
         <text id="Dùng-thử" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" fill="#FFFFFF">
@@ -50,7 +50,7 @@
             <tspan x="128.566406" y="282" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-weight="200">tháng</tspan>
         </text>
         <text id="đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" fill="#343D51">
-            <tspan x="202.289062" y="245">đ</tspan>
+            <tspan x="200.289062" y="245">đ</tspan>
         </text>
         <text id="Phí-thành-viên" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="27" font-weight="500" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
             <tspan x="73.6183984" y="83.1958008">Phí thành viên</tspan>
