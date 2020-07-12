@@ -12,10 +12,10 @@
             <tspan x="67.9453125" y="308">Ứng dụng hẹn hò dành cho </tspan>
             <tspan x="93.0976562" y="330">người trưởng thành</tspan>
         </text>
-        <text id="Tìm-thấy-Match-qua-c" font-family="SFCompactDisplay-Black, SF Compact Display" font-size="27" font-weight="700" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
-            <tspan x="61.8091699" y="1042">Tìm thấy Match </tspan>
-            <tspan x="60" y="1069">qua các Sự kiện </tspan>
-            <tspan x="90.083291" y="1096">đồng hành</tspan>
+        <text id="Tìm-thấy-một-nửa-qua" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
+            <tspan x="73.8485547" y="1036.64209">Tìm thấy một </tspan>
+            <tspan x="60.8962305" y="1063.64209">nửa qua các Sự </tspan>
+            <tspan x="60.3622949" y="1090.64209">kiện đồng hành</tspan>
         </text>
         <text id="Online-in-Messenger" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#8C96A8">
             <tspan x="90.6875" y="946">Online in Messenger</tspan>

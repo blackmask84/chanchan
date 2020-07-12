@@ -34,10 +34,10 @@
         </g>
         <g id="Group-6" transform="translate(35.000000, 516.000000)">
             <text id="Gặp-lại-do-bén-duyên" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
-                <tspan x="50" y="49">Gặp lại do bén duyên, không  </tspan>
-                <tspan x="50" y="71">miễn cưỡng. Gặp gỡ và sẻ </tspan>
-                <tspan x="50" y="93">chia, không cầu kỳ. Đơn giản </tspan>
-                <tspan x="50" y="115">là chính mình.</tspan>
+                <tspan x="50" y="49">Gặp lại do bén duyên, không </tspan>
+                <tspan x="50" y="71">bám đuổi. Gặp gỡ và sẻ chia, </tspan>
+                <tspan x="50" y="93">không cầu kỳ. Đơn giản là </tspan>
+                <tspan x="50" y="115">chính mình.</tspan>
             </text>
             <text id="Đơn-giản" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
                 <tspan x="50" y="20">Đơn giản</tspan>
@@ -100,11 +100,11 @@
                 <tspan x="0" y="32">07</tspan>
             </text>
         </g>
-        <text id="người-trưởng-thành" font-family="SFCompactDisplay-Black, SF Compact Display" font-size="27" font-weight="700" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
+        <text id="người-trưởng-thành" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
             <tspan x="35" y="113">người trưởng </tspan>
             <tspan x="35" y="144">thành</tspan>
         </text>
-        <text id="Dành-cho" font-family="SFCompactDisplay-Black, SF Compact Display" font-size="28" font-weight="700" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
+        <text id="Dành-cho" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="28" font-weight="600" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
             <tspan x="35" y="83">Dành cho</tspan>
         </text>
     </g>

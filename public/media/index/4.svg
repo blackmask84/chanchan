@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="663px" viewBox="0 0 320 663" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="610px" viewBox="0 0 320 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>4</title>
     <defs>
         <rect id="path-1" x="30" y="181" width="260" height="370" rx="8"></rect>
@@ -12,7 +12,7 @@
         </filter>
     </defs>
     <g id="4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#DADFE7" x="0" y="0" width="320" height="663"></rect>
+        <rect id="Rectangle" fill="#DADFE7" x="0" y="0" width="320" height="610"></rect>
         <text id="Chanchan-là-ứng-dụng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
             <tspan x="50.3945312" y="118">Chanchan là ứng dụng trả phí và</tspan>
             <tspan x="102.070312" y="140">sẽ mãi là như vậy</tspan>
@@ -21,9 +21,9 @@
             <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
             <use stroke="#FFFFFF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
         </g>
-        <text id="Thanh-toán-khi-xác-n" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#64B5F6">
-            <tspan x="77.2070312" y="496">Thanh toán khi xác nhận</tspan>
-            <tspan x="99.1328125" y="518">cuộc hẹn đầu tiên</tspan>
+        <text id="Khởi-động-Chanchan-t" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#64B5F6">
+            <tspan x="88.890625" y="496">Khởi động Chanchan </tspan>
+            <tspan x="101.902344" y="518">trong Messenger</tspan>
         </text>
         <rect id="Rectangle" fill="#0084FF" x="55" y="410" width="210" height="53" rx="6"></rect>
         <text id="Dùng-thử" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" fill="#FFFFFF">
@@ -33,20 +33,14 @@
             <path d="M11,0 C4.92525,0 0,4.5595 0,10.184625 C0,13.38975 1.599125,16.248375 4.098875,18.115625 L4.098875,22 L7.844375,19.944375 C8.844,20.22075 9.90275,20.370625 11,20.370625 C17.07475,20.370625 22,15.811125 22,10.186 C22,4.560875 17.07475,0 11,0 Z M12.093125,13.715625 L9.29225,10.72775 L3.826625,13.715625 L9.8395,7.332875 L12.709125,10.32075 L18.106,7.332875 L12.093125,13.715625 Z" id="Shape"></path>
         </g>
         <text id="Tháng-đầu-tiên:-640." font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
-            <tspan x="77.59375" y="321">Tháng đầu tiên: 640.000</tspan>
+            <tspan x="73.1015625" y="321">Tháng đầu tiên: 640.000đ</tspan>
             <tspan x="65.0429688" y="343"> gồm phí khởi tạo một lần và </tspan>
             <tspan x="130.230469" y="365">duy nhất</tspan>
         </text>
-        <text id="đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="10" font-weight="300" fill="#5D6A80">
-            <tspan x="243.192383" y="319">đ</tspan>
-        </text>
-        <text id="Tiết-kiệm-20%-khi-ch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-            <tspan x="61.1640625" y="588">Tiết kiệm 20% khi chọn thanh</tspan>
-            <tspan x="126.308594" y="610">toán ngay</tspan>
-        </text>
-        <text id="360.000-/-tháng" font-family="SFCompactDisplay-Black, SF Compact Display" font-size="26" font-weight="700" fill="#343D51">
-            <tspan x="100.351074" y="251">360.000  </tspan>
-            <tspan x="211.815918" y="251" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-weight="200">/</tspan>
+        <text id="360.000-/-tháng" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="26" font-weight="600" fill="#343D51">
+            <tspan x="100.808105" y="251">360.000</tspan>
+            <tspan x="201.405762" y="251" font-family="SFCompactDisplay-Black, SF Compact Display" font-weight="700">  </tspan>
+            <tspan x="211.358887" y="251" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-weight="200">/</tspan>
             <tspan x="128.566406" y="282" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-weight="200">tháng</tspan>
         </text>
         <text id="đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" fill="#343D51">

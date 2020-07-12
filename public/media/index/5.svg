@@ -2,8 +2,8 @@
 <svg width="320px" height="1080px" viewBox="0 0 320 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>5</title>
     <g id="5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Chúng-tôi" font-family="SFCompactDisplay-Black, SF Compact Display" font-size="27" font-weight="700" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
-            <tspan x="93.2374902" y="82.5234375">Chúng tôi</tspan>
+        <text id="Chúng-tôi" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
+            <tspan x="94.1273828" y="82.6420898">Chúng tôi</tspan>
         </text>
         <text id="Là-đội-ngũ-những-nhà" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
             <tspan x="87.171875" y="124">Là đội ngũ những nhà </tspan>
@@ -25,9 +25,9 @@
         <text id="Espace-coworking" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="22" fill="#8C96A8">
             <tspan x="85" y="795">Espace coworking</tspan>
         </text>
-        <text id="01-Đinh-Lễ,-Hoàn-Kiế" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
-            <tspan x="85" y="820">01 Đinh Lễ, Hoàn Kiếm, Hà </tspan>
-            <tspan x="85" y="842">Nội</tspan>
+        <text id="Số-01-Đinh-Lễ,-Hoàn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
+            <tspan x="85" y="820">Số 01 Đinh Lễ, Hoàn Kiếm, </tspan>
+            <tspan x="85" y="842">Hà Nội</tspan>
         </text>
     </g>
 </svg>
