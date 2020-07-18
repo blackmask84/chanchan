@@ -8,7 +8,7 @@
             <text id="Thời-gian" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
                 <tspan x="50" y="20">Thời gian</tspan>
             </text>
-            <text id="Sớm-nhận-biết-triển" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+            <text id="Sớm-nhận-biết-triển" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                 <tspan x="50" y="49">Sớm nhận biết triển vọng với </tspan>
                 <tspan x="50" y="71">đối phương qua cảm nhận </tspan>
                 <tspan x="50" y="93">thực tế. Không mất thời gian </tspan>
@@ -19,7 +19,7 @@
             </text>
         </g>
         <g id="Group-6" transform="translate(35.000000, 373.000000)">
-            <text id="Tại-mỗi-thời-điểm-ch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+            <text id="Tại-mỗi-thời-điểm-ch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                 <tspan x="50" y="49">Tại mỗi thời điểm chỉ kết nối </tspan>
                 <tspan x="50" y="71">với một Match duy nhất. </tspan>
                 <tspan x="50" y="93">Không kết nối cùng lúc với </tspan>
@@ -33,7 +33,7 @@
             </text>
         </g>
         <g id="Group-6" transform="translate(35.000000, 516.000000)">
-            <text id="Gặp-lại-do-bén-duyên" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+            <text id="Gặp-lại-do-bén-duyên" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                 <tspan x="50" y="49">Gặp lại do bén duyên, không </tspan>
                 <tspan x="50" y="71">bám đuổi. Gặp gỡ và sẻ chia, </tspan>
                 <tspan x="50" y="93">không cầu kỳ. Đơn giản là </tspan>
@@ -47,7 +47,7 @@
             </text>
         </g>
         <g id="Group-6" transform="translate(35.000000, 659.000000)">
-            <text id="Tiêu-chuẩn-cộng-đồng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+            <text id="Tiêu-chuẩn-cộng-đồng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                 <tspan x="50" y="49">Tiêu chuẩn cộng đồng quản </tspan>
                 <tspan x="50" y="71">trị xuyên suốt. Không hồ sơ </tspan>
                 <tspan x="50" y="93">chết. Không kết nối khi triển </tspan>
@@ -61,7 +61,7 @@
             </text>
         </g>
         <g id="Group-6" transform="translate(35.000000, 802.000000)">
-            <text id="Dữ-liệu-được-robot-b" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+            <text id="Dữ-liệu-được-robot-b" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                 <tspan x="50" y="49">Dữ liệu được robot băm nhỏ </tspan>
                 <tspan x="50" y="71">và phân tán. Thành viên gần </tspan>
                 <tspan x="50" y="93">như vô hình. </tspan>
@@ -74,7 +74,7 @@
             </text>
         </g>
         <g id="Group-6" transform="translate(35.000000, 926.000000)">
-            <text id="Sau-31-ngày-Hồ-sơ-kh" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+            <text id="Sau-31-ngày-Hồ-sơ-kh" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                 <tspan x="50" y="49">Sau 31 ngày Hồ sơ không </tspan>
                 <tspan x="50" y="71">hoạt động sẽ tự động xóa. </tspan>
                 <tspan x="50" y="93">Robot sẽ không nhớ được </tspan>
@@ -88,7 +88,7 @@
             </text>
         </g>
         <g id="Group-6" transform="translate(35.000000, 1069.000000)">
-            <text id="Khi-biết-chắc-có-gì" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#697589">
+            <text id="Khi-biết-chắc-có-gì" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                 <tspan x="50" y="49">Khi biết chắc có gì đó làm </tspan>
                 <tspan x="50" y="71">mất thời gian của bạn chúng </tspan>
                 <tspan x="50" y="93">tôi sẽ cắt bỏ.</tspan>

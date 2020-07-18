@@ -37,10 +37,10 @@
             <tspan x="65.0429688" y="343"> gồm phí khởi tạo một lần và </tspan>
             <tspan x="130.230469" y="365">duy nhất</tspan>
         </text>
-        <text id="360.000-/-tháng" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="26" font-weight="600" fill="#343D51">
-            <tspan x="100.808105" y="251">360.000</tspan>
-            <tspan x="201.405762" y="251" font-family="SFCompactDisplay-Black, SF Compact Display" font-weight="700">  </tspan>
-            <tspan x="211.358887" y="251" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-weight="200">/</tspan>
+        <text id="480.000-/-tháng" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="26" font-weight="600" fill="#343D51">
+            <tspan x="100.116211" y="251">480.000</tspan>
+            <tspan x="202.097656" y="251" font-family="SFCompactDisplay-Black, SF Compact Display" font-weight="700">  </tspan>
+            <tspan x="212.050781" y="251" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-weight="200">/</tspan>
             <tspan x="128.566406" y="282" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-weight="200">tháng</tspan>
         </text>
         <text id="đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" fill="#343D51">

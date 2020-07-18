@@ -74,6 +74,9 @@ app.get('/policy', function (req, res) {
 app.get('/verifymember', function (req, res) {
     res.sendFile(__dirname + '/public/paid.html');
 });
+app.get('/conceptintro', function (req, res) {
+    res.sendFile(__dirname + '/public/concept_intro.html');
+});
 
 // get form
 
