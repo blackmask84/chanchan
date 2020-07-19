@@ -1,70 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="2286px" viewBox="0 0 320 2286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="2441px" viewBox="0 0 320 2441" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
-    <g id="new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="txt" transform="translate(30.000000, 219.000000)">
-            <text id="Kết-nối-qua-Sự-kiện" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#8C96A8">
-                <tspan x="36.3806055" y="953.64209">Kết nối qua Sự </tspan>
-                <tspan x="30.3622949" y="980.64209">kiện đồng hành</tspan>
+    <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="txt" transform="translate(30.000000, 94.000000)">
+            <text id="Kết-nối-qua-các-sự-k" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
+                <tspan x="32.7455078" y="1196.64209">Kết nối qua các </tspan>
+                <tspan x="35.1874902" y="1223.64209">sự kiện gặp gỡ</tspan>
             </text>
-            <text id="Đơn-giản-là-hoạt-độn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="30.4257812" y="1465">Đơn giản là hoạt động nào đó </tspan>
-                <tspan x="45.1445312" y="1487">mà bạn hoặc đối phương </tspan>
-                <tspan x="38.9335938" y="1509">muốn làm mà cả hai có thể </tspan>
-                <tspan x="27.125" y="1531">chia sẻ cùng nhau vào khoảng </tspan>
-                <tspan x="33.3515625" y="1553">thời gian rảnh chung của hai </tspan>
-                <tspan x="39.9414062" y="1575">người. Ví dụ cùng đi cafe ở </tspan>
-                <tspan x="37.2382812" y="1597">một quán bạn vốn “hợp gu” </tspan>
-                <tspan x="39.4375" y="1619">hay đến một quán ăn ngon </tspan>
-                <tspan x="37.5078125" y="1641">bạn biết. Cùng đi dạo ở con </tspan>
-                <tspan x="42.6132812" y="1663">phố đối phương vốn quen </tspan>
-                <tspan x="27.3945312" y="1685">thuộc hay cùng đi xem một bộ </tspan>
-                <tspan x="40.2539062" y="1707">phim mà họ đã hóng chờ...</tspan>
+            <text id="Sự-kiện-đồng-hành-đơ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+                <tspan x="27.4570312" y="1746">Sự kiện đồng hành đơn giản là </tspan>
+                <tspan x="28.0625" y="1768">một hoạt động nào đó mà bạn </tspan>
+                <tspan x="36.40625" y="1790">hoặc đối phương muốn làm </tspan>
+                <tspan x="29.9960938" y="1812">mà cả hai có thể chia sẻ cùng </tspan>
+                <tspan x="40.2109375" y="1834">nhau vào khoảng thời gian </tspan>
+                <tspan x="27.1132812" y="1856">rảnh chung. Ví dụ cùng đi cafe </tspan>
+                <tspan x="31.1054688" y="1878">ở một quán bạn vốn “hợp gu” </tspan>
+                <tspan x="39.4375" y="1900">hay đến một quán ăn ngon </tspan>
+                <tspan x="37.5078125" y="1922">bạn biết. Cùng đi dạo ở con </tspan>
+                <tspan x="42.6132812" y="1944">phố đối phương vốn quen </tspan>
+                <tspan x="27.3945312" y="1966">thuộc hay cùng đi xem một bộ </tspan>
+                <tspan x="40.2539062" y="1988">phim mà họ đã hóng chờ...</tspan>
             </text>
             <text id="Chúng-tôi-hy-vọng-th" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="28.0859375" y="1749">Chúng tôi hy vọng thiết kế này </tspan>
-                <tspan x="38.9023438" y="1771">sẽ làm cuộc sống độc thân </tspan>
-                <tspan x="29.5390625" y="1793">của bạn thêm thú vị. Bởi cũng </tspan>
-                <tspan x="34.4648438" y="1815">là vào khoảng thời gian rảnh </tspan>
-                <tspan x="85.0117188" y="1837">như mọi khi…</tspan>
+                <tspan x="41.859375" y="2030">Chúng tôi hy vọng thiết kế </tspan>
+                <tspan x="25.1289062" y="2052">này sẽ làm cuộc sống độc thân </tspan>
+                <tspan x="26.9726562" y="2074">của mọi người thêm thú vị. Bởi </tspan>
+                <tspan x="40.1835938" y="2096">cũng vào khoảng thời gian </tspan>
+                <tspan x="34.984375" y="2118">rảnh này như mọi khi nhưng </tspan>
+                <tspan x="70.140625" y="2140">hôm nay thì khác!</tspan>
             </text>
-            <text id="Nhưng-hôm-nay-khác!" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
-                <tspan x="37.5454102" y="1881">Nhưng hôm nay khác! </tspan>
-                <tspan x="44.2910156" y="1900">Hôm nay bạn có một </tspan>
-                <tspan x="40.0239258" y="1919">người bạn cùng đồng </tspan>
-                <tspan x="36.7763672" y="1938">hành. Còn đối phương </tspan>
-                <tspan x="49.125" y="1957">cũng “bỏ túi” thêm </tspan>
-                <tspan x="30" y="1976">được một địa điểm, một </tspan>
-                <tspan x="38.3056641" y="1995">sở thích, hay một thói </tspan>
-                <tspan x="48.6591797" y="2014">quen hay ho từ bạn</tspan>
+            <text id="Hôm-nay-bạn-có-một-n" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
+                <tspan x="42.5595703" y="2184"> Hôm nay bạn có một </tspan>
+                <tspan x="40.0239258" y="2203">người bạn cùng đồng </tspan>
+                <tspan x="36.7763672" y="2222">hành. Còn đối phương </tspan>
+                <tspan x="49.125" y="2241">cũng “bỏ túi” thêm </tspan>
+                <tspan x="30" y="2260">được một địa điểm, một </tspan>
+                <tspan x="38.3056641" y="2279">sở thích, hay một thói </tspan>
+                <tspan x="48.6591797" y="2298">quen hay ho từ bạn</tspan>
             </text>
-            <text id="Sự-kiện-đồng-hành?" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
-                <tspan x="41.1689453" y="1425.09473">Sự kiện đồng hành?</tspan>
+            <text id="Gặp-gỡ-qua-các-Sự-ki" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
+                <tspan x="60.8344727" y="1687.09473">Gặp gỡ qua các</tspan>
+                <tspan x="45.4448242" y="1706.09473">Sự kiện đồng hành</tspan>
             </text>
-            <text id="Qua-gặp-gỡ-Chanchan" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="37.8945312" y="1086">Qua gặp gỡ Chanchan giúp </tspan>
-                <tspan x="27.5546875" y="1108">mọi người sớm nhận biết triển </tspan>
-                <tspan x="37" y="1130">vọng với đối phương thay vì </tspan>
-                <tspan x="27.4375" y="1152">mất thời gian vào chat tán gẫu </tspan>
-                <tspan x="91.1367188" y="1174">nhiều ngày.</tspan>
+            <text id="Chanchan-kết-nối-qua" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+                <tspan x="31.0585938" y="1348">Chanchan kết nối qua gặp gỡ </tspan>
+                <tspan x="28.2539062" y="1370">giúp mọi người sớm nhận biết </tspan>
+                <tspan x="26.5546875" y="1392">triển vọng với đối phương thay </tspan>
+                <tspan x="33.8398438" y="1414">vì mất thời gian vào chat hay </tspan>
+                <tspan x="63.8632812" y="1436">tán gẫu nhiều ngày.</tspan>
             </text>
-            <text id="Gặp-gỡ-thực-tế" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
-                <tspan x="62.5087891" y="1046.09473">Gặp gỡ thực tế</tspan>
+            <text id="Không-chat.-Không-tá" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+                <tspan x="73.121582" y="1289.09473">Không chat. </tspan>
+                <tspan x="63.0581055" y="1308.09473">Không tán gẫu</tspan>
             </text>
-            <text id="Nếu-bạn-đã-sẵn-lòng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.6" fill="#8C96A8">
-                <tspan x="39.9063477" y="203">Nếu bạn đã sẵn lòng cho </tspan>
-                <tspan x="39.8624023" y="224">một bước tiến mới trong </tspan>
-                <tspan x="37.971875" y="245">tình duyên và thời gian là </tspan>
-                <tspan x="47.8373047" y="266">thứ bạn đang thiếu thì </tspan>
-                <tspan x="32.0632813" y="287">Chanchan là dành cho bạn</tspan>
+            <text id="Nếu-bạn-đã-sẵn-lòng" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#8C96A8">
+                <tspan x="40.4677734" y="17">Nếu bạn đã sẵn lòng </tspan>
+                <tspan x="48.1098633" y="36">cho một bước tiến </tspan>
+                <tspan x="35.7788086" y="55">mới trong tình duyên </tspan>
+                <tspan x="30" y="74">nhưng thời gian là thứ </tspan>
+                <tspan x="47.6572266" y="93">bạn đang thiếu thì </tspan>
+                <tspan x="49.340332" y="112">Chanchan là dành</tspan>
+                <tspan x="91.387207" y="131">cho bạn</tspan>
             </text>
-            <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="28" font-weight="500" letter-spacing="-0.84" fill="#DADFE7">
-                <tspan x="69.6969141" y="27">Chanchan</tspan>
+            <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="27" font-weight="500" letter-spacing="-0.81" fill="#DADFE7">
+                <tspan x="71.8505957" y="385">Chanchan</tspan>
             </text>
-            <text id="Trợ-lý-ảo-trong-tình" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="19" fill="#5D6A80">
-                <tspan x="42.1523438" y="66">Trợ lý ảo trong tình duyên. </tspan>
-                <tspan x="37.9453125" y="85">Ứng dụng hẹn hò dành cho </tspan>
-                <tspan x="63.0976562" y="104">người trưởng thành</tspan>
+            <text id="Ứng-dụng-hẹn-hò-dành" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
+                <tspan x="37.9453125" y="480">Ứng dụng hẹn hò dành cho </tspan>
+                <tspan x="33.1328125" y="502">người trưởng thành, các bạn </tspan>
+                <tspan x="29.7773438" y="524">bận công việc ít thời gian, các </tspan>
+                <tspan x="44.375" y="546">bạn làm việc nơi công sở.</tspan>
+            </text>
+            <text id="Trợ-lý-ảo-trong-tình" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#8C96A8">
+                <tspan x="63.3393555" y="421.094727">Trợ lý ảo trong </tspan>
+                <tspan x="78.6938477" y="440.094727">tình duyên</tspan>
             </text>
         </g>
     </g>
