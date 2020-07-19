@@ -77,6 +77,9 @@ app.get('/verifymember', function (req, res) {
 app.get('/conceptintro', function (req, res) {
     res.sendFile(__dirname + '/public/concept_intro.html');
 });
+app.get('/time', function (req, res) {
+    res.sendFile(__dirname + '/public/time.html');
+});
 
 // get form
 
