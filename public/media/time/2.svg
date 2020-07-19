@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="320px" height="2015px" viewBox="0 0 320 2015" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>2</title>
-    <g id="new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="time" transform="translate(0.000000, -2286.000000)">
-            <g id="txt" transform="translate(30.000000, 219.000000)">
+    <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -2286.000000)" id="txt">
+            <g transform="translate(30.000000, 219.000000)">
                 <text id="Dữ-liệu-Thành-viên-đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                     <tspan x="55" y="3689">Dữ liệu Thành viên được băm </tspan>
                     <tspan x="55" y="3711">nhỏ và phân tán. Thành viên </tspan>
@@ -69,9 +69,9 @@
                 </text>
                 <text id="Tiêu-chuẩn-cộng-đồng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
                     <tspan x="26.375" y="3176">Tiêu chuẩn cộng đồng quản trị </tspan>
-                    <tspan x="27.6992188" y="3198">xuyên suốt. Không hồ sơ chết. </tspan>
-                    <tspan x="35.5585938" y="3220">Không kết nối khi triển vọng </tspan>
-                    <tspan x="61.6523438" y="3242">chưa rõ ràng tin cậy. </tspan>
+                    <tspan x="25.4648438" y="3198">xuyên suốt từ Đăng ký cho đến </tspan>
+                    <tspan x="29.2148438" y="3220">Vận hành. Xác thực tin cậy với </tspan>
+                    <tspan x="55.5546875" y="3242">Deep Learning 7 level.</tspan>
                 </text>
                 <text id="Tự-động-gặp-lại" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#8C96A8">
                     <tspan x="31.6512695" y="2137.64209">Tự động gặp lại</tspan>
