@@ -78,9 +78,14 @@ app.get('/conceptintro', function (req, res) {
     res.sendFile(__dirname + '/public/concept_intro.html');
 });
 app.get('/time', function (req, res) {
-    res.sendFile(__dirname + '/public/time.html');
+    res.sendFile(__dirname + '/public/trial.html');
 });
-
+app.get('/trial', function (req, res) {
+    res.sendFile(__dirname + '/public/trial.html');
+});
+app.get('/remember', function (req, res) {
+    res.sendFile(__dirname + '/public/remember.html');
+});
 // get form
 
 app.get('/trial', function (req, res) {

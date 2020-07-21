@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="1672px" viewBox="0 0 320 1672" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="1701px" viewBox="0 0 320 1701" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>3</title>
     <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g transform="translate(0.000000, -3918.000000)" id="txt">
-            <g transform="translate(30.000000, 94.000000)">
-                <text id="Tặng-thêm-06-tháng-s" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
-                    <tspan x="32.3867188" y="5140">Tặng thêm 06 tháng sử dụng </tspan>
-                    <tspan x="51.3867188" y="5162">nếu sau 06 tháng Trợ lý </tspan>
-                    <tspan x="35.7929688" y="5184">Chanchan chưa hoàn thành </tspan>
-                    <tspan x="33.0351562" y="5206">nhiệm vụ, tức chưa tìm được </tspan>
-                    <tspan x="43.5742188" y="5228">cho bạn mối quan hệ như </tspan>
-                    <tspan x="88.5703125" y="5250">mong muốn</tspan>
+            <g transform="translate(30.000000, 99.000000)">
+                <text id="Tặng-thêm-06-tháng-n" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#5D6A80">
+                    <tspan x="33.4296875" y="5176">Tặng thêm 06 tháng nếu sau </tspan>
+                    <tspan x="43.5585938" y="5198">06 tháng Trợ lý Chanchan </tspan>
+                    <tspan x="36.3359375" y="5220">chưa hoàn thành công việc, </tspan>
+                    <tspan x="38.3710938" y="5242">tức bạn chưa tìm được mối </tspan>
+                    <tspan x="44.09375" y="5264">quan hệ như mong muốn</tspan>
                 </text>
-                <text id="Thanh-toán-khi-phát" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                    <tspan x="19.5507812" y="5432">Thanh toán khi phát sinh Sự kiện </tspan>
-                    <tspan x="39.046875" y="5454">hoặc hết 07 ngày dùng thử</tspan>
+                <text id="Dùng-thử-07-ngày-hoặ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
+                    <tspan x="22.171875" y="5456">Dùng thử 07 ngày hoặc cho đến</tspan>
+                    <tspan x="59.6757812" y="5478">khi phát sinh Sự kiện</tspan>
                 </text>
                 <text id="Dùng-thử" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" fill="#FFFFFF">
-                    <tspan x="92.1279297" y="5318">Dùng thử</tspan>
+                    <tspan x="92.1279297" y="5327">Dùng thử</tspan>
                 </text>
-                <path d="M81.4707031,4995.30469 C85.7363281,4995.30469 88.7070312,4992.93066 88.7070312,4988.90625 C88.7070312,4985.27539 85.9648438,4983.25684 83.0195312,4983.25684 C80.7851562,4983.25684 79.6806641,4984.18359 79.3251953,4984.74219 L79.109375,4984.74219 L79.3759766,4981.51758 L87.4755859,4981.51758 L87.4755859,4977.6709 L75.4785156,4977.6709 L74.8183594,4988.00488 L79.3125,4988.00488 C79.5410156,4987.53516 80.2900391,4986.79883 81.4833984,4986.79883 C82.9052734,4986.79883 83.8828125,4987.78906 83.8828125,4989.16016 C83.8828125,4990.55664 82.8544922,4991.53418 81.4960938,4991.53418 C80.1757812,4991.53418 79.2236328,4990.82324 79.0839844,4989.94727 L74.5771484,4989.94727 C74.6025391,4992.89258 77.0654297,4995.30469 81.4707031,4995.30469 Z M97.2636719,4995.29199 C100.970703,4995.29199 103.966797,4993.1084 103.966797,4989.10938 C103.966797,4985.49121 101.516602,4983.52344 98.6855469,4983.52344 C96.2734375,4983.52344 95.3212891,4984.94531 94.9023438,4985.93555 L94.6484375,4985.93555 C94.4707031,4983.87891 95.0292969,4981.11133 97.2382812,4981.11133 C98.1523438,4981.11133 98.9521484,4981.58105 99.0791016,4982.34277 L103.611328,4982.34277 C103.535156,4980.15918 101.516602,4977.3916 97.3144531,4977.3916 C92.6679688,4977.3916 90.0146484,4980.80664 90.0146484,4986.39258 C90.0146484,4989.17285 90.6875,4991.39453 91.9189453,4992.93066 C93.1630859,4994.4541 94.9785156,4995.29199 97.2636719,4995.29199 Z M97.2382812,4991.55957 C96.0068359,4991.55957 95.1816406,4990.59473 95.1816406,4989.27441 C95.1816406,4987.9668 95.9814453,4986.96387 97.2382812,4986.96387 C98.4697266,4986.96387 99.2822266,4987.94141 99.2822266,4989.26172 C99.2822266,4990.62012 98.4570312,4991.55957 97.2382812,4991.55957 Z M112.358398,4995.30469 C117.233398,4995.30469 119.582031,4991.34375 119.582031,4986.82422 L119.582031,4985.80859 C119.582031,4980.80664 117.081055,4977.37891 112.472656,4977.37891 C107.915039,4977.37891 105.261719,4980.84473 105.261719,4985.80859 L105.261719,4986.82422 C105.261719,4991.77539 107.762695,4995.30469 112.358398,4995.30469 Z M112.40918,4991.35645 C111.177734,4991.35645 110.289062,4989.98535 110.289062,4986.81152 L110.289062,4985.82129 C110.289062,4982.64746 111.177734,4981.32715 112.40918,4981.32715 C113.65332,4981.32715 114.554688,4982.66016 114.554688,4985.82129 L114.554688,4986.81152 C114.554688,4989.95996 113.65332,4991.35645 112.40918,4991.35645 Z M123.796875,4995.30469 C125.231445,4995.30469 126.412109,4994.12402 126.412109,4992.68945 C126.412109,4991.24219 125.231445,4990.06152 123.796875,4990.06152 C122.349609,4990.06152 121.168945,4991.24219 121.168945,4992.68945 C121.168945,4994.12402 122.349609,4995.30469 123.796875,4995.30469 Z M135.095703,4995.30469 C139.970703,4995.30469 142.319336,4991.34375 142.319336,4986.82422 L142.319336,4985.80859 C142.319336,4980.80664 139.818359,4977.37891 135.209961,4977.37891 C130.652344,4977.37891 127.999023,4980.84473 127.999023,4985.80859 L127.999023,4986.82422 C127.999023,4991.77539 130.5,4995.30469 135.095703,4995.30469 Z M135.146484,4991.35645 C133.915039,4991.35645 133.026367,4989.98535 133.026367,4986.81152 L133.026367,4985.82129 C133.026367,4982.64746 133.915039,4981.32715 135.146484,4981.32715 C136.390625,4981.32715 137.291992,4982.66016 137.291992,4985.82129 L137.291992,4986.81152 C137.291992,4989.95996 136.390625,4991.35645 135.146484,4991.35645 Z M150.8125,4995.30469 C155.6875,4995.30469 158.036133,4991.34375 158.036133,4986.82422 L158.036133,4985.80859 C158.036133,4980.80664 155.535156,4977.37891 150.926758,4977.37891 C146.369141,4977.37891 143.71582,4980.84473 143.71582,4985.80859 L143.71582,4986.82422 C143.71582,4991.77539 146.216797,4995.30469 150.8125,4995.30469 Z M150.863281,4991.35645 C149.631836,4991.35645 148.743164,4989.98535 148.743164,4986.81152 L148.743164,4985.82129 C148.743164,4982.64746 149.631836,4981.32715 150.863281,4981.32715 C152.107422,4981.32715 153.008789,4982.66016 153.008789,4985.82129 L153.008789,4986.81152 C153.008789,4989.95996 152.107422,4991.35645 150.863281,4991.35645 Z M166.529297,4995.30469 C171.404297,4995.30469 173.75293,4991.34375 173.75293,4986.82422 L173.75293,4985.80859 C173.75293,4980.80664 171.251953,4977.37891 166.643555,4977.37891 C162.085938,4977.37891 159.432617,4980.84473 159.432617,4985.80859 L159.432617,4986.82422 C159.432617,4991.77539 161.933594,4995.30469 166.529297,4995.30469 Z M166.580078,4991.35645 C165.348633,4991.35645 164.459961,4989.98535 164.459961,4986.81152 L164.459961,4985.82129 C164.459961,4982.64746 165.348633,4981.32715 166.580078,4981.32715 C167.824219,4981.32715 168.725586,4982.66016 168.725586,4985.82129 L168.725586,4986.81152 C168.725586,4989.95996 167.824219,4991.35645 166.580078,4991.35645 Z" id="560.000" fill="#343D51" fill-rule="nonzero"></path>
                 <text id="/-tháng" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-size="26" font-weight="200" fill="#343D51">
-                    <tspan x="91.9648438" y="5026">/ tháng</tspan>
+                    <tspan x="91.9648438" y="5065">/ tháng</tspan>
                 </text>
-                <path d="M179.59375,4990.07812 C180.765625,4990.07812 181.640625,4989.51562 181.953125,4988.66406 L182.09375,4988.66406 L182.09375,4990 L185.078125,4990 L185.078125,4981.14844 L185.898438,4981.14844 L185.898438,4979.74219 L184.9375,4979.74219 L184.9375,4978.77344 L182.242188,4978.77344 L182.242188,4979.74219 L180.59375,4979.74219 L180.59375,4981.14844 L182.085938,4981.14844 L182.085938,4982.91406 L181.945312,4982.91406 C181.640625,4982.07031 180.765625,4981.52344 179.59375,4981.52344 C177.742188,4981.52344 176.570312,4982.92188 176.570312,4985.47656 L176.570312,4986.10938 C176.570312,4988.65625 177.734375,4990.07812 179.59375,4990.07812 Z M180.867188,4987.82031 C180.171875,4987.82031 179.664062,4987.24219 179.664062,4986.04688 L179.664062,4985.5625 C179.664062,4984.36719 180.171875,4983.78906 180.867188,4983.78906 C181.570312,4983.78906 182.085938,4984.375 182.085938,4985.5625 L182.085938,4986.04688 C182.085938,4987.24219 181.578125,4987.82031 180.867188,4987.82031 Z" id="đ" fill="#343D51" fill-rule="nonzero"></path>
                 <text id="Phí-thành-viên" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#5D6A80">
-                    <tspan x="81.8828125" y="4951">Phí thành viên</tspan>
+                    <tspan x="81.8828125" y="4990">Phí thành viên</tspan>
                 </text>
-                <text id="Khác-biệt" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
-                    <tspan x="65.4984766" y="4513.64209">Khác biệt </tspan>
+                <text id="Khác-biệt" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" letter-spacing="-0.93" fill="#1E2432">
+                    <tspan x="74.0809961" y="4509">Khác biệt </tspan>
                 </text>
-                <text id="Khác-biệt-với-phần-c" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                    <tspan x="41.8945312" y="4570">Khác biệt với phần còn lại. </tspan>
-                    <tspan x="32.8085938" y="4592">Chanchan không phải là một </tspan>
-                    <tspan x="27.8359375" y="4614">ứng dụng giải trí giết thời gian </tspan>
-                    <tspan x="42.515625" y="4636">hay có xu hướng giữ chân </tspan>
-                    <tspan x="35.1015625" y="4658">người dùng. Ngược lại Trợ lý </tspan>
-                    <tspan x="32.046875" y="4680">Chanchan nỗ lực hoàn thành </tspan>
-                    <tspan x="41.3320312" y="4702">nhiệm vụ để làm cho cuộc </tspan>
-                    <tspan x="43.2578125" y="4724">sống của bạn tốt đẹp hơn </tspan>
-                    <tspan x="75.5820312" y="4746">trong hiện thực.</tspan>
+                <text id="Chanchan-không-phải" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+                    <tspan x="32.8085938" y="4619">Chanchan không phải là một </tspan>
+                    <tspan x="27.8359375" y="4641">ứng dụng giải trí giết thời gian </tspan>
+                    <tspan x="42.515625" y="4663">hay có xu hướng giữ chân </tspan>
+                    <tspan x="35.1015625" y="4685">người dùng. Ngược lại Trợ lý </tspan>
+                    <tspan x="32.046875" y="4707">Chanchan nỗ lực hoàn thành </tspan>
+                    <tspan x="41.3320312" y="4729">nhiệm vụ để làm cho cuộc </tspan>
+                    <tspan x="43.2578125" y="4751">sống của bạn tốt đẹp hơn </tspan>
+                    <tspan x="75.5820312" y="4773">trong hiện thực.</tspan>
+                </text>
+                <text id="Cuộc-sống-hiện-thực" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+                    <tspan x="37.8774414" y="4560.09473">Cuộc sống hiện thực</tspan>
+                    <tspan x="75.7099609" y="4579.09473">tốt đẹp hơn</tspan>
                 </text>
                 <text id="In-Messenger" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#64B5F6">
-                    <tspan x="84.1132812" y="5370">In Messenger</tspan>
+                    <tspan x="84.1132812" y="5379">In Messenger</tspan>
                 </text>
                 <text id="Dữ-liệu-Thành-viên-đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                    <tspan x="55" y="4040">Dữ liệu Thành viên được băm </tspan>
-                    <tspan x="55" y="4062">nhỏ và phân tán. Thành viên </tspan>
-                    <tspan x="55" y="4084">gần như vô hình. </tspan>
+                    <tspan x="55" y="4035">Dữ liệu Thành viên được băm </tspan>
+                    <tspan x="55" y="4057">nhỏ và phân tán. Thành viên </tspan>
+                    <tspan x="55" y="4079">gần như vô hình. </tspan>
                 </text>
                 <text id="Dữ-liệu-phân-tán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
-                    <tspan x="55" y="4011">Dữ liệu phân tán</tspan>
+                    <tspan x="55" y="4006">Dữ liệu phân tán</tspan>
                 </text>
                 <text id="01" opacity="0.6" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-size="34" font-weight="200" fill="#FF9800">
-                    <tspan x="5" y="4023">01</tspan>
+                    <tspan x="5" y="4018">01</tspan>
                 </text>
                 <text id="Sau-31-ngày-Hồ-sơ-kh" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                    <tspan x="55" y="4165">Sau 31 ngày Hồ sơ không </tspan>
-                    <tspan x="55" y="4187">hoạt động sẽ tự động xóa. </tspan>
-                    <tspan x="55" y="4209">Chanchan sẽ không nhớ </tspan>
-                    <tspan x="55" y="4231">được thành viên là ai.</tspan>
+                    <tspan x="55" y="4160">Sau 31 ngày Hồ sơ không </tspan>
+                    <tspan x="55" y="4182">hoạt động sẽ tự động xóa. </tspan>
+                    <tspan x="55" y="4204">Chanchan sẽ không nhớ </tspan>
+                    <tspan x="55" y="4226">được thành viên là ai.</tspan>
                 </text>
                 <text id="Không-lưu-trữ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
-                    <tspan x="55" y="4136">Không lưu trữ</tspan>
+                    <tspan x="55" y="4131">Không lưu trữ</tspan>
                 </text>
                 <text id="02" opacity="0.5" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-size="34" font-weight="200" fill="#FFC107">
-                    <tspan x="5" y="4148">02</tspan>
+                    <tspan x="5" y="4143">02</tspan>
                 </text>
                 <text id="Khi-biết-chắc-có-gì" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                    <tspan x="55" y="4312">Khi biết chắc có gì đó làm </tspan>
-                    <tspan x="55" y="4334">mất thời gian của bạn chúng </tspan>
-                    <tspan x="55" y="4356">tôi sẽ gỡ bỏ.</tspan>
+                    <tspan x="55" y="4307">Khi biết chắc có gì đó làm </tspan>
+                    <tspan x="55" y="4329">mất thời gian của bạn chúng </tspan>
+                    <tspan x="55" y="4351">tôi sẽ gỡ bỏ.</tspan>
                 </text>
                 <text id="Không-quảng-cáo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="17" font-weight="500" fill="#B9C0CF">
-                    <tspan x="55" y="4283">Không quảng cáo</tspan>
+                    <tspan x="55" y="4278">Không quảng cáo</tspan>
                 </text>
                 <text id="03" opacity="0.5" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-size="34" font-weight="200" fill="#FFEB3B">
-                    <tspan x="5" y="4295">03</tspan>
+                    <tspan x="5" y="4290">03</tspan>
                 </text>
                 <text id="về-dữ-liệu" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
-                    <tspan x="64.3946289" y="3947.64209">về dữ liệu </tspan>
+                    <tspan x="64.3946289" y="3942.64209">về dữ liệu </tspan>
                 </text>
                 <text id="Chính-sách" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="28" font-weight="600" line-spacing="31" letter-spacing="-0.93" fill="#5D6A80">
-                    <tspan x="52.8785156" y="3916.5918">Chính sách  </tspan>
+                    <tspan x="52.8785156" y="3911.5918">Chính sách  </tspan>
                 </text>
             </g>
         </g>
