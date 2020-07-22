@@ -24,8 +24,8 @@
                 <text id="Phí-thành-viên" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#5D6A80">
                     <tspan x="81.8828125" y="4990">Phí thành viên</tspan>
                 </text>
-                <text id="Khác-biệt" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" letter-spacing="-0.93" fill="#1E2432">
-                    <tspan x="74.0809961" y="4509">Khác biệt </tspan>
+                <text id="Khác-biệt" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="27" font-weight="500" letter-spacing="-0.81" fill="#1E2432">
+                    <tspan x="76.6391406" y="4509">Khác biệt </tspan>
                 </text>
                 <text id="Chanchan-không-phải" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
                     <tspan x="32.8085938" y="4619">Chanchan không phải là một </tspan>
@@ -37,9 +37,9 @@
                     <tspan x="43.2578125" y="4751">sống của bạn tốt đẹp hơn </tspan>
                     <tspan x="75.5820312" y="4773">trong hiện thực.</tspan>
                 </text>
-                <text id="Cuộc-sống-hiện-thực" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
-                    <tspan x="37.8774414" y="4560.09473">Cuộc sống hiện thực</tspan>
-                    <tspan x="75.7099609" y="4579.09473">tốt đẹp hơn</tspan>
+                <text id="Cuộc-sống-tốt-đẹp-hơ" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+                    <tspan x="48.222168" y="4560.09473">Cuộc sống tốt đẹp</tspan>
+                    <tspan x="39.9824219" y="4579.09473">hơn trong hiện thực</tspan>
                 </text>
                 <text id="In-Messenger" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#64B5F6">
                     <tspan x="84.1132812" y="5379">In Messenger</tspan>
