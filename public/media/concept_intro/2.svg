@@ -1,91 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="1804px" viewBox="0 0 320 1804" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="1520px" viewBox="0 0 320 1520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>2</title>
     <g id="homeM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="concept" transform="translate(0.000000, -2202.000000)">
-            <text id="Tại-sao-là-Sự-kiện-đ" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
-                <tspan x="84.8768848" y="2431">Tại sao là Sự </tspan>
-                <tspan x="60" y="2458">kiện đồng hành?</tspan>
-            </text>
-            <text id="Bởi-định-hướng-dành" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="74.3320312" y="2499">Bởi định hướng dành cho </tspan>
-                <tspan x="63.1328125" y="2521">người trưởng thành, các bạn </tspan>
-                <tspan x="89.8242188" y="2543">đã đi làm ít thời gian.</tspan>
-            </text>
-            <text id="Qua-gặp-gỡ-Chanchan" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="67.8945312" y="2662">Qua gặp gỡ Chanchan giúp </tspan>
-                <tspan x="57.5546875" y="2684">mọi người sớm nhận biết triển </tspan>
-                <tspan x="67" y="2706">vọng với đối phương thay vì </tspan>
-                <tspan x="71.1796875" y="2728">mất thời gian tìm hiểu qua </tspan>
-                <tspan x="115.769531" y="2750">chat tán gẫu.</tspan>
-            </text>
-            <text id="Nên-khi-biết-chắc-đi" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="62.5664062" y="2893">Nên khi biết chắc điều gì làm </tspan>
-                <tspan x="64.8203125" y="2915">mất thời gian của mọi người </tspan>
-                <tspan x="95.2695312" y="2937">chúng tôi sẽ gỡ bỏ.</tspan>
-            </text>
-            <text id="Chanchan-không-phải" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="62.8085938" y="3175">Chanchan không phải là một </tspan>
-                <tspan x="56.8359375" y="3197">ứng dụng giết thời gian hay có </tspan>
-                <tspan x="74.671875" y="3219">xu hướng giữ chân người </tspan>
-                <tspan x="59.546875" y="3241">dùng. Ngược lại Chanchan nỗ </tspan>
-                <tspan x="57.9570312" y="3263">lực tiết kiệm thời gian của bạn </tspan>
-                <tspan x="57.8632812" y="3285">và làm cho cuộc sống của mọi </tspan>
-                <tspan x="58.015625" y="3307">người tốt đẹp trong hiện thực.</tspan>
-            </text>
-            <text id="Chúng-tôi-đã-giải-th" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                <tspan x="65.1992188" y="3454">Chúng tôi đã giải thích xong </tspan>
-                <tspan x="62.28125" y="3476">Sự kiện đồng hành cũng như </tspan>
-                <tspan x="65.4726562" y="3498">concept của Chanchan. Bây </tspan>
-                <tspan x="72.5390625" y="3520">giờ bạn có thể quay trở lại </tspan>
-                <tspan x="64.46875" y="3542">Messenger gửi </tspan>
-                <tspan x="168.921875" y="3542" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-weight="500">“Chanchan”</tspan>
-                <tspan x="255.53125" y="3542"> </tspan>
-                <tspan x="69.1484375" y="3564">để trợ lý tiếp tục công việc.</tspan>
-            </text>
-            <text id="Tài-khoản-bạn-hiện-đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                <tspan x="70.1875" y="3611">Tài khoản bạn hiện đang là </tspan>
-                <tspan x="74.6328125" y="3633">Dùng thử. Chính sách Phí </tspan>
-                <tspan x="58.6835938" y="3655">Thành Viên chúng tôi đăng tại</tspan>
-            </text>
-            <text id="Không-chat.-Không-tá" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
-                <tspan x="61.8413086" y="2981">Không chat. Không tán </tspan>
-                <tspan x="62.7861328" y="3000">gẫu. Không mất thì giờ </tspan>
-                <tspan x="63.5419922" y="3019">với mối quan hệ không </tspan>
-                <tspan x="62.5795898" y="3038">nghiêm túc. Không kết </tspan>
-                <tspan x="80.109375" y="3057">nối khi không thấy </tspan>
-                <tspan x="60" y="3076">động lực đối phương rõ </tspan>
-                <tspan x="69.5932617" y="3095">ràng, tin cậy. Và chắc </tspan>
-                <tspan x="68.222168" y="3114">chắn không có quảng </tspan>
-                <tspan x="99.0761719" y="3133">cáo xuất hiện.</tspan>
-            </text>
-            <text id="Nên-concept-của-Chan" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#343D51">
-                <tspan x="84.0053711" y="2584.09473">Nên concept của </tspan>
-                <tspan x="71.5117188" y="2603.09473">Chanchan là kết nối </tspan>
-                <tspan x="75.2822266" y="2622.09473">qua gặp gỡ thực tế</tspan>
-            </text>
-            <text id="Chúng-tôi-thiết-kế-C" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#343D51">
-                <tspan x="78.9824219" y="2796.09473">Chúng tôi thiết kế </tspan>
-                <tspan x="71.050293" y="2815.09473">Chanchan dành cho</tspan>
-                <tspan x="78.5561523" y="2834.09473">các bạn quý trọng</tspan>
-                <tspan x="116.538086" y="2853.09473">thời gian</tspan>
-            </text>
-            <text id="https://chanchan.vn/" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="15" font-weight="500" fill="#8C96A8" text-decoration="underline">
-                <tspan x="64.675293" y="3692">https://chanchan.vn/pricing</tspan>
-            </text>
-            <text id="Cảm-ơn-bạn-đã-ở-đây" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
-                <tspan x="68.1674805" y="3745.09473">Cảm ơn bạn đã ở đây</tspan>
-            </text>
-            <text id="Chanchan-là-một-sản" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="15" font-weight="300" line-spacing="22" fill="#5D6A80">
-                <tspan x="55.3295898" y="3779">Chanchan là một sản phẩm công </tspan>
-                <tspan x="59.7021484" y="3801">nghệ của Công Ty TNHH Đầu Tư </tspan>
-                <tspan x="75.5004883" y="3823">Thương Mại Và Công Nghệ </tspan>
-                <tspan x="70.7250977" y="3845">Mastercus Việt Nam • Mã số </tspan>
-                <tspan x="55.0878906" y="3867">thuế: 0106755956 • Địa chỉ: Tầng </tspan>
-                <tspan x="75.255127" y="3889">4, số 110 Nguyễn Ngọc Nại, </tspan>
-                <tspan x="74.855957" y="3911">Phường Khương Mai, Quận </tspan>
-                <tspan x="96.418457" y="3933">Thanh Xuân, Hà Nội.</tspan>
-            </text>
+        <g id="concept" transform="translate(0.000000, -1643.000000)">
+            <g id="txt" transform="translate(55.000000, 520.000000)">
+                <text id="Sau-gặp-Trợ-lý-Chanc" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+                    <tspan x="6.6796875" y="1455">Sau gặp Trợ lý Chanchan tiếp </tspan>
+                    <tspan x="0.80078125" y="1477">tục gợi ý lại hai người với nhau. </tspan>
+                    <tspan x="7.38671875" y="1499">Nếu cả hai cùng mong muốn </tspan>
+                    <tspan x="13.3632812" y="1521">có duyên gặp lại Chanchan </tspan>
+                    <tspan x="7.51953125" y="1543">tiếp tục tìm cơ hội kết nối hai </tspan>
+                    <tspan x="5.30078125" y="1565">người gặp lại ở sự kiện chung </tspan>
+                    <tspan x="72.7734375" y="1587">tiếp theo.</tspan>
+                </text>
+                <text id="Gặp-lại" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="24" font-weight="600" line-spacing="19" fill="#1E2432">
+                    <tspan x="59.2558594" y="1411.79297">Gặp lại</tspan>
+                </text>
+                <text id="Lưu-ý" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="24" font-weight="600" line-spacing="19" fill="#1E2432">
+                    <tspan x="66.234375" y="1949.79297">Lưu ý</tspan>
+                </text>
+                <text id="Tại-mỗi-thời-điểm-ch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+                    <tspan x="10.9257812" y="1993">Tại mỗi thời điểm chỉ kết nối </tspan>
+                    <tspan x="22.9960938" y="2015">với một match duy nhất. </tspan>
+                    <tspan x="15.875" y="2037">Không kết nối cùng lúc với </tspan>
+                    <tspan x="64.0273438" y="2059">nhiều người</tspan>
+                </text>
+                <text id="Chúng-tôi-đã-giải-th" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
+                    <tspan x="10.1992188" y="2206">Chúng tôi đã giải thích xong </tspan>
+                    <tspan x="37.8398438" y="2228">cách hoạt động của </tspan>
+                    <tspan x="4.125" y="2250">Chanchan. Giờ đây bạn có thể </tspan>
+                    <tspan x="0.4765625" y="2272">quay trở lại với Chanchan bằng </tspan>
+                    <tspan x="0.9140625" y="2294">cách gửi </tspan>
+                    <tspan x="62.7265625" y="2294" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-weight="500">“Chanchan”</tspan>
+                    <tspan x="149.335938" y="2294"> để Trợ lý </tspan>
+                    <tspan x="43.0976562" y="2316">tiếp tục công việc.</tspan>
+                </text>
+                <text id="Cảm-ơn-bạn-đã-ở-đây" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="19" fill="#5D6A80">
+                    <tspan x="17.3818359" y="2382.46387">Cảm ơn bạn đã ở đây</tspan>
+                </text>
+                <text id="Chanchan-là-một-sản" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="15" font-weight="300" line-spacing="22" fill="#5D6A80">
+                    <tspan x="0.329589844" y="2421">Chanchan là một sản phẩm công </tspan>
+                    <tspan x="4.70214844" y="2443">nghệ của Công Ty TNHH Đầu Tư </tspan>
+                    <tspan x="20.5004883" y="2465">Thương Mại Và Công Nghệ </tspan>
+                    <tspan x="15.7250977" y="2487">Mastercus Việt Nam • Mã số </tspan>
+                    <tspan x="0.087890625" y="2509">thuế: 0106755956 • Địa chỉ: Tầng </tspan>
+                    <tspan x="20.255127" y="2531">4, số 110 Nguyễn Ngọc Nại, </tspan>
+                    <tspan x="19.855957" y="2553">Phường Khương Mai, Quận </tspan>
+                    <tspan x="43.1140137" y="2575">Thanh Xuân, Hà Nội</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>
