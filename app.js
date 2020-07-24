@@ -98,6 +98,10 @@ app.get('/trial', function (req, res) {
 app.get('/believe', function (req, res) {
     res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
 });
+app.get('/trialm', function (req, res) {
+    res.sendFile(__dirname + `/public/form/${req.originalUrl}.html`);
+});
+
 
 // load facebook
 app.get('/facebook1', function (req, res) {

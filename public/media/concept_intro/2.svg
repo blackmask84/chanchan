@@ -25,15 +25,17 @@
                     <tspan x="15.875" y="2037">Không kết nối cùng lúc với </tspan>
                     <tspan x="64.0273438" y="2059">nhiều người</tspan>
                 </text>
-                <text id="Chúng-tôi-đã-giải-th" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                    <tspan x="10.1992188" y="2206">Chúng tôi đã giải thích xong </tspan>
-                    <tspan x="37.8398438" y="2228">cách hoạt động của </tspan>
-                    <tspan x="4.125" y="2250">Chanchan. Giờ đây bạn có thể </tspan>
-                    <tspan x="0.4765625" y="2272">quay trở lại với Chanchan bằng </tspan>
-                    <tspan x="0.9140625" y="2294">cách gửi </tspan>
-                    <tspan x="62.7265625" y="2294" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-weight="500">“Chanchan”</tspan>
-                    <tspan x="149.335938" y="2294"> để Trợ lý </tspan>
-                    <tspan x="43.0976562" y="2316">tiếp tục công việc.</tspan>
+                <text id="Chúng-tôi-đã-giải-th" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22">
+                    <tspan x="10.1992188" y="2206" fill="#8C96A8">Chúng tôi đã giải thích xong </tspan>
+                    <tspan x="37.8398438" y="2228" fill="#8C96A8">cách hoạt động của </tspan>
+                    <tspan x="4.125" y="2250" fill="#8C96A8">Chanchan. Giờ đây bạn có thể </tspan>
+                    <tspan x="0.4765625" y="2272" fill="#8C96A8">quay trở lại với Chanchan bằng </tspan>
+                    <tspan x="4.5078125" y="2294" fill="#8C96A8">cách gửi </tspan>
+                    <tspan x="66.3203125" y="2294" fill="#262626">.</tspan>
+                    <tspan x="69.9375" y="2294" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-weight="500" fill="#8C96A8">“Chanchan”</tspan>
+                    <tspan x="156.546875" y="2294" fill="#262626">.</tspan>
+                    <tspan x="160.164062" y="2294" fill="#8C96A8"> để Trợ </tspan>
+                    <tspan x="35.8867188" y="2316" fill="#8C96A8">lý tiếp tục công việc.</tspan>
                 </text>
                 <text id="Cảm-ơn-bạn-đã-ở-đây" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="19" fill="#5D6A80">
                     <tspan x="17.3818359" y="2382.46387">Cảm ơn bạn đã ở đây</tspan>

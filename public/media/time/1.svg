@@ -65,15 +65,15 @@
             <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="27" font-weight="500" letter-spacing="-0.81" fill="#B9C0CF">
                 <tspan x="71.8505957" y="360">Chanchan</tspan>
             </text>
-            <text id="Ứng-dụng-hẹn-hò-dành" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                <tspan x="37.9453125" y="475">Ứng dụng hẹn hò dành cho </tspan>
-                <tspan x="33.1328125" y="497">người trưởng thành, các bạn </tspan>
-                <tspan x="29.7773438" y="519">bận công việc ít thời gian, các </tspan>
-                <tspan x="44.375" y="541">bạn làm việc nơi công sở.</tspan>
+            <text id="Dành-cho-người-trưởn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
+                <tspan x="27.4921875" y="475">Dành cho người trưởng thành, </tspan>
+                <tspan x="33.21875" y="497">các bạn bận công việc ít thời </tspan>
+                <tspan x="38.9375" y="519">gian cho bản thân, các bạn </tspan>
+                <tspan x="58.9765625" y="541">làm việc nơi công sở.</tspan>
             </text>
-            <text id="Trợ-lý-ảo-trong-tình" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="19" fill="#8C96A8">
-                <tspan x="67.84375" y="421.463867">Trợ lý ảo trong </tspan>
-                <tspan x="82.2050781" y="440.463867">tình duyên</tspan>
+            <text id="Trợ-lý-ảo-cho-hẹn-hò" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="19" fill="#8C96A8">
+                <tspan x="75.1386719" y="421.463867">Trợ lý ảo cho </tspan>
+                <tspan x="98.0166016" y="440.463867">hẹn hò</tspan>
             </text>
         </g>
     </g>
