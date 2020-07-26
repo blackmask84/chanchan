@@ -89,6 +89,9 @@ app.get('/trial', function (req, res) {
 app.get('/trialm', function (req, res) {
     res.sendFile(__dirname + '/public/trial.html');
 });
+app.get('/boots', function (req, res) {
+    res.sendFile(__dirname + '/public/trial.html');
+});
 app.get('/remember', function (req, res) {
     res.sendFile(__dirname + '/public/remember.html');
 });

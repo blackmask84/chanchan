@@ -12,11 +12,11 @@
                     <tspan x="44.09375" y="5264">quan hệ như mong muốn</tspan>
                 </text>
                 <text id="Dùng-thử-07-ngày-hoặ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                    <tspan x="22.171875" y="5456">Dùng thử 07 ngày hoặc cho đến</tspan>
-                    <tspan x="59.6757812" y="5478">khi phát sinh Sự kiện</tspan>
+                    <tspan x="51.3515625" y="5456">Dùng thử 07 ngày hoặc </tspan>
+                    <tspan x="44.9492188" y="5478">đến khi phát sinh Sự kiện</tspan>
                 </text>
-                <text id="Dùng-thử" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" fill="#FFFFFF">
-                    <tspan x="92.1279297" y="5327">Dùng thử</tspan>
+                <text id="Khởi-động" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" fill="#FFFFFF">
+                    <tspan x="88.9023438" y="5327">Khởi động</tspan>
                 </text>
                 <text id="/-tháng" font-family="SFCompactDisplay-Ultralight, SF Compact Display" font-size="26" font-weight="200" fill="#343D51">
                     <tspan x="91.9648438" y="5065">/ tháng</tspan>
@@ -41,8 +41,8 @@
                     <tspan x="48.222168" y="4560.09473">Cuộc sống tốt đẹp</tspan>
                     <tspan x="39.9824219" y="4579.09473">hơn trong hiện thực</tspan>
                 </text>
-                <text id="In-Messenger" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#64B5F6">
-                    <tspan x="84.1132812" y="5379">In Messenger</tspan>
+                <text id="Kích-hoạt-Dùng-thử" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#64B5F6">
+                    <tspan x="64.6171875" y="5379">Kích hoạt Dùng thử</tspan>
                 </text>
                 <text id="Dữ-liệu-Thành-viên-đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
                     <tspan x="55" y="4035">Dữ liệu Thành viên được băm </tspan>
