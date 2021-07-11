@@ -1,129 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="3918px" viewBox="0 0 320 3918" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>1x</title>
-    <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="txt" transform="translate(30.000000, 99.000000)">
-            <text id="Nghiêm-túc" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
-                <tspan x="52.8589844" y="3002.64209">Nghiêm túc</tspan>
-            </text>
-            <text id="Với-mỗi-lượt-match-ở" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="59.7890625" y="3559">Với mỗi lượt match ở </tspan>
-                <tspan x="25.6171875" y="3581">Chanchan, nếu chưa đủ tin cậy </tspan>
-                <tspan x="25.3398438" y="3603">Chanchan sẽ tiếp tục xác thực. </tspan>
-                <tspan x="58.4257812" y="3625">Nếu không đủ tin cậy </tspan>
-                <tspan x="26.5625" y="3647">Chanchan sẽ gỡ bỏ. Nếu đã đủ </tspan>
-                <tspan x="35.46875" y="3669">tin cậy Chanchan sẽ kết nối. </tspan>
-                <tspan x="33.1054688" y="3691">Không mất thời gian vào mối </tspan>
-                <tspan x="41.2617188" y="3713">quan hệ chưa nghiêm túc. </tspan>
-                <tspan x="30.2304688" y="3735">Không kết nối khi động lực cả </tspan>
-                <tspan x="73.1054688" y="3757">hai chưa rõ ràng.</tspan>
-            </text>
-            <text id="Tại-mỗi-thời-điểm-ch" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
-                <tspan x="37.4863281" y="3063.09473">Tại mỗi thời điểm chỉ </tspan>
-                <tspan x="33.0039062" y="3082.09473">kết nối với một match </tspan>
-                <tspan x="39.0991211" y="3101.09473">duy nhất. Không kết </tspan>
-                <tspan x="32.6523438" y="3120.09473">nối cùng lúc với nhiều </tspan>
-                <tspan x="98.987793" y="3139.09473">người</tspan>
-            </text>
-            <text id="Chúng-tôi-bảo-vệ-trả" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
-                <tspan x="37.3061523" y="3392.09473">Chúng tôi bảo vệ trải </tspan>
-                <tspan x="30.2265625" y="3411.09473">nghiệm của mọi người</tspan>
-            </text>
-            <text id="Tiêu-chuẩn-cộng-đồng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="34.890625" y="3451">Tiêu chuẩn cộng đồng được </tspan>
-                <tspan x="36.3945312" y="3473">quản trị xuyên suốt từ bước </tspan>
-                <tspan x="39.9375" y="3495">Đăng ký cho đến Vận hành </tspan>
-                <tspan x="59.5625" y="3517">bằng Deep Learning.</tspan>
-            </text>
-            <text id="Tự-động-gặp-lại" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
-                <tspan x="31.6512695" y="2413.64209">Tự động gặp lại</tspan>
-            </text>
-            <text id="Sau-gặp-Trợ-lý-Chanc" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="31.6796875" y="2747">Sau gặp Trợ lý Chanchan tiếp </tspan>
-                <tspan x="25.8007812" y="2769">tục gợi ý lại hai người với nhau. </tspan>
-                <tspan x="32.3867188" y="2791">Nếu cả hai cùng mong muốn </tspan>
-                <tspan x="38.3632812" y="2813">có duyên gặp lại Chanchan </tspan>
-                <tspan x="32.5195312" y="2835">tiếp tục tìm cơ hội kết nối hai </tspan>
-                <tspan x="30.3007812" y="2857">người gặp lại ở sự kiện chung </tspan>
-                <tspan x="97.7734375" y="2879">tiếp theo.</tspan>
-            </text>
-            <text id="Tự-nhiên.-Để-duyên-t" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
-                <tspan x="31.0527344" y="2669.09473">Tự nhiên. Để duyên tự </tspan>
-                <tspan x="38.659668" y="2688.09473">bén. Không mất thời </tspan>
-                <tspan x="36.0097656" y="2707.09473">gian dò ý đối phương</tspan>
-            </text>
-            <text id="Kết-nối-qua-các-sự-k" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
-                <tspan x="32.7455078" y="1191.64209">Kết nối qua các </tspan>
-                <tspan x="35.1874902" y="1218.64209">sự kiện gặp gỡ</tspan>
-            </text>
-            <text id="Sự-kiện-chung-đơn-gi" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="27.1367188" y="1741">Sự kiện chung đơn giản là một </tspan>
-                <tspan x="34.03125" y="1763">hoạt động nào đó mà bạn và </tspan>
-                <tspan x="35.9335938" y="1785">đối phương cùng muốn làm </tspan>
-                <tspan x="41.9921875" y="1807">vào khoảng thời gian rảnh </tspan>
-                <tspan x="39.9453125" y="1829">chung của hai người. Ví dụ </tspan>
-                <tspan x="33.2148438" y="1851">cùng đi cafe ở một quán bạn </tspan>
-                <tspan x="42.3359375" y="1873">vốn “hợp gu” hay đến một </tspan>
-                <tspan x="32.1445312" y="1895">quán ăn ngon bạn biết. Cùng </tspan>
-                <tspan x="32.6953125" y="1917">đi dạo ở con phố đối phương </tspan>
-                <tspan x="36.2109375" y="1939">vốn quen thuộc hay cùng đi </tspan>
-                <tspan x="37.6640625" y="1961">xem một bộ phim mà họ đã </tspan>
-                <tspan x="92.2539062" y="1983">hóng chờ...</tspan>
-            </text>
-            <text id="Chúng-tôi-hy-vọng-th" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="41.859375" y="2025">Chúng tôi hy vọng thiết kế </tspan>
-                <tspan x="25.1289062" y="2047">này sẽ làm cuộc sống độc thân </tspan>
-                <tspan x="26.9726562" y="2069">của mọi người thêm thú vị. Bởi </tspan>
-                <tspan x="40.1835938" y="2091">cũng vào khoảng thời gian </tspan>
-                <tspan x="34.984375" y="2113">rảnh này như mọi khi nhưng </tspan>
-                <tspan x="80.7265625" y="2135">hôm nay khác!</tspan>
-            </text>
-            <text id="Hôm-nay-bạn-có-một-n" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
-                <tspan x="42.5595703" y="2179"> Hôm nay bạn có một </tspan>
-                <tspan x="40.0239258" y="2198">người bạn cùng đồng </tspan>
-                <tspan x="36.7763672" y="2217">hành. Còn đối phương </tspan>
-                <tspan x="49.125" y="2236">cũng “bỏ túi” thêm </tspan>
-                <tspan x="30" y="2255">được một địa điểm, một </tspan>
-                <tspan x="38.3056641" y="2274">sở thích, hay một thói </tspan>
-                <tspan x="48.6591797" y="2293">quen hay ho từ bạn</tspan>
-            </text>
-            <text id="Gặp-gỡ-qua-Sự-kiện-c" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
-                <tspan x="77.3579102" y="1682.09473">Gặp gỡ qua</tspan>
-                <tspan x="63.4887695" y="1701.09473">Sự kiện chung</tspan>
-            </text>
-            <text id="Chanchan-kết-nối-qua" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
-                <tspan x="31.0585938" y="1343">Chanchan kết nối qua gặp gỡ </tspan>
-                <tspan x="28.2539062" y="1365">giúp mọi người sớm nhận biết </tspan>
-                <tspan x="26.5546875" y="1387">triển vọng với đối phương thay </tspan>
-                <tspan x="33.8398438" y="1409">vì mất thời gian vào chat hay </tspan>
-                <tspan x="63.8632812" y="1431">tán gẫu nhiều ngày.</tspan>
-            </text>
-            <text id="Không-chat-Không-tán" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
-                <tspan x="75.8505859" y="1284.09473">Không chat </tspan>
-                <tspan x="63.0581055" y="1303.09473">Không tán gẫu</tspan>
-            </text>
-            <text id="Nếu-bạn-đã-sẵn-lòng" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#8C96A8">
-                <tspan x="40.4677734" y="17">Nếu bạn đã sẵn lòng </tspan>
-                <tspan x="48.1098633" y="36">cho một bước tiến </tspan>
-                <tspan x="35.7788086" y="55">mới trong tình duyên </tspan>
-                <tspan x="30" y="74">nhưng thời gian là thứ </tspan>
-                <tspan x="47.6572266" y="93">bạn đang thiếu thì </tspan>
-                <tspan x="49.340332" y="112">Chanchan là dành</tspan>
-                <tspan x="91.387207" y="131">cho bạn</tspan>
-            </text>
-            <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="27" font-weight="500" letter-spacing="-0.81" fill="#B9C0CF">
-                <tspan x="71.8505957" y="360">Chanchan</tspan>
-            </text>
-            <text id="Dành-cho-người-trưởn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
-                <tspan x="27.2773438" y="475">Dành cho người trưởng thành. </tspan>
-                <tspan x="28.1601562" y="497">Phù hợp với các bạn bận công </tspan>
-                <tspan x="34.4882812" y="519">việc ít thời gian, các bạn làm </tspan>
-                <tspan x="73.1875" y="541">việc nơi công sở.</tspan>
-            </text>
-            <text id="Trợ-lý-ảo-cho-hẹn-hò" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="19" fill="#8C96A8">
-                <tspan x="75.1386719" y="421.463867">Trợ lý ảo cho </tspan>
-                <tspan x="98.0166016" y="440.463867">hẹn hò</tspan>
-            </text>
-        </g>
+<svg width="320px" height="4535px" viewBox="0 0 320 4535" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Bạn-đừng-nhầm-lẫn!" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
+            <tspan x="93.7810352" y="1290.64209">Bạn đừng </tspan>
+            <tspan x="93.1188379" y="1317.64209">nhầm lẫn!</tspan>
+        </text>
+        <text id="Chanchan-không-phải" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="78.0585938" y="1418">Chanchan không phải là </tspan>
+            <tspan x="63.953125" y="1440">nền tảng giúp mọi người tìm </tspan>
+            <tspan x="65.6132812" y="1462">người yêu, người để kết hôn </tspan>
+            <tspan x="112.316406" y="1484">hay một nửa...</tspan>
+        </text>
+        <text id="Chanchan-không-là" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="73.5375977" y="1378.09473">Chanchan không là</tspan>
+        </text>
+        <text id="Chanchan-là" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="102.172363" y="1535.09473">Chanchan là</tspan>
+        </text>
+        <text id="Điều-Chanchan-có-thể" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="70.71875" y="1575">Điều Chanchan có thể làm</tspan>
+            <tspan x="59.2421875" y="1597">là giúp mọi người bắt đầu mối </tspan>
+            <tspan x="68.3476562" y="1619">quan hệ bằng sự tin tưởng. </tspan>
+            <tspan x="58.6367188" y="1641">Việc còn lại phải trông đợi vào </tspan>
+            <tspan x="80.4335938" y="1663">rung động ở mỗi người.</tspan>
+        </text>
+        <text id="Nếu-bạn-đã-sẵn-lòng" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#8C96A8">
+            <tspan x="70.4677734" y="116">Nếu bạn đã sẵn lòng </tspan>
+            <tspan x="78.1098633" y="135">cho một bước tiến </tspan>
+            <tspan x="65.7788086" y="154">mới trong tình duyên </tspan>
+            <tspan x="60" y="173">nhưng thời gian là thứ </tspan>
+            <tspan x="77.6572266" y="192">bạn đang thiếu thì </tspan>
+            <tspan x="79.340332" y="211">Chanchan là dành</tspan>
+            <tspan x="118.754883" y="230">cho bạn.</tspan>
+        </text>
+        <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="27" font-weight="500" letter-spacing="-0.81" fill="#B9C0CF">
+            <tspan x="101.850596" y="459">Chanchan</tspan>
+        </text>
+        <text id="Dành-cho-người-trưởn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#8C96A8">
+            <tspan x="57.2773438" y="574">Dành cho người trưởng thành. </tspan>
+            <tspan x="58.1601562" y="596">Phù hợp với các bạn bận công </tspan>
+            <tspan x="64.4882812" y="618">việc ít thời gian, các bạn làm </tspan>
+            <tspan x="103.1875" y="640">việc nơi công sở.</tspan>
+        </text>
+        <text id="Trợ-lý-ảo-cho-tình-d" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" line-spacing="19" fill="#8C96A8">
+            <tspan x="121.921387" y="520.463867">Trợ lý ảo </tspan>
+            <tspan x="95.4223633" y="539.463867">cho tình duyên</tspan>
+        </text>
+        <text id="Kết-nối-qua-gặp-gỡ" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
+            <tspan x="110.408564" y="1791.64209">Kết nối </tspan>
+            <tspan x="86.4449219" y="1818.64209">qua gặp gỡ</tspan>
+        </text>
+        <text id="Khi-nhận-thấy-bạn-và" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="61.8359375" y="2341">Khi nhận thấy bạn và ai đó có </tspan>
+            <tspan x="74.8515625" y="2363">những dấu hiệu phù hợp, </tspan>
+            <tspan x="60.6445312" y="2385">Chanchan sẽ tìm kiếm các cơ </tspan>
+            <tspan x="66.125" y="2407">hội kết nối hai người gặp gỡ </tspan>
+            <tspan x="57.3554688" y="2429">một cách tình cờ trong một sự </tspan>
+            <tspan x="57.375" y="2451">kiện hoặc ngẫu nhiên qua một </tspan>
+            <tspan x="126.664062" y="2473">cuộc hẹn.</tspan>
+        </text>
+        <text id="Tình-cờ-&amp;-ngẫu-nhiên" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="115.694336" y="2282.09473">Tình cờ &amp; </tspan>
+            <tspan x="106.958008" y="2301.09473">ngẫu nhiên</tspan>
+        </text>
+        <text id="Chanchan-kết-nối-qua" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="61.0585938" y="1938">Chanchan kết nối qua gặp gỡ </tspan>
+            <tspan x="58.2539062" y="1960">giúp mọi người sớm nhận biết </tspan>
+            <tspan x="56.5546875" y="1982">triển vọng với đối phương thay </tspan>
+            <tspan x="63.8398438" y="2004">vì mất thời gian vào chat hay </tspan>
+            <tspan x="93.8632812" y="2026">tán gẫu nhiều ngày.</tspan>
+        </text>
+        <text id="Không-chat-hay-tán-g" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="105.850586" y="1879.09473">Không chat </tspan>
+            <tspan x="105.077148" y="1898.09473">hay tán gẫu</tspan>
+        </text>
+        <text id="Kết-nối-lại" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
+            <tspan x="94.1608984" y="2601.64209">Kết nối lại</tspan>
+        </text>
+        <text id="Không-dừng-lại-ở-lần" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="59.7421875" y="2911">Không dừng lại ở lần gặp đầu, </tspan>
+            <tspan x="58.53125" y="2933">chừng nào bạn và đối phương </tspan>
+            <tspan x="61.1640625" y="2955">còn mong muốn gặp lại nhau </tspan>
+            <tspan x="57.125" y="2977">Chanchan sẽ tiếp tục tìm kiếm </tspan>
+            <tspan x="55.359375" y="2999">cơ hội kết nối hai người gặp lại.</tspan>
+        </text>
+        <text id="Cả-hai-càng-cho-thấy" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="68.0117188" y="3095">Cả hai càng cho thấy mong </tspan>
+            <tspan x="69.921875" y="3117">muốn gặp lại nhau càng rõ </tspan>
+            <tspan x="68.8398438" y="3139">ràng thì một cách tự nhiên, </tspan>
+            <tspan x="57.6875" y="3161">Chanchan sẽ càng ưu tiên các </tspan>
+            <tspan x="57.4609375" y="3183">cơ hội giúp hai người sớm gặp </tspan>
+            <tspan x="90.5625" y="3205">lại thay vì người mới.</tspan>
+        </text>
+        <text id="Bằng-cách-này-Chanch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="73.9257812" y="3247">Bằng cách này Chanchan</tspan>
+            <tspan x="58.5273438" y="3269">cố gắng giúp cả hai hiểu nhau </tspan>
+            <tspan x="74.046875" y="3291">nhiều hơn, tìm thấy sự tin </tspan>
+            <tspan x="73.2265625" y="3313">tưởng ở nhau sớm hơn và </tspan>
+            <tspan x="66.2265625" y="3335">chắc chắn hơn về bước tiến </tspan>
+            <tspan x="101.910156" y="3357">của mối quan hệ.</tspan>
+        </text>
+        <text id="Gặp-lại-thêm-cảm-nhậ" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="101.574707" y="2857.09473">Gặp lại thêm</tspan>
+            <tspan x="113.088379" y="2876.09473">cảm nhận</tspan>
+        </text>
+        <text id="Tăng-tốc!" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="115.584473" y="3055.09473">Tăng tốc!</tspan>
+        </text>
+        <text id="Bén-duyên!" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" line-spacing="27" letter-spacing="-0.93" fill="#1E2432">
+            <tspan x="85.3638672" y="3485.64209">Bén duyên!</tspan>
+        </text>
+        <text id="Tại-mỗi-thời-điểm-ch" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="78.1835938" y="3586">Tại mỗi thời điểm chỉ kết </tspan>
+            <tspan x="67.546875" y="3608">nối với một người duy nhất. </tspan>
+            <tspan x="70.875" y="3630">Không kết nối cùng lúc với </tspan>
+            <tspan x="119.027344" y="3652">nhiều người</tspan>
+        </text>
+        <text id="Hai-người-đang-“bén" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="64.6875" y="3947">Hai người đang “bén duyên” </tspan>
+            <tspan x="60.9570312" y="3969">khi cả hai đang chấp nhận bỏ </tspan>
+            <tspan x="55.1796875" y="3991">lỡ những cơ hội khác để đổi lấy </tspan>
+            <tspan x="64.5625" y="4013">cơ hội gặp lại nhau sớm hơn</tspan>
+        </text>
+        <text id="Nghiêm-túc" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="109" y="3549">Nghiêm túc</tspan>
+        </text>
+        <text id="Bạn-sẽ-nhận-ra!" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#5D6A80">
+            <tspan x="95" y="3910">Bạn sẽ nhận ra!</tspan>
+        </text>
+        <text id="Với-mỗi-lượt-match," font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="60.7851562" y="4302">Với mỗi lượt match, nếu chưa </tspan>
+            <tspan x="66.3359375" y="4324">đủ tin cậy Chanchan sẽ tiếp </tspan>
+            <tspan x="56.3359375" y="4346">tục xác thực. Nếu không đủ tin </tspan>
+            <tspan x="63.859375" y="4368">cậy Chanchan sẽ gỡ bỏ. Nếu </tspan>
+            <tspan x="58.8476562" y="4390">đã đủ tin cậy Chanchan sẽ kết </tspan>
+            <tspan x="63.5507812" y="4412">nối. Không mất thời gian vào </tspan>
+            <tspan x="56.75" y="4434">mối quan hệ chưa nghiêm túc. </tspan>
+            <tspan x="60.2304688" y="4456">Không kết nối khi động lực cả </tspan>
+            <tspan x="103.105469" y="4478">hai chưa rõ ràng.</tspan>
+        </text>
+        <text id="Bảo-vệ-trải-nghiệm-c" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="18" font-weight="600" line-spacing="19" fill="#1E2432">
+            <tspan x="75.8183594" y="4135.09473">Bảo vệ trải nghiệm</tspan>
+            <tspan x="94.2050781" y="4154.09473">của mọi người</tspan>
+        </text>
+        <text id="Tiêu-chuẩn-cộng-đồng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="22" fill="#343D51">
+            <tspan x="64.890625" y="4194">Tiêu chuẩn cộng đồng được </tspan>
+            <tspan x="66.3945312" y="4216">quản trị xuyên suốt từ bước </tspan>
+            <tspan x="69.9375" y="4238">Đăng ký cho đến Vận hành </tspan>
+            <tspan x="89.5625" y="4260">bằng Deep Learning.</tspan>
+        </text>
     </g>
 </svg>
