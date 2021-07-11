@@ -11,9 +11,9 @@
                     <tspan x="77.9921875" y="950">Hoặc tại Messenger bạn</tspan>
                     <tspan x="105.523438" y="972"> gọi “Chanchan” </tspan>
                 </text>
-                <text id="Bắt-đầu-với-kế-hoạch" font-family="SFCompactDisplay-Bold, SF Compact Display" font-size="22" font-weight="bold" letter-spacing="-0.88" fill="#121721">
-                    <tspan x="108.959141" y="713">Bắt đầu với </tspan>
-                    <tspan x="72.4760937" y="739">kế hoạch Dùng thử</tspan>
+                <text id="Bắt-đầu-với-kế-hoạch" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88" fill="#121721">
+                    <tspan x="110.275059" y="713">Bắt đầu với </tspan>
+                    <tspan x="74.6030469" y="739">kế hoạch Dùng thử</tspan>
                 </text>
             </g>
         </g>
