@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="370px" viewBox="0 0 320 370" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="1391px" viewBox="0 0 320 1391" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
-    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="27" font-weight="600" letter-spacing="-0.93" line-spacing="31">
-        <text id="Xác-thực-Thành-viên" fill="#5D6A80">
-            <tspan x="98.7710254" y="259.64209">Xác thực</tspan>
-            <tspan x="84.5632422" y="290.64209"> Thành viên</tspan>
-        </text>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1">
+            <text id="Xác-thực-Thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="30" font-weight="500" letter-spacing="-1.12" fill="#1E2432">
+                <tspan x="60" y="181">Xác thực</tspan>
+                <tspan x="60" y="217">Thanh toán</tspan>
+            </text>
+            <text id="Bạn-thực-hiện-theo-0" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="60" y="254">Bạn thực hiện theo 02 bước </tspan>
+                <tspan x="60" y="273">dưới đây</tspan>
+            </text>
+            <text id="Thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88" fill="#121721">
+                <tspan x="60" y="445">Thanh toán</tspan>
+            </text>
+            <text id="Bằng-chuyển-khoản-đế" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="60" y="490">Bằng chuyển khoản đến một </tspan>
+                <tspan x="60" y="509">trong hai tài khoản</tspan>
+            </text>
+            <text id="VPBank" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#018446">
+                <tspan x="60" y="548">VPBank</tspan>
+            </text>
+            <text id="125-182-437" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#018446">
+                <tspan x="60" y="579">125 182 437</tspan>
+            </text>
+            <text id="Hoặc-BIDV" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300">
+                <tspan x="60" y="619" fill="#121721">Hoặc </tspan>
+                <tspan x="98.703125" y="619" fill="#203F9A">BIDV</tspan>
+            </text>
+            <text id="2791-0000-501-984" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#203F9A">
+                <tspan x="60" y="650">2791 0000 501 984</tspan>
+            </text>
+            <text id="360.000đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="60" y="871">360.000đ </tspan>
+            </text>
+            <text id="Cho-01-tháng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="60" y="899">Cho 01 tháng</tspan>
+            </text>
+            <text id="Chủ-tài-khoản" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="60" y="700">Chủ tài khoản</tspan>
+            </text>
+            <text id="Số-tiền:" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="60" y="776">Số tiền:</tspan>
+            </text>
+            <text id="Nguyễn-Minh-Tuấn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="60" y="731">Nguyễn Minh Tuấn</tspan>
+            </text>
+            <text id="Cho-02-tháng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#FFFFFF">
+                <tspan x="60" y="1103">Cho 02 tháng</tspan>
+            </text>
+            <text id="Tổng-720.000đ-cho-03" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#FFFFFF">
+                <tspan x="60" y="1179">Tổng 720.000đ cho 03 tháng</tspan>
+                <tspan x="60" y="1202">Tiết kiệm 35%</tspan>
+            </text>
+            <text id="Hoặc" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="30" font-weight="500" letter-spacing="-0.9" fill="#FFFFFF">
+                <tspan x="60" y="1029">Hoặc</tspan>
+            </text>
+            <text id="+-Tặng-thêm-01-tháng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#FFFFFF">
+                <tspan x="60" y="1151">+ Tặng thêm 01 tháng</tspan>
+            </text>
+            <text id="720.000đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#FFFFFF">
+                <tspan x="60" y="1075">720.000đ</tspan>
+            </text>
+            <text id="Nội-dung-chuyển-khoả" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="60" y="1323">Nội dung chuyển khoản</tspan>
+            </text>
+            <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="60" y="1354">Chanchan</tspan>
+            </text>
+        </g>
     </g>
 </svg>
