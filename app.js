@@ -71,7 +71,7 @@ app.get('/terms_desk', function (req, res) {
 app.get('/policy', function (req, res) {
     res.sendFile(__dirname + '/public/policy.html');
 });
-app.get('/verifymember', function (req, res) {
+app.get('/paid', function (req, res) {
     res.sendFile(__dirname + '/public/paid.html');
 });
 app.get('/verifymember2nd', function (req, res) {
