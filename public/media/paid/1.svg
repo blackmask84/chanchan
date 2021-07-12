@@ -3,10 +3,6 @@
     <title>1</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="1">
-            <text id="Xác-thực-Thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="30" font-weight="500" letter-spacing="-1.12" fill="#1E2432">
-                <tspan x="60" y="181">Xác thực</tspan>
-                <tspan x="60" y="217">Thanh toán</tspan>
-            </text>
             <text id="Bạn-thực-hiện-theo-0" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
                 <tspan x="60" y="254">Bạn thực hiện theo 02 bước </tspan>
                 <tspan x="60" y="273">dưới đây</tspan>
