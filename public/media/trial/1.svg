@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="614px" viewBox="0 0 320 614" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="640px" viewBox="0 0 320 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="1" fill="#121721">
-            <text id="Gặp-người-phù-hợp-nh" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88">
-                <tspan x="35" y="580">Gặp người phù hợp nhất </tspan>
-                <tspan x="35" y="606">qua những kết nối ẩn danh</tspan>
+            <text id="Giúp-bạn-tìm-được-ng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88">
+                <tspan x="35" y="579">Giúp bạn tìm được người </tspan>
+                <tspan x="35" y="605">phù hợp nhất qua những </tspan>
+                <tspan x="35" y="631">lần gặp gỡ giấu mặt</tspan>
             </text>
             <text id="Phù-hợp-nhất-không-p" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23">
                 <tspan x="35" y="488">Phù hợp nhất không phải là  có </tspan>
