@@ -18,7 +18,7 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/desk', function (req, res) {
-    res.sendFile(__dirname + '/public/coming_pc.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/tieuchuanvanhanh', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
@@ -27,19 +27,19 @@ app.get('/cauhoithuonggap', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/cauchuyencuahongvan', function (req, res) {
-    res.sendFile(__dirname + '/public/4_cauchuyencuahongvan.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/hieuthemvechanchan', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/dangkythanhvienmoi', function (req, res) {
-    res.sendFile(__dirname + '/public/register2911.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/thanhtoanonline', function (req, res) {
-    res.sendFile(__dirname + '/public/payonline0112.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/thanhtoanquamomo', function (req, res) {
-    res.sendFile(__dirname + '/public/payonline0112.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/timhieuvephichuongtrinh', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
@@ -48,16 +48,16 @@ app.get('/timhieuchuongtrinh', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/chancode', function (req, res) {
-    res.sendFile(__dirname + '/public/creatprogram512.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/moiquanhetuyetvoi', function (req, res) {
-    res.sendFile(__dirname + '/public/why2111.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/mqhtv', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/lienhe', function (req, res) {
-    res.sendFile(__dirname + '/public/connect0112.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/test', function (req, res) {
     res.sendFile(__dirname + '/public/test.html');
@@ -75,13 +75,13 @@ app.get('/paid', function (req, res) {
     res.sendFile(__dirname + '/public/paid.html');
 });
 app.get('/verifymember2nd', function (req, res) {
-    res.sendFile(__dirname + '/public/paid_2.html');
+    res.sendFile(__dirname + '/public/paid.html');
 });
 app.get('/conceptintro', function (req, res) {
-    res.sendFile(__dirname + '/public/concept_intro.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/time', function (req, res) {
-    res.sendFile(__dirname + '/public/trial.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/trial', function (req, res) {
     res.sendFile(__dirname + '/public/trial.html');
@@ -93,10 +93,10 @@ app.get('/boots', function (req, res) {
     res.sendFile(__dirname + '/public/trial.html');
 });
 app.get('/remember', function (req, res) {
-    res.sendFile(__dirname + '/public/remember.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 app.get('/concept', function (req, res) {
-    res.sendFile(__dirname + '/public/concept_intro.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 
 // get form
