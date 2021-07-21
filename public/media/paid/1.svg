@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="320px" height="1391px" viewBox="0 0 320 1391" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="426.338474%" y2="-290.981129%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="92.4217241%" y1="-139.004955%" x2="-2.56781038%" y2="229.80835%" id="linearGradient-2">
+            <stop stop-color="#304FFE" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="1">
             <text id="Bạn-thực-hiện-theo-0" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
                 <tspan x="60" y="254">Bạn thực hiện theo 02 bước </tspan>
                 <tspan x="60" y="273">dưới đây</tspan>
             </text>
+            <text id="Xác-thực-Thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="30" font-weight="500" letter-spacing="-1.12" fill="#1E2432">
+                <tspan x="60" y="181">Xác thực</tspan>
+                <tspan x="60" y="217">Thanh toán</tspan>
+            </text>
             <text id="Thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88" fill="#121721">
                 <tspan x="60" y="445">Thanh toán</tspan>
             </text>
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="91.5" cy="337.5" r="21.5"></circle>
+            <path d="M93.4,346 L93.4,329.8 L91,329.8 C90.8533333,329.96 90.6433333,330.133333 90.37,330.32 C90.0966667,330.506667 89.8066667,330.68 89.5,330.84 C89.1933333,331 88.9033333,331.146667 88.63,331.28 C88.3566667,331.413333 88.14,331.52 87.98,331.6 L87.98,331.6 L87.98,333.88 C88.1,333.826667 88.2666667,333.763333 88.48,333.69 C88.6933333,333.616667 88.92,333.536667 89.16,333.45 C89.4,333.363333 89.6233333,333.283333 89.83,333.21 C90.0366667,333.136667 90.2,333.066667 90.32,333 L90.32,333 L90.32,346 L93.4,346 Z" fill="#FFFFFF" fill-rule="nonzero" opacity="0.903271484"></path>
             <text id="Bằng-chuyển-khoản-đế" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
                 <tspan x="60" y="490">Bằng chuyển khoản đến một </tspan>
                 <tspan x="60" y="509">trong hai tài khoản</tspan>
@@ -27,6 +43,7 @@
             <text id="2791-0000-501-984" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#203F9A">
                 <tspan x="60" y="650">2791 0000 501 984</tspan>
             </text>
+            <rect id="Rectangle" fill="#BBDEFB" x="30" y="812" width="260" height="122" rx="16"></rect>
             <text id="360.000đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
                 <tspan x="60" y="871">360.000đ </tspan>
             </text>
@@ -39,6 +56,7 @@
             <text id="Số-tiền:" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
                 <tspan x="60" y="776">Số tiền:</tspan>
             </text>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="30" y="964" width="260" height="299" rx="16"></rect>
             <text id="Nguyễn-Minh-Tuấn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
                 <tspan x="60" y="731">Nguyễn Minh Tuấn</tspan>
             </text>

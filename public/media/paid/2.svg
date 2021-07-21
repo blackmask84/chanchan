@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="320px" height="1183px" viewBox="0 0 320 1183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>2</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="426.338474%" y2="-290.981129%" id="linearGradient-1">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="paid" transform="translate(0.000000, -1391.000000)">
             <g id="2" transform="translate(0.000000, 1391.000000)">
@@ -29,6 +35,8 @@
                 <text id="Xác-thực" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88" fill="#121721">
                     <tspan x="60" y="145">Xác thực</tspan>
                 </text>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="91.5" cy="45.5" r="21.5"></circle>
+                <path d="M96.1,53 L96.1,50.56 L91.28,50.56 L94.4,45.86 C94.7733333,45.3133333 95.1233333,44.7833333 95.45,44.27 C95.7766667,43.7566667 96.04,43.2233333 96.24,42.67 C96.44,42.1166667 96.54,41.5133333 96.54,40.86 C96.54,39.5133333 96.18,38.4666667 95.46,37.72 C94.74,36.9733333 93.6666667,36.6 92.24,36.6 C91.1866667,36.6 90.3366667,36.81 89.69,37.23 C89.0433333,37.65 88.57,38.2333333 88.27,38.98 C87.97,39.7266667 87.82,40.58 87.82,41.54 L87.82,41.54 L87.82,42.34 L90.84,42.34 L90.84,41.58 C90.84,41.1533333 90.88,40.76 90.96,40.4 C91.04,40.04 91.1866667,39.75 91.4,39.53 C91.6133333,39.31 91.92,39.2 92.32,39.2 C92.6933333,39.2 92.98,39.3366667 93.18,39.61 C93.38,39.8833333 93.48,40.28 93.48,40.8 C93.48,41.2933333 93.3966667,41.7566667 93.23,42.19 C93.0633333,42.6233333 92.85,43.0466667 92.59,43.46 C92.33,43.8733333 92.0533333,44.3066667 91.76,44.76 L91.76,44.76 L87.82,50.82 L87.82,53 L96.1,53 Z" fill="#FFFFFF" fill-rule="nonzero" opacity="0.903271484"></path>
             </g>
         </g>
     </g>

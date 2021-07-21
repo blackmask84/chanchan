@@ -2,18 +2,22 @@
 <svg width="320px" height="640px" viewBox="0 0 320 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1" fill="#121721">
-            <text id="Giúp-bạn-tìm-được-ng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88">
+        <g id="1">
+            <text id="Giúp-bạn-tìm-được-ng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88" fill="#121721">
                 <tspan x="35" y="579">Giúp bạn tìm được người </tspan>
                 <tspan x="35" y="605">phù hợp nhất qua những </tspan>
                 <tspan x="35" y="631">lần gặp gỡ giấu mặt</tspan>
             </text>
-            <text id="Phù-hợp-nhất-không-p" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23">
+            <text id="Phù-hợp-nhất-không-p" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
                 <tspan x="35" y="488">Phù hợp nhất không phải là  có </tspan>
                 <tspan x="35" y="511">nhiều điểm chung nhất! Chỉ là tình </tspan>
                 <tspan x="35" y="534">cờ ta hiểu nhau nhiều nhất</tspan>
             </text>
-            <text id="Trợ-lý-kết-nối!" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88">
+            <path d="M43.64,444.96 L43.64,436.38 L39.44,436.38 C39.44,434.82 39.66,433.54 40.1,432.54 C40.54,431.54 41.54,431.02 43.1,430.98 L43.1,430.98 L42.38,427.92 C39.62,427.92 37.75,428.79 36.77,430.53 C35.79,432.27 35.24,434.86 35.12,438.3 C35.08,439.26 35.05,440.31 35.03,441.45 C35.01,442.59 35,443.76 35,444.96 L35,444.96 L43.64,444.96 Z M55.94,444.96 L55.94,436.38 L51.74,436.38 C51.74,434.82 51.96,433.54 52.4,432.54 C52.84,431.54 53.84,431.02 55.4,430.98 L55.4,430.98 L54.68,427.92 C51.92,427.92 50.05,428.79 49.07,430.53 C48.09,432.27 47.54,434.86 47.42,438.3 C47.38,439.26 47.35,440.31 47.33,441.45 C47.31,442.59 47.3,443.76 47.3,444.96 L47.3,444.96 L55.94,444.96 Z" id="“" fill="#D81B60" fill-rule="nonzero"></path>
+            <text id="Chanchan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.96" fill="#121721">
+                <tspan x="60" y="207">Chanchan</tspan>
+            </text>
+            <text id="Trợ-lý-kết-nối!" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="22" font-weight="500" letter-spacing="-0.88" fill="#121721">
                 <tspan x="60" y="175">Trợ lý kết nối!</tspan>
             </text>
         </g>
