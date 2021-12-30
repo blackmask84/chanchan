@@ -1,41 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="1252px" viewBox="0 0 320 1252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="992px" viewBox="0 0 320 992" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>2</title>
     <defs>
-        <linearGradient x1="100%" y1="49.9977778%" x2="0%" y2="50.0022222%" id="linearGradient-1">
-            <stop stop-color="#B9C0CF" stop-opacity="0" offset="0%"></stop>
-            <stop stop-color="#B9C0CF" offset="19.2362325%"></stop>
-            <stop stop-color="#B9C0CF" offset="80.7391827%"></stop>
-            <stop stop-color="#B9C0CF" stop-opacity="0" offset="100%"></stop>
+        <linearGradient x1="106.10273%" y1="34.5710241%" x2="-19.5209292%" y2="64.6782326%" id="linearGradient-1">
+            <stop stop-color="#304FFE" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Phù-hợp-với" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="20" font-weight="600" fill="#343D51">
-            <tspan x="105.175781" y="1074">Phù hợp với</tspan>
-        </text>
-        <text id="Các-bạn-bận-công-việ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="17" font-weight="300" line-spacing="23" fill="#5D6A80">
-            <tspan x="72.3562012" y="1105">Các bạn bận công việc ít </tspan>
-            <tspan x="77.104248" y="1128">thời gian dành cho bản </tspan>
-            <tspan x="79.1296387" y="1151">thân. Các bạn làm việc</tspan>
-            <tspan x="115.914551" y="1174">nơi công sở.</tspan>
-        </text>
-        <text id="Bén-duyên" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="20" font-weight="600" fill="#343D51">
-            <tspan x="110.600586" y="697">Bén duyên</tspan>
-        </text>
-        <text id="Gặp-lại-khi-bén-duyê" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="17" font-weight="300" line-spacing="23" fill="#5D6A80">
-            <tspan x="81.2836914" y="728">Gặp lại khi bén duyên. </tspan>
-            <tspan x="76.9838867" y="751">Thêm cơ hội, thêm thời </tspan>
-            <tspan x="104.725098" y="774">gian cảm nhận.</tspan>
-        </text>
-        <text id="Gặp-gỡ" font-family="SFCompactDisplay-Heavy, SF Compact Display" font-size="20" font-weight="600" fill="#343D51">
-            <tspan x="127.568359" y="260">Gặp gỡ</tspan>
-        </text>
-        <text id="Hiện-thực-hóa-cơ-hội" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="17" font-weight="300" line-spacing="23" fill="#5D6A80">
-            <tspan x="85.434082" y="291">Hiện thực hóa cơ hội </tspan>
-            <tspan x="69.6293945" y="314">gặp gỡ Match qua các sự </tspan>
-            <tspan x="73.5058594" y="337">kiện đồng hành vào thời </tspan>
-            <tspan x="124.070068" y="360">gian rảnh.</tspan>
-        </text>
-        <rect id="Rectangle" fill="url(#linearGradient-1)" x="85" y="0" width="150" height="1"></rect>
+    <g id="Chanchan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Trial" transform="translate(0.000000, -640.000000)">
+            <g id="2" transform="translate(0.000000, 640.000000)">
+                <text id="Bắt-đầu-với-kế-hoạch" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.96" fill="#121721">
+                    <tspan x="105.754609" y="711">Bắt đầu với </tspan>
+                    <tspan x="66.8396875" y="740">kế hoạch Dùng thử</tspan>
+                </text>
+                <text id="Phiên-bản-Beta" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="18" font-weight="300" line-spacing="25" fill="#343D51">
+                    <tspan x="102.414062" y="783">Phiên bản Beta</tspan>
+                </text>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="55" y="856" width="210" height="60" rx="21"></rect>
+                <text id="Dùng-thử" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" fill="#FFFFFF">
+                    <tspan x="117.919922" y="891">Dùng thử</tspan>
+                </text>
+                <path d="M85,875 C78.92525,875 74,879.5595 74,885.184625 C74,888.38975 75.599125,891.248375 78.098875,893.115625 L78.098875,897 L81.844375,894.944375 C82.844,895.22075 83.90275,895.370625 85,895.370625 C91.07475,895.370625 96,890.811125 96,885.186 C96,879.560875 91.07475,875 85,875 Z M86.093125,888.715625 L83.29225,885.72775 L77.826625,888.715625 L83.8395,882.332875 L86.709125,885.32075 L92.106,882.332875 L86.093125,888.715625 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
     </g>
 </svg>
