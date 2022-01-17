@@ -104,8 +104,11 @@ app.get('/connect_guide', function (req, res) {
 app.get('/open_letter', function (req, res) {
     res.sendFile(__dirname + '/public/open_letter.html');
 });
-app.get('/open_letter%', function (req, res) {
+app.get('/openletter%', function (req, res) {
     res.sendFile(__dirname + '/public/open_letter.html');
+});
+app.get('/matchguide%', function (req, res) {
+    res.sendFile(__dirname + '/public/match_guide.html');
 });
 
 // get form
