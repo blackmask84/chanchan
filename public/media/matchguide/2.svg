@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="1125px" viewBox="0 0 320 1125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="1605px" viewBox="0 0 320 1605" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>2</title>
     <defs>
         <linearGradient x1="91.6244872%" y1="-62.6229471%" x2="2.10428005%" y2="166.114099%" id="linearGradient-1">
@@ -13,7 +13,7 @@
         </linearGradient>
     </defs>
     <g id="Chanchan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="iPhone-SE" transform="translate(0.000000, -1265.000000)">
+        <g id="iPhone-SE" transform="translate(0.000000, -785.000000)">
             <g id="Group" transform="translate(35.000000, 1315.000000)">
                 <text id="Hai-bạn-sẽ-trả-lời-b" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
                     <tspan x="0" y="93">Hai bạn sẽ trả lời bằng Tin nhắn </tspan>
@@ -45,8 +45,8 @@
                 <tspan x="35" y="1893">thẳng thắn. Chúng tôi muốn hai bạn </tspan>
                 <tspan x="35" y="1916">nghe được những câu trả lời thành </tspan>
                 <tspan x="35" y="1939">thật của nhau. Do đó tại lần kết nối </tspan>
-                <tspan x="35" y="1962">đầu tiên này hai bạn sẽ giấu mặt. Hai </tspan>
-                <tspan x="35" y="1985">bạn sẽ chỉ biết mặt nhau cho đến khi </tspan>
+                <tspan x="35" y="1962">đầu tiên này hai bạn sẽ giấu mặt! Hai </tspan>
+                <tspan x="35" y="1985">bạn sẽ chỉ biết mặt nhau sau khi </tspan>
                 <tspan x="35" y="2008">Ngắt kết nối.</tspan>
             </text>
             <rect id="Rectangle" fill="url(#linearGradient-2)" x="35" y="2046" width="250" height="344" rx="16"></rect>
