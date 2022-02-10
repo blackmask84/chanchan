@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="322px" viewBox="0 0 320 322" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3</title>
+    <g id="Chanchan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-SE" transform="translate(0.000000, -803.000000)">
+            <text id="Bằng-cách-nhấn-Like" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
+                <tspan x="35" y="879">Bằng cách nhấn Like để bật Chế độ </tspan>
+                <tspan x="35" y="902">hồ sơ bạn có thể kiểm tra hoặc điều </tspan>
+                <tspan x="35" y="925">chỉnh lại cơ hội kết nối</tspan>
+            </text>
+            <text id="Tùy-chỉnh" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#8C96A8">
+                <tspan x="35" y="842">Tùy chỉnh</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

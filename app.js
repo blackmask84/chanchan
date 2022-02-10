@@ -110,6 +110,9 @@ app.get('/openletter%', function (req, res) {
 app.get('/matchguide%', function (req, res) {
     res.sendFile(__dirname + '/public/match_guide.html');
 });
+app.get('/remguide%', function (req, res) {
+    res.sendFile(__dirname + '/public/rematch_guide.html');
+});
 
 // get form
 app.get('/believe', function (req, res) {
