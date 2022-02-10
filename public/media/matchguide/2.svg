@@ -37,8 +37,8 @@
                     <tspan x="35" y="398">đối phương</tspan>
                 </text>
             </g>
-            <text id="Ẩn-danh" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
-                <tspan x="35" y="1829">Ẩn danh</tspan>
+            <text id="Giấu-mặt" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
+                <tspan x="35" y="1829">Giấu mặt</tspan>
             </text>
             <text id="Lần-đầu-sẽ-có-những" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
                 <tspan x="35" y="1870">Lần đầu sẽ có những Chủ đề khá </tspan>
