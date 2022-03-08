@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="2002px" viewBox="0 0 320 2002" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="2029px" viewBox="0 0 320 2029" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>3</title>
     <defs>
         <linearGradient x1="91.6244872%" y1="-62.6229471%" x2="2.10428005%" y2="166.114099%" id="linearGradient-1">
@@ -15,7 +15,7 @@
     <g id="Chanchan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="match.guide" transform="translate(0.000000, -1113.000000)">
             <g id="3" transform="translate(0.000000, 1113.000000)">
-                <rect id="Rectangle" x="0" y="0" width="320" height="2002"></rect>
+                <rect id="Rectangle" x="0" y="0" width="320" height="2029"></rect>
                 <text id="Hai-bạn-sẽ-trả-lời-b" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
                     <tspan x="35" y="143">Hai bạn sẽ trả lời bằng Tin nhắn </tspan>
                     <tspan x="35" y="166">giọng nói. Hãy đảm bảo không gian </tspan>
@@ -78,23 +78,23 @@
                     <tspan x="70" y="1163">cân nhắc</tspan>
                 </text>
                 <text id="Chúng-tôi-hiểu-rằng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                    <tspan x="35" y="1750">Chúng tôi hiểu rằng để đi đến một </tspan>
-                    <tspan x="35" y="1773">mối quan hệ chín chắn thì lần gặp </tspan>
-                    <tspan x="35" y="1796">đầu tiên là không đủ.</tspan>
+                    <tspan x="35" y="1779">Chúng tôi hiểu rằng để đi đến một </tspan>
+                    <tspan x="35" y="1802">mối quan hệ nghiêm túc  thì lần gặp </tspan>
+                    <tspan x="35" y="1825">đầu tiên là không đủ.</tspan>
                 </text>
                 <text id="Chúc-hai-bạn-có-khoả" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
-                    <tspan x="35" y="1943">Chúc hai bạn có khoảng thời gian </tspan>
-                    <tspan x="35" y="1967">tuyệt vời cùng nhau! Sau đây bạn </tspan>
-                    <tspan x="35" y="1991">có thể “Xác nhận” kết nối</tspan>
+                    <tspan x="35" y="1972">Chúc hai bạn có khoảng thời gian </tspan>
+                    <tspan x="35" y="1996">tuyệt vời cùng nhau! Sau đây bạn </tspan>
+                    <tspan x="35" y="2020">có thể “Xác nhận” kết nối</tspan>
                 </text>
                 <text id="Sau-khi-ngắt-kết-nối" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                    <tspan x="35" y="1835">Sau khi ngắt kết nối Chanchan sẽ </tspan>
-                    <tspan x="35" y="1858">tiếp tục kết nối hai bạn gặp lại vào </tspan>
-                    <tspan x="35" y="1881">khoảng thời gian khác nếu còn cơ </tspan>
-                    <tspan x="35" y="1904">hội. Chúng tôi sẽ nói về điều này sau</tspan>
+                    <tspan x="35" y="1864">Sau khi ngắt kết nối Chanchan sẽ </tspan>
+                    <tspan x="35" y="1887">tiếp tục kết nối hai bạn gặp lại vào </tspan>
+                    <tspan x="35" y="1910">khoảng thời gian khác chừng nào </tspan>
+                    <tspan x="35" y="1933">hai bạn vẫn dành cho nhau cơ hội.</tspan>
                 </text>
                 <text id="Sau-kết-nối" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
-                    <tspan x="35" y="1709">Sau kết nối</tspan>
+                    <tspan x="35" y="1738">Sau kết nối</tspan>
                 </text>
                 <text id="Chanchan-sẽ-dừng-kết" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
                     <tspan x="35" y="1411">Chanchan sẽ dừng kết nối khi hết </tspan>
@@ -102,13 +102,14 @@
                     <tspan x="35" y="1457">yêu cầu Dừng kết nối</tspan>
                 </text>
                 <text id="Lần-kết-nối-đầu-tiên" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
-                    <tspan x="35" y="1528">Lần kết nối đầu tiên</tspan>
+                    <tspan x="35" y="1528">Lần kết nối</tspan>
+                    <tspan x="35" y="1557">đầu tiên</tspan>
                 </text>
                 <text id="Được-xác-định-bởi-sự" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                    <tspan x="35" y="1569">Được xác định bởi sự phù hợp ở mức </tspan>
-                    <tspan x="35" y="1592">độ cơ bản về các Tiêu chí. Ngoài tiêu </tspan>
-                    <tspan x="35" y="1615">chí Hôn nhân luôn cố định thì các </tspan>
-                    <tspan x="35" y="1638">Tiêu chí còn lại có thể co dãn.</tspan>
+                    <tspan x="35" y="1598">Được xác định bởi sự phù hợp ở mức </tspan>
+                    <tspan x="35" y="1621">độ cơ bản về các Tiêu chí. Ngoài tiêu </tspan>
+                    <tspan x="35" y="1644">chí Hôn nhân luôn cố định thì các </tspan>
+                    <tspan x="35" y="1667">Tiêu chí còn lại có thể co dãn.</tspan>
                 </text>
             </g>
         </g>
