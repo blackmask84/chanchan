@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="279px" viewBox="0 0 320 279" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="851px" viewBox="0 0 320 851" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="851"></rect>
+    </defs>
     <g id="Chanchan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="iPhone-SE">
-            <text id="Gặp-lại!" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="30" font-weight="500" letter-spacing="-1.12" fill="#1E2432">
-                <tspan x="35" y="154">Gặp lại!</tspan>
+        <g id="1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle"></g>
+            <text id="Gặp-lại!" mask="url(#mask-2)" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="30" font-weight="500" letter-spacing="-1.12" fill="#1E2432">
+                <tspan x="35" y="181">Gặp lại!</tspan>
             </text>
-            <text id="Chúng-tôi-hiểu-rằng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                <tspan x="35" y="196">Chúng tôi hiểu rằng để</tspan>
-                <tspan x="35" y="219">đi đến một mối quan hệ </tspan>
-                <tspan x="35" y="242">chín chắn thì lần gặp đầu </tspan>
-                <tspan x="35" y="265">tiên là không đủ!</tspan>
+            <text id="Chúng-tôi-hiểu-rằng" mask="url(#mask-2)" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
+                <tspan x="35" y="223">Chúng tôi hiểu rằng để</tspan>
+                <tspan x="35" y="246">đi đến một mối quan hệ </tspan>
+                <tspan x="35" y="269">chín chắn thì lần gặp đầu </tspan>
+                <tspan x="35" y="292">tiên là không đủ!</tspan>
+            </text>
+            <text id="Chanchan-sẽ-tiếp-tục" mask="url(#mask-2)" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
+                <tspan x="35" y="335">Chanchan sẽ tiếp tục tìm cơ hội kết </tspan>
+                <tspan x="35" y="358">nối hai bạn gặp lại vào Khoảng thời </tspan>
+                <tspan x="35" y="381">gian khác. Cơ hội gặp lại mặc định là </tspan>
+                <tspan x="35" y="404">Tùy duyên được tính toán dựa trên </tspan>
+                <tspan x="35" y="427">các phép so sánh. Ví dụ:</tspan>
+            </text>
+            <text id="Tối-mai-bạn-có-cơ-hộ" mask="url(#mask-2)" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="35" y="466">Tối mai bạn có cơ hội gặp lại đồng </tspan>
+                <tspan x="35" y="490">thời cả A và B. Chanchan sẽ ngầm </tspan>
+                <tspan x="35" y="514">học hỏi để đánh giá mức độ phù </tspan>
+                <tspan x="35" y="538">hợp của “bạn và A” với “bạn và B”. </tspan>
+                <tspan x="35" y="562">Nếu “bạn và A”  phù hợp hơn thì </tspan>
+                <tspan x="35" y="586">Chanchan sẽ ưu tiên cơ hội bạn </tspan>
+                <tspan x="35" y="610">gặp lại A nhiều hơn bạn gặp lại B</tspan>
+            </text>
+            <text id="Một-cách-dễ-hiểu-bạn" mask="url(#mask-2)" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="35" y="650">Một cách dễ hiểu bạn càng phù </tspan>
+                <tspan x="35" y="674">hợp với ai thì Chanchan càng ưu </tspan>
+                <tspan x="35" y="698">tiên cơ hội bạn gặp lại người ấy</tspan>
+            </text>
+            <text id="Trên-là-ví-dụ-minh-h" mask="url(#mask-2)" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
+                <tspan x="35" y="738">Trên là ví dụ minh họa. Thực tế sẽ </tspan>
+                <tspan x="35" y="761">phức tạp hơn vì quy mô lớn hơn. Đơn </tspan>
+                <tspan x="35" y="784">cử ngoài bạn ra A và B còn có cơ hội </tspan>
+                <tspan x="35" y="807">gặp lại những người khác nữa mà </tspan>
+                <tspan x="35" y="830">Chanchan cũng sẽ phải xem xét.</tspan>
             </text>
         </g>
     </g>

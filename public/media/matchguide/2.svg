@@ -1,96 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="2150px" viewBox="0 0 320 2150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="624px" viewBox="0 0 320 624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>2</title>
-    <defs>
-        <linearGradient x1="91.6244872%" y1="-62.6229471%" x2="2.10428005%" y2="166.114099%" id="linearGradient-1">
-            <stop stop-color="#304FFE" offset="0%"></stop>
-            <stop stop-color="#651FFF" offset="100%"></stop>
-            <stop stop-color="#651FFF" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="29.3556947%" y1="115.606219%" x2="97.1230107%" y2="-129.698731%" id="linearGradient-2">
-            <stop stop-color="#F50057" offset="0%"></stop>
-            <stop stop-color="#651FFF" offset="100%"></stop>
-        </linearGradient>
-    </defs>
     <g id="Chanchan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="iPhone-SE" transform="translate(0.000000, -785.000000)">
-            <g id="Group" transform="translate(35.000000, 1315.000000)">
-                <text id="Hai-bạn-sẽ-trả-lời-b" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                    <tspan x="0" y="93">Hai bạn sẽ trả lời bằng Tin nhắn </tspan>
-                    <tspan x="0" y="116">giọng nói. Hãy đảm bảo không gian </tspan>
-                    <tspan x="0" y="139">quanh bạn tương đối yên tĩnh</tspan>
-                </text>
-                <text id="Tin-nhắn-giọng-nói" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
-                    <tspan x="0" y="23">Tin nhắn</tspan>
-                    <tspan x="0" y="52">giọng nói</tspan>
-                </text>
-                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="177" width="250" height="274" rx="16"></rect>
-                <text id="Hạn-chế-tạp-âm-xung" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#FFFFFF">
-                    <tspan x="35" y="241">Hạn chế tạp âm xung </tspan>
-                    <tspan x="35" y="265">quanh lẫn vào giọng </tspan>
-                    <tspan x="35" y="289">nói của bạn!</tspan>
-                </text>
-                <text id="Điều-này-sẽ-ảnh-hưởn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#FFFFFF">
-                    <tspan x="35" y="329">Điều này sẽ ảnh hưởng </tspan>
-                    <tspan x="35" y="352">đến chất lượng kết nối </tspan>
-                    <tspan x="35" y="375">cũng như trải nghiệm của </tspan>
-                    <tspan x="35" y="398">đối phương</tspan>
-                </text>
-            </g>
-            <text id="Giấu-mặt!" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
-                <tspan x="35" y="1829">Giấu mặt!</tspan>
-            </text>
-            <text id="Lần-đầu-sẽ-có-những" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                <tspan x="35" y="1870">Lần đầu sẽ có những Chủ đề khá </tspan>
-                <tspan x="35" y="1893">thẳng thắn. Chúng tôi muốn hai bạn </tspan>
-                <tspan x="35" y="1916">nghe được những câu trả lời thành </tspan>
-                <tspan x="35" y="1939">thật của nhau. Do đó tại lần kết nối </tspan>
-                <tspan x="35" y="1962">đầu tiên này hai bạn sẽ giấu mặt! Hai </tspan>
-                <tspan x="35" y="1985">bạn sẽ chỉ biết mặt nhau sau khi </tspan>
-                <tspan x="35" y="2008">Ngắt kết nối.</tspan>
-            </text>
-            <rect id="Rectangle" fill="url(#linearGradient-2)" x="35" y="2046" width="250" height="406" rx="16"></rect>
-            <text id="Kết-nối-giữa-hai-bạn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                <tspan x="35" y="2566">Kết nối giữa hai bạn sẽ mở trong </tspan>
-                <tspan x="35" y="2589">khoảng một tiếng hoặc hơn. Kết nối </tspan>
-                <tspan x="35" y="2612">sẽ bị ngắt khi hết thời gian hoặc </tspan>
-                <tspan x="35" y="2635">không có thêm Chủ đề mới.</tspan>
-            </text>
-            <text id="Chúng-tôi-hiểu-rằng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                <tspan x="35" y="2757">Chúng tôi hiểu rằng để đi đến một </tspan>
-                <tspan x="35" y="2780">mối quan hệ chín chắn thì lần gặp </tspan>
-                <tspan x="35" y="2803">đầu tiên là không đủ.</tspan>
-            </text>
-            <text id="Sau-khi-ngắt-kết-nối" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
-                <tspan x="35" y="2842">Sau khi ngắt kết nối Chanchan sẽ </tspan>
-                <tspan x="35" y="2865">tiếp tục kết nối hai bạn gặp lại vào </tspan>
-                <tspan x="35" y="2888">khoảng thời gian khác theo logic Cơ </tspan>
-                <tspan x="35" y="2911">hội. Chúng tôi sẽ nói về điều này sau</tspan>
-            </text>
-            <text id="Sau-kết-nối" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
-                <tspan x="35" y="2716">Sau kết nối</tspan>
-            </text>
-            <text id="Thời-gian-kết-nối" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" letter-spacing="-0.896" fill="#1E2432">
-                <tspan x="35" y="2525">Thời gian kết nối</tspan>
-            </text>
-            <text id="Nếu-đối-phương-chia" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#FFFFFF">
-                <tspan x="70" y="2110">Nếu đối phương chia </tspan>
-                <tspan x="70" y="2134">sẻ hoặc hỏi bạn </tspan>
-                <tspan x="70" y="2158">những thông tin xác </tspan>
-                <tspan x="70" y="2182">định danh tính</tspan>
-            </text>
-            <text id="Ví-dụ-như-Số-điện-th" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#FFFFFF">
-                <tspan x="70" y="2222">Ví dụ như Số điện thoại, </tspan>
-                <tspan x="70" y="2245">Facebook, Zalo… Đó có </tspan>
-                <tspan x="70" y="2268">thể là dấu hiệu của một </tspan>
-                <tspan x="70" y="2291">kết nối không an toàn</tspan>
-            </text>
-            <text id="Khi-đó-việc-yêu-cầu" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#FFFFFF">
-                <tspan x="70" y="2330">Khi đó việc yêu cầu </tspan>
-                <tspan x="70" y="2353">Chanchan “Dừng kết nối” </tspan>
-                <tspan x="70" y="2376">là một lựa chọn bạn nên </tspan>
-                <tspan x="70" y="2399">cân nhắc</tspan>
-            </text>
+        <g id="2">
+            <rect x="0" y="0" width="320" height="624"></rect>
         </g>
     </g>
 </svg>
