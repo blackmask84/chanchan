@@ -6,6 +6,8 @@
 @font-face{font-family:'SF Compact Display';src:url(webfont/SFfont/SFCompactDisplay-Light.woff2) format("woff2");font-weight:300}
 @font-face{font-family:'SF Compact Display';src:url(webfont/SFfont/SFCompactDisplay-Ultralight.woff2) format("woff2");font-weight:200}
 @font-face{font-family:'SF Compact Text';src:url(webfont/SFfont/SFCompactText-LightItalic.woff2) format("woff2");font-weight:300;font-style:italic}
+@font-face{font-family:'GMV DIN Cond';src:url(webfont/GMV-Cond/GMVDINPro-CondBlack.woff2) format("woff2");font-weight:800;font-style:condensed}
+@font-face{font-family:'GMV DIN Cond';src:url(webfont/GMV-Cond/GMVDINPro-CondBold.woff2) format("woff2");font-weight:bold;font-style:condensed}
 
 /* Reset Common */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:0;padding:0}

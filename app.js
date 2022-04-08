@@ -113,6 +113,9 @@ app.get('/matchguide%', function (req, res) {
 app.get('/remguide%', function (req, res) {
     res.sendFile(__dirname + '/public/rematch_guide.html');
 });
+app.get('/newsignpolicy%', function (req, res) {
+    res.sendFile(__dirname + '/public/rematch_guide.html');
+});
 
 // get form
 app.get('/believe', function (req, res) {
