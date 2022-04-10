@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="1264px" viewBox="0 0 320 1264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="320px" height="1243px" viewBox="0 0 320 1243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
     <defs>
         <rect id="path-1" x="15" y="358" width="290" height="534" rx="19"></rect>
@@ -30,9 +30,9 @@
             <stop stop-color="#00B0FF" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="1">
-            <rect id="Rectangle" fill="#F0F6FA" x="0" y="335" width="320" height="929"></rect>
+            <rect id="Rectangle" fill="#F0F6FA" x="0" y="335" width="320" height="908"></rect>
             <g id="Rectangle">
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
@@ -109,9 +109,8 @@
             <text id="Thời-điểm-thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
                 <tspan x="70" y="1163">Thời điểm thanh toán</tspan>
             </text>
-            <text id="Thanh-toán-sau-lần-k" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
-                <tspan x="70" y="1190">Thanh toán sau lần kết nối</tspan>
-                <tspan x="70" y="1214">đầu tiên</tspan>
+            <text id="Sau-lần-kết-nối-đầu" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="1190">Sau lần kết nối đầu tiên</tspan>
             </text>
             <text id="Đảm-bảo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
                 <tspan x="70" y="1090">Đảm bảo</tspan>
