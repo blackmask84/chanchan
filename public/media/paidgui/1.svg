@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="1194px" viewBox="0 0 320 1194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <defs>
+        <linearGradient x1="-19.7158884%" y1="127.093513%" x2="121.647364%" y2="-73.554631%" id="linearGradient-1">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#00B0FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1">
+            <g id="Group-11" transform="translate(60.000000, 540.000000)"></g>
+            <g id="Group-11" transform="translate(60.000000, 611.000000)"></g>
+            <g id="Group-8" transform="translate(70.000000, 323.000000)"></g>
+            <path d="M0,1014 L43.2294902,1014 C54.25826,1014 65.1355683,1011.43222 75,1006.5 C84.4427191,1001.77864 95.5572809,1001.77864 105,1006.5 C114.864432,1011.43222 125.74174,1014 136.77051,1014 L320,1014 L320,1014 L320,370 L0,370 L0,1014 Z" id="Rectangle" fill="#FFFFFF" transform="translate(160.000000, 692.000000) scale(1, -1) translate(-160.000000, -692.000000) "></path>
+            <path d="M0,1194 L43.2294902,1194 C54.25826,1194 65.1355683,1191.43222 75,1186.5 C84.4427191,1181.77864 95.5572809,1181.77864 105,1186.5 C114.864432,1191.43222 125.74174,1194 136.77051,1194 L320,1194 L320,1194 L320,994 L0,994 L0,1194 Z" id="Rectangle" fill="#F0F6FA" transform="translate(160.000000, 1094.000000) scale(1, -1) translate(-160.000000, -1094.000000) "></path>
+            <path d="M91.5,944 C103.374122,944 113,953.625878 113,965.5 C113,977.374122 103.374122,987 91.5,987 C79.6258779,987 70,977.374122 70,965.5 C70,953.625878 79.6258779,944 91.5,944 Z M91.502,956.98 C90.396,956.98 89.5035,957.2005 88.8245,957.6415 C88.1455,958.0825 87.6485,958.695 87.3335,959.479 C87.057875,960.165 86.9028359,960.93675 86.8683828,961.79425 L86.861,962.167 L86.861,963.007 L90.032,963.007 L90.032,962.209 C90.032,961.761 90.074,961.348 90.158,960.97 C90.242,960.592 90.396,960.2875 90.62,960.0565 C90.844,959.8255 91.166,959.71 91.586,959.71 C91.978,959.71 92.279,959.8535 92.489,960.1405 C92.699,960.4275 92.804,960.844 92.804,961.39 C92.804,961.908 92.7165,962.3945 92.5415,962.8495 C92.3665,963.3045 92.1425,963.749 91.8695,964.183 C91.6875,964.472333 91.4977222,964.771 91.3001667,965.079 L90.998,965.548 L86.861,971.911 L86.861,974.2 L95.555,974.2 L95.555,971.638 L90.494,971.638 L93.77,966.703 C94.162,966.129 94.5295,965.5725 94.8725,965.0335 C95.2155,964.4945 95.492,963.9345 95.702,963.3535 C95.912,962.7725 96.017,962.139 96.017,961.453 C96.017,960.039 95.639,958.94 94.883,958.156 C94.127,957.372 93,956.98 91.502,956.98 Z" id="Oval-3" fill="url(#linearGradient-1)"></path>
+            <path d="M91.5,323 C103.374122,323 113,332.625878 113,344.5 C113,356.374122 103.374122,366 91.5,366 C79.6258779,366 70,356.374122 70,344.5 C70,332.625878 79.6258779,323 91.5,323 Z M94.195,335.99 L91.675,335.99 C91.521,336.158 91.3005,336.34 91.0135,336.536 C90.7265,336.732 90.422,336.914 90.1,337.082 C89.778,337.25 89.4735,337.404 89.1865,337.544 C88.9569,337.656 88.76538,337.75008 88.61194,337.82624 L88.504,337.88 L88.504,340.274 C88.63,340.218 88.805,340.1515 89.029,340.0745 C89.253,339.9975 89.491,339.9135 89.743,339.8225 C89.995,339.7315 90.2295,339.6475 90.4465,339.5705 C90.60925,339.51275 90.7464063,339.456969 90.8579688,339.403156 L90.961,339.35 L90.961,353 L94.195,353 L94.195,335.99 Z" id="Oval-2" fill="url(#linearGradient-1)"></path>
+            <text id="Bạn-thực-hiện-theo-0" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="60" y="261">Bạn thực hiện theo 02 bước </tspan>
+                <tspan x="60" y="285">dưới đây</tspan>
+            </text>
+            <text id="Hướng-dẫn-Thanh-toán" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
+                <tspan x="60" y="185">Hướng dẫn</tspan>
+                <tspan x="60" y="215">Thanh toán</tspan>
+            </text>
+            <text id="Thanh-toán" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="bold" fill="#121721">
+                <tspan x="60" y="449">Thanh toán</tspan>
+            </text>
+            <text id="Bằng-chuyển-khoản-đế" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="60" y="494">Bằng chuyển khoản đến một </tspan>
+                <tspan x="60" y="518">trong hai tài khoản</tspan>
+            </text>
+            <text id="VPBank" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#018446">
+                <tspan x="60" y="562">VPBank</tspan>
+            </text>
+            <text id="125-182-437" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#018446">
+                <tspan x="60" y="593">125 182 437</tspan>
+            </text>
+            <text id="125182437" font-family="Oswald-Regular_SemiBold, Oswald" font-size="32" font-weight="500" letter-spacing="-1.28" fill="#FFFFFF" fill-opacity="0">
+                <tspan x="59" y="587">125182437</tspan>
+            </text>
+            <text id="Hoặc-BIDV" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300">
+                <tspan x="60" y="630" fill="#121721">Hoặc </tspan>
+                <tspan x="98.703125" y="630" fill="#203F9A">BIDV</tspan>
+            </text>
+            <text id="2791-0000-501-984" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#203F9A">
+                <tspan x="60" y="661">2791 0000 501 984</tspan>
+            </text>
+            <text id="27910000501984" font-family="Oswald-Regular_SemiBold, Oswald" font-size="32" font-weight="500" letter-spacing="-1.28" fill="#FFFFFF" fill-opacity="0">
+                <tspan x="59" y="655">27910000501984</tspan>
+            </text>
+            <text id="360.000đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="60" y="816">360.000đ </tspan>
+            </text>
+            <text id="Chủ-tài-khoản" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="60" y="705">Chủ tài khoản</tspan>
+            </text>
+            <text id="Số-tiền" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="60" y="785">Số tiền</tspan>
+            </text>
+            <text id="Nguyen-Minh-Tuan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="60" y="741">Nguyen Minh Tuan</tspan>
+            </text>
+            <text id="Nội-dung-chuyển-khoả" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="60" y="860">Nội dung chuyển khoản</tspan>
+            </text>
+            <text id="Chanchan-Tangtoc" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="60" y="891">Chanchan Tangtoc</tspan>
+            </text>
+            <text id="Bạn-gửi-ảnh-chụp-màn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="60" y="1117">Bạn gửi ảnh chụp màn hình </tspan>
+                <tspan x="60" y="1141">giao dịch thành công cho </tspan>
+                <tspan x="60" y="1165">Chanchan để xác nhận</tspan>
+            </text>
+            <text id="Xác-nhận" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="bold" fill="#121721">
+                <tspan x="60" y="1072">Xác nhận</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

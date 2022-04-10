@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="1264px" viewBox="0 0 320 1264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <defs>
+        <rect id="path-1" x="15" y="358" width="290" height="541" rx="19"></rect>
+        <filter x="-6.7%" y="-2.1%" width="110.7%" height="105.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.42745098   0 0 0 0 0.447058824   0 0 0 0 0.470588235  0 0 0 0.0999260749 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-19.7158884%" y1="127.093513%" x2="121.647364%" y2="-73.554631%" id="linearGradient-3">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#00B0FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="128.824167%" x2="240.989022%" y2="-154.098837%" id="linearGradient-4">
+            <stop stop-color="#F50057" offset="0%"></stop>
+            <stop stop-color="#AA00FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-19.7158884%" y1="56.73876%" x2="121.647364%" y2="39.200064%" id="linearGradient-5">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#00B0FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-13.0%" y="-44.1%" width="126.1%" height="188.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1">
+            <rect id="Rectangle" fill="#F0F6FA" x="0" y="335" width="320" height="929"></rect>
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M44,717 C48.9705627,717 53,721.029437 53,726 C53,730.970563 48.9705627,735 44,735 C39.0294373,735 35,730.970563 35,726 C35,721.029437 39.0294373,717 44,717 Z M48.8401618,725.679675 L45.2288098,721.772739 C45.1257212,721.661215 44.988324,721.6 44.8418212,721.6 C44.6951557,721.6 44.5578398,721.661303 44.4547512,721.772739 L44.1268678,722.127539 C44.0238605,722.238887 43.967113,722.387614 43.967113,722.546193 C43.967113,722.704683 44.0238605,722.858424 44.1268678,722.969772 L46.2336795,725.253985 L39.5402394,725.253985 C39.2384533,725.253985 39,725.509575 39,725.836143 L39,726.337736 C39,726.664303 39.2384533,726.945663 39.5402394,726.945663 L46.2575817,726.945663 L44.1269491,729.24263 C44.0239418,729.354153 43.9671943,729.498835 43.9671943,729.657413 C43.9671943,729.815816 44.0239418,729.962608 44.1269491,730.074044 L44.4548325,730.427701 C44.5579211,730.539225 44.695237,730.6 44.8419025,730.6 C44.9884053,730.6 45.1258025,730.538433 45.2288911,730.42691 L48.8402431,726.520061 C48.9435755,726.408185 49.0004043,726.258842 49,726.100088 C49.000323,725.940806 48.9435755,725.791375 48.8401618,725.679675 Z" id="Rectangle-2" fill="url(#linearGradient-3)"></path>
+            <path d="M44,541 C48.9705627,541 53,545.029437 53,550 C53,554.970563 48.9705627,559 44,559 C39.0294373,559 35,554.970563 35,550 C35,545.029437 39.0294373,541 44,541 Z M48.414641,546.231178 C48.1159312,545.922941 47.6308901,545.922941 47.3316193,546.231178 L47.3316193,546.231178 L42.4682124,551.241954 L40.6683807,549.387524 C40.3692034,549.079287 39.8846298,549.079287 39.585359,549.387524 L39.585359,549.387524 L39.2243829,549.759527 C38.9252057,550.067186 38.9252057,550.567011 39.2243829,550.875248 L39.2243829,550.875248 L42.1072364,553.845882 C42.2026926,553.944806 42.3329282,554 42.4682124,554 C42.6034966,554 42.7337322,553.944806 42.8291885,553.845882 L42.8291885,553.845882 L48.7756171,547.718902 C49.0747943,547.411147 49.0747943,546.911418 48.7756171,546.603181 L48.7756171,546.603181 Z" id="Rectangle-2" fill="url(#linearGradient-3)"></path>
+            <path d="M44,1158 C48.9705627,1158 53,1162.02944 53,1167 C53,1171.97056 48.9705627,1176 44,1176 C39.0294373,1176 35,1171.97056 35,1167 C35,1162.02944 39.0294373,1158 44,1158 Z M44.8418212,1162.6 C44.6951557,1162.6 44.5578398,1162.6613 44.4547512,1162.77274 L44.1268678,1163.12754 C44.0238605,1163.23889 43.967113,1163.38761 43.967113,1163.54619 C43.967113,1163.70468 44.0238605,1163.85842 44.1268678,1163.96977 L46.2336795,1166.25399 L39.5402394,1166.25399 C39.2384533,1166.25399 39,1166.50958 39,1166.83614 L39,1167.33774 C39,1167.6643 39.2384533,1167.94566 39.5402394,1167.94566 L46.2575817,1167.94566 L44.1269491,1170.24263 C44.0239418,1170.35415 43.9671943,1170.49884 43.9671943,1170.65741 C43.9671943,1170.81582 44.0239418,1170.96261 44.1269491,1171.07404 L44.4548325,1171.4277 C44.5579211,1171.53922 44.695237,1171.6 44.8419025,1171.6 C44.9884053,1171.6 45.1258025,1171.53843 45.2288911,1171.42691 L48.8402431,1167.52006 C48.9435755,1167.40819 49.0004043,1167.25884 49,1167.10009 C49.000323,1166.94081 48.9435755,1166.79137 48.8401618,1166.67968 L45.2288098,1162.77274 C45.1257212,1162.66121 44.988324,1162.6 44.8418212,1162.6 Z" id="Rectangle-2" fill-opacity="0.531009274" fill="#8C96A8"></path>
+            <path d="M44,1086 C48.9705627,1086 53,1090.02944 53,1095 C53,1099.97056 48.9705627,1104 44,1104 C39.0294373,1104 35,1099.97056 35,1095 C35,1090.02944 39.0294373,1086 44,1086 Z M47.5328851,1090.86577 C47.2547888,1090.59721 46.8116408,1090.60495 46.5430863,1090.88304 L46.5430863,1090.88304 L43.9728257,1093.54319 L41.3112931,1090.97437 C41.0331968,1090.70581 40.5900488,1090.71355 40.3214944,1090.99164 L40.3214944,1090.99164 L39.7657677,1091.56711 C39.4972132,1091.84521 39.5049484,1092.28836 39.7830447,1092.55691 L39.7830447,1092.55691 L42.4452966,1095.12643 L39.874366,1097.78871 C39.6058115,1098.0668 39.6135467,1098.50995 39.891643,1098.77851 L39.891643,1098.77851 L40.4671148,1099.33423 C40.7452111,1099.60279 41.1883591,1099.59505 41.4569135,1099.31696 L41.4569135,1099.31696 L44.0278442,1096.65468 L46.6887068,1099.22563 C46.9668031,1099.49419 47.409951,1099.48645 47.6785055,1099.20836 L47.6785055,1099.20836 L48.2342322,1098.63289 C48.5027866,1098.35479 48.4950515,1097.91164 48.2169552,1097.64309 L48.2169552,1097.64309 L45.5560926,1095.07213 L48.1256339,1092.41129 C48.3941884,1092.1332 48.3864532,1091.69005 48.1083569,1091.42149 L48.1083569,1091.42149 Z" id="Rectangle-4" fill-opacity="0.531009274" fill="#8C96A8"></path>
+            <path d="M44,1013 C48.9705627,1013 53,1017.02944 53,1022 C53,1026.97056 48.9705627,1031 44,1031 C39.0294373,1031 35,1026.97056 35,1022 C35,1017.02944 39.0294373,1013 44,1013 Z M48.414641,1018.23118 C48.1159312,1017.92294 47.6308901,1017.92294 47.3316193,1018.23118 L47.3316193,1018.23118 L42.4682124,1023.24195 L40.6683807,1021.38752 C40.3692034,1021.07929 39.8846298,1021.07929 39.585359,1021.38752 L39.585359,1021.38752 L39.2243829,1021.75953 C38.9252057,1022.06719 38.9252057,1022.56701 39.2243829,1022.87525 L39.2243829,1022.87525 L42.1072364,1025.84588 C42.2026926,1025.94481 42.3329282,1026 42.4682124,1026 C42.6034966,1026 42.7337322,1025.94481 42.8291885,1025.84588 L42.8291885,1025.84588 L48.7756171,1019.7189 C49.0747943,1019.41115 49.0747943,1018.91142 48.7756171,1018.60318 L48.7756171,1018.60318 Z" id="Rectangle-2" fill="url(#linearGradient-4)"></path>
+            <path d="M44,468 C48.9705627,468 53,472.029437 53,477 C53,481.970563 48.9705627,486 44,486 C39.0294373,486 35,481.970563 35,477 C35,472.029437 39.0294373,468 44,468 Z M48.414641,473.231178 C48.1159312,472.922941 47.6308901,472.922941 47.3316193,473.231178 L47.3316193,473.231178 L42.4682124,478.241954 L40.6683807,476.387524 C40.3692034,476.079287 39.8846298,476.079287 39.585359,476.387524 L39.585359,476.387524 L39.2243829,476.759527 C38.9252057,477.067186 38.9252057,477.567011 39.2243829,477.875248 L39.2243829,477.875248 L42.1072364,480.845882 C42.2026926,480.944806 42.3329282,481 42.4682124,481 C42.6034966,481 42.7337322,480.944806 42.8291885,480.845882 L42.8291885,480.845882 L48.7756171,474.718902 C49.0747943,474.411147 49.0747943,473.911418 48.7756171,473.603181 L48.7756171,473.603181 Z" id="Rectangle-2" fill="url(#linearGradient-3)" opacity="0.4"></path>
+            <rect id="Rectangle" fill-opacity="0.5" fill="url(#linearGradient-5)" filter="url(#filter-6)" x="41" y="801" width="230" height="68" rx="10"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-5)" x="45" y="797" width="230" height="68" rx="10"></rect>
+            <path d="M244,822 C248.970563,822 253,826.029437 253,831 C253,835.970563 248.970563,840 244,840 C239.029437,840 235,835.970563 235,831 C235,826.029437 239.029437,822 244,822 Z M244.841821,826.6 C244.695156,826.6 244.55784,826.661303 244.454751,826.772739 L244.126868,827.127539 C244.023861,827.238887 243.967113,827.387614 243.967113,827.546193 C243.967113,827.704683 244.023861,827.858424 244.126868,827.969772 L246.233679,830.253985 L239.540239,830.253985 C239.238453,830.253985 239,830.509575 239,830.836143 L239,831.337736 C239,831.664303 239.238453,831.945663 239.540239,831.945663 L246.257582,831.945663 L244.126949,834.24263 C244.023942,834.354153 243.967194,834.498835 243.967194,834.657413 C243.967194,834.815816 244.023942,834.962608 244.126949,835.074044 L244.454833,835.427701 C244.557921,835.539225 244.695237,835.6 244.841902,835.6 C244.988405,835.6 245.125803,835.538433 245.228891,835.42691 L248.840243,831.520061 C248.943576,831.408185 249.000404,831.258842 249,831.100088 C249.000323,830.940806 248.943576,830.791375 248.840162,830.679675 L245.22881,826.772739 C245.125721,826.661215 244.988324,826.6 244.841821,826.6 Z" id="Rectangle-2" fill="#FFFFFF" opacity="0.414276482"></path>
+            <text id="360.000đ-cho-03-thán" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="508">360.000đ cho 03 tháng</tspan>
+            </text>
+            <text id="Thời-điểm-thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                <tspan x="70" y="731">Thời điểm thanh toán</tspan>
+            </text>
+            <text id="Thanh-toán-ngay" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="758">Thanh toán ngay</tspan>
+            </text>
+            <text id="Đảm-bảo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                <tspan x="70" y="554">Đảm bảo</tspan>
+            </text>
+            <text id="Hoàn-phí-sau-03-thán" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="581">Hoàn phí sau 03 tháng nếu </tspan>
+                <tspan x="70" y="605">không có kết nối thành công</tspan>
+            </text>
+            <text id="Kết-nối-thành-công-l" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="637">Kết nối thành công là khi cả </tspan>
+                <tspan x="70" y="661">bạn và đối phương cùng đồng </tspan>
+                <tspan x="70" y="685">ý hẹn hò</tspan>
+            </text>
+            <text id="Thanh-toán-ngay" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#FFFFFF">
+                <tspan x="98.2955078" y="835">Thanh toán ngay</tspan>
+            </text>
+            <text id="/01-tháng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="1053">/01 tháng</tspan>
+            </text>
+            <text id="360.000đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                <tspan x="70" y="1026">360.000đ</tspan>
+            </text>
+            <text id="Thời-điểm-thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                <tspan x="70" y="1172">Thời điểm thanh toán</tspan>
+            </text>
+            <text id="Thanh-toán-sau-lần-k" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="1199">Thanh toán sau lần kết nối</tspan>
+                <tspan x="70" y="1223">đầu tiên</tspan>
+            </text>
+            <text id="Đảm-bảo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                <tspan x="70" y="1099">Đảm bảo</tspan>
+            </text>
+            <text id="Không-áp-dụng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                <tspan x="70" y="1126">Không áp dụng</tspan>
+            </text>
+            <text id="Thanh-toán-sau" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="bold" fill="#121721">
+                <tspan x="35" y="971">Thanh toán sau</tspan>
+            </text>
+            <text id="Mức-phí-tượng-trưng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                <tspan x="70" y="481">Mức phí tượng trưng</tspan>
+            </text>
+            <text id="Thanh-toán-ngay" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="bold" fill="#121721">
+                <tspan x="35" y="426">Thanh toán ngay</tspan>
+            </text>
+            <text id="Chanchan-đang-trong" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="35" y="241">Chanchan đang trong giai đoạn tăng </tspan>
+                <tspan x="35" y="265">tốc nên chúng tôi có chính sách Ưu </tspan>
+                <tspan x="35" y="289">tiên và Đảm bảo đặc biệt áp dụng với </tspan>
+                <tspan x="35" y="313">Thanh toán ngay.</tspan>
+            </text>
+            <text id="Có-hai-lựa-chọn-than" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#1E2432">
+                <tspan x="35" y="209">Có hai lựa chọn thanh toán! </tspan>
+            </text>
+            <text id="Thiết-lập-thanh-toán" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
+                <tspan x="35" y="133">Thiết lập</tspan>
+                <tspan x="35" y="163">thanh toán</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

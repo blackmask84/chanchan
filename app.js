@@ -72,7 +72,7 @@ app.get('/policy', function (req, res) {
     res.sendFile(__dirname + '/public/policy.html');
 });
 app.get('/paid', function (req, res) {
-    res.sendFile(__dirname + '/public/paid.html');
+    res.sendFile(__dirname + '/public/paidset.html');
 });
 app.get('/verifymember2nd', function (req, res) {
     res.sendFile(__dirname + '/public/paid.html');
@@ -115,6 +115,12 @@ app.get('/remguide%', function (req, res) {
 });
 app.get('/newsignpolicy%', function (req, res) {
     res.sendFile(__dirname + '/public/newsign_policy.html');
+});
+app.get('/paidset%', function (req, res) {
+    res.sendFile(__dirname + '/public/paidset.html');
+});
+app.get('/paidgui%', function (req, res) {
+    res.sendFile(__dirname + '/public/paidgui.html');
 });
 
 // get form
