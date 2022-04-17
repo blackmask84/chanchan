@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="933px" viewBox="0 0 320 933" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>1</title>
+<svg width="640px" height="933px" viewBox="0 0 640 933" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1_pc</title>
     <defs>
         <linearGradient x1="-41.2211541%" y1="158.95067%" x2="184.057905%" y2="0%" id="linearGradient-1">
             <stop stop-color="#277AFF" offset="0%"></stop>
@@ -8,7 +8,7 @@
         </linearGradient>
     </defs>
     <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="paid-gui" transform="translate(-161.000000, 0.000000)">
+        <g id="paid-gui">
             <g id="1" transform="translate(160.000000, 162.000000)">
                 <g id="Group-11" transform="translate(60.000000, 378.000000)"></g>
                 <g id="Group-11" transform="translate(60.000000, 449.000000)"></g>
@@ -68,7 +68,10 @@
                     <tspan x="60" y="729">Chanchan Tangtoc</tspan>
                 </text>
             </g>
-            <g id="bg_left" transform="translate(0.000000, 0.000000)"></g>
+            <g id="bg_left" transform="translate(0.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="-4.12114787e-13" y="0" width="160" height="1865"></rect>
+                <line x1="160.5" y1="0" x2="160.5" y2="1865" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
             <g id="bg_right" transform="translate(480.000000, 0.000000)">
                 <rect id="Rectangle" fill="#F0F6FA" x="-3.41060513e-13" y="0" width="160" height="1865"></rect>
                 <line x1="0.5" y1="0" x2="0.5" y2="1865" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>

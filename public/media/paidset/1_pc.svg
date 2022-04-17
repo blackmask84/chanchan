@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="1243px" viewBox="0 0 320 1243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>1</title>
+<svg width="640px" height="1243px" viewBox="0 0 640 1243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1_pc</title>
     <defs>
         <rect id="path-1" x="15" y="248" width="290" height="534" rx="19"></rect>
         <filter x="-6.7%" y="-2.2%" width="110.7%" height="105.8%" filterUnits="objectBoundingBox" id="filter-2">
@@ -31,7 +31,7 @@
         </linearGradient>
     </defs>
     <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="paid-set" transform="translate(-160.000000, 0.000000)">
+        <g id="paid-set">
             <g id="1" transform="translate(160.000000, 110.000000)">
                 <rect id="Rectangle" fill="#F0F6FA" x="0" y="225" width="320" height="908"></rect>
                 <g id="Rectangle">
@@ -142,10 +142,14 @@
                     <tspan x="35" y="53">thanh toán</tspan>
                 </text>
             </g>
-            <g id="bg_left" transform="translate(0.000000, 0.000000)" stroke="#DADFE7" stroke-linecap="square" stroke-width="0.5">
-                <line x1="160.5" y1="0" x2="160.5" y2="1554" id="Line"></line>
+            <g id="bg_left" transform="translate(0.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="-4.54747351e-13" y="0" width="160" height="1554"></rect>
+                <line x1="160.5" y1="0" x2="160.5" y2="1554" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
             </g>
-            <g id="bg_right" transform="translate(479.000000, 0.000000)"></g>
+            <g id="bg_right" transform="translate(479.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="1" y="0" width="160" height="1554"></rect>
+                <line x1="1.5" y1="0" x2="1.5" y2="1554" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
         </g>
     </g>
 </svg>

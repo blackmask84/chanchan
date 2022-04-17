@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="701px" viewBox="0 0 320 701" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>1</title>
+<svg width="640px" height="701px" viewBox="0 0 640 701" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1_pc</title>
     <defs>
         <linearGradient x1="106.10273%" y1="28.2144495%" x2="-19.5209292%" y2="70.725509%" id="linearGradient-1">
             <stop stop-color="#304FFE" offset="0%"></stop>
@@ -19,7 +19,7 @@
         </linearGradient>
     </defs>
     <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Trial" transform="translate(-160.000000, 0.000000)">
+        <g id="Trial">
             <g id="1" transform="translate(215.000000, 190.000000)">
                 <g id="Group-12" transform="translate(0.000000, 384.000000)">
                     <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.797428625" filter="url(#filter-2)" x="25" y="11" width="162" height="55" rx="20"></rect>
@@ -51,8 +51,13 @@
                 </text>
                 <path d="M13.6647564,133 L13.6647564,124.440141 L9.45272206,124.440141 C9.45272206,122.883803 9.67335244,121.606808 10.1146132,120.609155 C10.5558739,119.611502 11.5587393,119.092723 13.1232092,119.052817 L13.1232092,119.052817 L12.4011461,116 C9.63323782,116 7.75787966,116.867958 6.77507163,118.603873 C5.79226361,120.339789 5.24068768,122.923709 5.12034384,126.355634 C5.08022923,127.31338 5.05014327,128.360915 5.03008596,129.498239 C5.01002865,130.635563 5,131.802817 5,133 L5,133 L13.6647564,133 Z M26,133 L26,124.440141 L21.7879656,124.440141 C21.7879656,122.883803 22.008596,121.606808 22.4498567,120.609155 C22.8911175,119.611502 23.8939828,119.092723 25.4584527,119.052817 L25.4584527,119.052817 L24.7363897,116 C21.9684814,116 20.0931232,116.867958 19.1103152,118.603873 C18.1275072,120.339789 17.5759312,122.923709 17.4555874,126.355634 C17.4154728,127.31338 17.3853868,128.360915 17.3653295,129.498239 C17.3452722,130.635563 17.3352436,131.802817 17.3352436,133 L17.3352436,133 L26,133 Z" id="“" fill="#D81B60" fill-rule="nonzero"></path>
             </g>
-            <g id="bg_left" transform="translate(0.000000, 0.000000)" stroke="#DADFE7" stroke-linecap="square" stroke-width="0.5">
-                <line x1="160.5" y1="0" x2="160.5" y2="1065" id="Line"></line>
+            <g id="bg_left" transform="translate(0.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="-4.68958206e-13" y="0" width="160" height="1065"></rect>
+                <line x1="160.5" y1="0" x2="160.5" y2="1065" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
+            <g id="bg_right" transform="translate(480.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="-2.27373675e-13" y="0" width="160" height="1065"></rect>
+                <line x1="0.5" y1="0" x2="0.5" y2="1065" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
             </g>
         </g>
     </g>

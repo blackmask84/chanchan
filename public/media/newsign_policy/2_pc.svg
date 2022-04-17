@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="500px" viewBox="0 0 320 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>2</title>
+<svg width="640px" height="500px" viewBox="0 0 640 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2_pc</title>
     <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="newsign.policy" transform="translate(-160.000000, -733.000000)">
+        <g id="newsign.policy" transform="translate(0.000000, -733.000000)">
             <g id="2" transform="translate(195.000000, 733.000000)" fill="#121721" font-size="16" font-weight="300" line-spacing="24">
                 <text id="Bạn-cũng-hiểu-rằng-đ" font-family="SFCompactDisplay-Light, SF Compact Display">
                     <tspan x="0" y="15">Bạn cũng hiểu rằng đây là xác thực </tspan>
@@ -19,10 +19,14 @@
                     <tspan x="0" y="247">việc Đăng ký của bạn sẽ hoàn tất!</tspan>
                 </text>
             </g>
-            <g id="bg_left" transform="translate(0.000000, 0.000000)" stroke="#DADFE7" stroke-linecap="square" stroke-width="0.5">
-                <line x1="160.5" y1="0" x2="160.5" y2="1233" id="Line"></line>
+            <g id="bg_left" transform="translate(0.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="-4.54747351e-13" y="0" width="160" height="1233"></rect>
+                <line x1="160.5" y1="0" x2="160.5" y2="1233" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
             </g>
-            <g id="bg_right" transform="translate(479.000000, 0.000000)"></g>
+            <g id="bg_right" transform="translate(479.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="1" y="0" width="160" height="1233"></rect>
+                <line x1="1.5" y1="0" x2="1.5" y2="1233" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
         </g>
     </g>
 </svg>
