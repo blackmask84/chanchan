@@ -83,10 +83,10 @@ app.get('/conceptintro', function (req, res) {
 app.get('/time', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
-app.get('/trial', function (req, res) {
+app.get('/trialm%', function (req, res) {
     res.sendFile(__dirname + '/public/trial.html');
 });
-app.get('/trialm', function (req, res) {
+app.get('/trial%', function (req, res) {
     res.sendFile(__dirname + '/public/trial.html');
 });
 app.get('/boots', function (req, res) {
