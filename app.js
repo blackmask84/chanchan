@@ -122,7 +122,10 @@ app.get('/paidset%', function (req, res) {
 app.get('/paidgui%', function (req, res) {
     res.sendFile(__dirname + '/public/paidgui.html');
 });
-app.get('/paidgui2%', function (req, res) {
+app.get('/tosignm%', function (req, res) {
+    res.sendFile(__dirname + '/public/paidgui_2.html');
+});
+app.get('/tosign%', function (req, res) {
     res.sendFile(__dirname + '/public/paidgui_2.html');
 });
 
