@@ -122,7 +122,7 @@ app.get('/paidset%', function (req, res) {
 app.get('/paidgui%', function (req, res) {
     res.sendFile(__dirname + '/public/paidgui.html');
 });
-app.get('/Timhieuvadangky', function (req, res) {
+app.get('/m.timhieuvadangky', function (req, res) {
     res.sendFile(__dirname + '/public/paidgui_2.html');
 });
 app.get('/timhieuvadangky', function (req, res) {
