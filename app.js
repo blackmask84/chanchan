@@ -123,10 +123,15 @@ app.get('/paidgui%', function (req, res) {
     res.sendFile(__dirname + '/public/paidgui.html');
 });
 app.get('/tangtoccamp', function (req, res) {
-    res.sendFile(__dirname + '/public/paidgui_2.html');
+    res.sendFile(__dirname + '/public/tangtoc.html');
 });
+app.get('/tangtoc%', function (req, res) {
+    res.sendFile(__dirname + '/public/tangtoc.html');
 app.get('/tangtoc', function (req, res) {
-    res.sendFile(__dirname + '/public/paidgui_2.html');
+    res.sendFile(__dirname + '/public/tangtoc.html');
+});
+app.get('/tangtocdk', function (req, res) {
+    res.sendFile(__dirname + '/public/tangtocdk.html');
 });
 
 // get form

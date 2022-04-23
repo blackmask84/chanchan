@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="1510px" viewBox="0 0 320 1510" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="290" height="540" rx="19"></rect>
+        <filter x="-17.6%" y="-8.0%" width="132.4%" height="117.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0588235294   0 0 0 0 0.611764706   0 0 0 0 1  0 0 0 0.210049716 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="3" y="0" width="4.8" height="6.6"></rect>
+        <linearGradient x1="-41.2211541%" y1="158.95067%" x2="184.057905%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#277AFF" offset="0%"></stop>
+            <stop stop-color="#03A9F4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-19.7158884%" y1="56.73876%" x2="121.647364%" y2="39.200064%" id="linearGradient-6">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#00B0FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-13.0%" y="-44.1%" width="126.1%" height="188.2%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-19.7158884%" y1="55.7036865%" x2="121.647364%" y2="40.8589342%" id="linearGradient-8">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#00B0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-9" x="0" y="-2.27373675e-13" width="320" height="543"></rect>
+        <linearGradient x1="-19.7158884%" y1="127.093513%" x2="121.647364%" y2="-73.554631%" id="linearGradient-11">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#00B0FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="open-letter" transform="translate(-160.000000, -1498.000000)">
+            <text id="Như-bất-kỳ-Sản-phẩm" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="195" y="1756">Như bất kỳ Sản phẩm mới nào, </tspan>
+                <tspan x="195" y="1780">sự thành công luôn cần bắt </tspan>
+                <tspan x="195" y="1804">đầu từ lớp người dùng đầu </tspan>
+                <tspan x="195" y="1828">tiên. Chúng tôi mong qua </tspan>
+                <tspan x="195" y="1852">những chia sẻ trên sẽ </tspan>
+                <tspan x="195" y="1876">nhận được sự đồng </tspan>
+                <tspan x="195" y="1900">hành, ủng hộ cũng như</tspan>
+                <tspan x="195" y="1924">những ý kiến đóng góp </tspan>
+                <tspan x="195" y="1948">của bạn. </tspan>
+            </text>
+            <g id="Group" transform="translate(175.000000, 2109.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="shield" transform="translate(20.000000, 188.000000)">
+                    <path d="M17.9939861,3.54032019 L17.9939861,10.3134988 C17.9939861,14.277174 15.9838329,18.1068306 12.5772807,19.9328492 L10.6728724,20.9535452 C9.6367239,21.5087471 8.39718794,21.5109606 7.35686311,20.9535452 L5.45245476,19.9328492 C2.04506729,18.1063712 0.03574942,14.2762552 0.03574942,10.3134988 L0.03574942,3.54032019 C0.03574942,2.60983295 0.6492529,1.79753596 1.49496056,1.60876566 L8.00962413,0.112385151 C8.67767053,-0.0370858469 9.35085383,-0.0374199536 10.0163527,0.111549884 L16.5385336,1.60960093 C17.3804826,1.79753596 17.9939861,2.60983295 17.9939861,3.54032019 Z" id="Path" fill="#03A9F4" fill-rule="nonzero"></path>
+                    <path d="M17.9939861,3.54032019 L17.9939861,10.3134988 C17.9939861,14.277174 15.9838329,18.1068306 12.5772807,19.9328492 L10.6728724,20.9535452 C10.1537541,21.2316891 9.58410209,21.370761 9.01486775,21.370761 L9.01486775,-1.636449e-05 C9.72054292,-1.636449e-05 9.37862645,-0.0349141531 16.5385336,1.60960093 C17.3804826,1.79753596 17.9939861,2.60983295 17.9939861,3.54032019 Z" id="Path" fill="#277AFF" fill-rule="nonzero"></path>
+                    <path d="M15.3211323,5.66022738 L15.3211323,10.2658886 C15.3211323,11.6896009 14.9494385,13.0606914 14.2895777,14.230065 C13.1185754,16.30658 11.6851323,16.9018329 10.2368631,17.6780464 C9.47271926,18.0876195 8.55801856,18.0881624 7.79287239,17.6780464 L6.49779118,16.9839397 C4.19579582,15.7502506 2.70860325,13.1133132 2.70860325,10.2658886 L2.70860325,5.66022738 C2.70860325,4.93438051 3.1918051,4.29999536 3.85751276,4.15131787 C8.69295592,3.04049652 8.50873782,3.05251891 9.01486775,3.05251891 C9.52358701,3.05251891 9.33640371,3.04045476 14.1759814,4.15215313 C14.8379304,4.29999536 15.3211323,4.93438051 15.3211323,5.66022738 Z" id="Path" fill="#ECF9FD" fill-rule="nonzero"></path>
+                    <path d="M15.3211323,5.66022738 L15.3211323,10.2658886 C15.3211323,11.6896009 14.9494385,13.0606914 14.2895777,14.230065 C13.1185754,16.30658 11.6851323,16.9018329 10.2368631,17.6780464 C9.8543109,17.8831044 9.43458933,17.9854246 9.01486775,17.9854246 L9.01486775,3.05251891 C9.52358701,3.05251891 9.33640371,3.04045476 14.1759814,4.15215313 C14.8379304,4.29999536 15.3211323,4.93438051 15.3211323,5.66022738 Z" id="Path" fill="#D9F3FC" fill-rule="nonzero"></path>
+                    <g id="correct" transform="translate(6.000000, 7.200000)">
+                        <path d="M2.75701023,6.08998909 C2.68828187,6.15912134 2.59451243,6.19769269 2.49710798,6.19769269 C2.39970353,6.19769269 2.30593409,6.15912134 2.23720573,6.08998909 L0.161555401,4.01400219 C-0.0538518003,3.79859499 -0.0538518003,3.44929875 0.161555401,3.23429545 L0.421457648,2.97432587 C0.636932176,2.75891867 0.985824515,2.75891867 1.20123172,2.97432587 L2.49710798,4.27026945 L5.99875398,0.768556135 C6.21422849,0.553148934 6.56345742,0.553148934 6.77852805,0.768556135 L7.0384303,1.02852571 C7.2538375,1.24393291 7.2538375,1.59316182 7.0384303,1.80823245 L2.75701023,6.08998909 Z" id="Path" fill="#03A9F4" fill-rule="nonzero"></path>
+                        <g id="Group-7">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Rectangle"></g>
+                            <path d="M2.75701023,6.08998909 C2.68828187,6.15912134 2.59451243,6.19769269 2.49710798,6.19769269 C2.39970353,6.19769269 2.30593409,6.15912134 2.23720573,6.08998909 L0.161555401,4.01400219 C-0.0538518003,3.79859499 -0.0538518003,3.44929875 0.161555401,3.23429545 L0.421457648,2.97432587 C0.636932176,2.75891867 0.985824515,2.75891867 1.20123172,2.97432587 L2.49710798,4.27026945 L5.99875398,0.768556135 C6.21422849,0.553148934 6.56345742,0.553148934 6.77852805,0.768556135 L7.0384303,1.02852571 C7.2538375,1.24393291 7.2538375,1.59316182 7.0384303,1.80823245 L2.75701023,6.08998909 Z" id="Path" fill="#1976D2" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M29,365 C33.9705627,365 38,369.029437 38,374 C38,378.970563 33.9705627,383 29,383 C24.0294373,383 20,378.970563 20,374 C20,369.029437 24.0294373,365 29,365 Z M33.8401618,373.679675 L30.2288098,369.772739 C30.1257212,369.661215 29.988324,369.6 29.8418212,369.6 C29.6951557,369.6 29.5578398,369.661303 29.4547512,369.772739 L29.1268678,370.127539 C29.0238605,370.238887 28.967113,370.387614 28.967113,370.546193 C28.967113,370.704683 29.0238605,370.858424 29.1268678,370.969772 L31.2336795,373.253985 L24.5402394,373.253985 C24.2384533,373.253985 24,373.509575 24,373.836143 L24,374.337736 C24,374.664303 24.2384533,374.945663 24.5402394,374.945663 L31.2575817,374.945663 L29.1269491,377.24263 C29.0239418,377.354153 28.9671943,377.498835 28.9671943,377.657413 C28.9671943,377.815816 29.0239418,377.962608 29.1269491,378.074044 L29.4548325,378.427701 C29.5579211,378.539225 29.695237,378.6 29.8419025,378.6 C29.9884053,378.6 30.1258025,378.538433 30.2288911,378.42691 L33.8402431,374.520061 C33.9435755,374.408185 34.0004043,374.258842 34,374.100088 C34.000323,373.940806 33.9435755,373.791375 33.8401618,373.679675 Z" id="Rectangle-2" fill="url(#linearGradient-5)"></path>
+                <path d="M29,116 C33.9705627,116 38,120.029437 38,125 C38,129.970563 33.9705627,134 29,134 C24.0294373,134 20,129.970563 20,125 C20,120.029437 24.0294373,116 29,116 Z M33.414641,121.231178 C33.1159312,120.922941 32.6308901,120.922941 32.3316193,121.231178 L32.3316193,121.231178 L27.4682124,126.241954 L25.6683807,124.387524 C25.3692034,124.079287 24.8846298,124.079287 24.585359,124.387524 L24.585359,124.387524 L24.2243829,124.759527 C23.9252057,125.067186 23.9252057,125.567011 24.2243829,125.875248 L24.2243829,125.875248 L27.1072364,128.845882 C27.2026926,128.944806 27.3329282,129 27.4682124,129 C27.6034966,129 27.7337322,128.944806 27.8291885,128.845882 L27.8291885,128.845882 L33.7756171,122.718902 C34.0747943,122.411147 34.0747943,121.911418 33.7756171,121.603181 L33.7756171,121.603181 Z" id="Rectangle-2" fill="url(#linearGradient-5)" opacity="0.4"></path>
+                <rect id="Rectangle" fill-opacity="0.5" fill="url(#linearGradient-6)" filter="url(#filter-7)" x="30" y="453" width="230" height="68" rx="10"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-8)" x="20" y="445" width="250" height="68" rx="10"></rect>
+                <path d="M241,470 C245.970563,470 250,474.029437 250,479 C250,483.970563 245.970563,488 241,488 C236.029437,488 232,483.970563 232,479 C232,474.029437 236.029437,470 241,470 Z M241.841821,474.6 C241.695156,474.6 241.55784,474.661303 241.454751,474.772739 L241.126868,475.127539 C241.023861,475.238887 240.967113,475.387614 240.967113,475.546193 C240.967113,475.704683 241.023861,475.858424 241.126868,475.969772 L243.233679,478.253985 L236.540239,478.253985 C236.238453,478.253985 236,478.509575 236,478.836143 L236,479.337736 C236,479.664303 236.238453,479.945663 236.540239,479.945663 L243.257582,479.945663 L241.126949,482.24263 C241.023942,482.354153 240.967194,482.498835 240.967194,482.657413 C240.967194,482.815816 241.023942,482.962608 241.126949,483.074044 L241.454833,483.427701 C241.557921,483.539225 241.695237,483.6 241.841902,483.6 C241.988405,483.6 242.125803,483.538433 242.228891,483.42691 L245.840243,479.520061 C245.943576,479.408185 246.000404,479.258842 246,479.100088 C246.000323,478.940806 245.943576,478.791375 245.840162,478.679675 L242.22881,474.772739 C242.125721,474.661215 241.988324,474.6 241.841821,474.6 Z" id="Rectangle-2" fill="#FFFFFF" opacity="0.414276482"></path>
+                <text id="360.000đ-cho-03-thán" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                    <tspan x="55" y="156">360.000đ cho 03 tháng</tspan>
+                </text>
+                <text id="Thời-điểm-thanh-toán" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                    <tspan x="55" y="379">Thời điểm thanh toán</tspan>
+                </text>
+                <text id="Thanh-toán-ngay" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                    <tspan x="55" y="406">Thanh toán ngay</tspan>
+                </text>
+                <text id="Đảm-bảo" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                    <tspan x="55" y="202">Đảm bảo</tspan>
+                </text>
+                <text id="Hoàn-phí-sau-03-thán" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#556279">
+                    <tspan x="55" y="229">Hoàn phí sau 03 tháng nếu </tspan>
+                    <tspan x="55" y="253">không có kết nối thành công</tspan>
+                </text>
+                <text id="Kết-nối-thành-công-l" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#556279">
+                    <tspan x="55" y="285">Kết nối thành công là khi bạn </tspan>
+                    <tspan x="55" y="309">và đối phương cả hai đồng ý </tspan>
+                    <tspan x="55" y="333">hẹn hò, gặp gỡ</tspan>
+                </text>
+                <text id="Đăng-ký" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#FFFFFF">
+                    <tspan x="114.785137" y="483">Đăng ký</tspan>
+                </text>
+                <text id="Mức-phí-tượng-trưng" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
+                    <tspan x="55" y="129">Mức phí tượng trưng</tspan>
+                </text>
+                <text id="Đăng-ký" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#1976D2">
+                    <tspan x="20" y="73">Đăng ký</tspan>
+                </text>
+            </g>
+            <text id="Nếu-bạn-có-gì-băn-kh" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#5D6A80">
+                <tspan x="195" y="2758">Nếu bạn có gì băn khoăn, chưa rõ </tspan>
+                <tspan x="195" y="2782">đừng ngần ngại kết nối và đặt câu </tspan>
+                <tspan x="195" y="2806">hỏi cho chúng tôi qua Messenger. </tspan>
+                <tspan x="195" y="2830">Thông thường chúng tôi trả lời sau ít </tspan>
+                <tspan x="195" y="2854">phút trong các khung giờ làm việc</tspan>
+            </text>
+            <text id="Hoặc" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="22" font-style="condensed" font-weight="bold" fill="#5D6A80">
+                <tspan x="195" y="2726">Hoặc </tspan>
+            </text>
+            <text id="Chính-sách-thành-viê" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="22" font-style="condensed" font-weight="bold" fill="#121721">
+                <tspan x="195" y="1543">Chính sách thành viên</tspan>
+            </text>
+            <text id="Chanchan-là-nền-tảng" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
+                <tspan x="195" y="1583">Chanchan là nền tảng trả phí, đồng </tspan>
+                <tspan x="195" y="1606">thời cũng là sản phẩm mới đang </tspan>
+                <tspan x="195" y="1629">trong giai đoạn ra mắt.</tspan>
+            </text>
+            <text id="Chúng-tôi-có-chính-s" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="195" y="1668">Chúng tôi có chính sách Ưu tiên và </tspan>
+                <tspan x="195" y="1692">Đảm bảo áp dụng với Thành viên </tspan>
+                <tspan x="195" y="1716">trong giai đoạn này</tspan>
+            </text>
+            <text id="Cảm-ơn-bạn-đã-dành-t" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="195" y="1988">Cảm ơn bạn đã dành </tspan>
+                <tspan x="195" y="2012">thời gian! Sau đây bạn</tspan>
+                <tspan x="195" y="2036">có thể tiếp tục bằng cách </tspan>
+                <tspan x="195" y="2060">Đăng ký</tspan>
+            </text>
+            <g id="Group-2" transform="translate(160.000000, 1587.000000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <polygon id="Rectangle" fill="#912A8F" mask="url(#mask-10)" transform="translate(91.468535, 519.774254) rotate(111.000000) translate(-91.468535, -519.774254) " points="80.9685348 501.774254 96.9450166 503.642101 101.968535 530.226819 80.9685348 537.774254"></polygon>
+                <polygon id="Rectangle" fill="#03AEEE" mask="url(#mask-10)" transform="translate(188.034661, 481.900655) rotate(17.000000) translate(-188.034661, -481.900655) " points="176.388475 477.400655 199.680846 478.476498 199.096103 485.324812 176.388475 486.400655"></polygon>
+                <polygon id="Triangle" fill="#39B34C" mask="url(#mask-10)" transform="translate(4.850291, 377.600309) rotate(-22.000000) translate(-4.850291, -377.600309) " points="-2.74997749 368.125945 16.6011056 363 16.700582 390.591883 -7 392.200618"></polygon>
+                <polygon id="Rectangle" fill="#03AEEE" mask="url(#mask-10)" transform="translate(4.839352, 235.512046) rotate(77.000000) translate(-4.839352, -235.512046) " points="-8.16064841 230.512046 17.8393516 231.707427 17.1866345 239.316665 -8.16064841 240.512046"></polygon>
+                <polygon id="Triangle" fill="#F15C25" mask="url(#mask-10)" transform="translate(257.962873, 132.629463) rotate(56.000000) translate(-257.962873, -132.629463) " points="253.462873 126.129463 262.462873 136.158164 253.715664 139.129463"></polygon>
+                <polygon id="Triangle" fill="#F15C25" mask="url(#mask-10)" transform="translate(221.419100, 375.331751) rotate(-41.000000) translate(-221.419100, -375.331751) " points="219.105646 364.043628 231.691312 384.814504 211.146888 386.619875"></polygon>
+                <path d="M-19,68 C-7.8098548,74.34989 5.81674431,74.6737569 17.295923,68.8626546 L19,68 L19,68 L19,79.2879316 L18.407168,79.5851392 C6.61359157,85.4976758 -7.3018591,85.3871147 -19,79.2879316 L-19,79.2879316 L-19,79.2879316 L-19,68 Z" id="Rectangle" fill="#FCBB65" mask="url(#mask-10)" transform="translate(0.000000, 78.500000) rotate(9.000000) translate(-0.000000, -78.500000) "></path>
+            </g>
+            <g id="Group-4" transform="translate(195.000000, 2889.000000)">
+                <rect id="Rectangle" stroke="#DADFE7" x="0" y="0" width="250" height="59" rx="10"></rect>
+                <text id="Đặt-câu-hỏi" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#5D6A80">
+                    <tspan x="84.1479883" y="35">Đặt câu hỏi</tspan>
+                </text>
+                <path d="M219,18 C212.92525,18 208,22.5595 208,28.184625 C208,31.38975 209.599125,34.248375 212.098875,36.115625 L212.098875,40 L215.844375,37.944375 C216.844,38.22075 217.90275,38.370625 219,38.370625 C225.07475,38.370625 230,33.811125 230,28.186 C230,22.560875 225.07475,18 219,18 Z M220.093125,31.715625 L217.29225,28.72775 L211.826625,31.715625 L217.8395,25.332875 L220.709125,28.32075 L226.106,25.332875 L220.093125,31.715625 Z" id="Shape" fill="url(#linearGradient-11)"></path>
+            </g>
+            <g id="bg_right" transform="translate(479.000000, 0.000000)" stroke="#DADFE7" stroke-linecap="square" stroke-width="0.5">
+                <line x1="1" y1="0" x2="1" y2="3307" id="Line"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640px" height="455px" viewBox="0 0 640 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2_pc</title>
+    <defs>
+        <linearGradient x1="-13.2986922%" y1="76.2445818%" x2="114.088833%" y2="25.2523118%" id="linearGradient-1">
+            <stop stop-color="#2979FF" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-16.7%" y="-52.6%" width="133.3%" height="205.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-13.2986922%" y1="73.5546939%" x2="114.088833%" y2="27.7887784%" id="linearGradient-3">
+            <stop stop-color="#2979FF" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="paid-gui" transform="translate(0.000000, -1090.000000)">
+            <g id="Group-3" transform="translate(160.000000, 162.000000)">
+                <path d="M-5.40012479e-13,928 L42.3420781,928 C53.8837836,928 65.1955857,924.772928 75,918.68323 C84.1861326,912.977557 95.8138674,912.977557 105,918.68323 C114.804414,924.772928 126.116216,928 137.657922,928 L320,928 L320,928 L320,208 L-5.40012479e-13,208 L-5.40012479e-13,928 Z" id="Rectangle" fill="#F0F6FA" transform="translate(160.000000, 568.000000) scale(1, -1) translate(-160.000000, -568.000000) "></path>
+                <text id="Sau-đó-bạn-gửi-“Ảnh" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                    <tspan x="60" y="1009">Sau đó bạn gửi “Ảnh chụp </tspan>
+                    <tspan x="60" y="1033">màn hình giao dịch thành </tspan>
+                    <tspan x="60" y="1057">công” hoặc “Nội dung giao </tspan>
+                    <tspan x="60" y="1081">dịch” cho chúng tôi qua </tspan>
+                    <tspan x="60" y="1105">Messenger để xác nhận</tspan>
+                </text>
+                <text id="Xác-nhận" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="bold" fill="#121721">
+                    <tspan x="60" y="964">Xác nhận</tspan>
+                </text>
+                <g id="Group-2" transform="translate(60.000000, 1150.000000)">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.5" filter="url(#filter-2)" x="10" y="10" width="180" height="57" rx="10"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="200" height="60" rx="10"></rect>
+                    <path d="M167,19 C160.92525,19 156,23.5595 156,29.184625 C156,32.38975 157.599125,35.248375 160.098875,37.115625 L160.098875,41 L163.844375,38.944375 C164.844,39.22075 165.90275,39.370625 167,39.370625 C173.07475,39.370625 178,34.811125 178,29.186 C178,23.560875 173.07475,19 167,19 Z M168.093125,32.715625 L165.29225,29.72775 L159.826625,32.715625 L165.8395,26.332875 L168.709125,29.32075 L174.106,26.332875 L168.093125,32.715625 Z" id="Shape" fill="#FFFFFF" opacity="0.414276482"></path>
+                    <text id="Xác-nhận" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#FFFFFF">
+                        <tspan x="65.8516797" y="35">Xác nhận</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="bg_left" transform="translate(0.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="0" y="0" width="160" height="1545"></rect>
+                <line x1="159.5" y1="0" x2="159.5" y2="1545" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
+            <g id="bg_right" transform="translate(479.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="1" y="0" width="160" height="1545"></rect>
+                <line x1="1" y1="0" x2="1" y2="1545" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>

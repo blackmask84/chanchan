@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="1090px" viewBox="0 0 320 1090" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <defs>
+        <linearGradient x1="-39.7235978%" y1="210.426993%" x2="187.737572%" y2="-148.59112%" id="linearGradient-1">
+            <stop stop-color="#2979FF" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="186.778335%" y1="-18.3762626%" x2="-80.9423703%" y2="153.657309%" id="linearGradient-2">
+            <stop stop-color="#2979FF" offset="0%"></stop>
+            <stop stop-color="#03A9F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="paid-gui" transform="translate(-161.000000, 0.000000)">
+            <g id="Group-11" transform="translate(220.000000, 540.000000)"></g>
+            <g id="Group-11" transform="translate(220.000000, 611.000000)"></g>
+            <g id="Group-8" transform="translate(230.000000, 323.000000)"></g>
+            <path d="M160,1090 L202.342078,1090 C213.883784,1090 225.195586,1086.77293 235,1080.68323 C244.186133,1074.97756 255.813867,1074.97756 265,1080.68323 C274.804414,1086.77293 286.116216,1090 297.657922,1090 L480,1090 L480,1090 L480,370 L160,370 L160,1090 Z" id="Rectangle" fill="#F0F6FA" transform="translate(320.000000, 730.000000) scale(1, -1) translate(-320.000000, -730.000000) "></path>
+            <path d="M160,1090 L203.22949,1090 C214.25826,1090 225.135568,1087.43222 235,1082.5 C244.442719,1077.77864 255.557281,1077.77864 265,1082.5 C274.864432,1087.43222 285.74174,1090 296.77051,1090 L480,1090 L480,1090 L480,1048 L160,1048 L160,1090 Z" id="Rectangle" fill="#FFFFFF" transform="translate(320.000000, 1069.000000) scale(1, -1) translate(-320.000000, -1069.000000) "></path>
+            <path d="M251.5,998 C263.374122,998 273,1007.62588 273,1019.5 C273,1031.37412 263.374122,1041 251.5,1041 C239.625878,1041 230,1031.37412 230,1019.5 C230,1007.62588 239.625878,998 251.5,998 Z M251.502,1010.98 C250.396,1010.98 249.5035,1011.2005 248.8245,1011.6415 C248.1455,1012.0825 247.6485,1012.695 247.3335,1013.479 C247.057875,1014.165 246.902836,1014.93675 246.868383,1015.79425 L246.861,1016.167 L246.861,1017.007 L250.032,1017.007 L250.032,1016.209 C250.032,1015.761 250.074,1015.348 250.158,1014.97 C250.242,1014.592 250.396,1014.2875 250.62,1014.0565 C250.844,1013.8255 251.166,1013.71 251.586,1013.71 C251.978,1013.71 252.279,1013.8535 252.489,1014.1405 C252.699,1014.4275 252.804,1014.844 252.804,1015.39 C252.804,1015.908 252.7165,1016.3945 252.5415,1016.8495 C252.3665,1017.3045 252.1425,1017.749 251.8695,1018.183 C251.6875,1018.47233 251.497722,1018.771 251.300167,1019.079 L250.998,1019.548 L246.861,1025.911 L246.861,1028.2 L255.555,1028.2 L255.555,1025.638 L250.494,1025.638 L253.77,1020.703 C254.162,1020.129 254.5295,1019.5725 254.8725,1019.0335 C255.2155,1018.4945 255.492,1017.9345 255.702,1017.3535 C255.912,1016.7725 256.017,1016.139 256.017,1015.453 C256.017,1014.039 255.639,1012.94 254.883,1012.156 C254.127,1011.372 253,1010.98 251.502,1010.98 Z" id="Oval-3" fill="url(#linearGradient-1)"></path>
+            <path d="M251.5,323 C263.374122,323 273,332.625878 273,344.5 C273,356.374122 263.374122,366 251.5,366 C239.625878,366 230,356.374122 230,344.5 C230,332.625878 239.625878,323 251.5,323 Z M254.195,335.99 L251.675,335.99 C251.521,336.158 251.3005,336.34 251.0135,336.536 C250.7265,336.732 250.422,336.914 250.1,337.082 C249.778,337.25 249.4735,337.404 249.1865,337.544 C248.9569,337.656 248.76538,337.75008 248.61194,337.82624 L248.504,337.88 L248.504,340.274 C248.63,340.218 248.805,340.1515 249.029,340.0745 C249.253,339.9975 249.491,339.9135 249.743,339.8225 C249.995,339.7315 250.2295,339.6475 250.4465,339.5705 C250.60925,339.51275 250.746406,339.456969 250.857969,339.403156 L250.961,339.35 L250.961,353 L254.195,353 L254.195,335.99 Z" id="Oval-2" fill="url(#linearGradient-2)"></path>
+            <text id="Bạn-thực-hiện-theo-0" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="220" y="261">Bạn thực hiện theo 02 bước </tspan>
+                <tspan x="220" y="285">dưới đây</tspan>
+            </text>
+            <text id="Hướng-dẫn-Thanh-toán" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
+                <tspan x="220" y="185">Hướng dẫn</tspan>
+                <tspan x="220" y="215">Thanh toán</tspan>
+            </text>
+            <text id="Thanh-toán" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="24" font-style="condensed" font-weight="bold" fill="#121721">
+                <tspan x="220" y="449">Thanh toán</tspan>
+            </text>
+            <text id="Bằng-chuyển-khoản-đế" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="220" y="494">Bằng chuyển khoản đến một </tspan>
+                <tspan x="220" y="518">trong hai tài khoản</tspan>
+            </text>
+            <text id="Ví-dụ:-Tangtoc-09123" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#8C96A8">
+                <tspan x="220" y="954">Ví dụ: Tangtoc 0912345678</tspan>
+            </text>
+            <text id="VPBank" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#018446">
+                <tspan x="220" y="562">VPBank</tspan>
+            </text>
+            <text id="125-182-437" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#018446">
+                <tspan x="220" y="593">125 182 437</tspan>
+            </text>
+            <text id="125182437" font-family="Oswald-Regular_SemiBold, Oswald" font-size="32" font-weight="500" letter-spacing="-1.28" fill="#FFFFFF" fill-opacity="0">
+                <tspan x="219" y="587">125182437</tspan>
+            </text>
+            <text id="Hoặc-BIDV" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300">
+                <tspan x="220" y="630" fill="#121721">Hoặc </tspan>
+                <tspan x="258.703125" y="630" fill="#203F9A">BIDV</tspan>
+            </text>
+            <text id="2791-0000-501-984" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#203F9A">
+                <tspan x="220" y="661">2791 0000 501 984</tspan>
+            </text>
+            <text id="27910000501984" font-family="Oswald-Regular_SemiBold, Oswald" font-size="32" font-weight="500" letter-spacing="-1.28" fill="#FFFFFF" fill-opacity="0">
+                <tspan x="219" y="655">27910000501984</tspan>
+            </text>
+            <text id="360.000đ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="220" y="816">360.000đ </tspan>
+            </text>
+            <text id="Chủ-tài-khoản" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="220" y="705">Chủ tài khoản</tspan>
+            </text>
+            <text id="Số-tiền" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#121721">
+                <tspan x="220" y="785">Số tiền</tspan>
+            </text>
+            <text id="Nguyen-Minh-Tuan" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="220" y="741">Nguyen Minh Tuan</tspan>
+            </text>
+            <text id="Nội-dung-chuyển-khoả" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                <tspan x="220" y="860">Nội dung chuyển khoản</tspan>
+            </text>
+            <text id="Tangtoc-[Số-điện-tho" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                <tspan x="220" y="896">Tangtoc [Số điện thoại </tspan>
+                <tspan x="220" y="920">của bạn]</tspan>
+            </text>
+            <g id="bg_right" transform="translate(479.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F0F6FA" x="1" y="0" width="160" height="1545"></rect>
+                <line x1="1" y1="0" x2="1" y2="1545" id="Line" stroke="#DADFE7" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>
