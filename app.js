@@ -127,6 +127,7 @@ app.get('/tangtoccamp', function (req, res) {
 });
 app.get('/tangtoc%', function (req, res) {
     res.sendFile(__dirname + '/public/tangtoc.html');
+});
 app.get('/tangtoc', function (req, res) {
     res.sendFile(__dirname + '/public/tangtoc.html');
 });
