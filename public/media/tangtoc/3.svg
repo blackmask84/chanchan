@@ -2,26 +2,25 @@
 <svg width="320px" height="299px" viewBox="0 0 320 299" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>3</title>
     <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="open-letter" transform="translate(-160.000000, -3008.000000)">
-            <g id="2" transform="translate(195.000000, 3076.000000)">
-                <text id="Chanchan" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
-                    <tspan x="0" y="23">Chanchan</tspan>
-                </text>
-                <text id="COGO-Coworking-Space" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="22" fill="#121721">
-                    <tspan x="2" y="69">COGO Coworking Space</tspan>
-                </text>
-                <text id="Admin@chanchan.vn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="22" fill="#121721">
-                    <tspan x="2" y="134">Admin@chanchan.vn</tspan>
-                </text>
-                <text id="090-810-3357" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="15" font-weight="300" line-spacing="22" fill="#556279">
-                    <tspan x="2" y="159">090 810 3357</tspan>
-                </text>
-                <text id="Số-1-Thái-Hà,-Đống-Đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="15" font-weight="300" line-spacing="22" fill="#556279">
-                    <tspan x="2" y="94">Số 1 Thái Hà, Đống Đa, Hà nội</tspan>
-                </text>
-            </g>
-            <g id="bg_right" transform="translate(479.000000, 0.000000)" stroke="#DADFE7" stroke-linecap="square" stroke-width="0.5">
-                <line x1="1" y1="0" x2="1" y2="3307" id="Line"></line>
+        <g id="tangtoc" transform="translate(-240.000000, -3008.000000)">
+            <g id="txt" transform="translate(240.000000, 0.000000)">
+                <g id="2" transform="translate(35.000000, 3076.000000)">
+                    <text id="Chanchan" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
+                        <tspan x="0" y="23">Chanchan</tspan>
+                    </text>
+                    <text id="COGO-Coworking-Space" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="22" fill="#121721">
+                        <tspan x="2" y="69">COGO Coworking Space</tspan>
+                    </text>
+                    <text id="Admin@chanchan.vn" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="16" font-weight="500" line-spacing="22" fill="#121721">
+                        <tspan x="2" y="134">Admin@chanchan.vn</tspan>
+                    </text>
+                    <text id="090-810-3357" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="15" font-weight="300" line-spacing="22" fill="#556279">
+                        <tspan x="2" y="159">090 810 3357</tspan>
+                    </text>
+                    <text id="Số-1-Thái-Hà,-Đống-Đ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="15" font-weight="300" line-spacing="22" fill="#556279">
+                        <tspan x="2" y="94">Số 1 Thái Hà, Đống Đa, Hà nội</tspan>
+                    </text>
+                </g>
             </g>
         </g>
     </g>

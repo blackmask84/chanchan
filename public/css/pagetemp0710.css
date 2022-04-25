@@ -45,6 +45,7 @@ table{border-collapse:collapse;border-spacing:0}
 }
 .fullHeight {
     height: 100%;
+    margin-top: -0.12%;
 }
 .videoIn {
     padding-top: 6.5%;
@@ -52,9 +53,9 @@ table{border-collapse:collapse;border-spacing:0}
     width:90%;
 }
 .videoinPC {
-    padding-top: 3.6%;
-    margin-left: 28%;
-    width:44.4%;
+    padding-top: 2%;
+    margin-left: 32%;
+    width:36.4%;
 }
 .single-video-wrap #video-injector {
     position: absolute;
