@@ -53,6 +53,12 @@ app.get('/tangtoc', function (req, res) {
 app.get('/tangtocdk', function (req, res) {
     res.sendFile(__dirname + '/public/tangtocdk.html');
 });
+app.get('/hengiaumat', function (req, res) {
+    res.sendFile(__dirname + '/public/tangtoc.html');
+});
+app.get('/hengiaumat%', function (req, res) {
+    res.sendFile(__dirname + '/public/tangtoc.html');
+});
 
 // get form
 app.get('/believe', function (req, res) {
