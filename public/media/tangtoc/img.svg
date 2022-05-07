@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="699px" height="332px" viewBox="0 0 699 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img</title>
+    <g id="img" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#B9C0CF" x="0" y="0" width="699" height="332"></rect>
+        <line x1="1.44328993e-15" y1="9.99200722e-16" x2="700" y2="332" id="Line" stroke="#E02020" stroke-linecap="square"></line>
+        <line x1="-0.5" y1="332.5" x2="700.5" y2="0.5" id="Line" stroke="#E02020" stroke-linecap="square"></line>
+    </g>
+</svg>
