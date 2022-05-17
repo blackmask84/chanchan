@@ -10,7 +10,7 @@
 @font-face{font-family:'GMV DIN Cond';src:url(webfont/GMV-Cond/GMVDINPro-CondBold.woff2) format("woff2");font-weight:bold;font-style:condensed}
 
 /* Reset Common */
-body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:0;padding:0}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,table,th,td,form,fieldset,legend,textarea,input,select,textarea,button,article,aside,dialog,footer,header,section,footer,nav,figure,main{margin:-0.12%;padding:0}
 article,aside,dialog,footer,header,section,footer,nav,figure,main{display:block}
 html,body{height:100%}
 body{-webkit-text-size-adjust:none}
@@ -69,7 +69,7 @@ table{border-collapse:collapse;border-spacing:0}
 .single-video-wrap #video-injector {
     position: absolute;
     width: 100%;
-    top: -0.12%;
+    top: 0;
     left: 0;
     transition: 0.2s all ease-in-out;
     z-index: 0;
@@ -89,12 +89,6 @@ table{border-collapse:collapse;border-spacing:0}
     bottom: 0;
     right: 0;
     width: 15%;
-}
-.video-sound-hongvan {
-    position: absolute;
-    bottom: 8vw;
-    right: 8vw;
-    width: 12%;
 }
 .video-wrap #on {
     display: none;
