@@ -66,15 +66,10 @@ table{border-collapse:collapse;border-spacing:0}
     margin-left: 5%;
     width:90%;
 }
-.videoinPC {
-    padding-top: 2%;
-    margin-left: 32%;
-    width:36.4%;
-}
 .single-video-wrap #video-injector {
     position: absolute;
     width: 100%;
-    top: 0;
+    top: -0.12%;
     left: 0;
     transition: 0.2s all ease-in-out;
     z-index: 0;
