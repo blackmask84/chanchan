@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="492px" viewBox="0 0 320 492" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vid</title>
+    <defs>
+        <pattern id="pattern-1" width="3.2" height="3.2" x="1.8" y="1.8" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.1,0.1)"></use>
+        </pattern>
+        <image id="image-2" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGN5fIAKQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACPTkDJAAAApklEQVRYCWP8//8/M8MAAiZK7NYzsrMBYUrMoMgBlFgM08s4pKMA5gtKaIqiYDQNUBL0ML0URQHMEEpoihygrmP+B4QHzAGUWAzTS1EIwAyhhB51wICHALgugNVol84dOgKKT3Q+uSn95pWTLNjMQzZ/cIQAuakYFjIwn5JjzoCHwKgDRkNgtE1IURoYbROSU/Kh66EoCtANI4dPkQNG0wA5QY6uBwAaBjoVGOsL4QAAAABJRU5ErkJggg=="></image>
+    </defs>
+    <g id="Chanchan-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tangtoc" transform="translate(-240.000000, -1006.000000)">
+            <g id="bg_right" transform="translate(559.500000, 0.000000)"></g>
+            <g id="txt" transform="translate(240.000000, 0.000000)" fill-rule="nonzero">
+                <g id="vid" transform="translate(0.000000, 1006.000000)">
+                    <rect id="path-2" fill-opacity="0.2" fill="url(#pattern-1)" x="5" y="5" width="310" height="482"></rect>
+                    <path d="M320,0 L320,492 L0,492 L0,0 L320,0 Z M291,24 L29,24 C24.0294373,24 20,28.0294373 20,33 L20,33 L20,459 C20,463.970563 24.0294373,468 29,468 L29,468 L291,468 C295.970563,468 300,463.970563 300,459 L300,459 L300,33 C300,28.0294373 295.970563,24 291,24 L291,24 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

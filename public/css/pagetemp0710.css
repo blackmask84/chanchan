@@ -27,8 +27,22 @@ table{border-collapse:collapse;border-spacing:0}
 .sr_only,legend{overflow:hidden;position:absolute;top:0;left:0;width:1px;height:1px;font-size:1px;line-height:100px;white-space:nowrap}
 
 /* page temp */
+.wrap_bg {
+    position: relative;
+    z-index: -1;
+    background-image: url(./background.svg);
+    background-repeat: repeat;
+}
+.wrapPC {
+    position: relative;
+    width: 30%;
+    margin-left: 35%;
+    
+}
 .page_temp {
     position: relative;
+    width: 100%;
+    
 }
 .page_temp .bg {
     position: absolute;
@@ -102,6 +116,7 @@ table{border-collapse:collapse;border-spacing:0}
 /* single image */
 .single-img-with-cover {
     position: relative;
+    z-index: 0;
     width: 100%;
 }
 .single-img-with-cover .single-image {

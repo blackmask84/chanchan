@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="355px" viewBox="0 0 320 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="355"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle"></g>
+            <text id="—-Chanchan-là-sản-ph" mask="url(#mask-2)" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#121721">
+                <tspan x="35" y="209">—</tspan>
+                <tspan x="35" y="232">Chanchan là sản phẩm </tspan>
+                <tspan x="35" y="255">mới đang trong giai đoạn </tspan>
+                <tspan x="35" y="278">ra mắt. Chúng tôi có chính </tspan>
+                <tspan x="35" y="301">sách Ưu tiên và Đảm bảo áp </tspan>
+                <tspan x="35" y="324">dụng với Thành viên đăng ký mới </tspan>
+                <tspan x="35" y="347">trong giai đoạn này</tspan>
+            </text>
+            <text id="Chính-sách-Thành" mask="url(#mask-2)" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
+                <tspan x="35" y="125">Chính sách</tspan>
+                <tspan x="35" y="155">Thành viên</tspan>
+            </text>
+            <g id="Group-2" mask="url(#mask-2)">
+                <g transform="translate(-5.000000, 0.000000)">
+                    <polygon id="Triangle" fill="#39B34C" transform="translate(16.850291, 262.600309) rotate(-22.000000) translate(-16.850291, -262.600309) " points="9.25002251 253.125945 28.6011056 248 28.700582 275.591883 5 277.200618"></polygon>
+                    <polygon id="Rectangle" fill="#03AEEE" transform="translate(8.839352, 120.512046) rotate(77.000000) translate(-8.839352, -120.512046) " points="-4.16064841 115.512046 21.8393516 116.707427 21.1866345 124.316665 -4.16064841 125.512046"></polygon>
+                    <polygon id="Triangle" fill="#F15C25" transform="translate(280.962873, 17.629463) rotate(56.000000) translate(-280.962873, -17.629463) " points="276.462873 11.1294628 285.462873 21.1581644 276.715664 24.1294628"></polygon>
+                    <polygon id="Triangle" fill="#F15C25" transform="translate(244.419100, 260.331751) rotate(-41.000000) translate(-244.419100, -260.331751) " points="242.105646 249.043628 254.691312 269.814504 234.146888 271.619875"></polygon>
+                    <path d="M4,3 C15.1901452,9.34988998 28.8167443,9.67375689 40.295923,3.86265458 L42,3 L42,3 L42,14.2879316 L41.407168,14.5851392 C29.6135916,20.4976758 15.6981409,20.3871147 4,14.2879316 L4,14.2879316 L4,14.2879316 L4,3 Z" id="Rectangle" fill="#FCBB65" transform="translate(23.000000, 13.500000) rotate(9.000000) translate(-23.000000, -13.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
