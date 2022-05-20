@@ -103,7 +103,7 @@
         <text id="—-Chương-trình-đượ" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
             <tspan x="35" y="1493">— </tspan>
             <tspan x="35" y="1517">Chương trình được vận hành trên </tspan>
-            <tspan x="35" y="1541">nền tảng Chatbot Chanchan.</tspan>
+            <tspan x="35" y="1541">nền tảng chatbot Chanchan.</tspan>
         </text>
         <g id="Group" transform="translate(35.000000, 1590.000000)">
             <rect id="Rectangle" fill="url(#linearGradient-2)" opacity="0.08" x="0" y="0" width="250" height="198" rx="20"></rect>
