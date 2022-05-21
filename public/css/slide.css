@@ -22,7 +22,7 @@ table{border-collapse:collapse;border-spacing:0}
     border-radius: 1.64vw;
     box-shadow: -2vw 2vw 6vw rgba(0, 0, 0, 0.2);
 }
-.box_overlay,
+
 .box_avatar {
     position: absolute;
     top: 0;
@@ -37,8 +37,7 @@ table{border-collapse:collapse;border-spacing:0}
 .box_avatar {
     z-index: -2;
 }
-.box_avatar .slideImageOrigin,
-.box_overlay img,
+
 .box_avatar video {
     width: 100%;
 }
@@ -92,7 +91,7 @@ table{border-collapse:collapse;border-spacing:0}
     z-index: -1;
     width: 72.916vw;
 }
-.slidertemp_bg .bg_avatar img,
+
 .slidertemp_overlaybg .bg_overlay img {
     width: 100%;
 }
@@ -141,7 +140,7 @@ table{border-collapse:collapse;border-spacing:0}
     z-index: -1;
     width: 100vw;
 }
-.slideImage_bg .bg_avatar img,
+
 .slideImage_overlaybg .bg_overlay img {
     width: 100%;
 }

@@ -17,6 +17,7 @@ app.use(express.static(__dirname + '/public')); //Serves resources from public f
 app.get('/', function (req, res) {
     res.sendFile(__dirname + '/public/index.html');
 });
+/*cũ trước ngày 19.05.22*/
 app.get('/trialm%', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
 });
@@ -53,6 +54,8 @@ app.get('/tangtoc', function (req, res) {
 app.get('/tangtocdk', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
 });
+
+/* Đang chạy từ ngày 19.05.22 */
 app.get('/hengiaumat', function (req, res) {
     res.sendFile(__dirname + '/public/hengiaumat.html');
 });
@@ -64,6 +67,9 @@ app.get('/dangky', function (req, res) {
 });
 app.get('/dangky%', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
+});
+app.get('/tangtoc', function (req, res) {
+    res.sendFile(__dirname + '/public/tangtoc.html');
 });
 
 var server = app.listen(8888, function(){
