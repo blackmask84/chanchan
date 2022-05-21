@@ -68,9 +68,6 @@ app.get('/dangky', function (req, res) {
 app.get('/dangky%', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
 });
-app.get('/tangtoc', function (req, res) {
-    res.sendFile(__dirname + '/public/tangtoc.html');
-});
 
 var server = app.listen(8888, function(){
     var port = server.address().port;
