@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="568px" viewBox="0 0 320 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <defs>
+        <linearGradient x1="153.020636%" y1="35.9476421%" x2="36.1086925%" y2="54.3705104%" id="linearGradient-1">
+            <stop stop-color="#D500F9" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-13.0%" y="-44.1%" width="126.1%" height="188.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="153.020636%" y1="38.1060843%" x2="36.1086925%" y2="53.6992%" id="linearGradient-3">
+            <stop stop-color="#D500F9" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gioithieu" transform="translate(0.000000, -1063.000000)">
+            <g id="Group-5" transform="translate(-19.000000, 1062.000000)">
+                <g id="Group-2">
+                    <polygon id="Triangle" fill="#39B34C" transform="translate(26.850291, 319.600309) rotate(-22.000000) translate(-26.850291, -319.600309) " points="19.2500225 310.125945 38.6011056 305 38.700582 332.591883 15 334.200618"></polygon>
+                    <polygon id="Rectangle" fill="#03AEEE" transform="translate(26.839352, 177.512046) rotate(77.000000) translate(-26.839352, -177.512046) " points="13.8393516 172.512046 39.8393516 173.707427 39.1866345 181.316665 13.8393516 182.512046"></polygon>
+                    <polygon id="Triangle" fill="#F15C25" transform="translate(279.962873, 74.629463) rotate(56.000000) translate(-279.962873, -74.629463) " points="275.462873 68.1294628 284.462873 78.1581644 275.715664 81.1294628"></polygon>
+                    <polygon id="Triangle" fill="#F15C25" transform="translate(243.419100, 317.331751) rotate(-41.000000) translate(-243.419100, -317.331751) " points="241.105646 306.043628 253.691312 326.814504 233.146888 328.619875"></polygon>
+                    <polygon id="Rectangle" fill="#03AEEE" transform="translate(210.034661, 423.900655) rotate(17.000000) translate(-210.034661, -423.900655) " points="198.388475 419.400655 221.680846 420.476498 221.096103 427.324812 198.388475 428.400655"></polygon>
+                    <path d="M3,10 C14.1901452,16.34989 27.8167443,16.6737569 39.295923,10.8626546 L41,10 L41,10 L41,21.2879316 L40.407168,21.5851392 C28.6135916,27.4976758 14.6981409,27.3871147 3,21.2879316 L3,21.2879316 L3,21.2879316 L3,10 Z" id="Rectangle" fill="#FCBB65" transform="translate(22.000000, 20.500000) rotate(40.000000) translate(-22.000000, -20.500000) "></path>
+                </g>
+                <text id="—-Như-bất-kỳ-Sản-phẩ" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
+                    <tspan x="54" y="72">—</tspan>
+                    <tspan x="54" y="96">Như bất kỳ Sản phẩm mới nào, </tspan>
+                    <tspan x="54" y="120">sự thành công luôn cần bắt </tspan>
+                    <tspan x="54" y="144">đầu từ lớp người dùng đầu </tspan>
+                    <tspan x="54" y="168">tiên. Chúng tôi mong qua </tspan>
+                    <tspan x="54" y="192">những chia sẻ trên sẽ </tspan>
+                    <tspan x="54" y="216">nhận được sự đồng </tspan>
+                    <tspan x="54" y="240">hành, ủng hộ cũng như</tspan>
+                    <tspan x="54" y="264">những ý kiến đóng góp </tspan>
+                    <tspan x="54" y="288">của bạn. </tspan>
+                </text>
+                <text id="Lời-kết" font-family="GMVDINPro-CondBold, GMV DIN Cond" font-size="22" font-style="condensed" font-weight="bold" fill="#121721">
+                    <tspan x="54" y="36">Lời kết</tspan>
+                </text>
+                <text id="Cảm-ơn-bạn-đã-dành-t" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
+                    <tspan x="54" y="320">Cảm ơn bạn đã dành </tspan>
+                    <tspan x="54" y="344">thời gian! Sau đây hãy</tspan>
+                    <tspan x="54" y="368">tìm hiểu Chương trình mới</tspan>
+                    <tspan x="54" y="392">nhất của chúng tôi có tên “Hẹn</tspan>
+                    <tspan x="54" y="416">Giấu mặt”</tspan>
+                </text>
+                <rect id="Rectangle" fill-opacity="0.5" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="64" y="465" width="230" height="68" rx="10"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" x="54" y="457" width="250" height="68" rx="10"></rect>
+                <path d="M273,480 C279.075132,480 284,484.924868 284,491 C284,497.075132 279.075132,502 273,502 C266.924868,502 262,497.075132 262,491 C262,484.924868 266.924868,480 273,480 Z M274.028893,485.622222 C273.849635,485.622222 273.681804,485.697148 273.555807,485.833347 L273.155061,486.266992 C273.029163,486.403084 272.959805,486.584862 272.959805,486.77868 C272.959805,486.97239 273.029163,487.160296 273.155061,487.296388 L275.730053,490.088204 L267.549181,490.088204 C267.180332,490.088204 266.888889,490.400592 266.888889,490.79973 L266.888889,491.412788 C266.888889,491.811926 267.180332,492.15581 267.549181,492.15581 L275.759267,492.15581 L273.15516,494.963214 C273.029262,495.099521 272.959904,495.276354 272.959904,495.470172 C272.959904,495.663775 273.029262,495.843188 273.15516,495.979387 L273.555906,496.411635 C273.681904,496.547941 273.849734,496.622222 274.028992,496.622222 C274.208051,496.622222 274.375981,496.546974 274.501978,496.410667 L278.915853,491.63563 C279.042148,491.498893 279.111605,491.316363 279.111111,491.12233 C279.111506,490.927652 279.042148,490.745014 278.915753,490.608492 L274.501879,485.833347 C274.375882,485.69704 274.207952,485.622222 274.028893,485.622222 Z" id="Rectangle-2" fill="#FFFFFF" opacity="0.5"></path>
+                <text id="Hẹn-giấu-mặt" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#FFFFFF">
+                    <tspan x="129.83416" y="496">Hẹn giấu mặt</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

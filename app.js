@@ -14,9 +14,6 @@ app.use(cors());
 //setting middleware
 app.use(express.static(__dirname + '/public')); //Serves resources from public folder
 
-app.get('/', function (req, res) {
-    res.sendFile(__dirname + '/public/index.html');
-});
 /*cũ trước ngày 19.05.22*/
 app.get('/trialm%', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
@@ -55,7 +52,11 @@ app.get('/tangtocdk', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
 });
 
+
 /* Đang chạy từ ngày 19.05.22 */
+app.get('/', function (req, res) {
+    res.sendFile(__dirname + '/public/gioithieu.html');
+});
 app.get('/hengiaumat', function (req, res) {
     res.sendFile(__dirname + '/public/hengiaumat.html');
 });
