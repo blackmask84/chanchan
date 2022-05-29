@@ -72,6 +72,9 @@ app.get('/dangky%', function (req, res) {
 app.get('/gioithieu', function (req, res) {
     res.sendFile(__dirname + '/public/gioithieu.html');
 });
+app.get('/gioithieu%', function (req, res) {
+    res.sendFile(__dirname + '/public/gioithieu.html');
+});
 
 var server = app.listen(8888, function(){
     var port = server.address().port;
