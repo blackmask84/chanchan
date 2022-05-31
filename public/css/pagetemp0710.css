@@ -111,9 +111,9 @@ table{border-collapse:collapse;border-spacing:0}
 .single-img-with-cover .single-image {
     position: absolute;
     top: 0;
-    left: 0.2%;
+    left:0%;
     z-index: -1;
-    width: 100.2%;
+    width: 100%;
 }
 .single-img-with-cover .bg {
     position: absolute;

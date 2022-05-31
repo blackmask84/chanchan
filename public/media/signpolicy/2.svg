@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="224px" viewBox="0 0 320 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="signpolicy" transform="translate(0.000000, -1030.000000)">
+            <g id="Group-2" transform="translate(-15.000000, 1036.000000)">
+                <polygon id="Triangle" fill="#39B34C" transform="translate(16.850291, 94.600309) rotate(-22.000000) translate(-16.850291, -94.600309) " points="9.25002251 85.1259451 28.6011056 80 28.700582 107.591883 5 109.200618"></polygon>
+                <polygon id="Rectangle" fill="#03AEEE" transform="translate(130.000000, 87.000000) rotate(77.000000) translate(-130.000000, -87.000000) " points="117 82 143 83.1953809 142.347283 90.8046191 117 92"></polygon>
+                <polygon id="Triangle" fill="#F15C25" transform="translate(280.962873, 19.629463) rotate(56.000000) translate(-280.962873, -19.629463) " points="276.462873 13.1294628 285.462873 23.1581644 276.715664 26.1294628"></polygon>
+                <polygon id="Triangle" fill="#F15C25" transform="translate(93.664391, 181.987810) rotate(-41.000000) translate(-93.664391, -181.987810) " points="91.5761516 170.699687 102.936603 191.470563 84.3921789 193.275934"></polygon>
+                <path d="M11,3 C22.1901452,9.34988998 35.8167443,9.67375689 47.295923,3.86265458 L49,3 L49,3 L49,14.2879316 L48.407168,14.5851392 C36.6135916,20.4976758 22.6981409,20.3871147 11,14.2879316 L11,14.2879316 L11,14.2879316 L11,3 Z" id="Rectangle" fill="#FCBB65" transform="translate(30.000000, 13.500000) rotate(9.000000) translate(-30.000000, -13.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

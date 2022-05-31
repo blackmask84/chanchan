@@ -30,6 +30,9 @@ app.get('/matchguide%', function (req, res) {
 app.get('/remguide%', function (req, res) {
     res.sendFile(__dirname + '/public/rematch_guide.html');
 });
+app.get('/newsignpolicy', function (req, res) {
+    res.sendFile(__dirname + '/public/newsign_policy.html');
+});
 app.get('/newsignpolicy%', function (req, res) {
     res.sendFile(__dirname + '/public/newsign_policy.html');
 });
@@ -74,6 +77,18 @@ app.get('/gioithieu', function (req, res) {
 });
 app.get('/gioithieu%', function (req, res) {
     res.sendFile(__dirname + '/public/gioithieu.html');
+});
+app.get('/thanhtoan', function (req, res) {
+    res.sendFile(__dirname + '/public/thanhtoan.html');
+});
+app.get('/thanhtoan%', function (req, res) {
+    res.sendFile(__dirname + '/public/thanhtoan.html');
+});
+app.get('/signpolicy', function (req, res) {
+    res.sendFile(__dirname + '/public/signpolicy.html');
+});
+app.get('/signpolicy%', function (req, res) {
+    res.sendFile(__dirname + '/public/signpolicy.html');
 });
 
 var server = app.listen(8888, function(){
