@@ -2,7 +2,7 @@
 <svg width="320px" height="1030px" viewBox="0 0 320 1030" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
     <defs>
-        <rect id="path-1" x="0" y="-1.27897692e-13" width="320" height="210"></rect>
+        <rect id="path-1" x="0" y="-1.13686838e-13" width="240" height="210"></rect>
     </defs>
     <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group">
@@ -58,7 +58,7 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <g id="Rectangle" transform="translate(160.000000, 105.000000) scale(1, -1) translate(-160.000000, -105.000000) "></g>
+                <g id="Rectangle" transform="translate(120.000000, 105.000000) scale(1, -1) translate(-120.000000, -105.000000) "></g>
                 <path d="M20,69 C25.7612237,72.8452349 33.2194776,73.0372768 39.1709568,69.4936311 L40,69 L40,69 L40,75.9877672 L39.7106204,76.1584044 C33.6149167,79.7528327 26.0325599,79.6871913 20,75.9877672 L20,75.9877672 L20,75.9877672 L20,69 Z" id="Rectangle" fill="#FCBB65" mask="url(#mask-2)" transform="translate(30.000000, 75.500000) rotate(-150.000000) translate(-30.000000, -75.500000) "></path>
                 <polygon id="Triangle" fill="#F15C25" mask="url(#mask-2)" transform="translate(10.500000, 11.000000) rotate(-112.000000) translate(-10.500000, -11.000000) " points="9.26131868 5 16 16.0403874 5 17"></polygon>
                 <polygon id="Triangle" fill="#39B34C" mask="url(#mask-2)" transform="translate(233.325338, 130.413500) scale(-1, 1) rotate(-187.000000) translate(-233.325338, -130.413500) " points="228.51516 124.573262 240.76238 121.4135 240.825338 138.421835 225.825338 139.4135"></polygon>
