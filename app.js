@@ -96,6 +96,12 @@ app.get('/matchgui', function (req, res) {
 app.get('/matchgui%', function (req, res) {
     res.sendFile(__dirname + '/public/matchgui.html');
 });
+app.get('/dangky2', function (req, res) {
+    res.sendFile(__dirname + '/public/dangky2.html');
+});
+app.get('/dangky2%', function (req, res) {
+    res.sendFile(__dirname + '/public/dangky2.html');
+});
 
 var server = app.listen(8888, function(){
     var port = server.address().port;
