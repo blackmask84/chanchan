@@ -35,8 +35,8 @@
                     <tspan x="60" y="412">Bằng chuyển khoản đến một </tspan>
                     <tspan x="60" y="436">trong hai tài khoản</tspan>
                 </text>
-                <text id="Ví-dụ:-Tangtoc-09123" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#8C96A8">
-                    <tspan x="60" y="872">Ví dụ: Tangtoc 0912345678</tspan>
+                <text id="Ví-dụ:-Dangky-091234" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#8C96A8">
+                    <tspan x="60" y="872">Ví dụ: Dangky 0912345678</tspan>
                 </text>
                 <text id="VPBank" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" fill="#018446">
                     <tspan x="60" y="480">VPBank</tspan>

@@ -13,20 +13,20 @@
             <stop stop-color="#277AFF" offset="0%"></stop>
             <stop stop-color="#03A9F4" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="59.4072385%" y1="53.0208407%" x2="120.962995%" y2="40.8545156%" id="linearGradient-6">
-            <stop stop-color="#3D5AFE" offset="0%"></stop>
-            <stop stop-color="#00B0FF" offset="100%"></stop>
+        <linearGradient x1="153.020636%" y1="35.9476421%" x2="36.1086925%" y2="54.3705104%" id="linearGradient-6">
+            <stop stop-color="#D500F9" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
         </linearGradient>
         <filter x="-13.0%" y="-44.1%" width="126.1%" height="188.2%" filterUnits="objectBoundingBox" id="filter-7">
             <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
         </filter>
-        <linearGradient x1="59.4072385%" y1="52.5568396%" x2="120.962995%" y2="42.259262%" id="linearGradient-8">
-            <stop stop-color="#3D5AFE" offset="0%"></stop>
-            <stop stop-color="#00B0FF" offset="100%"></stop>
+        <linearGradient x1="153.020636%" y1="38.1060843%" x2="36.1086925%" y2="53.6992%" id="linearGradient-8">
+            <stop stop-color="#D500F9" offset="0%"></stop>
+            <stop stop-color="#651FFF" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="320" height="664"></rect>
+        <rect fill="#FFFFFF" x="0" y="0" width="320" height="664"></rect>
         <g id="Rectangle">
             <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
             <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
@@ -59,8 +59,8 @@
             </text>
             <text id="Kết-nối-thành-công-l" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#556279">
                 <tspan x="35" y="100">Kết nối thành công là khi bạn </tspan>
-                <tspan x="35" y="124">và đối phương cả hai đồng ý </tspan>
-                <tspan x="35" y="148">hẹn hò, gặp gỡ</tspan>
+                <tspan x="35" y="124">và đối phương cả hai cùng </tspan>
+                <tspan x="35" y="148">quyết định hẹn hò</tspan>
             </text>
         </g>
         <g id="Group-8" transform="translate(35.000000, 92.000000)">
