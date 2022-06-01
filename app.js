@@ -31,10 +31,10 @@ app.get('/remguide%', function (req, res) {
     res.sendFile(__dirname + '/public/rematch_guide.html');
 });
 app.get('/newsignpolicy', function (req, res) {
-    res.sendFile(__dirname + '/public/newsign_policy.html');
+    res.sendFile(__dirname + '/public/signpolicy.html');
 });
 app.get('/newsignpolicy%', function (req, res) {
-    res.sendFile(__dirname + '/public/newsign_policy.html');
+    res.sendFile(__dirname + '/public/signpolicy.html');
 });
 app.get('/paidset%', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
@@ -89,6 +89,12 @@ app.get('/signpolicy', function (req, res) {
 });
 app.get('/signpolicy%', function (req, res) {
     res.sendFile(__dirname + '/public/signpolicy.html');
+});
+app.get('/matchgui', function (req, res) {
+    res.sendFile(__dirname + '/public/matchgui.html');
+});
+app.get('/matchgui%', function (req, res) {
+    res.sendFile(__dirname + '/public/matchgui.html');
 });
 
 var server = app.listen(8888, function(){
