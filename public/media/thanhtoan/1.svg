@@ -72,8 +72,8 @@
                 <text id="Nội-dung-chuyển-khoả" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
                     <tspan x="60" y="778">Nội dung chuyển khoản</tspan>
                 </text>
-                <text id="Tangtoc-[Số-điện-tho" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
-                    <tspan x="60" y="814">Tangtoc [Số điện thoại </tspan>
+                <text id="Dangky-[Số-điện-thoạ" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="20" font-weight="500" letter-spacing="-0.8" fill="#121721">
+                    <tspan x="60" y="814">Dangky [Số điện thoại </tspan>
                     <tspan x="60" y="838">của bạn]</tspan>
                 </text>
             </g>
