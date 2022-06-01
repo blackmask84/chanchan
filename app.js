@@ -25,7 +25,7 @@ app.get('/openletter%', function (req, res) {
     res.sendFile(__dirname + '/public/dangky.html');
 });
 app.get('/matchguide%', function (req, res) {
-    res.sendFile(__dirname + '/public/match_guide.html');
+    res.sendFile(__dirname + '/public/matchgui.html');
 });
 app.get('/remguide%', function (req, res) {
     res.sendFile(__dirname + '/public/rematch_guide.html');
