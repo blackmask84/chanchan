@@ -77,8 +77,8 @@
             <rect id="Rectangle" fill-opacity="0.5" fill="url(#linearGradient-6)" filter="url(#filter-7)" x="10" y="8" width="230" height="68" rx="10"></rect>
             <rect id="Rectangle" fill="url(#linearGradient-8)" x="0" y="0" width="250" height="68" rx="10"></rect>
             <path d="M219,23 C212.92525,23 208,27.5595 208,33.184625 C208,36.38975 209.599125,39.248375 212.098875,41.115625 L212.098875,45 L215.844375,42.944375 C216.844,43.22075 217.90275,43.370625 219,43.370625 C225.07475,43.370625 230,38.811125 230,33.186 C230,27.560875 225.07475,23 219,23 Z M220.093125,36.715625 L217.29225,33.72775 L211.826625,36.715625 L217.8395,30.332875 L220.709125,33.32075 L226.106,30.332875 L220.093125,36.715625 Z" id="Shape" fill="#FFFFFF"></path>
-            <text id="Đăng-ký" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#FFFFFF">
-                <tspan x="94.7851367" y="39">Đăng ký</tspan>
+            <text id="Đăng-ký" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#FFFFFF">
+                <tspan x="94.7851367" y="39">Đăng ký</tspan>
             </text>
         </g>
         <text id="Nếu-bạn-có-băn-kh" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#5D6A80">
@@ -87,8 +87,8 @@
         </text>
         <g id="Group-4" transform="translate(35.000000, 581.000000)">
             <rect id="Rectangle" stroke="#DADFE7" fill="#F0F6FA" x="0" y="0" width="250" height="59" rx="10"></rect>
-            <text id="Hỏi-thêm" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#5D6A80">
-                <tspan x="91.6505078" y="35">Hỏi thêm</tspan>
+            <text id="Hỏi-thêm" opacity="0.9" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#5D6A80">
+                <tspan x="91.6505078" y="35">Hỏi thêm</tspan>
             </text>
             <path d="M219,18 C212.92525,18 208,22.5595 208,28.184625 C208,31.38975 209.599125,34.248375 212.098875,36.115625 L212.098875,40 L215.844375,37.944375 C216.844,38.22075 217.90275,38.370625 219,38.370625 C225.07475,38.370625 230,33.811125 230,28.186 C230,22.560875 225.07475,18 219,18 Z M220.093125,31.715625 L217.29225,28.72775 L211.826625,31.715625 L217.8395,25.332875 L220.709125,28.32075 L226.106,25.332875 L220.093125,31.715625 Z" id="Shape" fill="#8C96A8"></path>
         </g>
