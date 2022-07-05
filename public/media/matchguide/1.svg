@@ -2,66 +2,35 @@
 <svg width="320px" height="2204px" viewBox="0 0 320 2204" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>1</title>
     <defs>
-        <linearGradient x1="40.5488707%" y1="64.9266776%" x2="106.90084%" y2="-106.23949%" id="linearGradient-1">
-            <stop stop-color="#0A0E36" offset="0%"></stop>
-            <stop stop-color="#FFA11E" offset="100%"></stop>
-        </linearGradient>
-        <text id="text-2" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#FFF5D7">
-            <tspan x="35" y="145">Hẹn Giấu Mặt!</tspan>
-        </text>
-        <filter x="-2.6%" y="-21.7%" width="105.2%" height="146.7%" filterUnits="objectBoundingBox" id="filter-3">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <text id="text-4" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#FFF5D7">
-            <tspan x="35" y="199">“</tspan>
-        </text>
-        <filter x="-2.6%" y="-25.0%" width="105.2%" height="150.0%" filterUnits="objectBoundingBox" id="filter-5">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <text id="text-6" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#FFF5D7">
-            <tspan x="35" y="325">Người mà bạn có thể nói thật. </tspan>
-            <tspan x="35" y="349">Người mà bạn có thể tin tưởng. Có </tspan>
-            <tspan x="35" y="373">thể hiện diện trước họ với đầy đủ </tspan>
-            <tspan x="35" y="397">ưu điểm và hạn chế của mình?</tspan>
-        </text>
-        <filter x="-2.6%" y="-5.7%" width="105.2%" height="113.5%" filterUnits="objectBoundingBox" id="filter-7">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <text id="text-8" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#FFF5D7">
-            <tspan x="35" y="213">Giấu mặt để có thể nói những điều </tspan>
-            <tspan x="35" y="237">thật lòng. Để hiểu về nhau rõ ràng </tspan>
-            <tspan x="35" y="261">hơn. Để cảm nhận đối phương có </tspan>
-            <tspan x="35" y="285">phải là người ấy? </tspan>
-        </text>
-        <filter x="-2.6%" y="-5.7%" width="105.2%" height="113.5%" filterUnits="objectBoundingBox" id="filter-9">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="15.9216801%" y1="115.606219%" x2="127.7877%" y2="-129.698731%" id="linearGradient-10">
+        <linearGradient x1="15.9216801%" y1="115.606219%" x2="127.7877%" y2="-129.698731%" id="linearGradient-1">
             <stop stop-color="#F50057" offset="0%"></stop>
             <stop stop-color="#651FFF" offset="100%"></stop>
         </linearGradient>
+        <rect id="path-2" x="0" y="-1.27897692e-13" width="320" height="210"></rect>
     </defs>
     <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="320" height="2204"></rect>
-        <polygon id="Rectangle" fill="url(#linearGradient-1)" points="6.9047592e-14 0 320 0 320 466 0 466"></polygon>
-        <path d="M362.525,135 C393.715281,135 419,160.284719 419,191.475 L419,191.525 C419,222.715281 393.715281,248 362.525,248 L249.475,248 C218.284719,248 193,222.715281 193,191.525 L193,191.475 C193,160.284719 218.284719,135 249.475,135 L362.525,135 Z M355.39379,177.018592 C347.519861,177.018592 341.136781,183.398602 341.136781,191.268743 C341.136781,199.138884 347.519861,205.518894 355.39379,205.518894 C363.267719,205.518894 369.6508,199.138884 369.6508,191.268743 C369.6508,183.398602 363.267719,177.018592 355.39379,177.018592 Z M305.34758,177.018592 C297.473652,177.018592 291.090571,183.398602 291.090571,191.268743 C291.090571,199.138884 297.473652,205.518894 305.34758,205.518894 C313.221509,205.518894 319.60459,199.138884 319.60459,191.268743 C319.60459,183.398602 313.221509,177.018592 305.34758,177.018592 Z M255.301371,177.018592 C247.427442,177.018592 241.044361,183.398602 241.044361,191.268743 C241.044361,199.138884 247.427442,205.518894 255.301371,205.518894 C263.1753,205.518894 269.55838,199.138884 269.55838,191.268743 C269.55838,183.398602 263.1753,177.018592 255.301371,177.018592 Z" id="Rectangle-3" fill="#FFA722" opacity="0.202520972" transform="translate(306.000000, 191.500000) scale(-1, 1) translate(-306.000000, -191.500000) "></path>
-        <path d="M249.525,60 C280.715281,60 306,85.2847188 306,116.475 L306,116.525 C306,147.715281 280.715281,173 249.525,173 L93,173 C85.8202983,173 80,167.179702 80,160 L80,116.475 C80,85.2847188 105.284719,60 136.475,60 L249.525,60 Z M142.301371,102.018592 C134.427442,102.018592 128.044361,108.398602 128.044361,116.268743 C128.044361,124.138884 134.427442,130.518894 142.301371,130.518894 C150.1753,130.518894 156.55838,124.138884 156.55838,116.268743 C156.55838,108.398602 150.1753,102.018592 142.301371,102.018592 Z M192.34758,94.0146082 C184.473652,94.0146082 178.090571,100.394618 178.090571,108.264759 C178.090571,116.1349 184.473652,122.514909 192.34758,122.514909 C200.221509,122.514909 206.60459,116.1349 206.60459,108.264759 C206.60459,100.394618 200.221509,94.0146082 192.34758,94.0146082 Z M242.39379,93.0137229 C234.519861,93.0137229 228.136781,99.3937326 228.136781,107.263874 C228.136781,115.134014 234.519861,121.514024 242.39379,121.514024 C250.267719,121.514024 256.6508,115.134014 256.6508,107.263874 C256.6508,99.3937326 250.267719,93.0137229 242.39379,93.0137229 Z" id="Rectangle-3" fill="#191C3E"></path>
-        <g id="Hẹn-Giấu-Mặt!" opacity="0.80321" fill="#FFF5D7" fill-opacity="1">
-            <use filter="url(#filter-3)" xlink:href="#text-2"></use>
-            <use xlink:href="#text-2"></use>
-        </g>
-        <g id="“" opacity="0.80321" fill="#FFF5D7" fill-opacity="1">
-            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
-            <use xlink:href="#text-4"></use>
-        </g>
+        <text id="Hẹn" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="50" font-style="condensed" font-weight="800" fill="#121721">
+            <tspan x="35" y="179">Hẹn</tspan>
+        </text>
+        <text id="Giấu-Mặt!" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
+            <tspan x="34" y="229">Giấu Mặt!</tspan>
+        </text>
+        <text id="“" font-family="GMVDINPro-CondBlack, GMV DIN Cond" font-size="30" font-style="condensed" font-weight="800" fill="#121721">
+            <tspan x="34" y="279">“</tspan>
+        </text>
+        <text id="Người-mà-bạn-có-thể" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
+            <tspan x="34" y="405">Người mà bạn có thể nói thật. </tspan>
+            <tspan x="34" y="429">Người mà bạn có thể tin tưởng. Có </tspan>
+            <tspan x="34" y="453">thể hiện diện trước họ với đầy đủ </tspan>
+            <tspan x="34" y="477">ưu điểm và hạn chế của mình?</tspan>
+        </text>
+        <text id="Giấu-mặt-để-có-thể-n" font-family="SFCompactText-LightItalic, SF Compact Text" font-size="16" font-style="italic" font-weight="300" line-spacing="24" fill="#121721">
+            <tspan x="34" y="293">Giấu mặt để có thể nói những điều </tspan>
+            <tspan x="34" y="317">thật lòng. Để hiểu về nhau rõ ràng </tspan>
+            <tspan x="34" y="341">hơn. Để cảm nhận đối phương có </tspan>
+            <tspan x="34" y="365">phải là người ấy? </tspan>
+        </text>
         <text id="—-Sau-khi-bạn-và-đối" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
             <tspan x="35" y="591">— </tspan>
             <tspan x="35" y="615">Sau khi bạn và đối phương xác nhận </tspan>
@@ -103,14 +72,6 @@
         <text id="Nếu-thất-bại" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="18" font-weight="500" letter-spacing="-0.72" fill="#1E2432">
             <tspan x="35" y="1134">Nếu thất bại</tspan>
         </text>
-        <g id="Người-mà-bạn-có-thể" opacity="0.80321" fill="#FFF5D7" fill-opacity="1">
-            <use filter="url(#filter-7)" xlink:href="#text-6"></use>
-            <use xlink:href="#text-6"></use>
-        </g>
-        <g id="Giấu-mặt-để-có-thể-n" opacity="0.80321" fill="#FFF5D7" fill-opacity="1">
-            <use filter="url(#filter-9)" xlink:href="#text-8"></use>
-            <use xlink:href="#text-8"></use>
-        </g>
         <text id="Chừng-nào-cả-hai-bạn" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="24" fill="#121721">
             <tspan x="35" y="1225">Chừng nào cả hai bạn còn dành cho </tspan>
             <tspan x="35" y="1249">nhau cơ hội chừng đó Chanchan còn </tspan>
@@ -132,7 +93,7 @@
             <tspan x="34" y="1555">Ẩn danh và </tspan>
             <tspan x="34" y="1576">Giấu mặt!</tspan>
         </text>
-        <rect id="Rectangle" fill="url(#linearGradient-10)" x="34" y="1756" width="250" height="316" rx="16"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="34" y="1756" width="250" height="316" rx="16"></rect>
         <text id="Nếu-đối-phương-hỏi-h" font-family="SFCompactDisplay-Light, SF Compact Display" font-size="16" font-weight="300" line-spacing="23" fill="#FFFFFF">
             <tspan x="69" y="1855">Nếu đối phương hỏi hoặc </tspan>
             <tspan x="69" y="1878">chia sẻ với bạn thông tin </tspan>
@@ -159,5 +120,18 @@
             <tspan x="35" y="1465">Kết nối của hai bạn được vận hành </tspan>
             <tspan x="35" y="1489">bởi chatbot Chanchan</tspan>
         </text>
+        <g id="Group-3">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="Rectangle" transform="translate(160.000000, 105.000000) scale(1, -1) translate(-160.000000, -105.000000) "></g>
+            <path d="M20,69 C25.7612237,72.8452349 33.2194776,73.0372768 39.1709568,69.4936311 L40,69 L40,69 L40,75.9877672 L39.7106204,76.1584044 C33.6149167,79.7528327 26.0325599,79.6871913 20,75.9877672 L20,75.9877672 L20,75.9877672 L20,69 Z" id="Rectangle" fill="#FCBB65" mask="url(#mask-3)" transform="translate(30.000000, 75.500000) rotate(-150.000000) translate(-30.000000, -75.500000) "></path>
+            <polygon id="Triangle" fill="#F15C25" mask="url(#mask-3)" transform="translate(10.500000, 11.000000) rotate(-112.000000) translate(-10.500000, -11.000000) " points="9.26131868 5 16 16.0403874 5 17"></polygon>
+            <polygon id="Triangle" fill="#39B34C" mask="url(#mask-3)" transform="translate(233.325338, 130.413500) scale(-1, 1) rotate(-187.000000) translate(-233.325338, -130.413500) " points="228.51516 124.573262 240.76238 121.4135 240.825338 138.421835 225.825338 139.4135"></polygon>
+            <polygon id="Triangle" fill="#06E2D2" mask="url(#mask-3)" transform="translate(160.450027, 11.719939) rotate(-123.000000) translate(-160.450027, -11.719939) " points="155.608425 0.219939113 165.213512 1.99195443 165.291629 23.2199391 157.327142 18.0477406"></polygon>
+            <polygon id="Triangle" fill="#39B34C" mask="url(#mask-3)" transform="translate(308.500000, 62.000000) scale(-1, 1) rotate(-218.000000) translate(-308.500000, -62.000000) " points="303.689822 56.1597623 315.937042 53 316 70.0083351 301 71"></polygon>
+            <polygon id="Rectangle" fill="#912A8F" mask="url(#mask-3)" transform="translate(294.000000, 64.500000) rotate(78.000000) translate(-294.000000, -64.500000) " points="285 48 298.694127 49.7121927 303 74.0815184 285 81"></polygon>
+            <ellipse id="Oval" fill="#D7DE26" mask="url(#mask-3)" transform="translate(247.000000, 1.500000) rotate(-39.000000) translate(-247.000000, -1.500000) " cx="247" cy="1.5" rx="4" ry="6.5"></ellipse>
+        </g>
     </g>
 </svg>
